@@ -14,18 +14,23 @@ from collections import defaultdict
 HISTORY_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "history.csv")
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "site", "data.json")
 
-# The dashboard shows Regular Plan schemes only (Investing TFD, as an MFD,
-# only earns commission on Regular Plan - Direct Plan is irrelevant to its
-# clients). Direct Plan NAVs stay in history.csv at no extra fetch cost, in
-# case that scope ever changes, but are filtered out here at the display
-# layer.
+# The dashboard shows Regular Plan / Growth option schemes only:
+# - Regular Plan, because Investing TFD as an MFD only earns commission on
+#   Regular Plan - Direct Plan is irrelevant to its clients.
+# - Growth option only, per AJ's instruction - IDCW is excluded.
+# Everything else stays in history.csv at no extra fetch cost, in case scope
+# ever changes, but is filtered out here at the display layer.
 DISPLAY_PLAN = "Regular"
+
+
+def _is_growth(option: str) -> bool:
+    return "growth" in (option or "").lower()
 
 
 def build():
     with open(HISTORY_PATH, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    rows = [r for r in rows if r["plan"] == DISPLAY_PLAN]
+    rows = [r for r in rows if r["plan"] == DISPLAY_PLAN and _is_growth(r["option"])]
 
     schemes = {}
     for r in rows:

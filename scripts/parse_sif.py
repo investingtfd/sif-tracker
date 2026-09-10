@@ -52,7 +52,17 @@ def _parse_date(s: str):
 
 
 def parse_latest_nav(text: str) -> list[dict]:
-    """Parse the bulk 'Latest NAV' export into one row per scheme/plan/option."""
+    """Parse the bulk 'Latest NAV' export into one row per scheme/plan/option.
+
+    AMFI's actual live column layout (confirmed 10-Sep-2026) is:
+      Scheme Code;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Scheme Name;
+      Plan;Option;Net Asset Value;Date
+    i.e. it has explicit Plan/Option columns, same as the historical export -
+    the scheme name itself does NOT reliably say "Direct"/"Regular" in this
+    feed, so the old name-heuristic silently mislabeled everything as
+    Regular. Use the real columns; fall back to the heuristic only for the
+    handful of schemes AMFI ships with a blank Plan/Option column.
+    """
     lines = [ln.strip() for ln in text.splitlines()]
     # drop fully blank lines but keep an index so we can peek ahead
     non_blank = [ln for ln in lines if ln != ""]
@@ -80,6 +90,8 @@ def parse_latest_nav(text: str) -> list[dict]:
             isin_growth = parts[1] if parts[1] not in ("", "-") else None
             isin_reinvest = parts[2] if parts[2] not in ("", "-") else None
             name = parts[3]
+            plan_raw = parts[4] if len(parts) > 7 else ""
+            option_raw = parts[5] if len(parts) > 7 else ""
             nav_raw = parts[-2]
             date_raw = parts[-1]
             try:
@@ -87,13 +99,19 @@ def parse_latest_nav(text: str) -> list[dict]:
             except ValueError:
                 i += 1
                 continue
+            if nav <= 0:
+                # Same AMFI data artifact as the historical feed: a 0.0000
+                # placeholder for an option that hasn't declared a NAV yet.
+                i += 1
+                continue
+            plan_clean = re.sub(r"\s*plan$", "", plan_raw, flags=re.IGNORECASE).strip()
             rows.append({
                 "scheme_code": code,
                 "isin_growth": isin_growth,
                 "isin_reinvest": isin_reinvest,
                 "scheme_name": name,
-                "plan": _extract_plan(name),
-                "option": _extract_option(name),
+                "plan": plan_clean or _extract_plan(name),
+                "option": option_raw or _extract_option(name),
                 "nav": nav,
                 "date": _parse_date(date_raw),
                 "category": current_category,
