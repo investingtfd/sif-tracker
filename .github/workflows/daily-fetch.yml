@@ -43,7 +43,6 @@ jobs:
           # run (or a re-run of an earlier attempt) already pushed a commit
           # since this job checked out — avoids a stale non-fast-forward
           # rejection instead of just failing.
-          git pull --rebase origin main
           git push
 
       - name: Upload site folder for Pages
