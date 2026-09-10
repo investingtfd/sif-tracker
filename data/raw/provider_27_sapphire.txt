@@ -1,0 +1,374 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+Sapphire SIF
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1000.0000;29-Apr-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;997.5808;04-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;998.3543;05-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1011.1715;06-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1015.0655;07-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.7620;08-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;995.5646;11-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;977.1849;12-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;980.6736;13-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;991.2602;14-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;988.3820;15-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;985.2650;18-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;988.5561;19-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;991.9472;20-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;992.4973;21-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;992.3694;22-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1004.4547;25-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1003.2565;26-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1005.5917;27-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;991.7027;29-May-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;981.2883;01-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;984.9052;02-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;984.1660;03-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;986.5906;04-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;984.5275;05-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;971.9113;08-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;980.4789;09-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;973.7109;10-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;968.7248;11-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;989.1887;12-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;999.8883;15-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1002.3743;16-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1005.9742;17-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1011.2390;18-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1011.4084;19-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1016.4391;22-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1005.3505;23-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.0056;24-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1008.8986;25-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1005.4527;29-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1003.3225;30-Jun-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1005.8926;01-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1010.4821;02-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.8421;03-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1015.7306;06-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1010.5227;07-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;992.9225;08-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1000.5518;09-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1012.7154;10-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1011.7826;13-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1004.6707;14-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1006.5016;15-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1003.6202;16-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1006.6806;17-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1006.9229;20-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.2921;21-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;998.6547;22-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;992.6669;23-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;990.3560;24-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1000.7452;27-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;999.3982;28-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.2339;29-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.3320;30-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1014.0970;31-Jul-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1026.9940;03-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1024.0690;04-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1026.0500;05-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1026.7179;06-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1029.7034;07-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1027.9606;10-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1025.5751;11-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1026.9271;12-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1024.3682;13-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1021.2505;14-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1019.9589;17-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1015.9453;18-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1012.1867;19-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1016.5365;20-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1017.9781;21-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1017.3407;24-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1021.9588;25-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1021.5397;26-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1017.9116;27-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1020.5539;28-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1018.0210;31-Aug-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1013.4226;01-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1009.0745;02-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1011.9866;03-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1010.9485;04-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1006.2681;07-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;1004.6049;08-Sep-2026
+SIF-95;Sapphire Equity Long-Short SIF - Direct - Growth;Direct Plan;Growth;INF090I30048;;998.9930;09-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1000.0000;29-Apr-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;997.5808;04-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;998.3543;05-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1011.1715;06-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1015.0655;07-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.7620;08-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;995.5646;11-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;977.1849;12-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;980.6736;13-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;991.2602;14-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;988.3820;15-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;985.2650;18-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;988.5561;19-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;991.9472;20-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;992.4973;21-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;992.3694;22-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1004.4547;25-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1003.2565;26-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1005.5917;27-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;991.7027;29-May-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;981.2883;01-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;984.9052;02-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;984.1660;03-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;986.5906;04-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;984.5275;05-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;971.9113;08-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;980.4789;09-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;973.7109;10-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;968.7248;11-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;989.1887;12-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;999.8883;15-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1002.3743;16-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1005.9742;17-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1011.2390;18-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1011.4084;19-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1016.4391;22-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1005.3505;23-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.0056;24-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1008.8986;25-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1005.4527;29-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1003.3225;30-Jun-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1005.8926;01-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1010.4821;02-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.8421;03-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1015.7306;06-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1010.5227;07-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;992.9225;08-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1000.5518;09-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1012.7154;10-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1011.7826;13-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1004.6707;14-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1006.5016;15-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1003.6202;16-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1006.6806;17-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1006.9229;20-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.2921;21-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;998.6547;22-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;992.6669;23-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;990.3560;24-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1000.7452;27-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;999.3982;28-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.2339;29-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.3320;30-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1014.0970;31-Jul-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1026.9940;03-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1024.0690;04-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1026.0500;05-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1026.7179;06-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1029.7034;07-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1027.9606;10-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1025.5751;11-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1026.9271;12-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1024.3682;13-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1021.2505;14-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1019.9589;17-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1015.9453;18-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1012.1867;19-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1016.5365;20-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1017.9781;21-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1017.3407;24-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1021.9588;25-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1021.5397;26-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1017.9116;27-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1020.5539;28-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1018.0210;31-Aug-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1013.4226;01-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1009.0745;02-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1011.9866;03-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1010.9485;04-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1006.2681;07-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;1004.6049;08-Sep-2026
+SIF-94;Sapphire Equity Long-Short SIF - Direct- IDCW;Direct Plan;IDCW;INF090I30063;INF090I30055;998.9930;09-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1000.0000;29-Apr-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;997.3431;04-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;998.0688;05-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1010.8342;06-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1014.6786;07-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1009.3290;08-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;994.9955;11-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;976.5798;12-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;980.0197;13-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;990.5520;14-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;987.6288;15-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;984.3735;18-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;987.6146;19-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;990.9553;20-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;991.4575;21-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;991.2826;22-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1003.2113;25-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1001.9669;26-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1004.2513;27-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;990.2864;29-May-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;979.7473;01-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;983.3117;02-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;982.5269;03-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;984.9006;04-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;982.7942;05-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;970.0617;08-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;978.5663;09-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;971.7652;10-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;966.7431;11-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;987.1181;12-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;997.6528;15-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1000.0857;16-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1003.6296;17-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1008.8340;18-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1008.9550;19-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1013.8288;22-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1002.7208;23-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1006.3185;24-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1006.1638;25-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1002.5363;29-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1000.3647;30-Jun-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1002.8795;01-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1007.4073;02-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1006.7213;03-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1012.4470;06-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1007.2080;07-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;989.6184;08-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;997.1748;09-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1009.2493;10-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1008.1758;13-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1001.0415;14-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1002.8182;15-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;999.8999;16-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1002.9015;17-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1003.0000;20-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1005.3123;21-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;994.6697;22-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;988.6589;23-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;986.3105;24-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;996.5155;27-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;995.1269;28-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1004.8729;29-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1004.9229;30-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1009.6192;31-Jul-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1022.3138;03-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1019.3538;04-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1021.2772;05-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1021.8935;06-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1024.8163;07-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1022.9362;10-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1020.5140;11-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1021.8108;12-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1019.2163;13-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1016.0661;14-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1014.6366;17-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1010.5961;18-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1006.8095;19-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1011.0881;20-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1012.4740;21-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1011.6960;24-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1016.2404;25-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1015.7754;26-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1012.1198;27-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1014.6988;28-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1012.0364;31-Aug-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1007.4173;01-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1003.0474;02-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1005.8944;03-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1004.8148;04-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;1000.0205;07-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;998.3203;08-Sep-2026
+SIF-96;Sapphire Equity Long-Short SIF - Growth;Regular Plan;Growth;INF090I30014;;992.6964;09-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1000.0000;29-Apr-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;997.3431;04-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;998.0688;05-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1010.8342;06-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1014.6786;07-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1009.3290;08-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;994.9955;11-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;976.5798;12-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;980.0197;13-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;990.5520;14-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;987.6288;15-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;984.3735;18-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;987.6146;19-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;990.9553;20-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;991.4575;21-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;991.2826;22-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1003.2113;25-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1001.9669;26-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1004.2513;27-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;990.2864;29-May-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;979.7473;01-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;983.3117;02-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;982.5269;03-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;984.9006;04-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;982.7942;05-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;970.0617;08-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;978.5663;09-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;971.7652;10-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;966.7431;11-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;987.1181;12-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;997.6528;15-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1000.0857;16-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1003.6296;17-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1008.8340;18-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1008.9550;19-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1013.8288;22-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1002.7208;23-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1006.3185;24-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1006.1638;25-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1002.5363;29-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1000.3647;30-Jun-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1002.8795;01-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1007.4073;02-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1006.7213;03-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1012.4470;06-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1007.2080;07-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;989.6184;08-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;997.1748;09-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1009.2493;10-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1008.1758;13-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1001.0415;14-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1002.8182;15-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;999.8999;16-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1002.9015;17-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1003.0000;20-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1005.3123;21-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;994.6697;22-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;988.6589;23-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;986.3105;24-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;996.5155;27-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;995.1269;28-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1004.8729;29-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1004.9229;30-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1009.6192;31-Jul-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1022.3138;03-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1019.3538;04-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1021.2772;05-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1021.8935;06-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1024.8163;07-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1022.9362;10-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1020.5140;11-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1021.8108;12-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1019.2163;13-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1016.0661;14-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1014.6366;17-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1010.5961;18-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1006.8095;19-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1011.0881;20-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1012.4740;21-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1011.6960;24-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1016.2404;25-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1015.7754;26-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1012.1198;27-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1014.6988;28-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1012.0364;31-Aug-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1007.4173;01-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1003.0474;02-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1005.8944;03-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1004.8148;04-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;1000.0205;07-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;998.3203;08-Sep-2026
+SIF-97;Sapphire Equity Long-Short SIF - IDCW;Regular Plan;IDCW;INF090I30030;INF090I30022;992.6964;09-Sep-2026
+</content>

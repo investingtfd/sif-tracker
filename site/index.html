@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIF Tracker — Investing TFD</title>
+<style>
+  :root {
+    color-scheme: light;
+    --brand: #085041;
+    --brand-ink: #ffffff;
+    --surface-1: #fcfcfb;
+    --page: #f9f9f7;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted: #898781;
+    --gridline: #e1e0d9;
+    --baseline: #c3c2b7;
+    --border: rgba(11,11,11,0.10);
+    --good: #0ca30c;
+    --critical: #d03b3b;
+    --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
+    --s5: #e87ba4; --s6: #008300; --s7: #4a3aa7; --s8: #e34948;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface-1: #1a1a19; --page: #0d0d0d;
+      --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
+      --gridline: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
+      --good: #0ca30c; --critical: #e66767;
+      --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+      --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-1: #1a1a19; --page: #0d0d0d;
+    --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
+    --gridline: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
+    --good: #0ca30c; --critical: #e66767;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+    --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--page); color: var(--text-primary);
+    font-family: Calibri, "Segoe UI", system-ui, -apple-system, sans-serif;
+    padding: 20px 16px 48px;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+
+  header.top { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 4px; }
+  header.top h1 { font-size: 26px; margin: 0; color: var(--brand); }
+  .asof { font-size: 13px; color: var(--text-muted); }
+  .subtitle { color: var(--text-secondary); font-size: 14px; margin: 4px 0 20px; }
+
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap: 10px; margin-bottom: 22px; }
+  .kpi { background: var(--surface-1); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .kpi .val { font-size: 24px; font-weight: 700; color: var(--brand); }
+  .kpi .lbl { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+  .panel { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; padding: 16px; margin-bottom: 18px; }
+  .panel h2 { font-size: 16px; margin: 0 0 12px; color: var(--text-primary); }
+
+  .filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+  .filters select, .filters input[type=search] {
+    font: inherit; padding: 7px 10px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--page); color: var(--text-primary);
+  }
+  .filters input[type=search] { flex: 1; min-width: 160px; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  thead th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: .03em;
+    color: var(--text-muted); border-bottom: 1px solid var(--gridline); padding: 8px 8px; cursor: pointer; white-space: nowrap; }
+  tbody td { padding: 8px 8px; border-bottom: 1px solid var(--gridline); vertical-align: top; }
+  tbody tr:hover { background: rgba(8,80,65,0.05); }
+  .num { font-variant-numeric: tabular-nums; text-align: right; }
+  .tag { display: inline-block; font-size: 11px; color: var(--text-secondary); background: var(--page);
+    border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px; }
+  .delta { font-variant-numeric: tabular-nums; font-weight: 600; }
+  .delta.up { color: var(--good); } .delta.down { color: var(--critical); } .delta.flat { color: var(--text-muted); }
+  .scheme-name { font-weight: 600; }
+  .scheme-meta { font-size: 11px; color: var(--text-muted); }
+
+  .table-wrap { overflow-x: auto; }
+
+  .compare-row td:first-child { width: 30px; }
+
+  #chartArea { display: none; }
+  #chartArea.active { display: block; }
+  .chart-legend { display: flex; flex-wrap: wrap; gap: 12px; margin: 10px 0 4px; font-size: 12px; }
+  .chart-legend .item { display: flex; align-items: center; gap: 6px; color: var(--text-secondary); }
+  .swatch { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+  .tooltip { position: absolute; background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+    padding: 6px 10px; font-size: 12px; pointer-events: none; box-shadow: 0 4px 14px rgba(0,0,0,.12); display: none; }
+  .chart-wrap { position: relative; }
+  .toolbar-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+  button.linklike { background: none; border: none; color: var(--brand); font: inherit; cursor: pointer; text-decoration: underline; padding: 0; }
+
+  footer.disclaimer { font-size: 11px; color: var(--text-muted); margin-top: 28px; line-height: 1.6; border-top: 1px solid var(--gridline); padding-top: 14px; }
+
+  @media (max-width: 480px) {
+    header.top h1 { font-size: 21px; }
+    thead th, tbody td { padding: 6px 5px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>SIF Tracker</h1>
+    <span class="asof" id="asOf">Loading…</span>
+  </header>
+  <p class="subtitle">Daily NAV tracking for India's Specialised Investment Funds (Regular Plan), sourced directly from AMFI.</p>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="panel">
+    <h2>All SIF schemes</h2>
+    <div class="filters">
+      <select id="fCategory"><option value="">All strategies</option></select>
+      <select id="fProvider"><option value="">All providers</option></select>
+      <input type="search" id="fSearch" placeholder="Search scheme name…">
+    </div>
+    <div class="table-wrap">
+      <table id="schemeTable">
+        <thead>
+          <tr>
+            <th style="width:30px"></th>
+            <th data-sort="scheme_name">Scheme</th>
+            <th data-sort="provider">Provider</th>
+            <th data-sort="latest_nav" class="num">Latest NAV</th>
+            <th data-sort="change_1d_pct" class="num">1D Chg</th>
+            <th data-sort="change_since_first_pct" class="num">Since Tracked</th>
+          </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="panel" id="chartArea">
+    <div class="toolbar-row">
+      <h2 style="margin:0">Compare (indexed to 100 at first tracked date)</h2>
+      <button class="linklike" id="toggleTableView">View as table</button>
+    </div>
+    <div class="chart-wrap">
+      <svg id="chartSvg" width="100%" height="320" viewBox="0 0 960 320" preserveAspectRatio="none"></svg>
+      <div class="tooltip" id="tooltip"></div>
+    </div>
+    <div class="chart-legend" id="legend"></div>
+    <div id="chartTableWrap" style="display:none" class="table-wrap"></div>
+  </div>
+
+  <footer class="disclaimer">
+    Data source: AMFI (Association of Mutual Funds in India), SIF NAV history, updated once daily after
+    the day's NAV strike. NAV values shown are end-of-day, not intraday/live prices. Past performance is
+    not indicative of future returns. This page is for informational purposes only and is not investment
+    advice or a recommendation to buy, hold, or sell any scheme. Provided by Investing TFD (AMFI-registered
+    Mutual Fund Distributor, ARN-294841).
+  </footer>
+</div>
+
+<script>
+const COLORS = ['--s1','--s2','--s3','--s4','--s5','--s6','--s7','--s8'];
+const MAX_COMPARE = 6;
+let DATA = null;
+let compareSet = new Set();
+let sortState = { key: 'scheme_name', dir: 1 };
+
+function cssVar(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+}
+
+function fmtPct(v) {
+  if (v === null || v === undefined) return '—';
+  const sign = v > 0 ? '▲' : v < 0 ? '▼' : '▬';
+  const cls = v > 0 ? 'up' : v < 0 ? 'down' : 'flat';
+  return `<span class="delta ${cls}">${sign} ${Math.abs(v).toFixed(2)}%</span>`;
+}
+
+function shortCategory(cat) {
+  // "Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund)" -> "Equity Long-Short"
+  const m = cat.match(/-\s*([^)]+?)(?:\s*Fund)?\)\s*$/);
+  return m ? m[1].trim() : cat;
+}
+
+async function init() {
+  const res = await fetch('data.json');
+  DATA = await res.json();
+
+  document.getElementById('asOf').textContent = `Data as of ${DATA.generated_at_data_date}`;
+
+  const cat = document.getElementById('fCategory');
+  DATA.categories.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = shortCategory(c);
+    cat.appendChild(opt);
+  });
+  const prov = document.getElementById('fProvider');
+  DATA.providers.forEach(p => {
+    const opt = document.createElement('option');
+    opt.value = p; opt.textContent = p;
+    prov.appendChild(opt);
+  });
+
+  renderKpis();
+  renderTable();
+
+  cat.addEventListener('change', renderTable);
+  prov.addEventListener('change', renderTable);
+  document.getElementById('fSearch').addEventListener('input', renderTable);
+  document.getElementById('toggleTableView').addEventListener('click', toggleChartTableView);
+}
+
+function renderKpis() {
+  const providers = DATA.providers.length;
+  const categories = DATA.categories.length;
+  const schemes = DATA.schemes.length;
+  const dates = new Set();
+  DATA.schemes.forEach(s => s.series.forEach(p => dates.add(p.date)));
+  document.getElementById('kpis').innerHTML = `
+    <div class="kpi"><div class="val">${schemes}</div><div class="lbl">Schemes tracked</div></div>
+    <div class="kpi"><div class="val">${providers}</div><div class="lbl">SIF providers</div></div>
+    <div class="kpi"><div class="val">${categories}</div><div class="lbl">Strategy categories</div></div>
+    <div class="kpi"><div class="val">${dates.size}</div><div class="lbl">Days of history</div></div>
+  `;
+}
+
+function filteredSchemes() {
+  const cat = document.getElementById('fCategory').value;
+  const prov = document.getElementById('fProvider').value;
+  const q = document.getElementById('fSearch').value.trim().toLowerCase();
+  return DATA.schemes.filter(s =>
+    (!cat || s.category === cat) &&
+    (!prov || s.provider === prov) &&
+    (!q || s.scheme_name.toLowerCase().includes(q) || s.provider.toLowerCase().includes(q))
+  );
+}
+
+function renderTable() {
+  let rows = filteredSchemes();
+  rows.sort((a, b) => {
+    const av = a[sortState.key], bv = b[sortState.key];
+    if (av === bv) return 0;
+    if (av === null || av === undefined) return 1;
+    if (bv === null || bv === undefined) return -1;
+    return (av > bv ? 1 : -1) * sortState.dir;
+  });
+
+  document.getElementById('tableBody').innerHTML = rows.map(s => `
+    <tr class="compare-row">
+      <td><input type="checkbox" data-code="${s.scheme_code}" ${compareSet.has(s.scheme_code) ? 'checked' : ''}
+          ${!compareSet.has(s.scheme_code) && compareSet.size >= MAX_COMPARE ? 'disabled' : ''}></td>
+      <td><div class="scheme-name">${s.scheme_name}</div>
+          <div class="scheme-meta"><span class="tag">${s.option}</span></div></td>
+      <td>${s.provider}<div class="scheme-meta">${shortCategory(s.category)}</div></td>
+      <td class="num">${s.latest_nav.toFixed(4)}</td>
+      <td class="num">${fmtPct(s.change_1d_pct)}</td>
+      <td class="num">${fmtPct(s.change_since_first_pct)}</td>
+    </tr>
+  `).join('');
+
+  document.querySelectorAll('#tableBody input[type=checkbox]').forEach(cb => {
+    cb.addEventListener('change', e => {
+      const code = e.target.dataset.code;
+      if (e.target.checked) compareSet.add(code); else compareSet.delete(code);
+      renderTable();
+      renderChart();
+    });
+  });
+}
+
+document.querySelectorAll('#schemeTable thead th[data-sort]').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.sort;
+    sortState.dir = (sortState.key === key) ? -sortState.dir : (key === 'scheme_name' ? 1 : -1);
+    sortState.key = key;
+    renderTable();
+  });
+});
+
+function renderChart() {
+  const area = document.getElementById('chartArea');
+  const svg = document.getElementById('chartSvg');
+  const legend = document.getElementById('legend');
+
+  if (compareSet.size === 0) {
+    area.classList.remove('active');
+    return;
+  }
+  area.classList.add('active');
+
+  const selected = DATA.schemes.filter(s => compareSet.has(s.scheme_code));
+  const W = 960, H = 320, PAD_L = 46, PAD_R = 16, PAD_T = 14, PAD_B = 28;
+  const plotW = W - PAD_L - PAD_R, plotH = H - PAD_T - PAD_B;
+
+  const allDates = Array.from(new Set(selected.flatMap(s => s.series.map(p => p.date)))).sort();
+  const indexed = selected.map((s, i) => {
+    const base = s.series[0].nav;
+    return {
+      code: s.scheme_code,
+      name: s.scheme_name,
+      color: cssVar(COLORS[i % COLORS.length]),
+      points: s.series.map(p => ({ date: p.date, val: (p.nav / base) * 100, raw: p.nav })),
+    };
+  });
+
+  const allVals = indexed.flatMap(s => s.points.map(p => p.val));
+  const minV = Math.min(100, ...allVals), maxV = Math.max(100, ...allVals);
+  const vPad = (maxV - minV) * 0.1 || 1;
+  const yMin = minV - vPad, yMax = maxV + vPad;
+
+  const xScale = d => {
+    const idx = allDates.indexOf(d);
+    return PAD_L + (allDates.length <= 1 ? 0 : (idx / (allDates.length - 1)) * plotW);
+  };
+  const yScale = v => PAD_T + plotH - ((v - yMin) / (yMax - yMin)) * plotH;
+
+  let svgParts = [];
+  // gridlines
+  const grid = cssVar('--gridline'), baseline = cssVar('--baseline'), muted = cssVar('--text-muted');
+  for (let i = 0; i <= 4; i++) {
+    const v = yMin + (i / 4) * (yMax - yMin);
+    const y = yScale(v);
+    svgParts.push(`<line x1="${PAD_L}" y1="${y}" x2="${W-PAD_R}" y2="${y}" stroke="${grid}" stroke-width="1"/>`);
+    svgParts.push(`<text x="${PAD_L-6}" y="${y+4}" font-size="10" fill="${muted}" text-anchor="end">${v.toFixed(1)}</text>`);
+  }
+  svgParts.push(`<line x1="${PAD_L}" y1="${yScale(100)}" x2="${W-PAD_R}" y2="${yScale(100)}" stroke="${baseline}" stroke-width="1" stroke-dasharray="3,3"/>`);
+  // x labels: first, middle, last date
+  [0, Math.floor((allDates.length-1)/2), allDates.length-1].forEach(i => {
+    if (allDates[i] === undefined) return;
+    svgParts.push(`<text x="${xScale(allDates[i])}" y="${H-8}" font-size="10" fill="${muted}" text-anchor="middle">${allDates[i]}</text>`);
+  });
+
+  indexed.forEach(s => {
+    const d = s.points.map((p, i) => `${i===0?'M':'L'}${xScale(p.date).toFixed(1)},${yScale(p.val).toFixed(1)}`).join(' ');
+    svgParts.push(`<path d="${d}" fill="none" stroke="${s.color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`);
+    const last = s.points[s.points.length - 1];
+    svgParts.push(`<circle cx="${xScale(last.date)}" cy="${yScale(last.val)}" r="4" fill="${s.color}" stroke="${cssVar('--surface-1')}" stroke-width="1.5"/>`);
+    if (indexed.length <= 4) {
+      svgParts.push(`<text x="${xScale(last.date)+6}" y="${yScale(last.val)+4}" font-size="10" fill="${s.color}">${last.val.toFixed(1)}</text>`);
+    }
+  });
+
+  svg.innerHTML = svgParts.join('');
+
+  legend.innerHTML = indexed.map(s => `
+    <span class="item"><span class="swatch" style="background:${s.color}"></span>${s.name}</span>
+  `).join('');
+
+  attachHover(svg, indexed, { PAD_L, plotW, allDates, xScale, yScale });
+  if (document.getElementById('chartTableWrap').style.display !== 'none') {
+    renderChartTable(indexed);
+  }
+}
+
+function attachHover(svg, indexed, geo) {
+  const tooltip = document.getElementById('tooltip');
+  svg.onmousemove = (e) => {
+    const rect = svg.getBoundingClientRect();
+    const xFrac = (e.clientX - rect.left) / rect.width;
+    const svgX = xFrac * 960;
+    let nearest = geo.allDates[0], nearestDist = Infinity;
+    geo.allDates.forEach(d => {
+      const dist = Math.abs(geo.xScale(d) - svgX);
+      if (dist < nearestDist) { nearestDist = dist; nearest = d; }
+    });
+    const lines = indexed.map(s => {
+      const p = s.points.find(pt => pt.date === nearest);
+      return p ? `<div><span class="swatch" style="background:${s.color};margin-right:5px"></span>${s.name.slice(0,28)}: <b>${p.raw.toFixed(4)}</b> (idx ${p.val.toFixed(1)})</div>` : '';
+    }).join('');
+    tooltip.innerHTML = `<div style="font-weight:600;margin-bottom:4px">${nearest}</div>${lines}`;
+    tooltip.style.display = 'block';
+    tooltip.style.left = (e.clientX - rect.left + 12) + 'px';
+    tooltip.style.top = (e.clientY - rect.top - 10) + 'px';
+  };
+  svg.onmouseleave = () => { tooltip.style.display = 'none'; };
+}
+
+function toggleChartTableView() {
+  const wrap = document.getElementById('chartTableWrap');
+  const showing = wrap.style.display !== 'none';
+  wrap.style.display = showing ? 'none' : 'block';
+  document.getElementById('toggleTableView').textContent = showing ? 'View as table' : 'View as chart';
+  document.getElementById('chartSvg').style.display = showing ? 'block' : 'none';
+  if (!showing) {
+    const selected = DATA.schemes.filter(s => compareSet.has(s.scheme_code));
+    const indexed = selected.map((s, i) => ({ name: s.scheme_name, color: cssVar(COLORS[i % COLORS.length]), points: s.series.map(p => ({date:p.date, val:(p.nav/s.series[0].nav)*100})) }));
+    renderChartTable(indexed);
+  }
+}
+
+function renderChartTable(indexed) {
+  const wrap = document.getElementById('chartTableWrap');
+  const dates = Array.from(new Set(indexed.flatMap(s => s.points.map(p => p.date)))).sort();
+  let html = '<table><thead><tr><th>Date</th>' + indexed.map(s => `<th>${s.name}</th>`).join('') + '</tr></thead><tbody>';
+  dates.forEach(d => {
+    html += `<tr><td>${d}</td>` + indexed.map(s => {
+      const p = s.points.find(pt => pt.date === d);
+      return `<td class="num">${p ? p.val.toFixed(2) : '—'}</td>`;
+    }).join('') + '</tr>';
+  });
+  html += '</tbody></table>';
+  wrap.innerHTML = html;
+}
+
+init();
+</script>
+</body>
+</html>

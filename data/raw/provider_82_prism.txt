@@ -1,0 +1,75 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )
+
+Prism SIF
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0149;23-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0115;24-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0233;27-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0193;28-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0138;29-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0353;30-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0501;31-Jul-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0867;03-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0869;04-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.0849;05-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1014;06-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1136;07-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1173;10-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1132;11-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1352;12-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1493;13-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1504;14-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1410;17-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1362;18-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1578;19-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1490;20-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1601;21-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1684;24-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1449;25-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1523;26-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1463;27-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1771;28-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1921;31-Aug-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1867;01-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.1763;02-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.2026;03-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.2040;04-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.2145;07-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.2177;08-Sep-2026
+SIF-139;Prism Hybrid Long-Short Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M030027;;10.2228;09-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0127;23-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0090;24-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0198;27-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0155;28-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0097;29-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0309;30-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0453;31-Jul-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0810;03-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0808;04-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0785;05-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.0947;06-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1065;07-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1093;10-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1048;11-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1265;12-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1403;13-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1411;14-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1308;17-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1256;18-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1468;19-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1377;20-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1485;21-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1558;24-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1321;25-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1391;26-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1328;27-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1632;28-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1773;31-Aug-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1715;01-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1608;02-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1868;03-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1879;04-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.1974;07-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.2003;08-Sep-2026
+SIF-138;Prism Hybrid Long-Short Fund - Regular Plan- Growth Option;Regular Plan;Growth Option;INF22M030019;;10.2050;09-Sep-2026

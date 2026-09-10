@@ -1,0 +1,962 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+DynaSIF SIF
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0072;27-Feb-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0103;02-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0036;04-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0325;05-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9940;06-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9105;09-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9903;10-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9227;11-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.8928;12-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7797;13-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7819;16-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.8304;17-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.8877;18-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7528;19-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7900;20-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.6261;23-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7204;24-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.8219;25-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.6953;27-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.5680;30-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.5681;31-Mar-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.6590;01-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.6301;02-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7180;06-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.7367;07-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9497;08-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9406;09-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0383;10-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;9.9589;13-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1412;15-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2105;16-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3176;17-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3096;20-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3677;21-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3606;22-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2705;23-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2111;24-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2854;27-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3040;28-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3167;29-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1990;30-Apr-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2223;04-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2703;05-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3994;06-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.4452;07-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.4745;08-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3636;11-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1834;12-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1845;13-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2267;14-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2181;15-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1080;18-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1419;19-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1618;20-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1784;21-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1935;22-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3066;25-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3059;26-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3929;27-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3307;29-May-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2307;01-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2715;02-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2071;03-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2285;04-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2182;05-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1266;08-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2017;09-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.1339;10-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.0660;11-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.2455;12-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.3846;15-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.4454;16-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5006;17-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5708;18-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5829;19-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5828;22-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5191;23-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5653;24-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5632;25-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.4561;29-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5138;30-Jun-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5973;01-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6674;02-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6902;03-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7316;06-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7326;07-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5641;08-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6417;09-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6927;10-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6725;13-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6128;14-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6259;15-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6062;16-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6291;17-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6472;20-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6702;21-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6333;22-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5782;23-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5589;24-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6882;27-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7520;28-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7858;29-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7708;30-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7418;31-Jul-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8837;03-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8183;04-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8369;05-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8345;06-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8181;07-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8169;10-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7722;11-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7698;12-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8040;13-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8230;14-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8128;17-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7965;18-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7885;19-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8341;20-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8521;21-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8159;24-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.8330;25-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7935;26-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7742;27-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7802;28-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.7378;31-Aug-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6643;01-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6286;02-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6580;03-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6485;04-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.6077;07-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5820;08-Sep-2026
+SIF-57;DynaSIF Equity Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30042;;10.5211;09-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.7378;31-Aug-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.6643;01-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.6286;02-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.6580;03-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.6485;04-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.6077;07-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.5820;08-Sep-2026
+SIF-60;DynaSIF Equity Long - Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30059;INF579M30067;10.5211;09-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0060;27-Feb-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0079;02-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0003;04-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0289;05-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9899;06-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9052;09-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9845;10-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9166;11-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.8863;12-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7729;13-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7738;16-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.8219;17-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.8788;18-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7436;19-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7804;20-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.6154;23-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7093;24-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.8102;25-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.6830;27-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.5548;30-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.5544;31-Mar-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.6448;01-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.6156;02-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7017;06-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.7200;07-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9322;08-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9228;09-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0198;10-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;9.9394;13-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1204;15-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1892;16-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2957;17-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2865;20-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3440;21-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3364;22-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2461;23-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1865;24-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2593;27-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2775;28-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2897;29-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1719;30-Apr-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1934;04-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2409;05-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3692;06-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4145;07-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4432;08-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3314;11-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1513;12-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1520;13-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1936;14-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1847;15-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0737;18-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1070;19-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1265;20-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1426;21-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1572;22-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2686;25-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2676;26-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3538;27-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2910;29-May-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1901;01-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2303;02-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1657;03-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1866;04-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1760;05-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0836;08-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.1579;09-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0899;10-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.0219;11-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.2002;12-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3375;15-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.3975;16-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4521;17-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5215;18-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5331;19-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5317;22-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4679;23-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5134;24-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5109;25-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4027;29-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4596;30-Jun-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5423;01-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6115;02-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6338;03-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6737;06-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6742;07-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5062;08-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5830;09-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6333;10-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6118;13-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5520;14-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5646;15-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5446;16-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5669;17-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5836;20-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6061;21-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5690;22-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5137;23-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4941;24-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6213;27-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6843;28-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7175;29-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7021;30-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6728;31-Jul-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.8125;03-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7471;04-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7651;05-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7623;06-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7456;07-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7430;10-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6982;11-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6954;12-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7289;13-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7474;14-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7359;17-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7192;18-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7109;19-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7557;20-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7732;21-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7359;24-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7524;25-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.7127;26-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6931;27-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6987;28-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.6553;31-Aug-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5819;01-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5461;02-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5748;03-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5649;04-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.5231;07-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4973;08-Sep-2026
+SIF-55;DynaSIF Equity Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30018;;10.4364;09-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.3538;27-May-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.2910;29-May-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.1901;01-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.2303;02-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.1657;03-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.1866;04-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.1760;05-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.0836;08-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.1579;09-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.0899;10-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.0219;11-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.2002;12-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.3375;15-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.3975;16-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4521;17-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5215;18-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5331;19-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5317;22-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4679;23-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5134;24-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5109;25-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4027;29-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4596;30-Jun-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5423;01-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6115;02-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6338;03-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6737;06-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6742;07-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5062;08-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5830;09-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6333;10-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6118;13-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5520;14-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5646;15-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5446;16-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5669;17-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5836;20-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6061;21-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5690;22-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5137;23-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4941;24-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6213;27-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6843;28-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7175;29-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7021;30-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6728;31-Jul-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.8125;03-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7471;04-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7651;05-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7623;06-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7456;07-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7430;10-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6982;11-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6954;12-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7289;13-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7474;14-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7359;17-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7192;18-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7109;19-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7557;20-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7732;21-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7359;24-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7524;25-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.7127;26-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6931;27-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6987;28-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.6553;31-Aug-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5819;01-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5461;02-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5748;03-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5649;04-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.5231;07-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4973;08-Sep-2026
+SIF-59;DynaSIF Equity Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30026;INF579M30034;10.4364;09-Sep-2026
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund )
+
+DynaSIF SIF
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;9.9808;29-Jun-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.0487;30-Jun-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.0897;01-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1429;02-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1063;03-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1292;06-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1131;07-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;9.9764;08-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1605;09-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.3287;10-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.3989;13-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2792;14-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2921;15-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2786;16-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1816;17-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2128;20-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2262;21-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1385;22-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1073;23-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1042;24-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2273;27-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.1602;28-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.2228;29-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.3755;30-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.4911;31-Jul-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.6803;03-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.6894;04-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.7581;05-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8703;06-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8395;07-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8929;10-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8566;11-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8831;12-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8887;13-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8429;14-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.8589;17-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.9316;18-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.1849;19-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2412;20-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2724;21-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2218;24-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2186;25-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2700;26-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2251;27-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2070;28-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.1622;31-Aug-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.0177;01-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;10.9947;02-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.1481;03-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2361;04-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2719;07-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2729;08-Sep-2026
+SIF-140;DynaSIF Equity Ex-Top 100 Long - Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30166;;11.2596;09-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;9.9775;29-Jun-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.0449;30-Jun-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.0853;01-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1379;02-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1007;03-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1220;06-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1053;07-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;9.9682;08-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1516;09-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.3191;10-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.3875;13-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2673;14-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2797;15-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2656;16-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1682;17-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1977;20-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2105;21-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1223;22-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.0906;23-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.0870;24-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2082;27-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.1407;28-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.2026;29-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.3544;30-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.4692;31-Jul-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.6563;03-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.6648;04-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.7327;05-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8441;06-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8128;07-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8643;10-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8275;11-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8532;12-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8582;13-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8119;14-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8261;17-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.8981;18-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1500;19-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2055;20-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2360;21-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1836;24-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1798;25-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2305;26-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1851;27-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1665;28-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1199;31-Aug-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.9754;01-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;10.9519;02-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1041;03-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.1912;04-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2251;07-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2255;08-Sep-2026
+SIF-143;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30133;;11.2118;09-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;9.9775;29-Jun-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.0449;30-Jun-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.0853;01-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1379;02-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1007;03-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1220;06-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1053;07-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;9.9682;08-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1516;09-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.3191;10-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.3875;13-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2673;14-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2797;15-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2656;16-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1682;17-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1977;20-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2105;21-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1223;22-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.0906;23-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.0870;24-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2082;27-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.1407;28-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.2026;29-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.3544;30-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.4692;31-Jul-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.6563;03-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.6648;04-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.7327;05-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8441;06-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8128;07-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8643;10-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8275;11-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8532;12-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8582;13-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8119;14-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8261;17-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.8981;18-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1500;19-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2055;20-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2360;21-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1836;24-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1798;25-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2305;26-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1851;27-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1665;28-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1199;31-Aug-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.9754;01-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;10.9519;02-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1041;03-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.1912;04-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2251;07-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2255;08-Sep-2026
+SIF-144;DynaSIF Equity Ex-Top 100 Long - Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30141;INF579M30158;11.2118;09-Sep-2026
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )
+
+DynaSIF SIF
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0209;30-Mar-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0217;31-Mar-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0095;02-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0362;06-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0382;07-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1056;08-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0862;09-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1062;10-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.0650;13-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1318;15-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1522;16-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1874;17-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1871;20-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2068;21-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1934;22-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1720;23-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1525;24-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1789;27-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1615;28-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1620;29-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1242;30-Apr-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1186;04-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1271;05-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1986;06-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2220;07-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2267;08-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1365;11-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1134;12-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1521;13-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1812;14-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1639;15-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1131;18-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1533;19-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1325;20-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1343;21-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1432;22-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1697;25-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1639;26-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1887;27-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1830;29-May-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1597;01-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1970;02-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1621;03-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1594;04-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2058;05-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1316;08-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2214;09-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1713;10-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1122;11-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.1847;12-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2482;15-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.2825;16-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3022;17-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3452;18-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3227;19-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3339;22-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3061;23-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3634;24-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3339;25-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3079;29-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3331;30-Jun-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3481;01-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3805;02-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3998;03-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4297;06-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4287;07-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3740;08-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3842;09-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4103;10-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4265;13-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3872;14-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.3961;15-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4034;16-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4157;17-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4211;20-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4265;21-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4125;22-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4268;23-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4060;24-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4478;27-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4378;28-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4439;29-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4413;30-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4363;31-Jul-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4833;03-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.4809;04-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5117;05-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5315;06-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5247;07-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5427;10-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5354;11-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5532;12-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5662;13-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5718;14-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5618;17-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5481;18-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5483;19-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5681;20-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5934;21-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5835;24-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5941;25-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5662;27-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5848;28-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5704;31-Aug-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5376;01-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5368;02-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5899;03-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5760;04-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5819;07-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5749;08-Sep-2026
+SIF-88;DynaSIF Active Asset Allocator Long- Short Fund - Direct Plan - Growth Option;Direct Plan;GROWTH OPTION;INF579M30109;;10.5706;09-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0209;30-Mar-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0217;31-Mar-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0095;02-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0362;06-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0382;07-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1056;08-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0862;09-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1062;10-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.0650;13-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1318;15-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1522;16-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1874;17-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1871;20-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2068;21-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1934;22-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1720;23-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1525;24-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1789;27-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1615;28-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1620;29-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1242;30-Apr-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1186;04-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1271;05-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1986;06-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2220;07-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2267;08-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1365;11-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1134;12-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1521;13-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1812;14-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1639;15-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1131;18-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1533;19-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1325;20-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1343;21-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1432;22-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1697;25-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1639;26-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1887;27-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1830;29-May-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1597;01-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1970;02-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1621;03-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1594;04-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2058;05-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1316;08-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2214;09-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1713;10-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1122;11-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.1847;12-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2482;15-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.2825;16-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3022;17-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3452;18-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3227;19-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3339;22-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3061;23-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3634;24-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3339;25-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3079;29-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3331;30-Jun-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3481;01-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3805;02-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3998;03-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4297;06-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4287;07-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3740;08-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3842;09-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4103;10-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4265;13-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3872;14-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.3961;15-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4034;16-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4157;17-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4211;20-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4265;21-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4125;22-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4268;23-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4060;24-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4478;27-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4378;28-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4439;29-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4413;30-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4363;31-Jul-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4833;03-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.4809;04-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5117;05-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5315;06-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5247;07-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5427;10-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5354;11-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5532;12-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5662;13-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5718;14-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5618;17-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5481;18-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5483;19-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5681;20-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5934;21-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5835;24-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5941;25-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5662;27-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5848;28-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5704;31-Aug-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5376;01-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5368;02-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5899;03-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5760;04-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5819;07-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5749;08-Sep-2026
+SIF-86;DynaSIF Active Asset Allocator Long-Short Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF579M30117;INF579M30125;10.5706;09-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0188;30-Mar-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0192;31-Mar-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0063;02-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0316;06-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0332;07-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1001;08-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0804;09-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1001;10-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0578;13-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1239;15-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1439;16-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1788;17-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1774;20-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1967;21-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1830;22-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1613;23-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1413;24-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1666;27-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1489;28-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1491;29-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1110;30-Apr-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1040;04-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1120;05-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1831;06-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2061;07-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2104;08-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1195;11-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0960;12-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1343;13-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1630;14-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1454;15-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0936;18-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1333;19-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1122;20-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1136;21-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1222;22-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1475;25-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1414;26-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1658;27-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1594;29-May-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1350;01-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1718;02-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1367;03-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1337;04-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1796;05-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1045;08-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1936;09-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1433;10-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.0841;11-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.1560;12-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2182;15-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2521;16-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2713;17-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3139;18-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2911;19-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3011;22-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2731;23-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3298;24-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3000;25-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2726;29-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.2973;30-Jun-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3120;01-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3439;02-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3627;03-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3914;06-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3900;07-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3352;08-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3450;09-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3707;10-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3857;13-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3462;14-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3546;15-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3615;16-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3734;17-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3777;20-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3827;21-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3684;22-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3822;23-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3612;24-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4017;27-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3913;28-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3971;29-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3941;30-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.3888;31-Jul-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4344;03-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4317;04-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4620;05-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4813;06-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4742;07-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4910;10-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4833;11-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5006;12-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5132;13-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5184;14-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5073;17-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4933;18-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4932;19-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5125;20-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5373;21-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5262;24-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5364;25-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5080;27-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5261;28-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5107;31-Aug-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4777;01-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.4765;02-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5289;03-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5146;04-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5194;07-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5121;08-Sep-2026
+SIF-87;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - Growth Option;Regular Plan;GROWTH OPTION;INF579M30075;;10.5074;09-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0188;30-Mar-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0192;31-Mar-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0063;02-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0316;06-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0332;07-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1001;08-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0804;09-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1001;10-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0578;13-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1239;15-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1439;16-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1788;17-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1774;20-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1967;21-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1830;22-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1613;23-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1413;24-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1666;27-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1489;28-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1491;29-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1110;30-Apr-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1040;04-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1120;05-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1831;06-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2061;07-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2104;08-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1195;11-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0960;12-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1343;13-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1630;14-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1454;15-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0936;18-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1333;19-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1122;20-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1136;21-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1222;22-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1475;25-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1414;26-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1658;27-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1594;29-May-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1350;01-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1718;02-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1367;03-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1337;04-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1796;05-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1045;08-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1936;09-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1433;10-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.0841;11-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.1560;12-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2182;15-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2521;16-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2713;17-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3139;18-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2911;19-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3011;22-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2731;23-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3298;24-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3000;25-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2726;29-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.2973;30-Jun-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3120;01-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3439;02-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3627;03-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3914;06-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3900;07-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3352;08-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3450;09-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3707;10-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3857;13-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3462;14-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3546;15-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3615;16-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3734;17-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3777;20-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3827;21-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3684;22-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3822;23-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3612;24-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4017;27-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3913;28-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3971;29-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3941;30-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.3888;31-Jul-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4344;03-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4317;04-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4620;05-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4813;06-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4742;07-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4910;10-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4833;11-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5006;12-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5132;13-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5184;14-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5073;17-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4933;18-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4932;19-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5125;20-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5373;21-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5262;24-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5364;25-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5080;27-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5261;28-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5107;31-Aug-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4777;01-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.4765;02-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5289;03-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5146;04-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5194;07-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5121;08-Sep-2026
+SIF-89;DynaSIF Active Asset Allocator Long-Short Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF579M30083;INF579M30091;10.5074;09-Sep-2026
