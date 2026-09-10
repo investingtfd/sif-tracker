@@ -12846,11 +12846,11 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-09-09,SIF-154,Apex Equity Long-Short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,9.95,INF209K30107,
 2026-09-09,SIF-155,Apex Equity Ex-Top 100 Long-short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,10.0,INF209K30073,
 2026-09-09,SIF-156,Apex Equity Ex-Top 100 Long-short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,10.0,INF209K30081,
-2026-09-09,SIF-157,Magnum Equity Ex-Top 100Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8937,INF200K30072,
-2026-09-09,SIF-158,Magnum Equity Ex-Top 100Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8937,INF200K30080,INF200K30098
-2026-09-09,SIF-159,Magnum Equity Ex-Top 100Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8986,INF200K30106,
+2026-09-09,SIF-157,Magnum Equity Ex-Top 100 Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8937,INF200K30072,
+2026-09-09,SIF-158,Magnum Equity Ex-Top 100 Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8937,INF200K30080,INF200K30098
+2026-09-09,SIF-159,Magnum Equity Ex-Top 100 Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8986,INF200K30106,
 2026-09-09,SIF-16,Magnum Hybrid Long Short Fund,Magnum SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Unknown,10.477,INF200K30023,INF200K30031
-2026-09-09,SIF-160,Magnum Equity Ex-Top 100Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8986,INF200K30114,INF200K30122
+2026-09-09,SIF-160,Magnum Equity Ex-Top 100 Long Short Fund,Magnum SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Unknown,9.8986,INF200K30114,INF200K30122
 2026-09-09,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,920.9975,INF00XX30043,
 2026-09-09,SIF-2,qsif Equity Long-Short Fund,qsif SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,11.1402,INF966L30035,INF966L30043
 2026-09-09,SIF-20,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,920.9975,INF00XX30050,INF00XX30068
@@ -12910,3 +12910,7 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-09-09,SIF-97,Sapphire Equity Long-Short SIF,Sapphire SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,992.6964,INF090I30030,INF090I30022
 2026-09-09,SIF-98,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,10.3793,INF277K30096,
 2026-09-09,SIF-99,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,10.4431,INF277K30104,
+2026-09-10,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,921.4075,INF00XX30043,
+2026-09-10,SIF-20,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,921.4075,INF00XX30050,INF00XX30068
+2026-09-10,SIF-21,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,910.7556,INF00XX30019,
+2026-09-10,SIF-22,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,910.7556,INF00XX30027,INF00XX30035

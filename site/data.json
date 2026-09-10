@@ -1,5 +1,5 @@
 {
-  "generated_at_data_date": "2026-09-09",
+  "generated_at_data_date": "2026-09-10",
   "categories": [
     "Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )",
     "Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )",
@@ -9359,12 +9359,16 @@
         {
           "date": "2026-09-09",
           "nav": 910.3867
+        },
+        {
+          "date": "2026-09-10",
+          "nav": 910.7556
         }
       ],
-      "latest_date": "2026-09-09",
-      "latest_nav": 910.3867,
-      "change_since_first_pct": -9.04,
-      "change_1d_pct": -0.62
+      "latest_date": "2026-09-10",
+      "latest_nav": 910.7556,
+      "change_since_first_pct": -9.0,
+      "change_1d_pct": 0.04
     },
     {
       "scheme_code": "SIF-22",
@@ -10137,12 +10141,16 @@
         {
           "date": "2026-09-09",
           "nav": 910.3867
+        },
+        {
+          "date": "2026-09-10",
+          "nav": 910.7556
         }
       ],
-      "latest_date": "2026-09-09",
-      "latest_nav": 910.3867,
-      "change_since_first_pct": -9.04,
-      "change_1d_pct": -0.62
+      "latest_date": "2026-09-10",
+      "latest_nav": 910.7556,
+      "change_since_first_pct": -9.0,
+      "change_1d_pct": 0.04
     },
     {
       "scheme_code": "SIF-27",
@@ -28032,7 +28040,7 @@
     },
     {
       "scheme_code": "SIF-159",
-      "scheme_name": "Magnum Equity Ex-Top 100Long Short Fund",
+      "scheme_name": "Magnum Equity Ex-Top 100 Long Short Fund",
       "provider": "Magnum SIF",
       "category": "Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund)",
       "plan": "Regular",
@@ -28050,7 +28058,7 @@
     },
     {
       "scheme_code": "SIF-160",
-      "scheme_name": "Magnum Equity Ex-Top 100Long Short Fund",
+      "scheme_name": "Magnum Equity Ex-Top 100 Long Short Fund",
       "provider": "Magnum SIF",
       "category": "Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund)",
       "plan": "Regular",
@@ -28077,12 +28085,16 @@
         {
           "date": "2026-09-09",
           "nav": 920.9975
+        },
+        {
+          "date": "2026-09-10",
+          "nav": 921.4075
         }
       ],
-      "latest_date": "2026-09-09",
-      "latest_nav": 920.9975,
-      "change_since_first_pct": 0.0,
-      "change_1d_pct": null
+      "latest_date": "2026-09-10",
+      "latest_nav": 921.4075,
+      "change_since_first_pct": 0.04,
+      "change_1d_pct": 0.04
     },
     {
       "scheme_code": "SIF-2",
@@ -28113,12 +28125,16 @@
         {
           "date": "2026-09-09",
           "nav": 920.9975
+        },
+        {
+          "date": "2026-09-10",
+          "nav": 921.4075
         }
       ],
-      "latest_date": "2026-09-09",
-      "latest_nav": 920.9975,
-      "change_since_first_pct": 0.0,
-      "change_1d_pct": null
+      "latest_date": "2026-09-10",
+      "latest_nav": 921.4075,
+      "change_since_first_pct": 0.04,
+      "change_1d_pct": 0.04
     },
     {
       "scheme_code": "SIF-23",
