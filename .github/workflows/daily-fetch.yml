@@ -1,0 +1,58 @@
+name: Daily SIF NAV fetch and publish
+
+on:
+  schedule:
+    # 23:30 UTC = 5:00 AM IST — safely after AMFI's ~11pm IST NAV publish
+    - cron: '30 23 * * *'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab to test
+  push:
+    branches: [main]  # also publish immediately whenever files are uploaded/edited on GitHub
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest NAV and rebuild history
+        run: python3 scripts/fetch_daily.py
+
+      - name: Rebuild site data.json
+        run: python3 scripts/build_site_data.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "sif-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.csv site/data.json
+          git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Upload site folder for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
