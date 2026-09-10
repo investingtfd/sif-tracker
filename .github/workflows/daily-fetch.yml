@@ -39,6 +39,11 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/history.csv site/data.json
           git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
+          # Rebase onto the real latest main before pushing, in case another
+          # run (or a re-run of an earlier attempt) already pushed a commit
+          # since this job checked out — avoids a stale non-fast-forward
+          # rejection instead of just failing.
+          git pull --rebase origin main
           git push
 
       - name: Upload site folder for Pages
