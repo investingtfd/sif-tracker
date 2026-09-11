@@ -44,7 +44,7 @@ jobs:
           git config user.name "sif-dashboard-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/history.csv site/data.json
-          [ -f data/aum.json ] && git add data/aum.json || true
+          [ -f site/aum.json ] && git add site/aum.json || true
           git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
           git push
 
