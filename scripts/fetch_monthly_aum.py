@@ -96,15 +96,22 @@ def _parse_number(cell):
 
 
 def _extract_as_of_date(text: str):
-    # AMFI phrases the AUM column header as e.g. "Net AUM as on 31-Aug-2026 (Rs. in Crore)"
+    # AMFI has used both "Net AUM as on 31-Aug-2026" and, in the real report
+    # (confirmed 11-Sep-2026), "...as on August 31, 2026" - handle both.
     m = re.search(r"as on\s+(\d{1,2}-[A-Za-z]{3,9}-\d{4})", text, re.IGNORECASE)
-    if not m:
-        return None
-    for fmt in ("%d-%b-%Y", "%d-%B-%Y"):
-        try:
-            return dt.datetime.strptime(m.group(1), fmt).date().isoformat()
-        except ValueError:
-            continue
+    if m:
+        for fmt in ("%d-%b-%Y", "%d-%B-%Y"):
+            try:
+                return dt.datetime.strptime(m.group(1), fmt).date().isoformat()
+            except ValueError:
+                continue
+    m = re.search(r"as on\s+([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})", text, re.IGNORECASE)
+    if m:
+        for fmt in ("%B %d %Y", "%b %d %Y"):
+            try:
+                return dt.datetime.strptime(f"{m.group(1)} {m.group(2)} {m.group(3)}", fmt).date().isoformat()
+            except ValueError:
+                continue
     return None
 
 
@@ -113,11 +120,18 @@ def _parse_table(rows, full_text: str):
     the header row to figure out which column is Net AUM / Average AUM /
     No. of Schemes, then reads one row per matched category plus Grand
     Total - label-based, not fixed cell coordinates, so small formatting
-    drift from month to month doesn't break it."""
+    drift from month to month doesn't break it.
+
+    Confirmed against the real report (11-Sep-2026): the header calls it
+    "Net Assets Under Management", not "Net AUM", and the scheme/category
+    label lives in column 1 ("Scheme Name"), not column 0 (a roman-numeral/
+    letter "Sr" column) - both fixed below.
+    """
     header_idx = None
     for i, row in enumerate(rows):
         joined = " ".join(str(c) for c in row if c is not None).lower()
-        if "net aum" in joined and ("scheme" in joined or "folio" in joined):
+        if ("net aum" in joined or "net assets under management" in joined) and \
+           ("scheme" in joined or "folio" in joined):
             header_idx = i
             break
     if header_idx is None:
@@ -125,15 +139,20 @@ def _parse_table(rows, full_text: str):
 
     header = [str(c or "").strip().lower() for c in rows[header_idx]]
 
-    def find_col(*needles):
+    def find_col(*needles, exclude=()):
         for i, h in enumerate(header):
-            if all(n in h for n in needles):
+            if all(n in h for n in needles) and not any(x in h for x in exclude):
                 return i
         return None
 
+    col_label = find_col("scheme name") if find_col("scheme name") is not None else 1
     col_schemes = find_col("no", "scheme") if find_col("no", "scheme") is not None else find_col("scheme")
-    col_net_aum = find_col("net aum")
-    col_avg_aum = find_col("average net aum") if find_col("average net aum") is not None else find_col("average", "aum")
+    col_net_aum = find_col("net aum", exclude=("average", "segregated"))
+    if col_net_aum is None:
+        col_net_aum = find_col("net assets under management", exclude=("average", "segregated"))
+    col_avg_aum = find_col("average", "net aum")
+    if col_avg_aum is None:
+        col_avg_aum = find_col("average", "net assets under management")
     if col_net_aum is None:
         return None
 
@@ -142,7 +161,7 @@ def _parse_table(rows, full_text: str):
     for row in rows[header_idx + 1:]:
         if not row or all(c in (None, "") for c in row):
             continue
-        label = str(row[0] or "").strip()
+        label = str(row[col_label] if col_label < len(row) else "").strip()
         if not label:
             continue
         net_aum = _parse_number(row[col_net_aum]) if col_net_aum < len(row) else None
@@ -159,6 +178,19 @@ def _parse_table(rows, full_text: str):
 
     if not categories and grand_total is None:
         return None
+
+    if grand_total is None and categories:
+        # AMFI's own "Grand Total" row wasn't matched (wording drift, or it's
+        # off the end of what we scanned) - fall back to summing the
+        # categories we did find, which today (no debt SIFs yet) equals the
+        # true total anyway.
+        grand_total = {
+            "net_aum_cr": round(sum(c["net_aum_cr"] for c in categories.values() if c["net_aum_cr"]), 2),
+            "avg_aum_cr": round(sum(c["avg_aum_cr"] for c in categories.values() if c["avg_aum_cr"]), 2)
+                if all(c["avg_aum_cr"] is not None for c in categories.values()) else None,
+            "schemes": sum(c["schemes"] for c in categories.values() if c["schemes"])
+                if all(c["schemes"] is not None for c in categories.values()) else None,
+        }
 
     return {"as_of": _extract_as_of_date(full_text), "categories": categories, "grand_total": grand_total}
 
@@ -226,7 +258,7 @@ def _diagnose(url: str, content: bytes):
             for si in range(book.nsheets):
                 sheet = book.sheet_by_index(si)
                 print(f"  sheet {si} '{sheet.name}': {sheet.nrows}x{sheet.ncols}")
-                for r in range(min(sheet.nrows, 15)):
+                for r in range(min(sheet.nrows, 30)):
                     print(f"    row {r}: {[sheet.cell_value(r, c) for c in range(min(sheet.ncols, 12))]}")
         except Exception as e:
             print("xlrd raised:", repr(e))
