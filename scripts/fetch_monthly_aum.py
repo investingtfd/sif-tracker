@@ -13,12 +13,13 @@ script handles either.
 There is no AMFI feed that gives per-scheme SIF AUM - this is deliberately
 category-level only (Equity Long-Short, Equity Ex-Top 100, Sector Rotation,
 Active Asset Allocator, Hybrid Long-Short, plus a Grand Total row), matching
-what AMFI itself discloses. Writes data/aum.json.
+what AMFI itself discloses. Writes site/aum.json (inside the folder that
+gets published to GitHub Pages, alongside site/data.json).
 
 Designed to run once a day alongside the NAV fetch (see
 .github/workflows/daily-fetch.yml) - cheap to re-check daily since the
 report itself only changes once a month. Never raises: a missing/unparsable
-report just leaves data/aum.json untouched, so a hiccup here can't take down
+report just leaves site/aum.json untouched, so a hiccup here can't take down
 the daily NAV publish (the workflow also sets continue-on-error on this step
 as a second layer of protection).
 """
@@ -30,7 +31,7 @@ import re
 import sys
 import urllib.request
 
-OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "aum.json")
+OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "site", "aum.json")
 URL_TMPL = "https://portal.amfiindia.com/spages/sif_am{mon}{year}repo.xls"
 MONTHS = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
 
@@ -292,7 +293,7 @@ def run() -> int:
         return 0
 
     print("No fetchable/parsable SIF monthly AUM report found in the last 4 months - "
-          "leaving data/aum.json untouched.")
+          "leaving site/aum.json untouched.")
     return 0  # best-effort: never fail the job over this
 
 
