@@ -9752,12 +9752,16 @@
         {
           "date": "2026-09-09",
           "nav": 10.5074
+        },
+        {
+          "date": "2026-09-10",
+          "nav": 10.5056
         }
       ],
-      "latest_date": "2026-09-09",
-      "latest_nav": 10.5074,
-      "change_since_first_pct": 4.88,
-      "change_1d_pct": -0.04
+      "latest_date": "2026-09-10",
+      "latest_nav": 10.5056,
+      "change_since_first_pct": 4.86,
+      "change_1d_pct": -0.02
     },
     {
       "scheme_code": "SIF-93",
