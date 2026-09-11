@@ -19,6 +19,7 @@
     --border: rgba(11,11,11,0.10);
     --good: #0ca30c;
     --critical: #d03b3b;
+    --rank-gold: #8a6d00; --rank-silver: #5b6169; --rank-bronze: #7a4a24;
     --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
     --s5: #e87ba4; --s6: #008300; --s7: #4a3aa7; --s8: #e34948;
   }
@@ -29,6 +30,7 @@
       --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
       --gridline: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
       --good: #0ca30c; --critical: #e66767;
+      --rank-gold: #caa227; --rank-silver: #9aa1ab; --rank-bronze: #b06b3c;
       --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
       --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
     }
@@ -39,6 +41,7 @@
     --text-primary: #ffffff; --text-secondary: #c3c2b7; --text-muted: #898781;
     --gridline: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
     --good: #0ca30c; --critical: #e66767;
+    --rank-gold: #caa227; --rank-silver: #9aa1ab; --rank-bronze: #b06b3c;
     --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
     --s5: #d55181; --s6: #008300; --s7: #9085e9; --s8: #e66767;
   }
@@ -105,6 +108,48 @@
     header.top h1 { font-size: 21px; }
     thead th, tbody td { padding: 6px 5px; }
   }
+
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 12px; flex-wrap: wrap; }
+  .section-head h2 { margin: 0; }
+  .live-badge { display: inline-flex; align-items: center; gap: 6px; font-size: 11px; color: var(--text-muted); }
+  .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--good); box-shadow: 0 0 0 3px rgba(12,163,12,0.15); }
+
+  .kpi.hero .val { font-size: 18px; line-height: 1.3; }
+  .kpi.hero .val .delta { font-size: 18px; }
+  .kpi.hero .lbl-name { font-size: 12px; color: var(--text-secondary); font-weight: 600; margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  .aum-panel { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap;
+    background: var(--surface-1); border: 1px dashed var(--border); border-radius: 12px; padding: 14px 16px; margin-bottom: 18px; }
+  .aum-panel .aum-label { font-size: 13px; color: var(--text-secondary); }
+  .aum-panel .aum-label strong { color: var(--text-primary); }
+  .aum-panel .aum-status { font-size: 11px; color: var(--text-muted); }
+
+  .leaderboard-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 14px; align-items: start; margin-bottom: 18px; }
+  .mini-panels { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .mini-panels .panel { margin-bottom: 0; }
+  .mini-panels .panel h3 { font-size: 13px; margin: 0 0 10px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: .03em; }
+  @media (max-width: 720px) {
+    .leaderboard-grid { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 480px) {
+    .mini-panels { grid-template-columns: 1fr; }
+    .rank-item .spark { display: none; }
+  }
+
+  ul.rank-list { list-style: none; margin: 0; padding: 0; }
+  .rank-item { display: flex; align-items: center; gap: 10px; padding: 9px 2px; border-bottom: 1px solid var(--gridline); }
+  .rank-item:last-child { border-bottom: none; }
+  .rank-num { width: 22px; height: 22px; border-radius: 50%; background: var(--page); border: 1px solid var(--border);
+    color: var(--text-secondary); font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .rank-num.gold { background: var(--rank-gold); color: #ffffff; border-color: var(--rank-gold); }
+  .rank-num.silver { background: var(--rank-silver); color: #ffffff; border-color: var(--rank-silver); }
+  .rank-num.bronze { background: var(--rank-bronze); color: #ffffff; border-color: var(--rank-bronze); }
+  .rank-info { flex: 1; min-width: 0; }
+  .rank-name { font-weight: 600; font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .rank-meta { font-size: 11px; color: var(--text-muted); margin-top: 1px; display: flex; align-items: center; gap: 6px; }
+  .rank-meta .tag { font-size: 10px; padding: 0 6px; }
+  .rank-item .spark { flex-shrink: 0; display: block; }
+  .rank-item .delta { flex-shrink: 0; font-size: 13px; }
 </style>
 </head>
 <body>
@@ -116,6 +161,28 @@
   <p class="subtitle">Daily NAV tracking for India's Specialised Investment Funds (Regular Plan), sourced directly from AMFI.</p>
 
   <div class="kpis" id="kpis"></div>
+
+  <div class="aum-panel" id="aumPanel"></div>
+
+  <div class="leaderboard-grid">
+    <div class="panel">
+      <div class="section-head">
+        <h2>Top 5 SIFs — Annualised Return</h2>
+        <span class="live-badge"><span class="live-dot"></span>Updates with each daily NAV</span>
+      </div>
+      <ul class="rank-list" id="top5List"></ul>
+    </div>
+    <div class="mini-panels">
+      <div class="panel">
+        <h3>Top Equity Long-Short</h3>
+        <ul class="rank-list" id="topEquityList"></ul>
+      </div>
+      <div class="panel">
+        <h3>Top Hybrid Long-Short</h3>
+        <ul class="rank-list" id="topHybridList"></ul>
+      </div>
+    </div>
+  </div>
 
   <div class="panel">
     <h2>All SIF schemes</h2>
@@ -131,9 +198,12 @@
             <th style="width:30px"></th>
             <th data-sort="scheme_name">Scheme</th>
             <th data-sort="provider">Provider</th>
+            <th data-sort="inception_date" class="num">Inception</th>
             <th data-sort="latest_nav" class="num">Latest NAV</th>
-            <th data-sort="change_1d_pct" class="num">1D Chg</th>
-            <th data-sort="change_since_first_pct" class="num">Since Tracked</th>
+            <th data-sort="return_annualised_pct" class="num">Annualised</th>
+            <th data-sort="return_1m_pct" class="num">1M</th>
+            <th data-sort="return_3m_pct" class="num">3M</th>
+            <th data-sort="change_since_first_pct" class="num">SI</th>
           </tr>
         </thead>
         <tbody id="tableBody"></tbody>
@@ -155,6 +225,9 @@
   </div>
 
   <footer class="disclaimer">
+    Annualised returns for schemes with less than 1 year of tracked history are extrapolated from a
+    shorter period and can change significantly as more history accumulates — treat them as an estimate,
+    not a lived full-year return.
     Data source: AMFI (Association of Mutual Funds in India), SIF NAV history, updated once daily after
     the day's NAV strike. NAV values shown are end-of-day, not intraday/live prices. Past performance is
     not indicative of future returns. This page is for informational purposes only and is not investment
@@ -187,9 +260,34 @@ function shortCategory(cat) {
   return m ? m[1].trim() : cat;
 }
 
+function cleanSchemeName(name) {
+  // The dashboard only ever shows Regular Plan + Growth option (see
+  // build_site_data.py), so those suffixes AMFI bakes into scheme names are
+  // pure noise here - strip them (any order/casing/punctuation) instead of
+  // repeating what's already implied by every row on the page.
+  let n = name.trim();
+  const trailing = /[\s-]*\b(regular\s*plan|growth\s*option|regular|growth|plan|option)\s*$/i;
+  let prev;
+  do {
+    prev = n;
+    n = n.replace(trailing, '').trim();
+  } while (n !== prev && n.length > 0);
+  return n || name;
+}
+
+let AUM = null;
+
 async function init() {
   const res = await fetch('data.json');
   DATA = await res.json();
+  DATA.schemes.forEach(s => { s.inception_date = s.series[0].date; });
+
+  try {
+    const aumRes = await fetch('aum.json', { cache: 'no-store' });
+    AUM = aumRes.ok ? await aumRes.json() : null;
+  } catch (e) {
+    AUM = null; // best-effort - the page works fine without it
+  }
 
   document.getElementById('asOf').textContent = `Data as of ${DATA.generated_at_data_date}`;
 
@@ -207,6 +305,8 @@ async function init() {
   });
 
   renderKpis();
+  renderAum();
+  renderLeaderboards();
   renderTable();
 
   cat.addEventListener('change', renderTable);
@@ -215,18 +315,90 @@ async function init() {
   document.getElementById('toggleTableView').addEventListener('click', toggleChartTableView);
 }
 
+function isHybrid(cat) { return cat.includes('Hybrid'); }
+
 function renderKpis() {
   const providers = DATA.providers.length;
-  const categories = DATA.categories.length;
   const schemes = DATA.schemes.length;
   const dates = new Set();
   DATA.schemes.forEach(s => s.series.forEach(p => dates.add(p.date)));
+  const hybridCount = DATA.schemes.filter(s => isHybrid(s.category)).length;
+  const equityCount = schemes - hybridCount;
+  const ranked = DATA.schemes.filter(s => s.return_annualised_pct !== null)
+    .sort((a, b) => b.return_annualised_pct - a.return_annualised_pct);
+  const top = ranked[0];
+
   document.getElementById('kpis').innerHTML = `
     <div class="kpi"><div class="val">${schemes}</div><div class="lbl">Schemes tracked</div></div>
     <div class="kpi"><div class="val">${providers}</div><div class="lbl">SIF providers</div></div>
-    <div class="kpi"><div class="val">${categories}</div><div class="lbl">Strategy categories</div></div>
+    <div class="kpi"><div class="val">${equityCount}</div><div class="lbl">Equity-oriented funds</div></div>
+    <div class="kpi"><div class="val">${hybridCount}</div><div class="lbl">Hybrid funds</div></div>
     <div class="kpi"><div class="val">${dates.size}</div><div class="lbl">Days of history</div></div>
+    <div class="kpi hero"><div class="val">${top ? fmtPct(top.return_annualised_pct) : '—'}</div>
+      <div class="lbl-name">${top ? cleanSchemeName(top.scheme_name) : '—'}</div><div class="lbl">Top performer (annualised)</div></div>
   `;
+}
+
+function renderAum() {
+  const el = document.getElementById('aumPanel');
+  if (!AUM || !AUM.grand_total || AUM.grand_total.net_aum_cr == null) {
+    el.innerHTML = `
+      <div class="aum-label"><strong>Category AUM</strong> — sourced monthly from AMFI's official SIF report (no per-scheme AUM exists anywhere for SIFs today).</div>
+      <div class="aum-status">Waiting on the next monthly report from AMFI.</div>`;
+    return;
+  }
+  const gt = AUM.grand_total;
+  el.innerHTML = `
+    <div class="aum-label"><strong>₹${gt.net_aum_cr.toLocaleString('en-IN')} Cr</strong> total SIF industry AUM (as of ${AUM.as_of || AUM.report_month})</div>
+    <div class="aum-status">Category-level, from AMFI's monthly report — refreshes automatically each month.</div>`;
+}
+
+const MEDAL_CLASS = ['gold', 'silver', 'bronze'];
+
+function sparklineSvg(series) {
+  const pts = series.slice(-30);
+  if (pts.length < 2) return '';
+  const vals = pts.map(p => p.nav);
+  const min = Math.min(...vals), max = Math.max(...vals);
+  const w = 56, h = 22, pad = 2;
+  const x = i => pad + (i / (pts.length - 1)) * (w - pad * 2);
+  const y = v => h - pad - ((v - min) / ((max - min) || 1)) * (h - pad * 2);
+  const d = pts.map((p, i) => `${i === 0 ? 'M' : 'L'}${x(i).toFixed(1)},${y(p.nav).toFixed(1)}`).join(' ');
+  const positive = pts[pts.length - 1].nav >= pts[0].nav;
+  const color = cssVar(positive ? '--good' : '--critical');
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+    <path d="${d}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>`;
+}
+
+function rankRow(s, i, opts) {
+  opts = opts || {};
+  const medal = MEDAL_CLASS[i] ? ` ${MEDAL_CLASS[i]}` : '';
+  const tag = opts.showCategory ? `<span class="tag">${isHybrid(s.category) ? 'Hybrid' : 'Equity'}</span>` : '';
+  return `
+    <li class="rank-item">
+      <div class="rank-num${medal}">${i + 1}</div>
+      <div class="rank-info">
+        <div class="rank-name">${cleanSchemeName(s.scheme_name)}</div>
+        <div class="rank-meta">${tag}${s.provider} · Since ${s.inception_date}</div>
+      </div>
+      ${sparklineSvg(s.series)}
+      ${fmtPct(s.return_annualised_pct)}
+    </li>`;
+}
+
+function renderLeaderboards() {
+  const ranked = DATA.schemes.filter(s => s.return_annualised_pct !== null)
+    .sort((a, b) => b.return_annualised_pct - a.return_annualised_pct);
+  const top5 = ranked.slice(0, 5);
+  const topEquity = ranked.filter(s => !isHybrid(s.category)).slice(0, 3);
+  const topHybrid = ranked.filter(s => isHybrid(s.category)).slice(0, 3);
+
+  document.getElementById('top5List').innerHTML = top5.map((s, i) => rankRow(s, i, { showCategory: true })).join('');
+  document.getElementById('topEquityList').innerHTML = topEquity.length
+    ? topEquity.map((s, i) => rankRow(s, i)).join('') : '<li class="rank-item"><div class="rank-meta">Not enough history yet.</div></li>';
+  document.getElementById('topHybridList').innerHTML = topHybrid.length
+    ? topHybrid.map((s, i) => rankRow(s, i)).join('') : '<li class="rank-item"><div class="rank-meta">Not enough history yet.</div></li>';
 }
 
 function filteredSchemes() {
@@ -254,11 +426,13 @@ function renderTable() {
     <tr class="compare-row">
       <td><input type="checkbox" data-code="${s.scheme_code}" ${compareSet.has(s.scheme_code) ? 'checked' : ''}
           ${!compareSet.has(s.scheme_code) && compareSet.size >= MAX_COMPARE ? 'disabled' : ''}></td>
-      <td><div class="scheme-name">${s.scheme_name}</div>
-          <div class="scheme-meta"><span class="tag">${s.option}</span></div></td>
+      <td><div class="scheme-name">${cleanSchemeName(s.scheme_name)}</div></td>
       <td>${s.provider}<div class="scheme-meta">${shortCategory(s.category)}</div></td>
+      <td class="num">${s.inception_date}</td>
       <td class="num">${s.latest_nav.toFixed(4)}</td>
-      <td class="num">${fmtPct(s.change_1d_pct)}</td>
+      <td class="num">${fmtPct(s.return_annualised_pct)}</td>
+      <td class="num">${fmtPct(s.return_1m_pct)}</td>
+      <td class="num">${fmtPct(s.return_3m_pct)}</td>
       <td class="num">${fmtPct(s.change_since_first_pct)}</td>
     </tr>
   `).join('');
@@ -302,7 +476,7 @@ function renderChart() {
     const base = s.series[0].nav;
     return {
       code: s.scheme_code,
-      name: s.scheme_name,
+      name: cleanSchemeName(s.scheme_name),
       color: cssVar(COLORS[i % COLORS.length]),
       points: s.series.map(p => ({ date: p.date, val: (p.nav / base) * 100, raw: p.nav })),
     };
@@ -388,7 +562,7 @@ function toggleChartTableView() {
   document.getElementById('chartSvg').style.display = showing ? 'block' : 'none';
   if (!showing) {
     const selected = DATA.schemes.filter(s => compareSet.has(s.scheme_code));
-    const indexed = selected.map((s, i) => ({ name: s.scheme_name, color: cssVar(COLORS[i % COLORS.length]), points: s.series.map(p => ({date:p.date, val:(p.nav/s.series[0].nav)*100})) }));
+    const indexed = selected.map((s, i) => ({ name: cleanSchemeName(s.scheme_name), color: cssVar(COLORS[i % COLORS.length]), points: s.series.map(p => ({date:p.date, val:(p.nav/s.series[0].nav)*100})) }));
     renderChartTable(indexed);
   }
 }
