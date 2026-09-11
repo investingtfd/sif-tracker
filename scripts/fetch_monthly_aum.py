@@ -200,6 +200,39 @@ def _rows_from_xls(content: bytes):
     return _parse_table(rows, text)
 
 
+def _diagnose(url: str, content: bytes):
+    """Printed to the Actions log on a parse failure so the actual file
+    structure can be inspected from the log alone - AMFI's site is blocked
+    from the dev sandbox this was built in, so this is the only window into
+    what the real file looks like."""
+    print(f"--- diagnostics for {url} ({len(content)} bytes) ---")
+    print("first 16 bytes (hex):", content[:16].hex())
+    looks_html = b"<table" in content.lower() or b"<html" in content.lower()
+    print("looks like HTML:", looks_html)
+    if looks_html:
+        try:
+            import pandas as pd
+            tables = pd.read_html(io.BytesIO(content))
+            print(f"pandas found {len(tables)} table(s)")
+            for i, t in enumerate(tables):
+                print(f"  table {i}: shape={t.shape} columns={list(t.columns)[:12]}")
+                print(f"    first data row: {t.iloc[0].tolist()[:12] if len(t) else '(empty)'}")
+        except Exception as e:
+            print("pandas.read_html raised:", repr(e))
+    else:
+        try:
+            import xlrd
+            book = xlrd.open_workbook(file_contents=content)
+            for si in range(book.nsheets):
+                sheet = book.sheet_by_index(si)
+                print(f"  sheet {si} '{sheet.name}': {sheet.nrows}x{sheet.ncols}")
+                for r in range(min(sheet.nrows, 15)):
+                    print(f"    row {r}: {[sheet.cell_value(r, c) for c in range(min(sheet.ncols, 12))]}")
+        except Exception as e:
+            print("xlrd raised:", repr(e))
+    print("--- end diagnostics ---")
+
+
 def run() -> int:
     today = dt.date.today()
     for url, tag in _candidate_urls(today):
@@ -209,6 +242,7 @@ def run() -> int:
         parsed = _rows_from_html(content) or _rows_from_xls(content)
         if not parsed:
             print(f"Found a report at {url} but couldn't parse it - format may have changed.")
+            _diagnose(url, content)
             continue
 
         payload = {
