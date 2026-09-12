@@ -9839,15 +9839,19 @@
         {
           "date": "2026-09-10",
           "nav": 10.5056
+        },
+        {
+          "date": "2026-09-11",
+          "nav": 10.4868
         }
       ],
-      "latest_date": "2026-09-10",
-      "latest_nav": 10.5056,
-      "change_since_first_pct": 4.86,
-      "change_1d_pct": -0.02,
-      "return_1m_pct": 0.21,
-      "return_3m_pct": 4.18,
-      "return_annualised_pct": 11.14
+      "latest_date": "2026-09-11",
+      "latest_nav": 10.4868,
+      "change_since_first_pct": 4.67,
+      "change_1d_pct": -0.18,
+      "return_1m_pct": -0.13,
+      "return_3m_pct": 3.26,
+      "return_annualised_pct": 10.63
     },
     {
       "scheme_code": "SIF-93",
