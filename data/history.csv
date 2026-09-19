@@ -13546,6 +13546,8 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-09-18,SIF-121,Altiva Equity Ex- Top 100 Long - Short Fund,Altiva SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW,10.9671,INF754K30102,INF754K30110
 2026-09-18,SIF-122,Altiva Equity Ex- Top 100 Long - Short Fund,Altiva SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Growth,10.918,INF754K30136,
 2026-09-18,SIF-123,Altiva Equity Ex- Top 100 Long - Short Fund,Altiva SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW,10.9177,INF754K30144,
+2026-09-18,SIF-124,iSIF Active Asset Allocator Long-Short Fund,iSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Regular,Unknown,10.3824,INF109K30059,
+2026-09-18,SIF-125,iSIF Active Asset Allocator Long-Short Fund,iSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Regular,Unknown,10.4246,INF109K30067,
 2026-09-18,SIF-126,iSIF Equity Long-Short Fund,iSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,10.74,INF109K30075,
 2026-09-18,SIF-127,iSIF Equity Long-Short Fund,iSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Unknown,10.78,INF109K30083,
 2026-09-18,SIF-128,RedHex Hybrid Long-Short Fund,RedHex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Growth,10.2275,INF336L30015,
@@ -13625,6 +13627,10 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-09-18,SIF-80,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,GROWTH,10.7054,INF209K30040,
 2026-09-18,SIF-81,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,IDCW,10.7054,INF209K30057,INF209K30065
 2026-09-18,SIF-83,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,IDCW,10.7647,INF209K30024,INF209K30032
+2026-09-18,SIF-86,DynaSIF Active Asset Allocator Long-Short Fund,DynaSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Direct,IDCW Option,10.5803,INF579M30117,INF579M30125
+2026-09-18,SIF-87,DynaSIF Active Asset Allocator Long-Short Fund,DynaSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Regular,GROWTH OPTION,10.5135,INF579M30075,
+2026-09-18,SIF-88,DynaSIF Active Asset Allocator Long-Short Fund,DynaSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Direct,GROWTH OPTION,10.5803,INF579M30109,
+2026-09-18,SIF-89,DynaSIF Active Asset Allocator Long-Short Fund,DynaSIF SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Regular,IDCW Option,10.5135,INF579M30083,INF579M30091
 2026-09-18,SIF-9,Altiva Hybrid Long-Short Fund,Altiva SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Growth,11.1413,INF754K30011,
 2026-09-18,SIF-90,qsif Active Asset Allocator Long-Short Fund,qsif SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Direct,Growth Option,13.1582,INF966L30241,
 2026-09-18,SIF-91,qsif Active Asset Allocator Long-Short Fund,qsif SIF,Interval Fund Schemes(Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund),Regular,IDCW Option,13.0728,INF966L30225,INF966L30233
