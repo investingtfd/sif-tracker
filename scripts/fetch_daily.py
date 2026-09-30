@@ -51,6 +51,28 @@ def save_history(path: str, rows_by_key: dict):
         writer.writerows(rows)
 
 
+def heal_blank_plan_option(rows_by_key: dict) -> int:
+    """AMFI sometimes ships a scheme with blank Plan/Option columns and a
+    stripped-down name (seen for all iSIF schemes from 09-Sep-2026). The name
+    heuristic then labels BOTH the Direct and Regular codes as
+    Regular/Unknown, which the site filters out - so those funds silently
+    froze on the site. Scheme codes are stable, so reuse the last properly
+    labelled plan/option (and fuller name) seen for the same code. Runs over
+    the whole history, so it also repairs rows already stored."""
+    known = {}
+    for (d, code), r in sorted(rows_by_key.items()):
+        if r.get("option") and r["option"] != "Unknown":
+            known[code] = (r["plan"], r["option"], r["scheme_name"])
+    fixed = 0
+    for r in rows_by_key.values():
+        if r.get("option") in ("", "Unknown") and r["scheme_code"] in known:
+            r["plan"], r["option"], r["scheme_name"] = known[r["scheme_code"]]
+            fixed += 1
+    if fixed:
+        print(f"Healed plan/option on {fixed} row(s) with blank AMFI columns")
+    return fixed
+
+
 def run(text: str | None = None) -> int:
     text = text if text is not None else fetch_source()
     parsed = parse_latest_nav(text)
@@ -61,6 +83,8 @@ def run(text: str | None = None) -> int:
     for r in parsed:
         key = (r["date"], r["scheme_code"])
         existing[key] = {k: (r.get(k) or "") for k in FIELDNAMES}
+
+    heal_blank_plan_option(existing)
 
     save_history(HISTORY_PATH, existing)
     dates = sorted(set(k[0] for k in existing))
