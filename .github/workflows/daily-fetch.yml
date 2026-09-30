@@ -39,12 +39,17 @@ jobs:
           pip install --quiet pandas lxml xlrd
           python3 scripts/fetch_monthly_aum.py
 
+      - name: Fetch benchmark indices (best-effort)
+        continue-on-error: true  # index data is a nice-to-have; never block the NAV publish
+        run: python3 scripts/fetch_indices.py
+
       - name: Commit updated data if changed
         run: |
           git config user.name "sif-dashboard-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/history.csv site/data.json
           [ -f site/aum.json ] && git add site/aum.json || true
+          [ -f site/indices.json ] && git add site/indices.json || true
           git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
           git push
 
