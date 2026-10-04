@@ -1,0 +1,49 @@
+(()=>{const T={};
+T.readXlsx=async(url)=>{const buf=new Uint8Array(await (await fetch(url)).arrayBuffer());if(buf[0]!==0x50)throw 'not zip: '+Array.from(buf.slice(0,4)).join(',')+' len '+buf.length;const dv=new DataView(buf.buffer);let e=buf.length-22;while(e>0&&dv.getUint32(e,true)!==0x06054b50)e--;const n=dv.getUint16(e+10,true);let p=dv.getUint32(e+16,true);const files={};
+for(let i=0;i<n;i++){const comp=dv.getUint16(p+10,true),cs=dv.getUint32(p+20,true),nl=dv.getUint16(p+28,true),el=dv.getUint16(p+30,true),cl=dv.getUint16(p+32,true),off=dv.getUint32(p+42,true);const name=new TextDecoder().decode(buf.slice(p+46,p+46+nl));const lnl=dv.getUint16(off+26,true),lel=dv.getUint16(off+28,true);files[name]={comp,data:buf.slice(off+30+lnl+lel,off+30+lnl+lel+cs)};p+=46+nl+el+cl}
+const read=async name=>{const f=files[name];if(!f)return null;if(f.comp===0)return new TextDecoder().decode(f.data);return await new Response(new Blob([f.data]).stream().pipeThrough(new DecompressionStream('deflate-raw'))).text()};
+const X=t=>new DOMParser().parseFromString(t,'application/xml');
+const sst=await read('xl/sharedStrings.xml');const ss=sst?Array.from(X(sst).getElementsByTagName('si')).map(si=>Array.from(si.getElementsByTagName('t')).map(t=>t.textContent).join('')):[];
+const wb=X(await read('xl/workbook.xml'));const rels=X(await read('xl/_rels/workbook.xml.rels'));const rmap={};Array.from(rels.getElementsByTagName('Relationship')).forEach(r=>rmap[r.getAttribute('Id')]=r.getAttribute('Target'));
+const colI=ref=>{let x=0;for(const ch of ref.replace(/\d+/g,''))x=x*26+ch.charCodeAt(0)-64;return x-1};const out=[];
+for(const s of Array.from(wb.getElementsByTagName('sheet'))){const rid=s.getAttribute('r:id');let tg=(rmap[rid]||'').replace(/^\/?(xl\/)?/,'xl/');const xml=await read(tg);if(!xml)continue;
+const rows=Array.from(X(xml).getElementsByTagName('row')).map(r=>Array.from(r.getElementsByTagName('c')).map(c=>{const t=c.getAttribute('t');let v;if(t==='inlineStr'){v=Array.from(c.getElementsByTagName('t')).map(x=>x.textContent).join('')}else{const ve=c.getElementsByTagName('v')[0];if(!ve)return null;v=t==='s'?ss[+ve.textContent]:((t==='str'||t==='e')?ve.textContent:+ve.textContent)}return [colI(c.getAttribute('r')),v]}).filter(Boolean));out.push({name:s.getAttribute('name'),rows})}
+return out};
+T.parse=(rows,hybrid)=>{const r2=v=>Math.round(v*100)/100;const txt=v=>typeof v==='string'?v.replace(/\s+/g,' ').trim():'';
+const hi=rows.findIndex(r=>r.some(c=>/name of (the )?instrument|^instrument$|^issuer|^security name|name of security/i.test(txt(c[1])))&&r.some(c=>/%/.test(txt(c[1]))));
+if(hi<0)return {err:'no header',first:rows.slice(0,8).map(r=>r.map(c=>String(c[1]).slice(0,40)).join(' | '))};
+const H=rows[hi];const find=re=>{const c=H.find(c=>re.test(txt(c[1])));return c?c[0]:null};
+const cN=find(/name of (the )?instrument|^instrument$|^issuer|security/i),cI=find(/^isin/i),cD=find(/industry|rating/i),cV=find(/market|fair value|value/i),cP=find(/%/);
+const g=(r,c)=>{if(c==null)return null;const x=r.find(k=>k[0]===c);return x?x[1]:null};
+const pre=rows.slice(0,hi).map(r=>r.map(c=>typeof c[1]==='string'?txt(c[1]):'').join(' ')).join(' ');const unitTxt=(txt(g(H,cV))+' '+pre).toLowerCase();
+let sec='',sub='',Hd=[],gt=null,end=rows.length;const secs=[];
+const TOP=/^(equity|debt|money market|derivative|others?\b|treps|tri-?party|foreign|commod|reverse repo|government|cash|net (current|receiv)|mutual fund|reit|invit|alternative|units of|exchange traded|short term|fixed deposit|margin|listed|unlisted)/i;
+for(let i=hi+1;i<rows.length;i++){const r=rows[i];let name=txt(g(r,cN));if(!name){const f=r.find(c=>typeof c[1]==='string'&&txt(c[1]));name=f?txt(f[1]):''}if(!name)continue;const low=name.toLowerCase();const pv=g(r,cP),vv=g(r,cV);const pct=typeof pv==='number'?pv:null,val=typeof vv==='number'?vv:null;
+if(/^(grand total|net assets|total net assets)/.test(low)){gt={val,pct};end=i;break}
+if(/^(sub ?-?total|total)\b/.test(low))continue;
+if(pct===null&&val===null){if(/^\(?[a-z0-9]{1,3}\)/.test(low)&&sec){sub=low}else if(TOP.test(low)){sec=low;sub='';secs.push(name.slice(0,40))}else{sub=low}continue}
+if(pct===null)continue;Hd.push({sec,sub,name,ind:txt(g(r,cD)),pct,val})}
+const nf=Hd.filter(h=>!/future/.test(h.sec+' '+h.sub));const sumAll=nf.reduce((a,h)=>a+h.pct,0);const sc=gt&&gt.pct?(gt.pct>50?100:1):(sumAll>50?100:1);Hd.forEach(h=>h.p=h.pct/sc*100);
+let na=gt&&gt.val?gt.val:nf.reduce((a,h)=>a+(h.val||0),0);let na_cr=/crore|in cr/.test(unitTxt)?na:(/lakh|lac/.test(unitTxt)?na/100:(na>1e8?na/1e7:na/100));
+const B=h=>{const s=h.sec+' '+h.sub,n=h.name.toLowerCase();if(/future/.test(s))return 'fut';if(/option/.test(s))return 'opt';if(/^deriv/.test(h.sec))return /option| ce | pe |call|put/.test(' '+n+' ')?'opt':'fut';if(/real estate investment|reit/.test(s)||/\breit\b/.test(n))return 'reit';if(/infrastructure investment|invit/.test(s)||/\binvit\b/.test(n))return 'invit';if(/^equity|^foreign|^listed|^unlisted/.test(h.sec))return 'eq';if(/mutual fund|units of|exchange traded/.test(s))return 'mf';return 'fi'};
+Hd.forEach(h=>h.b=B(h));const S={};Hd.forEach(h=>S[h.b]=(S[h.b]||0)+h.p);Object.keys(S).forEach(k=>S[k]=r2(S[k]));
+const key=n=>n.toLowerCase().split(/\b(?:ltd|limited)\b/)[0].replace(/[^a-z0-9]/g,'');
+const top=(a,n,asc)=>a.slice().sort((x,y)=>asc?x.p-y.p:y.p-x.p).slice(0,n).map(h=>[h.name.replace(/\s*[*#@$^]+$/,''),h.ind,r2(h.p)]);
+const eq=Hd.filter(h=>h.b==='eq'),fut=Hd.filter(h=>h.b==='fut'),opt=Hd.filter(h=>h.b==='opt'),fi=Hd.filter(h=>h.b==='fi'&&!/net receiv|net current|cash|accrued|margin|treps|tri-?party|reverse repo|clearing corp/i.test(h.name));
+const secm={};eq.forEach(h=>{const k=h.ind||'Unclassified';secm[k]=(secm[k]||0)+h.p});const sl=Object.entries(secm).sort((a,b)=>b[1]-a[1]);const sectors=sl.slice(0,5).map(x=>[x[0],r2(x[1])]);const rest=sl.slice(5).reduce((a,x)=>a+x[1],0);if(rest>0.005)sectors.push(['Other sectors',r2(rest)]);
+const net={},ind={},hasO={};eq.forEach(h=>{const k=key(h.name);net[k]=(net[k]||0)+h.p;ind[k]=[h.name,h.ind]});fut.forEach(h=>{const k=key(h.name);net[k]=(net[k]||0)+h.p;if(!ind[k])ind[k]=[h.name,h.ind]});opt.forEach(h=>{hasO[key(h.name)]=1});
+const hedgedNames={};fut.forEach(h=>hedgedNames[key(h.name)]=1);
+const un=Object.keys(net).filter(k=>!hasO[k]||0>net[k]).map(k=>({name:ind[k][0],ind:ind[k][1],p:net[k],b:'x'})).filter(h=>Math.abs(h.p)>0.005);
+const hasD=fut.length+opt.length>0;const unh=hasD?un.slice().sort((a,b)=>Math.abs(b.p)-Math.abs(a.p)).slice(0,5).map(h=>[h.name.replace(/\s*[*#@$^]+$/,''),h.ind,r2(h.p)]):top(eq,5);
+const unSum=un.filter(h=>!hedgedNames[key(h.name)]).reduce((a,h)=>a+h.p,0);
+const eqp=S.eq||0,optp=S.opt||0,fip=S.fi||0,ri=(S.reit||0)+(S.invit||0),mfp=S.mf||0;let split=[];
+split.push([hybrid?'Arbitrage (hedged equity)':'Equity',r2(eqp+(hasD?optp:0))]);split.push(['Fixed income',r2(fip)]);if(ri)split.push(['REITs and InvITs',r2(ri)]);if(mfp)split.push(['Mutual fund units',r2(mfp)]);split=split.filter(x=>Math.abs(x[1])>=0.01).sort((a,b)=>b[1]-a[1]);
+const all=rows.map(r=>r.map(c=>typeof c[1]==='string'?c[1]:'').join(' | ')).join('\n');const rb=Array.from(all.matchAll(/risk[\s-]*band[^\n]{0,30}?(?:level)?\s*[-:–]?\s*(\d)/gi)).map(m=>+m[1]);const rbRaw=(all.match(/[^\n]{0,60}risk[\s-]*band[^\n]{0,80}/gi)||[]).slice(0,4);
+let turn=null;const tr=rows.find(r=>r.some(c=>/portfolio turnover/i.test(txt(c[1]))));if(tr){const n=tr.filter(c=>typeof c[1]==='number');if(n.length)turn=r2(n[n.length-1][1])}
+const dr=rows.find(r=>r.some(c=>/gross exposure to derivative/i.test(txt(c[1]))));let dge=null;if(dr){const xs=dr.slice(1).map(c=>typeof c[1]==='number'?c[1]:parseFloat(String(c[1]).replace(/,/g,''))).filter(x=>!isNaN(x));if(xs.length)dge=r2(xs[xs.length-1]/(na/na_cr))}
+const mon='jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec';const dm=pre.match(new RegExp('(\\d{1,2})(?:st|nd|rd|th)?[\\s,.-]*('+mon+')[a-z]*[\\s,.-]*(\\d{4})','i'))||pre.match(new RegExp('('+mon+')[a-z]*[\\s,.-]*(\\d{1,2})(?:st|nd|rd|th)?[\\s,.-]*(\\d{4})','i'));
+const f={allocation:Object.entries(S).map(x=>[x[0],x[1]]),net_assets_cr:r2(na_cr),top_equity:top(eq,10),top_debt:top(fi,5),top_shorts:top(fut.filter(h=>0>h.p),5,true),equity_gross_pct:r2(eqp),equity_net_pct:r2(eqp+(S.fut||0)+optp),holdings_count:Hd.length,turnover_ratio:turn,derivative_gross_exposure_cr:dge!=null?dge:(hasD?r2(fut.reduce((a,h)=>a+Math.abs(h.p),0)/100*na_cr):0),derivative_basis:dge!=null?'amc':(hasD?'futures':'none'),risk_band:rb.length?rb[0]:null,benchmark_risk_band:rb.length>1?rb[1]:null,sectors,split,unhedged:unh};
+if(hybrid&&hasD){f.sector_note='Share of the fund held in stocks ('+eqp.toFixed(1)+'%), before futures and options hedges';f.unhedged_note='Stocks with no matching futures or options hedge add up to about '+Math.abs(unSum).toFixed(1)+'% of the fund. The rest of the stock book is hedged.'}
+return {f,diag:{hi,cols:[cN,cI,cD,cV,cP],hdr:H.map(c=>String(c[1]).slice(0,22)).join(' | '),n:Hd.length,gt,sc,sums:S,splitSum:r2(split.reduce((a,x)=>a+x[1],0)),secs:secs.slice(0,14),date:dm?dm[0]:null,pre:pre.slice(0,160),rbRaw,unit:unitTxt.slice(0,60)}}};
+T.sum=(S,hy)=>S.map(s=>{const p=T.parse(s.rows,hy);return {name:s.name,rows:s.rows.length,res:p.err?p:{diag:p.diag,na:p.f.net_assets_cr,rb:p.f.risk_band,split:p.f.split,top:p.f.top_equity.slice(0,2),unh:p.f.unhedged.slice(0,3),deb:p.f.top_debt.slice(0,2),dg:[p.f.derivative_gross_exposure_cr,p.f.derivative_basis],turn:p.f.turnover_ratio}}});
+window.T=T})();
