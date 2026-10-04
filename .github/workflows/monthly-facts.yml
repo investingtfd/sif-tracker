@@ -1,11 +1,9 @@
 name: Fund facts from AMC monthly disclosures
 
 on:
-  schedule:
-    # 01:15 UTC, daily from the 3rd to the 20th. AMCs upload the previous
-    # month's portfolio around the 10th; re-checking daily is cheap and the
-    # script only rewrites facts.json when it finds a newer workbook.
-    - cron: '15 1 3-20 * *'
+  # Schedule switched off: edelweissmf.com answers GitHub's servers with
+  # "403 Access Denied", so a scheduled run cannot reach the page. Manual
+  # runs stay available for testing.
   workflow_dispatch: {}
 
 permissions:
