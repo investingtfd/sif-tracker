@@ -166,31 +166,19 @@
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "split": [
     [
-     "Arbitrage and covered call",
-     42
-    ],
-    [
      "Fixed income",
-     42
+     57.24
     ],
     [
-     "Other derivative strategies",
-     13
+     "Arbitrage (hedged equity)",
+     36.78
     ],
     [
      "REITs and InvITs",
-     6
-    ],
-    [
-     "Special situations",
-     2
-    ],
-    [
-     "Others (net)",
-     -5
+     5.98
     ]
    ],
-   "split_source": "Edelweiss Mutual Fund factsheet (strategy split)",
+   "split_source": "Edelweiss Mutual Fund monthly portfolio disclosure",
    "sectors": [
     [
      "Finance",
@@ -224,7 +212,35 @@
      "Industrial Products",
      -1
     ]
-   ]
+   ],
+   "unhedged": [
+    [
+     "Polycab India Ltd.",
+     "Industrial Products",
+     -1
+    ],
+    [
+     "Hindustan Copper Ltd.",
+     "Non - Ferrous Metals",
+     0.43
+    ],
+    [
+     "Blue Jet Healthcare Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     0.27
+    ],
+    [
+     "Amagi Media Labs Ltd.",
+     "IT - Services",
+     0.27
+    ],
+    [
+     "CreditAccess Grameen Ltd.",
+     "Finance",
+     0.26
+    ]
+   ],
+   "unhedged_note": "Stocks with no matching futures or options hedge add up to about 1.9% of the fund. The rest of the stock book is hedged."
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -315,7 +331,7 @@
      98.11
     ],
     [
-     "Cash and TREPS",
+     "Fixed income",
      1.89
     ]
    ],
@@ -346,7 +362,34 @@
      53.68
     ]
    ],
-   "net_shorts": []
+   "net_shorts": [],
+   "unhedged": [
+    [
+     "Bharti Hexacom Ltd.",
+     "Telecom - Services",
+     3.61
+    ],
+    [
+     "360 ONE WAM Ltd.",
+     "Capital Markets",
+     3.43
+    ],
+    [
+     "Radico Khaitan Ltd.",
+     "Beverages",
+     3.36
+    ],
+    [
+     "Akums Drugs & Pharmaceuticals Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     3.33
+    ],
+    [
+     "JSW Infrastructure Ltd.",
+     "Transport Infrastructure",
+     3.28
+    ]
+   ]
   }
  }
 }
