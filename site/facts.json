@@ -1,0 +1,253 @@
+{
+ "updated_at": "2026-10-04T12:19:35.012Z",
+ "funds": {
+  "SIF-11": {
+   "name": "Altiva Hybrid Long-Short Fund",
+   "as_of": "2026-08-31",
+   "allocation": [
+    [
+     "Equity",
+     38.2
+    ],
+    [
+     "Bonds",
+     27.07
+    ],
+    [
+     "TREPS",
+     14.99
+    ],
+    [
+     "Treasury bills",
+     12.28
+    ],
+    [
+     "REITs",
+     3.32
+    ],
+    [
+     "InvITs",
+     2.66
+    ],
+    [
+     "Certificates of deposit",
+     1.56
+    ],
+    [
+     "Cash and other",
+     1.34
+    ],
+    [
+     "Options",
+     -1.42
+    ],
+    [
+     "Futures",
+     -4.11
+    ]
+   ],
+   "net_assets_cr": 9267.63,
+   "top_equity": [
+    [
+     "Adani Enterprises Ltd.",
+     "Metals & Minerals Trading",
+     2.09
+    ],
+    [
+     "Adani Energy Solutions Ltd.",
+     "Power",
+     1.91
+    ],
+    [
+     "Titan Company Ltd.",
+     "Consumer Durables",
+     1.51
+    ],
+    [
+     "Indus Towers Ltd.",
+     "Telecom - Services",
+     1.5
+    ],
+    [
+     "Grasim Industries Ltd.",
+     "Cement & Cement Products",
+     1.47
+    ],
+    [
+     "Shriram Finance Ltd.",
+     "Finance",
+     1.37
+    ],
+    [
+     "Coal India Ltd.",
+     "Consumable Fuels",
+     1.31
+    ],
+    [
+     "One 97 Communications Ltd.",
+     "Financial Technology (Fintech)",
+     1.12
+    ],
+    [
+     "Bharat Heavy Electricals Ltd.",
+     "Electrical Equipment",
+     1.07
+    ],
+    [
+     "Mahindra & Mahindra Ltd.",
+     "Automobiles",
+     1.06
+    ]
+   ],
+   "top_debt": [
+    [
+     "7.44% REC Ltd. 29-Feb-2028 **",
+     "CRISIL AAA",
+     1.72
+    ],
+    [
+     "Small Industries Development Bank of India **",
+     "CRISIL A1+",
+     1.51
+    ],
+    [
+     "7.51% Small Industries Development Bank of India 12-Jun-2028 **",
+     "CRISIL AAA",
+     1.34
+    ],
+    [
+     "364 DAY T-BILL 08.10.26",
+     "Sovereign",
+     1.34
+    ],
+    [
+     "364 DAY T-BILL 19.11.26",
+     "Sovereign",
+     1.28
+    ]
+   ],
+   "top_shorts": [
+    [
+     "Adani Energy Solutions Ltd.",
+     "Power",
+     -1.17
+    ],
+    [
+     "Adani Enterprises Ltd.",
+     "Metals & Minerals Trading",
+     -1.1
+    ],
+    [
+     "Polycab India Ltd.",
+     "Industrial Products",
+     -1
+    ],
+    [
+     "One 97 Communications Ltd.",
+     "Financial Technology (Fintech)",
+     -0.62
+    ],
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     -0.43
+    ]
+   ],
+   "equity_gross_pct": 38.2,
+   "equity_net_pct": 32.67,
+   "holdings_count": 284,
+   "nav_regular_growth": 11.035,
+   "turnover_ratio": 3.33,
+   "derivative_gross_exposure_cr": 1318.73,
+   "benchmark": "NIFTY 50 Hybrid Composite Debt 15:85 Index",
+   "risk_band": 1,
+   "benchmark_risk_band": 2,
+   "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes"
+  },
+  "SIF-122": {
+   "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
+   "as_of": "2026-08-31",
+   "allocation": [
+    [
+     "Equity",
+     98.11
+    ],
+    [
+     "TREPS",
+     2.78
+    ],
+    [
+     "Cash and other",
+     -0.89
+    ]
+   ],
+   "net_assets_cr": 1366.06,
+   "top_equity": [
+    [
+     "Bharti Hexacom Ltd.",
+     "Telecom - Services",
+     3.61
+    ],
+    [
+     "360 ONE WAM Ltd.",
+     "Capital Markets",
+     3.43
+    ],
+    [
+     "Radico Khaitan Ltd.",
+     "Beverages",
+     3.36
+    ],
+    [
+     "Akums Drugs & Pharmaceuticals Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     3.33
+    ],
+    [
+     "JSW Infrastructure Ltd.",
+     "Transport Infrastructure",
+     3.28
+    ],
+    [
+     "CreditAccess Grameen Ltd.",
+     "Finance",
+     3.25
+    ],
+    [
+     "Emmvee Photovoltaic Power Ltd.",
+     "Electrical Equipment",
+     3.16
+    ],
+    [
+     "SPR Auto Technologies Ltd.",
+     "Auto Components",
+     3.09
+    ],
+    [
+     "Bharat Dynamics Ltd.",
+     "Aerospace & Defense",
+     3.05
+    ],
+    [
+     "Coforge Ltd.",
+     "IT - Software",
+     2.97
+    ]
+   ],
+   "top_debt": [],
+   "top_shorts": [],
+   "equity_gross_pct": 98.11,
+   "equity_net_pct": 98.11,
+   "holdings_count": 46,
+   "nav_regular_growth": 11.1636,
+   "turnover_ratio": 0.03,
+   "derivative_gross_exposure_cr": 0,
+   "benchmark": "Nifty 500 TRI",
+   "risk_band": 5,
+   "benchmark_risk_band": 3,
+   "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes"
+  }
+ }
+}
