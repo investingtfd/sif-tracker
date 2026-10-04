@@ -163,7 +163,68 @@
    "risk_band": 1,
    "benchmark_risk_band": 2,
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes"
+   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
+   "split": [
+    [
+     "Arbitrage and covered call",
+     42
+    ],
+    [
+     "Fixed income",
+     42
+    ],
+    [
+     "Other derivative strategies",
+     13
+    ],
+    [
+     "REITs and InvITs",
+     6
+    ],
+    [
+     "Special situations",
+     2
+    ],
+    [
+     "Others (net)",
+     -5
+    ]
+   ],
+   "split_source": "Edelweiss Mutual Fund factsheet (strategy split)",
+   "sectors": [
+    [
+     "Finance",
+     4.02
+    ],
+    [
+     "Telecom - Services",
+     3.08
+    ],
+    [
+     "Banks",
+     2.92
+    ],
+    [
+     "Consumer Durables",
+     2.24
+    ],
+    [
+     "Electrical Equipment",
+     2.23
+    ],
+    [
+     "Other sectors",
+     23.71
+    ]
+   ],
+   "sector_note": "Share of the fund held in stocks (38.2%), before futures and options hedges",
+   "net_shorts": [
+    [
+     "Polycab India Ltd.",
+     "Industrial Products",
+     -1
+    ]
+   ]
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -247,7 +308,45 @@
    "risk_band": 5,
    "benchmark_risk_band": 3,
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes"
+   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
+   "split": [
+    [
+     "Equity",
+     98.11
+    ],
+    [
+     "Cash and TREPS",
+     1.89
+    ]
+   ],
+   "split_source": "Edelweiss Mutual Fund monthly portfolio disclosure",
+   "sectors": [
+    [
+     "Banks",
+     10.1
+    ],
+    [
+     "Auto Components",
+     9.76
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     9.69
+    ],
+    [
+     "Capital Markets",
+     7.83
+    ],
+    [
+     "Finance",
+     7.05
+    ],
+    [
+     "Other sectors",
+     53.68
+    ]
+   ],
+   "net_shorts": []
   }
  }
 }
