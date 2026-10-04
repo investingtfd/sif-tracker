@@ -1,0 +1,40 @@
+name: Fund facts from AMC monthly disclosures
+
+on:
+  schedule:
+    # 01:15 UTC, daily from the 3rd to the 20th. AMCs upload the previous
+    # month's portfolio around the 10th; re-checking daily is cheap and the
+    # script only rewrites facts.json when it finds a newer workbook.
+    - cron: '15 1 3-20 * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  facts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install headless browser and Excel reader
+        run: |
+          pip install --quiet playwright openpyxl
+          python -m playwright install --with-deps chromium
+
+      - name: Altiva SIF (Edelweiss)
+        continue-on-error: true
+        run: python3 scripts/fetch_altiva.py
+
+      - name: Commit facts if changed
+        run: |
+          git config user.name "sif-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          [ -f site/facts.json ] && git add site/facts.json || true
+          git diff --staged --quiet || git commit -m "Fund facts update $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
