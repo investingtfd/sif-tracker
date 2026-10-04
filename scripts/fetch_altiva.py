@@ -229,10 +229,28 @@ def find_workbooks():
     from playwright.sync_api import sync_playwright
 
     with sync_playwright() as p:
-        browser = p.chromium.launch()
-        page = browser.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36")
-        page.goto(PAGE, wait_until="domcontentloaded", timeout=90000)
-        page.wait_for_function("document.querySelectorAll('mat-select').length >= 3", timeout=90000)
+        browser = p.chromium.launch(args=["--disable-blink-features=AutomationControlled"])
+        ctx = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+            locale="en-IN", timezone_id="Asia/Kolkata", viewport={"width": 1366, "height": 900},
+        )
+        ctx.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        page = ctx.new_page()
+        seen = []
+        page.on("response", lambda r: seen.append(f"{r.status} {r.url[:110]}") if "api.edelweissmf.com" in r.url or r.status >= 400 else None)
+        page.on("requestfailed", lambda r: seen.append(f"FAILED {r.url[:110]}"))
+        resp = page.goto(PAGE, wait_until="domcontentloaded", timeout=90000)
+        try:
+            page.wait_for_function("document.querySelectorAll('mat-select').length >= 3", timeout=60000)
+        except Exception:
+            print("Altiva: page did not render its file list. Diagnostics follow.")
+            print("  status:", resp.status if resp else None, "| title:", page.title())
+            print("  text:", page.evaluate("document.body ? document.body.innerText.slice(0, 400) : ''").replace("\n", " "))
+            print("  mat-select count:", page.evaluate("document.querySelectorAll('mat-select').length"))
+            for line in seen[:25]:
+                print("  ", line)
+            browser.close()
+            return [], ""
         page.wait_for_timeout(3000)
 
         def links():
