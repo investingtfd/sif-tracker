@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T11:19:57.338Z",
+ "updated_at": "2026-10-05T11:27:51.512Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -219,7 +219,10 @@
      "Industrial Products",
      -1
     ]
-   ]
+   ],
+   "unhedged_long": 0,
+   "unhedged_short": 1,
+   "unhedged_count": 1
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -342,7 +345,10 @@
     ]
    ],
    "net_shorts": [],
-   "unhedged": []
+   "unhedged": [],
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-136": {
    "allocation": [
@@ -545,7 +551,10 @@
    "name": "Platinum Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "Mirae Asset Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio"
+   "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio",
+   "unhedged_long": 3.91,
+   "unhedged_short": 0.75,
+   "unhedged_count": 5
   },
   "SIF-128": {
    "allocation": [
@@ -712,7 +721,10 @@
    "name": "RedHex Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "HSBC Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.assetmanagement.hsbc.co.in/en/redhex-sif/investor-resources/information-library"
+   "source_url": "https://www.assetmanagement.hsbc.co.in/en/redhex-sif/investor-resources/information-library",
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-105": {
    "allocation": [
@@ -859,7 +871,10 @@
    "name": "WSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/"
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "unhedged_long": 1.1,
+   "unhedged_short": 0.87,
+   "unhedged_count": 2
   },
   "SIF-111": {
    "allocation": [
@@ -1005,7 +1020,10 @@
    "name": "WSIF Equity Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/"
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "unhedged_long": 3.2,
+   "unhedged_short": 0.92,
+   "unhedged_count": 3
   },
   "SIF-150": {
    "allocation": [
@@ -1121,7 +1139,10 @@
    "name": "Summit Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "Invesco Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings"
+   "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-29": {
    "allocation": [
@@ -1336,7 +1357,10 @@
    "name": "Titanium Hybrid Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related"
+   "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
+   "unhedged_long": 12.77,
+   "unhedged_short": 3.83,
+   "unhedged_count": 18
   },
   "SIF-55": {
    "allocation": [
@@ -1532,7 +1556,10 @@
    "name": "DynaSIF Equity Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.360.one/dyna-sif/download"
+   "source_url": "https://www.360.one/dyna-sif/download",
+   "unhedged_long": 14.12,
+   "unhedged_short": 6.4,
+   "unhedged_count": 23
   },
   "SIF-87": {
    "allocation": [
@@ -1741,7 +1768,10 @@
    "name": "DynaSIF Active Asset Allocator Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.360.one/dyna-sif/download"
+   "source_url": "https://www.360.one/dyna-sif/download",
+   "unhedged_long": 6.36,
+   "unhedged_short": 8.25,
+   "unhedged_count": 7
   },
   "SIF-96": {
    "allocation": [
@@ -1857,7 +1887,10 @@
    "name": "Sapphire Equity Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "Franklin Templeton Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports"
+   "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports",
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-102": {
    "allocation": [
@@ -2049,7 +2082,10 @@
    "name": "Titanium Equity Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related"
+   "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
+   "unhedged_long": 5.67,
+   "unhedged_short": 6.86,
+   "unhedged_count": 13
   },
   "SIF-143": {
    "allocation": [
@@ -2185,7 +2221,10 @@
    "name": "DynaSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.360.one/dyna-sif/download"
+   "source_url": "https://www.360.one/dyna-sif/download",
+   "unhedged_long": 1.54,
+   "unhedged_short": 0,
+   "unhedged_count": 1
   },
   "SIF-3": {
    "allocation": [
@@ -2373,7 +2412,10 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top holdings as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets."
+   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_long": 5.81,
+   "unhedged_short": 11.83,
+   "unhedged_count": 5
   },
   "SIF-7": {
    "allocation": [
@@ -2550,7 +2592,10 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top holdings as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets."
+   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_long": 2.5,
+   "unhedged_short": 7.94,
+   "unhedged_count": 5
   },
   "SIF-25": {
    "allocation": [
@@ -2710,7 +2755,10 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top holdings as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets."
+   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_long": 0,
+   "unhedged_short": 5.26,
+   "unhedged_count": 2
   },
   "SIF-93": {
    "allocation": [
@@ -2885,7 +2933,10 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top holdings as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets."
+   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_long": 0,
+   "unhedged_short": 7.56,
+   "unhedged_count": 4
   },
   "SIF-117": {
    "allocation": [
@@ -3029,7 +3080,10 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top holdings as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets."
+   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-138": {
    "allocation": [
@@ -3238,7 +3292,10 @@
    "name": "Prism Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure"
+   "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
+   "unhedged_long": 9.24,
+   "unhedged_short": 5.69,
+   "unhedged_count": 5
   },
   "SIF-21": {
    "allocation": [
@@ -3390,7 +3447,10 @@
    "name": "Diviniti Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ITI Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://sif.itiamc.com/Disclosure?category=PORTFOLIO%20DISCLOSURES"
+   "source_url": "https://sif.itiamc.com/Disclosure?category=PORTFOLIO%20DISCLOSURES",
+   "unhedged_long": 14.74,
+   "unhedged_short": 0,
+   "unhedged_count": 12
   },
   "SIF-13": {
    "allocation": [
@@ -3553,7 +3613,10 @@
    "name": "Magnum Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "SBI Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.sbimf.com/magnumsif-portfolios"
+   "source_url": "https://www.sbimf.com/magnumsif-portfolios",
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0
   },
   "SIF-34": {
    "allocation": [
@@ -3736,7 +3799,9 @@
    "name": "iSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_long": 0,
+   "unhedged_short": 0
   },
   "SIF-35": {
    "allocation": [
@@ -3930,7 +3995,9 @@
    "name": "iSIF Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_long": 4.37,
+   "unhedged_short": 0
   },
   "SIF-124": {
    "allocation": [
@@ -4136,13 +4203,15 @@
      0.22
     ]
    ],
-   "unhedged_count": 2,
+   "unhedged_count": 4,
    "sector_note": "Share of the fund held in stocks (54.0%), before futures and options hedges",
    "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
    "name": "iSIF Active Asset Allocator Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_long": 4.91,
+   "unhedged_short": 4.39
   },
   "SIF-126": {
    "allocation": [
@@ -4290,7 +4359,9 @@
    "name": "iSIF Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_long": 1.24,
+   "unhedged_short": 0
   }
  }
 }
