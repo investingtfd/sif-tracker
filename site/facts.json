@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T15:39:40.183Z",
+ "updated_at": "2026-10-07T15:42:33.673Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -4573,14 +4573,29 @@
    "net_shorts": [],
    "unhedged": [
     [
-     "LTM Ltd.",
+     "LTM Ltd. (futures)",
      "",
      0.29
+    ],
+    [
+     "Nifty 50 Index (options)",
+     "",
+     0.16
+    ],
+    [
+     "SBI Life Insurance Co. Ltd. (options)",
+     "",
+     0.003
+    ],
+    [
+     "Varun Beverages Ltd. (options)",
+     "",
+     0.002
     ]
    ],
-   "unhedged_long": 0.29,
+   "unhedged_long": 0.46,
    "unhedged_short": 0,
-   "unhedged_count": 1,
+   "unhedged_count": 5,
    "risk_band": 1,
    "benchmark_risk_band": 2,
    "derivative_gross_exposure_cr": 34.54
