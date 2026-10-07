@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T18:16:13.344Z",
+ "updated_at": "2026-10-07T18:29:43.077Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -3833,32 +3833,15 @@
      16.38
     ]
    ],
-   "unhedged": [
-    [
-     "SBI Cards and Payment Services Ltd. (put options)",
-     "Finance",
-     -1
-    ],
-    [
-     "The Phoenix Mills Ltd. (put options)",
-     "Realty",
-     -0.67
-    ],
-    [
-     "Prestige Estates Projects Ltd. (put options)",
-     "Realty",
-     -0.43
-    ]
-   ],
-   "unhedged_count": 3,
+   "unhedged": [],
+   "unhedged_count": 0,
    "sector_note": "Share of the fund held in stocks (76.8%), before futures and options hedges",
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
    "name": "iSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 0,
-   "unhedged_short": 2.1
+   "unhedged_short": 0
   },
   "SIF-35": {
    "allocation": [
@@ -4036,35 +4019,30 @@
      3.43
     ],
     [
-     "HDFC Bank Ltd. (put options)",
-     "Banks",
-     -1.12
-    ],
-    [
-     "SBI Cards and Payment Services Ltd. (put options)",
+     "SBI Cards and Payment Services Ltd. (bought put options)",
      "Finance",
      -0.59
     ],
     [
-     "GE Vernova T&D India Ltd. (futures)",
+     "Ge Vernova T&D India Ltd. (futures)",
      "Electrical Equipment",
      0.49
     ],
     [
-     "Avenue Supermarts Ltd. (put options)",
-     "Retailing",
-     -0.47
+     "HDFC Life Insurance Company Ltd (futures)",
+     "Insurance",
+     0.45
     ]
    ],
-   "unhedged_count": 6,
+   "unhedged_count": 4,
    "sector_note": "Share of the fund held in stocks (68.1%), before futures and options hedges",
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
    "name": "iSIF Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.37,
-   "unhedged_short": 2.18
+   "unhedged_short": 0.59
   },
   "SIF-124": {
    "allocation": [
@@ -4250,40 +4228,40 @@
    ],
    "unhedged": [
     [
-     "Silver Dec 2026 (commodity futures)",
-     "Silver",
-     -4.39
-    ],
-    [
-     "Silver Sep 2026 (commodity futures)",
-     "Silver",
-     4.28
-    ],
-    [
-     "The Indian Hotels Company Ltd. (put options)",
+     "The Indian Hotels Company Ltd. (bought put options)",
      "Leisure Services",
      -0.72
     ],
     [
-     "Adani Ports and Special Economic Zone Ltd. (put options)",
-     "Transport Infrastructure",
+     "Torrent Pharmaceuticals Ltd. (bought put options)",
+     "Pharmaceuticals & Biotechnology",
      -0.71
     ],
     [
-     "Torrent Pharmaceuticals Ltd. (put options)",
-     "Pharmaceuticals & Biotechnology",
-     -0.71
+     "Eternal Ltd. (bought put options)",
+     "Retailing",
+     -0.7
+    ],
+    [
+     "Tata Power Company Ltd. (bought put options)",
+     "Power",
+     -0.69
+    ],
+    [
+     "Fortis Healthcare (bought put options)",
+     "Healthcare Services",
+     -0.65
     ]
    ],
-   "unhedged_count": 26,
+   "unhedged_count": 16,
    "sector_note": "Share of the fund held in stocks (54.0%), before futures and options hedges",
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
    "name": "iSIF Active Asset Allocator Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
-   "unhedged_long": 4.91,
-   "unhedged_short": 15.14
+   "unhedged_long": 0.63,
+   "unhedged_short": 6.4
   },
   "SIF-126": {
    "allocation": [
@@ -4415,12 +4393,12 @@
    ],
    "unhedged": [
     [
-     "Adani Energy Solutions Ltd. (put options)",
+     "Adani Energy Solutions Ltd. (bought put options)",
      "Power",
      -1.48
     ],
     [
-     "Apollo Hospitals Enterprise Ltd. (put options)",
+     "Apollo Hospitals Enterprise Ltd. (bought put options)",
      "Healthcare Services",
      -0.92
     ],
@@ -4430,25 +4408,25 @@
      0.9
     ],
     [
-     "Mahindra & Mahindra Ltd. (put options)",
-     "Automobiles",
-     -0.88
-    ],
-    [
-     "ICICI Lombard General Insurance Company Ltd. (put options)",
+     "ICICI Lombard General Insurance Company Ltd. (bought put options)",
      "Insurance",
      -0.76
+    ],
+    [
+     "Blue Star Ltd. (bought put options)",
+     "Consumer Durables",
+     -0.72
     ]
    ],
-   "unhedged_count": 17,
+   "unhedged_count": 13,
    "sector_note": "Share of the fund held in stocks (84.8%), before futures and options hedges",
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
    "name": "iSIF Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 1.24,
-   "unhedged_short": 9.87
+   "unhedged_short": 7.52
   },
   "SIF-80": {
    "name": "Apex Hybrid Long-Short Fund",
