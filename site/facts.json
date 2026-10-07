@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T15:33:41.512Z",
+ "updated_at": "2026-10-07T15:39:40.183Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -4571,12 +4571,19 @@
    ],
    "sector_note": "Share of the fund held in stocks (40.5%), before futures and options hedges",
    "net_shorts": [],
-   "unhedged": [],
-   "unhedged_long": 0,
+   "unhedged": [
+    [
+     "LTM Ltd.",
+     "",
+     0.29
+    ]
+   ],
+   "unhedged_long": 0.29,
    "unhedged_short": 0,
-   "unhedged_count": 0,
+   "unhedged_count": 1,
    "risk_band": 1,
-   "benchmark_risk_band": 2
+   "benchmark_risk_band": 2,
+   "derivative_gross_exposure_cr": 34.54
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
@@ -4789,7 +4796,8 @@
    ],
    "unhedged_long": 0,
    "unhedged_short": 37.17,
-   "unhedged_count": 42
+   "unhedged_count": 42,
+   "derivative_gross_exposure_cr": 95.67
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -4982,9 +4990,399 @@
      -1.04
     ]
    ],
-   "unhedged_long": 0.72,
+   "unhedged_long": 1.26,
    "unhedged_short": 17.9,
-   "unhedged_count": 25
+   "unhedged_count": 26,
+   "derivative_gross_exposure_cr": 24.96
+  },
+  "SIF-40": {
+   "name": "Arudha Hybrid Long-Short Fund",
+   "as_of": "2026-08-31",
+   "allocation": [
+    [
+     "eq",
+     37.79
+    ],
+    [
+     "fi",
+     62.24
+    ],
+    [
+     "fut",
+     -37.99
+    ]
+   ],
+   "net_assets_cr": 146.93,
+   "top_equity": [
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     1.98
+    ],
+    [
+     "Bajaj Finance Ltd.",
+     "Finance",
+     1.19
+    ],
+    [
+     "ICICI Bank Ltd",
+     "Banks",
+     1.18
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     1.17
+    ],
+    [
+     "Axis Bank Ltd",
+     "Banks",
+     1.16
+    ],
+    [
+     "Adani Green Energy Ltd",
+     "Power",
+     1.14
+    ],
+    [
+     "Vodafone Idea Ltd.",
+     "Telecom - Services",
+     1.12
+    ],
+    [
+     "Larsen and Toubro Ltd",
+     "Construction",
+     1.11
+    ],
+    [
+     "State Bank of India",
+     "Banks",
+     1.08
+    ],
+    [
+     "Mahindra and Mahindra Ltd",
+     "Automobiles",
+     1.07
+    ]
+   ],
+   "top_debt": [
+    [
+     "7.42% SIDBI 2029(SR- VII) 12/03/2029 **",
+     "CRISIL AAA",
+     6.77
+    ],
+    [
+     "7.44%  UNSNCD NABARD - 17/07/2029 **",
+     "CRISIL AAA",
+     6.76
+    ],
+    [
+     "7.7% Bajaj Finance Ltd - 20/9/2029 **",
+     "CRISIL AAA",
+     6.73
+    ],
+    [
+     "6.68% GSEC BONDS- 07/07/2040",
+     "Sovereign",
+     5.26
+    ],
+    [
+     "7.85% Bajaj Housing Finance (01/09/2028) **",
+     "CRISIL AAA",
+     3.4
+    ]
+   ],
+   "top_shorts": [
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     -1.99
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     -1.21
+    ],
+    [
+     "Bajaj Finance Ltd.",
+     "Finance",
+     -1.21
+    ],
+    [
+     "ICICI Bank Ltd",
+     "Banks",
+     -1.18
+    ],
+    [
+     "Adani Green Energy Ltd",
+     "Power",
+     -1.17
+    ]
+   ],
+   "equity_gross_pct": 37.79,
+   "equity_net_pct": -0.2,
+   "holdings_count": 74,
+   "nav_regular_growth": 10.354,
+   "source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://arudhasif.com/downloads/",
+   "split": [
+    [
+     "Fixed income",
+     62.24
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     37.64
+    ],
+    [
+     "Equity (unhedged)",
+     0.15
+    ]
+   ],
+   "split_source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "sectors": [
+    [
+     "Banks",
+     10.4
+    ],
+    [
+     "Finance",
+     3.35
+    ],
+    [
+     "Automobiles",
+     3.15
+    ],
+    [
+     "Telecom - Services",
+     2.78
+    ],
+    [
+     "Consumer Durables",
+     2.41
+    ],
+    [
+     "Other sectors",
+     15.7
+    ]
+   ],
+   "sector_note": "Share of the fund held in stocks (37.8%), before futures and options hedges",
+   "net_shorts": [],
+   "unhedged": [],
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_count": 0,
+   "benchmark": "CRISIL Hybrid 85+15 Conservative Index",
+   "risk_band": 1,
+   "benchmark_risk_band": 3,
+   "derivative_gross_exposure_cr": 55.82
+  },
+  "SIF-62": {
+   "name": "Arudha Equity Long-Short Fund",
+   "as_of": "2026-08-31",
+   "allocation": [
+    [
+     "eq",
+     78.39
+    ],
+    [
+     "fi",
+     19.73
+    ],
+    [
+     "reit",
+     1.87
+    ],
+    [
+     "fut",
+     -1.85
+    ],
+    [
+     "opt",
+     -0.08
+    ]
+   ],
+   "net_assets_cr": 127.87,
+   "top_equity": [
+    [
+     "ICICI Bank Ltd",
+     "Banks",
+     5.07
+    ],
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     4.17
+    ],
+    [
+     "Mahindra and Mahindra Ltd",
+     "Automobiles",
+     3.55
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     3.02
+    ],
+    [
+     "TVS Holdings Ltd.",
+     "Finance",
+     2.93
+    ],
+    [
+     "Cipla Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     2.31
+    ],
+    [
+     "Ipca Laboratories Limited",
+     "Pharmaceuticals & Biotechnology",
+     2.16
+    ],
+    [
+     "Sagility India Ltd.",
+     "IT - Services",
+     2.13
+    ],
+    [
+     "HDFC AMC Ltd",
+     "Capital Markets",
+     1.95
+    ],
+    [
+     "Info Edge India Ltd",
+     "Retailing",
+     1.88
+    ]
+   ],
+   "top_debt": [
+    [
+     "182 DAYS T-BILL - 17/12/2026",
+     "Sovereign",
+     3.85
+    ],
+    [
+     "364 DAYS T-BILL - 10/12/2026",
+     "Sovereign",
+     1.54
+    ],
+    [
+     "6.68% GSEC BONDS- 07/07/2040",
+     "Sovereign",
+     0.75
+    ]
+   ],
+   "top_shorts": [
+    [
+     "Hindustan Petroleum Corporation Ltd.",
+     "",
+     -0.8
+    ],
+    [
+     "Dmart",
+     "",
+     -0.63
+    ],
+    [
+     "Ambuja Cements Ltd.",
+     "",
+     -0.53
+    ],
+    [
+     "JSW Energy Ltd.",
+     "",
+     -0.4
+    ],
+    [
+     "Inox Wind Ltd.",
+     "",
+     -0.32
+    ]
+   ],
+   "equity_gross_pct": 78.39,
+   "equity_net_pct": 76.46,
+   "holdings_count": 51,
+   "nav_regular_growth": 10.51,
+   "source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://arudhasif.com/downloads/",
+   "split": [
+    [
+     "Equity",
+     78.39
+    ],
+    [
+     "Fixed income",
+     19.73
+    ],
+    [
+     "REITs and InvITs",
+     1.87
+    ]
+   ],
+   "split_source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "sectors": [
+    [
+     "Banks",
+     14.49
+    ],
+    [
+     "Finance",
+     9.81
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     5.61
+    ],
+    [
+     "Capital Markets",
+     4.95
+    ],
+    [
+     "Telecom - Services",
+     4.83
+    ],
+    [
+     "Other sectors",
+     38.7
+    ]
+   ],
+   "sector_note": "Share of the fund held in stocks (78.4%), before futures and options hedges",
+   "net_shorts": [],
+   "unhedged": [
+    [
+     "Indian Oil Corporation Ltd.",
+     "",
+     0.83
+    ],
+    [
+     "Hindustan Petroleum Corporation Ltd.",
+     "",
+     -0.8
+    ],
+    [
+     "Dmart",
+     "",
+     -0.63
+    ],
+    [
+     "Ambuja Cements Ltd.",
+     "",
+     -0.53
+    ],
+    [
+     "JSW Energy Ltd.",
+     "",
+     -0.4
+    ]
+   ],
+   "unhedged_long": 0.83,
+   "unhedged_short": 2.68,
+   "unhedged_count": 6,
+   "turnover_ratio": 0.17,
+   "benchmark": "NIFTY 500 TRI",
+   "risk_band": 5,
+   "benchmark_risk_band": 5,
+   "derivative_gross_exposure_cr": 4.59
   }
  }
 }
