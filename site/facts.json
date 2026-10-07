@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T17:46:10.233Z",
+ "updated_at": "2026-10-07T17:47:39.343Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -243,7 +243,7 @@
    "unhedged_long": 1.62,
    "unhedged_short": 2.42,
    "unhedged_count": 100,
-   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -911,7 +911,7 @@
    "unhedged_long": 1.22,
    "unhedged_short": 1.46,
    "unhedged_count": 5,
-   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-111": {
    "allocation": [
@@ -1071,7 +1071,7 @@
    "unhedged_long": 3.2,
    "unhedged_short": 1.44,
    "unhedged_count": 5,
-   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-150": {
    "allocation": [
@@ -1409,7 +1409,7 @@
    "unhedged_long": 14.74,
    "unhedged_short": 3.84,
    "unhedged_count": 21,
-   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-55": {
    "allocation": [
@@ -2135,7 +2135,7 @@
    "unhedged_long": 5.67,
    "unhedged_short": 6.87,
    "unhedged_count": 14,
-   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-143": {
    "allocation": [
@@ -3350,7 +3350,8 @@
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
    "unhedged_long": 9.24,
    "unhedged_short": 4.97,
-   "unhedged_count": 4
+   "unhedged_count": 4,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
   },
   "SIF-21": {
    "allocation": [
@@ -3866,14 +3867,13 @@
    ],
    "unhedged_count": 3,
    "sector_note": "Share of the fund held in stocks (76.8%), before futures and options hedges",
-   "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
    "name": "iSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 0,
-   "unhedged_short": 2.1,
-   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
+   "unhedged_short": 2.1
   },
   "SIF-35": {
    "allocation": [
@@ -4073,14 +4073,13 @@
    ],
    "unhedged_count": 6,
    "sector_note": "Share of the fund held in stocks (68.1%), before futures and options hedges",
-   "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
    "name": "iSIF Hybrid Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.37,
-   "unhedged_short": 2.18,
-   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
+   "unhedged_short": 2.18
   },
   "SIF-124": {
    "allocation": [
@@ -4293,14 +4292,13 @@
    ],
    "unhedged_count": 26,
    "sector_note": "Share of the fund held in stocks (54.0%), before futures and options hedges",
-   "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
    "name": "iSIF Active Asset Allocator Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.91,
-   "unhedged_short": 15.14,
-   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
+   "unhedged_short": 15.14
   },
   "SIF-126": {
    "allocation": [
@@ -4459,14 +4457,13 @@
    ],
    "unhedged_count": 17,
    "sector_note": "Share of the fund held in stocks (84.8%), before futures and options hedges",
-   "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at exposure value, as this AMC reports them.",
    "name": "iSIF Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 1.24,
-   "unhedged_short": 9.87,
-   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
+   "unhedged_short": 9.87
   },
   "SIF-80": {
    "name": "Apex Hybrid Long-Short Fund",
@@ -4693,7 +4690,8 @@
    "unhedged_count": 5,
    "risk_band": 1,
    "benchmark_risk_band": 2,
-   "derivative_gross_exposure_cr": 34.54
+   "derivative_gross_exposure_cr": 34.54,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
@@ -4907,7 +4905,8 @@
    "unhedged_long": 0,
    "unhedged_short": 37.17,
    "unhedged_count": 42,
-   "derivative_gross_exposure_cr": 95.67
+   "derivative_gross_exposure_cr": 95.67,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -5103,7 +5102,8 @@
    "unhedged_long": 1.26,
    "unhedged_short": 17.9,
    "unhedged_count": 26,
-   "derivative_gross_exposure_cr": 24.96
+   "derivative_gross_exposure_cr": 24.96,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
   },
   "SIF-40": {
    "name": "Arudha Hybrid Long-Short Fund",
@@ -5492,7 +5492,8 @@
    "benchmark": "NIFTY 500 TRI",
    "risk_band": 5,
    "benchmark_risk_band": 5,
-   "derivative_gross_exposure_cr": 4.59
+   "derivative_gross_exposure_cr": 4.59,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
   }
  }
 }
