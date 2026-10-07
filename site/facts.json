@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T18:29:43.077Z",
+ "updated_at": "2026-10-07T18:42:11.140Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -59,6 +59,11 @@
      1.91
     ],
     [
+     "Embassy Office Parks Reit",
+     "REIT",
+     1.56
+    ],
+    [
      "Titan Company Ltd.",
      "Consumer Durables",
      1.51
@@ -92,11 +97,6 @@
      "Bharat Heavy Electricals Ltd.",
      "Electrical Equipment",
      1.07
-    ],
-    [
-     "Mahindra & Mahindra Ltd.",
-     "Automobiles",
-     1.06
     ]
    ],
    "top_debt": [
@@ -215,11 +215,6 @@
    ],
    "unhedged": [
     [
-     "Polycab India Ltd. (futures)",
-     "Industrial Products",
-     -1
-    ],
-    [
      "Dixon Technologies (India) Ltd. (futures)",
      "Consumer Durables",
      0.69
@@ -238,12 +233,17 @@
      "Grasim Industries Ltd. (futures)",
      "Cement & Cement Products",
      0.11
+    ],
+    [
+     "Bharat Dynamics Ltd. (futures)",
+     "Aerospace & Defense",
+     0.11
     ]
    ],
    "unhedged_long": 1.62,
-   "unhedged_short": 2.42,
-   "unhedged_count": 100,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_short": 1.42,
+   "unhedged_count": 99,
+   "unhedged_note": "As the AMC reports it: 1.61% of the fund in long futures that are not hedges, plus calls and puts written on 87 stocks (1.55% of the fund at premium value, shown here as short). Most of the written calls are on stocks the fund holds."
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -603,6 +603,21 @@
    "net_assets_cr": 1072.84,
    "top_equity": [
     [
+     "Cube Highway Trust",
+     "InvIT",
+     4.26
+    ],
+    [
+     "Embassy Office Parks REIT",
+     "REIT",
+     3.74
+    ],
+    [
+     "Mindspace Business Parks REIT",
+     "REIT",
+     2.84
+    ],
+    [
      "Indus Towers Limited",
      "Telecom - Services",
      2.61
@@ -613,6 +628,21 @@
      2.6
     ],
     [
+     "Raajmarg Infra Investment Trust",
+     "InvIT",
+     2.49
+    ],
+    [
+     "Bagmane Prime Office REIT",
+     "REIT",
+     2.44
+    ],
+    [
+     "National Highways Infra Trust",
+     "InvIT",
+     2.39
+    ],
+    [
      "Steel Authority of India Limited",
      "Ferrous Metals",
      1.99
@@ -621,36 +651,6 @@
      "Godrej Properties Limited",
      "Realty",
      1.88
-    ],
-    [
-     "HDFC Bank Limited",
-     "Banks",
-     1.82
-    ],
-    [
-     "TVS Motor Company Limited",
-     "Automobiles",
-     1.61
-    ],
-    [
-     "State Bank of India",
-     "Banks",
-     1.32
-    ],
-    [
-     "Adani Power Limited",
-     "Power",
-     1.04
-    ],
-    [
-     "Indian Energy Exchange Limited",
-     "Capital Markets",
-     0.85
-    ],
-    [
-     "Hindustan Zinc Limited",
-     "Non - Ferrous Metals",
-     0.81
     ]
    ],
    "top_debt": [
@@ -889,17 +889,12 @@
      -0.87
     ],
     [
-     "Nifty Midcap Select (put options)",
-     "",
-     -0.57
-    ],
-    [
-     "HDFC Life Insurance Company Limited (call options)",
+     "HDFC Life Insurance (bought call options)",
      "",
      0.12
     ],
     [
-     "Nestle India (put options)",
+     "Nestle India (bought put options)",
      "",
      -0.02
     ]
@@ -909,9 +904,9 @@
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
    "unhedged_long": 1.22,
-   "unhedged_short": 1.46,
-   "unhedged_count": 5,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_short": 0.89,
+   "unhedged_count": 4,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought index puts are treated as protection for the portfolio and left out, as are calls written on stocks it holds. Options are shown at premium value."
   },
   "SIF-111": {
    "allocation": [
@@ -1054,12 +1049,7 @@
      -0.92
     ],
     [
-     "Nifty 50 (put options)",
-     "",
-     -0.49
-    ],
-    [
-     "Nestle India (put options)",
+     "Nestle India (bought put options)",
      "",
      -0.03
     ]
@@ -1069,9 +1059,9 @@
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
    "unhedged_long": 3.2,
-   "unhedged_short": 1.44,
-   "unhedged_count": 5,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_short": 0.95,
+   "unhedged_count": 4,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought index puts are treated as protection for the portfolio and left out, as are calls written on stocks it holds. Options are shown at premium value."
   },
   "SIF-150": {
    "allocation": [
@@ -1396,7 +1386,7 @@
      1.05
     ],
     [
-     "UltraTech Cement Ltd. (futures)",
+     "Ultratech Cement Ltd. (futures)",
      "Cement & Cement Products",
      1.02
     ]
@@ -1407,9 +1397,9 @@
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
    "unhedged_long": 14.74,
-   "unhedged_short": 3.84,
-   "unhedged_count": 21,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_short": 3.82,
+   "unhedged_count": 20,
+   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out."
   },
   "SIF-55": {
    "allocation": [
@@ -2133,9 +2123,9 @@
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
    "unhedged_long": 5.67,
-   "unhedged_short": 6.87,
-   "unhedged_count": 14,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_short": 6.86,
+   "unhedged_count": 13,
+   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out."
   },
   "SIF-143": {
    "allocation": [
@@ -2447,7 +2437,7 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top unhedged positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "The AMC's factsheet for September 2026 reports an average long-to-short ratio of 5.5x. The positions listed are from the 31 Jul 2026 portfolio file, the latest one with position-level detail.",
    "unhedged_long": 5.81,
    "unhedged_short": 11.83,
    "unhedged_count": 5,
@@ -2633,7 +2623,7 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top unhedged positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "The AMC's factsheet for September 2026 reports average short exposure of about 13% of the fund and average unhedged long exposure of about 45%. The positions listed are from the 31 Jul 2026 portfolio file, the latest one with position-level detail.",
    "unhedged_long": 2.5,
    "unhedged_short": 7.94,
    "unhedged_count": 5,
@@ -2797,7 +2787,7 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top unhedged positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "The AMC's factsheet for September 2026 reports average short exposure of about 16% of the fund and average unhedged long exposure of about 74%. The positions listed are from the 31 Jul 2026 portfolio file, the latest one with position-level detail.",
    "unhedged_long": 0,
    "unhedged_short": 5.26,
    "unhedged_count": 2,
@@ -2971,7 +2961,7 @@
    "source": "quant Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.qsif.com/statutory-disclosures",
    "split_source": "Fund size and top unhedged positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, as the full portfolio is published every two months",
-   "unhedged_note": "As on 31 Jul 2026. Futures positions with no matching stock holding, as % of net assets.",
+   "unhedged_note": "The AMC's factsheet for September 2026 reports average short exposure of about 15% of the fund and average unhedged long exposure of about 42%. The positions listed are from the 31 Jul 2026 portfolio file, the latest one with position-level detail.",
    "unhedged_long": 0,
    "unhedged_short": 7.56,
    "unhedged_count": 4,
@@ -3160,6 +3150,11 @@
    "net_assets_cr": 297.05,
    "top_equity": [
     [
+     "Embassy Office Parks REIT",
+     "REIT",
+     2.89
+    ],
+    [
      "Oriental Hotels Ltd",
      "Leisure Services",
      2.47
@@ -3168,6 +3163,16 @@
      "Life Insurance Corporation Of India",
      "Insurance",
      1.64
+    ],
+    [
+     "Brookfield India Real Estate Trust",
+     "REIT",
+     1.22
+    ],
+    [
+     "IndiGrid Infrastructure Trust",
+     "InvIT",
+     1.16
     ],
     [
      "ACC Ltd",
@@ -3193,21 +3198,6 @@
      "Divi's Laboratories Ltd",
      "Pharmaceuticals & Biotechnology",
      1.02
-    ],
-    [
-     "Tata Steel Ltd",
-     "Ferrous Metals",
-     1.01
-    ],
-    [
-     "Sona Blw Precision Forgings Ltd",
-     "Auto Components",
-     1.01
-    ],
-    [
-     "Tata Consumer Products Ltd",
-     "Agricultural Food & Other Products",
-     1
     ]
    ],
    "top_debt": [
@@ -3336,7 +3326,7 @@
    "unhedged_long": 9.24,
    "unhedged_short": 4.97,
    "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long index futures, and shorts on stocks it does not hold. The AMC classes the index futures as hedging; they are shown because they add market exposure."
   },
   "SIF-21": {
    "allocation": [
@@ -3544,6 +3534,11 @@
      2.75
     ],
     [
+     "Raajmarg Infra Investment Trust",
+     "InvIT",
+     2.7
+    ],
+    [
      "Avenue Supermarts Ltd.",
      "Retailing",
      2.44
@@ -3562,11 +3557,6 @@
      "HDFC Life Insurance Company Ltd.",
      "Insurance",
      2.38
-    ],
-    [
-     "Maruti Suzuki India Ltd.",
-     "Automobiles",
-     2.37
     ]
    ],
    "top_debt": [
@@ -4484,6 +4474,11 @@
      2.27
     ],
     [
+     "Knowledge Realty Trust",
+     "REIT",
+     1.02
+    ],
+    [
      "Swiggy Ltd.",
      "Retailing",
      0.9
@@ -4507,11 +4502,6 @@
      "Axis Bank Ltd.",
      "Banks",
      0.67
-    ],
-    [
-     "ITC Ltd.",
-     "Diversified FMCG",
-     0.64
     ]
    ],
    "top_debt": [
@@ -4869,7 +4859,7 @@
    "unhedged_short": 37.17,
    "unhedged_count": 42,
    "derivative_gross_exposure_cr": 95.67,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks."
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -5066,7 +5056,7 @@
    "unhedged_short": 17.9,
    "unhedged_count": 26,
    "derivative_gross_exposure_cr": 24.96,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks."
   },
   "SIF-40": {
    "name": "Arudha Hybrid Long-Short Fund",
