@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T17:41:45.546Z",
+ "updated_at": "2026-10-07T17:46:10.233Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -879,23 +879,39 @@
    ],
    "unhedged": [
     [
-     "Godrej Consumer Products Limited",
+     "Godrej Consumer Products Limited (futures)",
      "",
      1.1
     ],
     [
-     "AU Small Finance Bank Ltd",
+     "AU Small Finance Bank Ltd (futures)",
      "",
      -0.87
+    ],
+    [
+     "Nifty Midcap Select (put options)",
+     "",
+     -0.57
+    ],
+    [
+     "HDFC Life Insurance Company Limited (call options)",
+     "",
+     0.12
+    ],
+    [
+     "Nestle India (put options)",
+     "",
+     -0.02
     ]
    ],
    "name": "WSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-07-31",
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
-   "unhedged_long": 1.1,
-   "unhedged_short": 0.87,
-   "unhedged_count": 2
+   "unhedged_long": 1.22,
+   "unhedged_short": 1.46,
+   "unhedged_count": 5,
+   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
   },
   "SIF-111": {
    "allocation": [
@@ -1023,19 +1039,29 @@
    ],
    "unhedged": [
     [
-     "Infosys Limited",
+     "Infosys Limited (futures)",
      "IT - Software",
      1.61
     ],
     [
-     "Godrej Consumer Products Limited",
+     "Godrej Consumer Products Limited (futures)",
      "Personal Products",
      1.59
     ],
     [
-     "Interglobe Aviation Limited",
+     "Interglobe Aviation Limited (futures)",
      "",
      -0.92
+    ],
+    [
+     "Nifty 50 (put options)",
+     "",
+     -0.49
+    ],
+    [
+     "Nestle India (put options)",
+     "",
+     -0.03
     ]
    ],
    "name": "WSIF Equity Long-Short Fund",
@@ -1043,8 +1069,9 @@
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
    "unhedged_long": 3.2,
-   "unhedged_short": 0.92,
-   "unhedged_count": 3
+   "unhedged_short": 1.44,
+   "unhedged_count": 5,
+   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
   },
   "SIF-150": {
    "allocation": [
@@ -3296,29 +3323,24 @@
    ],
    "unhedged": [
     [
-     "Bank Nifty Index",
-     "",
+     "Bank Nifty (futures)",
+     "Index",
      4.62
     ],
     [
-     "Nifty Index",
-     "",
+     "Nifty 50 (futures)",
+     "Index",
      4.62
     ],
     [
-     "Indian Hotels Co Ltd",
-     "",
+     "Indian Hotels Co Ltd (futures)",
+     "Leisure Services",
      -2.75
     ],
     [
-     "Ambuja Cements Ltd",
-     "",
+     "Ambuja Cements Ltd (futures)",
+     "Cement & Cement Products",
      -2.21
-    ],
-    [
-     "Life Insurance Corporation Of India",
-     "",
-     -0.73
     ]
    ],
    "sector_note": "Share of the fund held in stocks (36.9%), before futures and options hedges",
@@ -3327,8 +3349,8 @@
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
    "unhedged_long": 9.24,
-   "unhedged_short": 5.69,
-   "unhedged_count": 5
+   "unhedged_short": 4.97,
+   "unhedged_count": 4
   },
   "SIF-21": {
    "allocation": [
