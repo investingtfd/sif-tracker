@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T15:42:33.673Z",
+ "updated_at": "2026-10-07T17:41:45.546Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -215,14 +215,35 @@
    ],
    "unhedged": [
     [
-     "Polycab India Ltd.",
+     "Polycab India Ltd. (futures)",
      "Industrial Products",
      -1
+    ],
+    [
+     "Dixon Technologies (India) Ltd. (futures)",
+     "Consumer Durables",
+     0.69
+    ],
+    [
+     "Premier Energies Ltd (futures)",
+     "Electrical Equipment",
+     0.21
+    ],
+    [
+     "Wipro Ltd. (futures)",
+     "IT - Software",
+     0.19
+    ],
+    [
+     "Grasim Industries Ltd. (futures)",
+     "Cement & Cement Products",
+     0.11
     ]
    ],
-   "unhedged_long": 0,
-   "unhedged_short": 1,
-   "unhedged_count": 1
+   "unhedged_long": 1.62,
+   "unhedged_short": 2.42,
+   "unhedged_count": 100,
+   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
@@ -1328,27 +1349,27 @@
    ],
    "unhedged": [
     [
-     "NIFTY MIDCAP SELECT INDEX",
+     "Nifty Midcap Select Index (futures)",
      "",
      -1.21
     ],
     [
-     "BPCL",
+     "BPCL (futures)",
      "Petroleum Products",
      1.08
     ],
     [
-     "HINDUSTAN UNILEVER LTD.",
+     "Hindustan Unilever Ltd. (futures)",
      "Diversified FMCG",
      1.08
     ],
     [
-     "AXIS BANK LTD.",
+     "Axis Bank Ltd. (futures)",
      "Banks",
      1.05
     ],
     [
-     "ULTRATECH CEMENT LTD.",
+     "UltraTech Cement Ltd. (futures)",
      "Cement & Cement Products",
      1.02
     ]
@@ -1358,9 +1379,10 @@
    "as_of": "2026-07-31",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
-   "unhedged_long": 12.77,
-   "unhedged_short": 3.83,
-   "unhedged_count": 18
+   "unhedged_long": 14.74,
+   "unhedged_short": 3.84,
+   "unhedged_count": 21,
+   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
   },
   "SIF-55": {
    "allocation": [
@@ -2053,27 +2075,27 @@
    ],
    "unhedged": [
     [
-     "NIFTY MIDCAP SELECT INDEX",
+     "Nifty Midcap Select Index (futures)",
      "",
      -1.61
     ],
     [
-     "KOTAK MAHINDRA BANK",
+     "Kotak Mahindra Bank (futures)",
      "Banks",
      1.14
     ],
     [
-     "ITC LTD.",
+     "ITC Ltd. (futures)",
      "Diversified FMCG",
      1.06
     ],
     [
-     "WIPRO LTD.",
+     "Wipro Ltd. (futures)",
      "IT - Software",
      -1
     ],
     [
-     "SBI CARDS & PAYMENT SERVICES LTD.",
+     "SBI Cards & Payment Services Ltd. (futures)",
      "Finance",
      0.96
     ]
@@ -2084,8 +2106,9 @@
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
    "unhedged_long": 5.67,
-   "unhedged_short": 6.86,
-   "unhedged_count": 13
+   "unhedged_short": 6.87,
+   "unhedged_count": 14,
+   "unhedged_basis": "Options counted at premium value, as the AMC reports them"
   },
   "SIF-143": {
    "allocation": [
@@ -3802,8 +3825,24 @@
      16.38
     ]
    ],
-   "unhedged": [],
-   "unhedged_count": 0,
+   "unhedged": [
+    [
+     "SBI Cards and Payment Services Ltd. (put options)",
+     "Finance",
+     -1
+    ],
+    [
+     "The Phoenix Mills Ltd. (put options)",
+     "Realty",
+     -0.67
+    ],
+    [
+     "Prestige Estates Projects Ltd. (put options)",
+     "Realty",
+     -0.43
+    ]
+   ],
+   "unhedged_count": 3,
    "sector_note": "Share of the fund held in stocks (76.8%), before futures and options hedges",
    "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
    "name": "iSIF Equity Ex-Top 100 Long-Short Fund",
@@ -3811,7 +3850,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 0,
-   "unhedged_short": 0
+   "unhedged_short": 2.1,
+   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
   },
   "SIF-35": {
    "allocation": [
@@ -3984,22 +4024,32 @@
    ],
    "unhedged": [
     [
-     "Nifty Bank",
-     "",
+     "Nifty Bank (futures)",
+     "Index Futures",
      3.43
     ],
     [
-     "Ge Vernova T&D India Ltd.",
+     "HDFC Bank Ltd. (put options)",
+     "Banks",
+     -1.12
+    ],
+    [
+     "SBI Cards and Payment Services Ltd. (put options)",
+     "Finance",
+     -0.59
+    ],
+    [
+     "GE Vernova T&D India Ltd. (futures)",
      "Electrical Equipment",
      0.49
     ],
     [
-     "HDFC Life Insurance Company Ltd",
-     "Insurance",
-     0.45
+     "Avenue Supermarts Ltd. (put options)",
+     "Retailing",
+     -0.47
     ]
    ],
-   "unhedged_count": 3,
+   "unhedged_count": 6,
    "sector_note": "Share of the fund held in stocks (68.1%), before futures and options hedges",
    "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
    "name": "iSIF Hybrid Long-Short Fund",
@@ -4007,7 +4057,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.37,
-   "unhedged_short": 0
+   "unhedged_short": 2.18,
+   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
   },
   "SIF-124": {
    "allocation": [
@@ -4193,27 +4244,32 @@
    ],
    "unhedged": [
     [
-     "Silver Future Dec 2026 Future $$",
-     "",
+     "Silver Dec 2026 (commodity futures)",
+     "Silver",
      -4.39
     ],
     [
-     "Silver Future Sep 2026 Future $$",
-     "",
+     "Silver Sep 2026 (commodity futures)",
+     "Silver",
      4.28
     ],
     [
-     "ICICI Bank Ltd.",
-     "Banks",
-     0.41
+     "The Indian Hotels Company Ltd. (put options)",
+     "Leisure Services",
+     -0.72
     ],
     [
-     "HDFC Life Insurance Company Ltd",
-     "Insurance",
-     0.22
+     "Adani Ports and Special Economic Zone Ltd. (put options)",
+     "Transport Infrastructure",
+     -0.71
+    ],
+    [
+     "Torrent Pharmaceuticals Ltd. (put options)",
+     "Pharmaceuticals & Biotechnology",
+     -0.71
     ]
    ],
-   "unhedged_count": 4,
+   "unhedged_count": 26,
    "sector_note": "Share of the fund held in stocks (54.0%), before futures and options hedges",
    "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
    "name": "iSIF Active Asset Allocator Long-Short Fund",
@@ -4221,7 +4277,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.91,
-   "unhedged_short": 4.39
+   "unhedged_short": 15.14,
+   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
   },
   "SIF-126": {
    "allocation": [
@@ -4353,17 +4410,32 @@
    ],
    "unhedged": [
     [
-     "HDFC Life Insurance Company Ltd",
+     "Adani Energy Solutions Ltd. (put options)",
+     "Power",
+     -1.48
+    ],
+    [
+     "Apollo Hospitals Enterprise Ltd. (put options)",
+     "Healthcare Services",
+     -0.92
+    ],
+    [
+     "HDFC Life Insurance Company Ltd (futures)",
      "Insurance",
      0.9
     ],
     [
-     "Swiggy Ltd",
-     "Retailing",
-     0.34
+     "Mahindra & Mahindra Ltd. (put options)",
+     "Automobiles",
+     -0.88
+    ],
+    [
+     "ICICI Lombard General Insurance Company Ltd. (put options)",
+     "Insurance",
+     -0.76
     ]
    ],
-   "unhedged_count": 2,
+   "unhedged_count": 17,
    "sector_note": "Share of the fund held in stocks (84.8%), before futures and options hedges",
    "unhedged_note": "Futures positions with no matching stock holding, as % of net assets.",
    "name": "iSIF Equity Long-Short Fund",
@@ -4371,7 +4443,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 1.24,
-   "unhedged_short": 0
+   "unhedged_short": 9.87,
+   "unhedged_basis": "Options counted at exposure value, as the AMC reports them"
   },
   "SIF-80": {
    "name": "Apex Hybrid Long-Short Fund",
