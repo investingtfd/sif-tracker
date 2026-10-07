@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T18:01:17.681Z",
+ "updated_at": "2026-10-07T18:10:59.067Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -1430,57 +1430,57 @@
      23.51
     ]
    ],
-   "net_assets_cr": 370.4,
+   "net_assets_cr": 407.12,
    "top_equity": [
     [
      "Eternal Limited",
-     "Retailing",
-     3.88
+     "",
+     3.84
     ],
     [
      "Bharti Airtel Limited",
-     "Telecom - Services",
-     3.56
+     "",
+     2.99
+    ],
+    [
+     "The Indian Hotels Company Limited",
+     "",
+     2.56
     ],
     [
      "IIFL Finance Limited",
-     "Finance",
-     2.57
+     "",
+     2.49
     ],
     [
      "Larsen & Toubro Limited",
-     "Construction",
-     2.55
+     "",
+     2.39
     ],
     [
      "Computer Age Management Services Limited",
-     "Capital Markets",
-     2.47
-    ],
-    [
-     "AU Small Finance Bank Limited",
-     "Banks",
-     2.19
-    ],
-    [
-     "Axis Bank Limited",
-     "Banks",
-     2.12
+     "",
+     2.21
     ],
     [
      "City Union Bank Limited",
-     "Banks",
+     "",
+     2.08
+    ],
+    [
+     "AU Small Finance Bank Limited",
+     "",
+     2.07
+    ],
+    [
+     "Axis Bank Limited",
+     "",
      2.05
     ],
     [
-     "Cholamandalam Investment and Finance Company Ltd",
-     "Finance",
-     1.85
-    ],
-    [
-     "Mahindra & Mahindra Limited",
-     "Automobiles",
-     1.84
+     "Canara HSBC Life Insurance company Ltd",
+     "",
+     1.94
     ]
    ],
    "top_debt": [
@@ -1603,13 +1603,16 @@
    ],
    "sector_note": "Share of the fund held in stocks (68.9%), before futures and options hedges",
    "name": "DynaSIF Equity Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-08-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.360.one/dyna-sif/download",
    "unhedged_long": 14.31,
    "unhedged_short": 6.51,
    "unhedged_count": 25,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger.",
+   "nav_regular_growth": 10.6553,
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio"
   },
   "SIF-87": {
    "allocation": [
@@ -1634,57 +1637,57 @@
      53.01
     ]
    ],
-   "net_assets_cr": 214.44,
+   "net_assets_cr": 295.61,
    "top_equity": [
     [
-     "National Highways Infra Trust",
-     "Transport Infrastructure",
-     5.18
-    ],
-    [
      "Capital Infra Trust",
-     "Construction",
-     3.59
+     "",
+     2.8
     ],
     [
-     "Brookfield India Real Estate Trust",
-     "Realty",
-     3.26
-    ],
-    [
-     "Altius Telecom Infrastructure Trust",
-     "Telecom - Services",
-     3.19
-    ],
-    [
-     "Knowledge Realty Trust",
-     "Realty",
-     3
-    ],
-    [
-     "Vertis Infrastructure Trust",
-     "Transport Infrastructure",
-     2.98
-    ],
-    [
-     "Indus Infra Trust",
-     "Transport Infrastructure",
-     2.67
+     "Mahindra & Mahindra Limited",
+     "",
+     2.02
     ],
     [
      "Bharti Airtel Limited",
-     "Telecom - Services",
+     "",
      1.56
     ],
     [
-     "The Indian Hotels Company Limited",
-     "Leisure Services",
-     1.55
+     "Axis Bank Limited",
+     "",
+     1.42
     ],
     [
-     "IndiGrid Infrastructure Trust",
-     "Power",
-     1.25
+     "Maruti Suzuki India Limited",
+     "",
+     1.17
+    ],
+    [
+     "The Indian Hotels Company Limited",
+     "",
+     1.16
+    ],
+    [
+     "Reliance Industries Limited",
+     "",
+     1.16
+    ],
+    [
+     "FSN E-Commerce Ventures Limited",
+     "",
+     1.01
+    ],
+    [
+     "Eternal Limited",
+     "",
+     0.96
+    ],
+    [
+     "Computer Age Management Services Limited",
+     "",
+     0.88
     ]
    ],
    "top_debt": [
@@ -1816,13 +1819,16 @@
    ],
    "sector_note": "Share of the fund held in stocks (38.2%), before futures and options hedges",
    "name": "DynaSIF Active Asset Allocator Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-08-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.360.one/dyna-sif/download",
    "unhedged_long": 7.09,
    "unhedged_short": 0,
    "unhedged_count": 5,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets. Its short gold and silver futures are matched against the physical gold and silver it holds, so they are treated as hedged."
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets. Its short gold and silver futures are matched against the physical gold and silver it holds, so they are treated as hedged.",
+   "nav_regular_growth": 10.5107,
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio"
   },
   "SIF-96": {
    "allocation": [
@@ -2154,57 +2160,57 @@
      3.65
     ]
    ],
-   "net_assets_cr": 150.55,
+   "net_assets_cr": 235.69,
    "top_equity": [
     [
-     "Indo-MIM Limited",
-     "Industrial Manufacturing",
-     5.32
+     "Behari Lal Engineering Limited",
+     "",
+     4.69
     ],
     [
      "Redington Limited",
-     "Commercial Services & Supplies",
-     4.17
+     "",
+     3.94
     ],
     [
-     "Ujjivan Small Finance Bank Limited",
-     "Banks",
-     3.83
+     "Indo-MIM Limited",
+     "",
+     3.91
     ],
     [
-     "IIFL Finance Limited",
-     "Finance",
-     3.67
+     "Premier Energies Limited",
+     "",
+     3.36
+    ],
+    [
+     "Canara HSBC Life Insurance company Ltd",
+     "",
+     3.26
     ],
     [
      "One 97 Communications Limited",
-     "Financial Technology (Fintech)",
-     3.13
+     "",
+     3.24
     ],
     [
-     "Wework India Management Limited",
-     "Commercial Services & Supplies",
-     2.99
+     "ZF Commercial Vehicle Control Systems India Limited",
+     "",
+     3.18
     ],
     [
-     "Biocon Limited",
-     "Pharmaceuticals & Biotechnology",
-     2.97
+     "Voltamp Transformers Limited",
+     "",
+     3.14
     ],
     [
-     "JK Cement Limited",
-     "Cement & Cement Products",
-     2.77
+     "Tilaknagar Industries Limited",
+     "",
+     3.05
     ],
     [
-     "Onesource Specialty Pharma Limited",
-     "Pharmaceuticals & Biotechnology",
-     2.71
-    ],
-    [
-     "Aditya Infotech Limited",
-     "Industrial Manufacturing",
-     2.71
+     "Ujjivan Small Finance Bank Limited",
+     "",
+     3.03
     ]
    ],
    "top_debt": [
@@ -2271,12 +2277,15 @@
     ]
    ],
    "name": "DynaSIF Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-08-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.360.one/dyna-sif/download",
    "unhedged_long": 1.54,
    "unhedged_short": 0,
-   "unhedged_count": 1
+   "unhedged_count": 1,
+   "nav_regular_growth": 11.1199,
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio"
   },
   "SIF-3": {
    "allocation": [
