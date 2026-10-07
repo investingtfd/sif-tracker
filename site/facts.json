@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T17:47:39.343Z",
+ "updated_at": "2026-10-07T18:01:17.681Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -1576,27 +1576,27 @@
    ],
    "unhedged": [
     [
-     "Dabur India Limited",
+     "Dabur India Limited (futures)",
      "",
      1.43
     ],
     [
-     "Bajaj Finance Limited",
+     "Bajaj Finance Limited (futures)",
      "",
      1.39
     ],
     [
-     "Adani Green Energy Limited",
+     "Adani Green Energy Limited (futures)",
      "",
      -1.35
     ],
     [
-     "Maruti Suzuki India Limited",
+     "Maruti Suzuki India Limited (futures)",
      "Automobiles",
      1.33
     ],
     [
-     "Eicher Motors Limited",
+     "Eicher Motors Limited (futures)",
      "",
      1.27
     ]
@@ -1606,9 +1606,10 @@
    "as_of": "2026-07-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.360.one/dyna-sif/download",
-   "unhedged_long": 14.12,
-   "unhedged_short": 6.4,
-   "unhedged_count": 23
+   "unhedged_long": 14.31,
+   "unhedged_short": 6.51,
+   "unhedged_count": 25,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-87": {
    "allocation": [
@@ -1788,29 +1789,29 @@
    ],
    "unhedged": [
     [
-     "Gold Mini futures (Aug 2026)",
-     "",
-     -3.3
-    ],
-    [
-     "Silver Mini futures (Aug 2026)",
-     "",
-     -2.97
-    ],
-    [
-     "Silver futures (Dec 2026)",
-     "",
+     "Silver Dec 2026 (commodity futures)",
+     "Commodity",
      2.17
     ],
     [
-     "Gold futures (Dec 2026)",
-     "",
+     "Gold Dec 2026 (commodity futures)",
+     "Commodity",
      2.02
     ],
     [
-     "Gold futures (Aug 2026)",
+     "Copper Aug 2026 (commodity futures)",
+     "Commodity",
+     1.56
+    ],
+    [
+     "Reliance Industries Limited (futures)",
+     "Petroleum Products",
+     0.73
+    ],
+    [
+     "UNO Minda Limited (futures)",
      "",
-     -1.98
+     0.61
     ]
    ],
    "sector_note": "Share of the fund held in stocks (38.2%), before futures and options hedges",
@@ -1818,9 +1819,10 @@
    "as_of": "2026-07-31",
    "source": "360 ONE Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.360.one/dyna-sif/download",
-   "unhedged_long": 6.36,
-   "unhedged_short": 8.25,
-   "unhedged_count": 7
+   "unhedged_long": 7.09,
+   "unhedged_short": 0,
+   "unhedged_count": 5,
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets. Its short gold and silver futures are matched against the physical gold and silver it holds, so they are treated as hedged."
   },
   "SIF-96": {
    "allocation": [
