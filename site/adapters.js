@@ -1,5 +1,5 @@
 window.TU=(function TUfactory(){
-const TU={version:'2026-10-08c'};
+const TU={version:'2026-10-08d'};
 const r2=x=>Math.round(x*100)/100;
 const STOP=new Set('limited ltd co company the and india of corporation corp limted'.split(' '));
 const clean=s=>String(s==null?'':s).replace(/\s+/g,' ').trim();
@@ -146,3 +146,54 @@ TU.loadIcici=async()=>{const j=await (await fetch('https://apimf.icicipruamc.com
  const z=await TU.unzip(await (await fetch('https://www.icicipruamc.com/blob'+encodeURI(L[0].url))).arrayBuffer());const MAP={SIFEX100:'SIF-34',SIFEQTLS:'SIF-126',SIFACTLS:'SIF-124',SIFHYBID:'SIF-35'};const out={};
  for(const k of Object.keys(z)){if(!/\.xlsx$/i.test(k))continue;try{const S=await T.readXlsx(URL.createObjectURL(new Blob([z[k]])));const m=S.find(s=>MAP[s.name]),v=S.find(s=>s.name==='Derivative');if(!m||!v)continue;const c=MAP[m.name];const r=TU.iciciFull(TU.dense(m.rows),TU.dense(v.rows),m.name);r.file=L[0].url;out[c]=r}catch(e){out[k]={error:String(e)}}}
  return out}})();
+
+;(function(){const {strip}=TU._;
+const nn=s=>strip(String(s).replace(/\s+\d\d-\d\d-\d{4}\s*$/,'')).toLowerCase().replace(/&/g,'and').replace(/\b(ltd|limited|co|company|corporation|corp)\b/g,'').replace(/[^a-z0-9]/g,'');
+const lev=(a,b)=>{const m=a.length,n=b.length;let p=Array.from({length:n+1},(_,j)=>j);for(let i=1;i<=m;i++){const c=[i];for(let j=1;j<=n;j++)c[j]=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));p=c}return p[n]};
+TU._.nn=nn;TU._.fz=(map,name)=>{const k=nn(name);if(map[k])return map[k];if(k.length>=8){for(const q in map){if(Math.abs(q.length-k.length)<=2&&lev(q,k)<=2)return map[q]}}return null}})();
+;(function(){const {r2,clean,strip,key,txt,num,isEq,find,rule,finish,nn,fz}=TU._;
+const sk=s=>key(String(s).replace(/\s+\d\d-\d\d-\d{4}\s*$/,'').replace(/\s+\d\d\/\d\d\/\d{2,4}.*$/,''));
+TU.mirae=D=>{const gt=find(D,/^GRAND TOTAL/i,1);const stock={};for(let i=0;i<(gt<0?D.length:gt);i++){const x=D[i];if(isEq(x[2])&&num(x[6])!=null)stock[nn(x[1])]={ind:clean(x[3]),p:x[6]*100}}
+ const sec=(re,pc,optMode)=>{const s=find(D,re,1);const a=[];if(s<0)return a;for(let i=s+2;i<D.length;i++){const t=txt(D[i],1);if(!t||/^(Total|For the|[A-E]\.)/i.test(t))break;const sd=txt(D[i],2).toLowerCase();if(optMode){if(/^(call|put)$/.test(sd))a.push({n:clean(D[i][1]),k:nn(D[i][1]),n:clean(D[i][1]),type:sd})}else if(/^(long|short)$/.test(sd)){const p=num(D[i][pc]);if(p!=null)a.push({n:clean(D[i][1]).replace(/\s+\d\d-\d\d-\d{4}\s*$/,''),k:nn(D[i][1]),p:p*100})}}return a};
+ const hF=sec(/^A\.\s*Hedging Positions through Futures/i,8),oF=sec(/^B\.\s*Other than Hedging Positions through Futures/i,8),oO=sec(/^D\.\s*Other than Hedging Positions through Options/i,0,true);
+ const fut={};hF.forEach(f=>{fut[f.k]=fut[f.k]||{n:f.n,k:f.k,p:0};fut[f.k].p+=f.p});const U=[];
+ Object.values(fut).forEach(f=>{const st=fz(stock,f.n);const v=rule(f.p,st,'hedge');if(Math.abs(v)>=0.005)U.push([f.n+' (futures)',st?st.ind:'',v])});
+ oF.forEach(f=>U.push([f.n+' (futures)',(fz(stock,f.n)||{}).ind||'',f.p]));
+ const bad=oO.filter(o=>o.type==='call'||!fz(stock,o.n));const o=finish(U,'premium');
+ if(bad.length)o.pending='AMC lists '+bad.length+' non-hedging option positions that are calls or puts on stocks not held; their size is not given per line';
+ else if(oO.length&&o.unhedged_note)o.unhedged_note+=' Bought put options on stocks the fund holds ('+oO.length+' positions) are protection and are left out.';
+ let arb=0;Object.values(fut).forEach(f=>{const st=fz(stock,f.n);if(f.p<0&&st)arb+=Math.min(st.p,-f.p)});o.arb=r2(arb);return o}})();
+;(function(){const {txt,finish,find}=TU._;
+TU.summit=D=>{const r=D.find(x=>/Total outstanding exposure in derivative instruments/i.test(txt(x,1)));if(!r)return Object.assign(finish([]),{pending:'derivative exposure line not found'});const t=txt(r,1);if(/:\s*nil\s*$/i.test(t))return finish([]);return Object.assign(finish([]),{pending:'AMC reports derivative exposure; adapter does not read it yet: '+t.slice(-60)})}})();
+;(function(){const {txt,finish}=TU._;
+TU.sapphire=D=>{const rs=D.filter(x=>/Exposure to Derivative Instruments|Outstanding derivative exposure/i.test(txt(x,0)));if(rs.length<1)return Object.assign(finish([]),{pending:'derivative exposure lines not found'});const nil=rs.every(r=>r.slice(1).some(c=>/^\s*nil\s*$/i.test(String(c||''))));return nil?finish([]):Object.assign(finish([]),{pending:'AMC reports derivative exposure; adapter does not read it yet'})}})();
+;(function(){const {r2,clean,key,txt,num,isEq,find,rule,finish,nn,fz}=TU._;
+TU.diviniti=D=>{const gt=find(D,/^GRAND TOTAL/i,1);const stock={};for(let i=0;i<(gt<0?D.length:gt);i++){const x=D[i];if(isEq(x[2])&&num(x[6])!=null)stock[nn(x[1])]={ind:clean(x[3]),p:x[6]*100}}
+ const iD=find(D,/^DERIVATIVES$/i,1,gt);const rows=[];if(iD>=0)for(let i=iD+2;i<D.length;i++){const x=D[i];const t=txt(x,1);if(/^Notes/i.test(t)||!t)break;const sd=txt(x,2).toLowerCase();if(/^(long|short)$/.test(sd)&&num(x[6])!=null)rows.push({n:t.replace(/^NIFTY$/,'Nifty 50 Index'),ind:clean(x[3]),p:(sd==='short'?-1:1)*Math.abs(x[6])*100})}
+ const so=find(D,/^Other than Hedging Positions through Futures/i,1);const oSet=new Set();if(so>=0)for(let i=so+2;i<D.length;i++){const x=D[i];if(/^Total/i.test(txt(x,1)))break;if(txt(x,2))oSet.add(nn(x[2]))}
+ const oo=D.find(r=>/^Other than Hedging Positions through Options/i.test(txt(r,1)));const optNil=!oo||/:\s*nil\s*$/i.test(txt(oo,1));const ho=D.find(r=>/^Hedging Position[s]? through (Put )?Options?/i.test(txt(r,1)));
+ const U=[];rows.forEach(f=>{const st=fz(stock,f.n);const amc=oSet.has(nn(f.n))?'other':'hedge';const v=rule(f.p,st,amc);if(Math.abs(v)>=0.005)U.push([f.n+' (futures)',f.ind,v])});
+ const o=finish(U,'premium');if(!optNil)o.pending='AMC lists non-hedging options; adapter does not read them yet';return o}})();
+;(function(){const {r2,clean,txt,num,isEq,find,rule,finish,nn,fz}=TU._;
+const NF2='Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.';
+TU.redhex=D=>{const end=D.findIndex(r=>/^Total Net Assets/i.test(txt(r,0)));const stock={};for(let i=0;i<(end<0?D.length:end);i++){const x=D[i];if(isEq(x[1])&&num(x[5])!=null)stock[nn(x[0])]={ind:clean(x[2]),p:x[5]*100}}
+ const h=D.findIndex(r=>/^Disclosure in Derivatives/i.test(txt(r,0)));if(h<0)return Object.assign(finish([]),{pending:'derivative table not found'});
+ const fut={};let n=0;for(let i=h+1;i<D.length;i++){const x=D[i];const t=txt(x,0);if(!t||/^(For the period|[a-e]\))/i.test(t))break;const q=num(x[1]),p=num(x[3]);if(q==null||p==null)continue;const k=nn(t);fut[k]=fut[k]||{n:t.replace(/\s+/g,' '),p:0};fut[k].p+=(q<0?-1:1)*Math.abs(p)*100;n++}
+ const nonH=D.find(r=>/^b\)\s*Non Hedging Positions through Futures/i.test(txt(r,0))),oOpt=D.find(r=>/^d\)\s*Other than Hedging Positions through Options/i.test(txt(r,0)));
+ const U=[];let unheld=false;Object.values(fut).forEach(f=>{const st=fz(stock,f.n);const v=rule(f.p,st,'hedge');if(Math.abs(v)>=0.005){U.push([f.n+' (futures)',st?st.ind:'',v]);if(!st&&v<0)unheld=true}});
+ const o=finish(U,'premium');if(unheld&&o.unhedged_note)o.unhedged_note=NF2;
+ if(!(nonH&&/is nil/i.test(txt(nonH,0)))||!(oOpt&&/is nil/i.test(txt(oOpt,0))))o.pending='AMC lists non-hedging futures or options; adapter does not read them yet';
+ let arb=0;Object.values(fut).forEach(f=>{const st=fz(stock,f.n);if(f.p<0&&st)arb+=Math.min(st.p,-f.p)});o.arb=r2(arb);return o}})();
+;(function(){const {r2,clean,txt,num,isEq,find,rule,finish,nn,fz}=TU._;
+TU.quant=D=>{const iDer=find(D,/^DERIVATIVES$/i,2);const iGT=find(D,/^Grand Total/i,2);const stock={};for(let i=0;i<(iDer<0?D.length:iDer);i++){const x=D[i];if(isEq(x[1])&&num(x[7])!=null)stock[nn(x[2])]={ind:clean(x[4]),p:x[7]}}
+ const fut=[],opt=[],com=[];let mode='';if(iDer>=0)for(let i=iDer+1;i<(iGT<0?D.length:iGT);i++){const x=D[i];const t=txt(x,2);if(/Index \/ Stock Futures/i.test(t)){mode='f';continue}if(/Index \/ Stock Options/i.test(t)){mode='o';continue}if(/Commodity Futures/i.test(t)){mode='c';continue}if(/Commodity Option/i.test(t)){mode='co';continue}if(/^DEBT INSTRUMENTS/i.test(t))break;const p=num(x[7]);if(p==null||/^(sub )?total$/i.test(t)||!t)continue;
+  if(mode==='f')fut.push({n:t,ind:clean(x[4]),p});else if(mode==='o')opt.push({n:t,ind:clean(x[4]),p,put:/\bput\b|\bPE\b/i.test(t)||/PE\d*$/.test(String(x[1]||''))});else if(mode==='c'||mode==='co')com.push({n:t,p})}
+ const lst=(re)=>{const s=find(D,re,1);const a=[];if(s<0)return{a,found:false};for(let i=s+2;i<D.length;i++){const x=D[i];const t=txt(x,1);if(!t||/^(Total|For the period)/i.test(t))break;if(/^nil$/i.test(t))continue;a.push({k:nn(t),side:txt(x,2).toLowerCase()})}return{a,found:true}};
+ const oF=lst(/^Other than Hedging Positions through Futures/i),oO=lst(/^Other than Hedging Positions through Options/i);
+ const agg={};fut.forEach(f=>{const k=nn(f.n);agg[k]=agg[k]||{n:f.n.replace(/\s+/g,' ').trim(),ind:f.ind,p:0};agg[k].p+=f.p});
+ const U=[];let unheld=false;Object.entries(agg).forEach(([k,f])=>{const st=fz(stock,f.n);const other=oF.a.some(s=>s.k===k&&((s.side==='long')===(f.p>0)));const v=rule(f.p,st,other?'other':'hedge');if(Math.abs(v)>=0.005)U.push([f.n+' (futures)',f.ind||(st?st.ind:''),v])});
+ const om={};opt.forEach(o=>{const listed=oO.a.some(s=>s.k===nn(o.n));if(!listed)return;const st=fz(stock,o.n);let v;if(o.put){v=o.p>0?(st?0:-o.p):Math.abs(o.p)}else{v=o.p>0?o.p:(st?0:-Math.abs(o.p))}if(Math.abs(v)<0.005)return;const nm=o.n.replace(/\s+/g,' ').trim()+' ('+(o.put?'put':'call')+' options)';om[nm]=om[nm]||{ind:o.ind,p:0};om[nm].p+=v});Object.entries(om).forEach(([n,v])=>U.push([n,v.ind,v.p]));
+ const o=finish(U,'exposure');if(com.length)o.pending='commodity derivatives present; adapter does not read them yet';
+ let arb=0;Object.entries(agg).forEach(([k,f])=>{const st=fz(stock,f.n);if(f.p<0&&st)arb+=Math.min(st.p,-f.p)});o.arb=r2(arb);o.found=[oF.found,oO.found];return o}})();
+;Object.assign(TU.byCode,{'SIF-136':['mirae','SIFLS'],'SIF-150':['summit','EQLSSIF'],'SIF-96':['sapphire','SIELS'],'SIF-21':['diviniti','DIVLSF'],'SIF-128':['redhex','*'],'SIF-3':['quant','*'],'SIF-7':['quant','*'],'SIF-25':['quant','*'],'SIF-93':['quant','*'],'SIF-117':['quant','*']});
+;(function(){const orig=TU.unhedged;TU.unhedged=(code,sheets)=>{const a=TU.byCode[code];if(a&&a[1]==='*'){try{const D=TU.dense(sheets.reduce((r,x)=>r.concat(x.rows),[]));return TU[a[0]](D)}catch(e){return{error:String(e)}}}return orig(code,sheets)}})();
