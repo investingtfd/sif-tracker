@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-08T06:57:28.875Z",
+ "updated_at": "2026-10-08T07:39:22.160Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "allocation": [
     [
      "Equity",
@@ -46,57 +46,57 @@
      -4.11
     ]
    ],
-   "net_assets_cr": 9267.63,
+   "net_assets_cr": 11297,
    "top_equity": [
     [
+     "HDFC Bank Ltd.",
+     "",
+     1.68
+    ],
+    [
      "Adani Enterprises Ltd.",
-     "Metals & Minerals Trading",
-     2.09
+     "",
+     1.63
     ],
     [
      "Adani Energy Solutions Ltd.",
-     "Power",
-     1.91
-    ],
-    [
-     "Embassy Office Parks Reit",
-     "REIT",
-     1.56
+     "",
+     1.61
     ],
     [
      "Titan Company Ltd.",
-     "Consumer Durables",
+     "",
      1.51
     ],
     [
+     "RBL Bank Ltd.",
+     "",
+     1.3
+    ],
+    [
+     "Embassy Office Parks REIT",
+     "REIT",
+     1.28
+    ],
+    [
      "Indus Towers Ltd.",
-     "Telecom - Services",
-     1.5
+     "",
+     1.19
     ],
     [
      "Grasim Industries Ltd.",
-     "Cement & Cement Products",
-     1.47
-    ],
-    [
-     "Shriram Finance Ltd.",
-     "Finance",
-     1.37
+     "",
+     1.19
     ],
     [
      "Coal India Ltd.",
-     "Consumable Fuels",
-     1.31
+     "",
+     1.15
     ],
     [
-     "One 97 Communications Ltd.",
-     "Financial Technology (Fintech)",
-     1.12
-    ],
-    [
-     "Bharat Heavy Electricals Ltd.",
-     "Electrical Equipment",
-     1.07
+     "Shriram Finance Ltd.",
+     "",
+     1.08
     ]
    ],
    "top_debt": [
@@ -178,7 +178,7 @@
      5.98
     ]
    ],
-   "split_source": "Edelweiss Mutual Fund monthly portfolio disclosure",
+   "split_source": "Fund size and top positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Aug 2026, pending the full portfolio",
    "sectors": [
     [
      "Finance",
@@ -243,11 +243,12 @@
    "unhedged_long": 1.62,
    "unhedged_short": 1.42,
    "unhedged_count": 99,
-   "unhedged_note": "As the AMC reports it: 1.61% of the fund in long futures that are not hedges, plus calls and puts written on 87 stocks (1.55% of the fund at premium value, shown here as short). Most of the written calls are on stocks the fund holds."
+   "unhedged_note": "As the AMC reports it: 1.61% of the fund in long futures that are not hedges, plus calls and puts written on 87 stocks (1.55% of the fund at premium value, shown here as short). Most of the written calls are on stocks the fund holds.",
+   "factsheet_only": true
   },
   "SIF-122": {
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "allocation": [
     [
      "Equity",
@@ -262,57 +263,57 @@
      -0.89
     ]
    ],
-   "net_assets_cr": 1366.06,
+   "net_assets_cr": 1548,
    "top_equity": [
     [
-     "Bharti Hexacom Ltd.",
-     "Telecom - Services",
-     3.61
-    ],
-    [
      "360 ONE WAM Ltd.",
-     "Capital Markets",
-     3.43
-    ],
-    [
-     "Radico Khaitan Ltd.",
-     "Beverages",
-     3.36
-    ],
-    [
-     "Akums Drugs & Pharmaceuticals Ltd.",
-     "Pharmaceuticals & Biotechnology",
-     3.33
+     "",
+     3.93
     ],
     [
      "JSW Infrastructure Ltd.",
-     "Transport Infrastructure",
-     3.28
+     "",
+     3.89
     ],
     [
-     "CreditAccess Grameen Ltd.",
-     "Finance",
-     3.25
+     "Bharti Hexacom Ltd.",
+     "",
+     3.77
     ],
     [
-     "Emmvee Photovoltaic Power Ltd.",
-     "Electrical Equipment",
-     3.16
+     "Radico Khaitan Ltd.",
+     "",
+     3.68
+    ],
+    [
+     "Akums Drugs & Pharmaceuticals Ltd.",
+     "",
+     3.45
     ],
     [
      "SPR Auto Technologies Ltd.",
-     "Auto Components",
-     3.09
+     "",
+     3.34
     ],
     [
      "Bharat Dynamics Ltd.",
-     "Aerospace & Defense",
+     "",
+     3.1
+    ],
+    [
+     "Shadowfax Technologies Ltd.",
+     "",
+     3.08
+    ],
+    [
+     "Emmvee Photovoltaic Power Ltd.",
+     "",
      3.05
     ],
     [
      "Coforge Ltd.",
-     "IT - Software",
-     2.97
+     "",
+     2.87
     ]
    ],
    "top_debt": [],
@@ -338,7 +339,7 @@
      1.89
     ]
    ],
-   "split_source": "Edelweiss Mutual Fund monthly portfolio disclosure",
+   "split_source": "Fund size and top positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Aug 2026, pending the full portfolio",
    "sectors": [
     [
      "Banks",
@@ -369,7 +370,8 @@
    "unhedged": [],
    "unhedged_long": 0,
    "unhedged_short": 0,
-   "unhedged_count": 0
+   "unhedged_count": 0,
+   "factsheet_only": true
   },
   "SIF-136": {
    "allocation": [
@@ -1205,7 +1207,7 @@
      48.45
     ]
    ],
-   "net_assets_cr": 587.04,
+   "net_assets_cr": 540.57,
    "top_equity": [
     [
      "ICICI BANK LTD.",
@@ -1393,13 +1395,15 @@
    ],
    "sector_note": "Share of the fund held in stocks (49.3%), before futures and options hedges",
    "name": "Titanium Hybrid Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-09-30",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
    "unhedged_long": 14.74,
    "unhedged_short": 3.82,
    "unhedged_count": 20,
-   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out."
+   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out.",
+   "split_source": "Fund size as on 30 Sep 2026 (monthly factsheet). Top positions, asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
+   "factsheet_only": true
   },
   "SIF-55": {
    "allocation": [
@@ -1823,57 +1827,57 @@
      2.79
     ]
    ],
-   "net_assets_cr": 204.5,
+   "net_assets_cr": 216.02,
    "top_equity": [
     [
      "ICICI Bank Ltd",
-     "Banks",
-     5.27
+     "",
+     4.64
     ],
     [
      "HDFC Bank Ltd",
-     "Banks",
-     5.1
+     "",
+     4.57
     ],
     [
      "Reliance Industries Ltd",
-     "Petroleum Products",
-     3.47
+     "",
+     3.49
     ],
     [
      "Larsen & Toubro Ltd",
-     "Construction",
-     3.07
-    ],
-    [
-     "Infosys Ltd",
-     "IT - Software",
-     2.97
+     "",
+     2.98
     ],
     [
      "Axis Bank Ltd",
-     "Banks",
-     2.77
+     "",
+     2.44
+    ],
+    [
+     "State Bank of India",
+     "",
+     2.29
+    ],
+    [
+     "Infosys Ltd",
+     "",
+     2.29
     ],
     [
      "Bharti Airtel Ltd",
-     "Telecom - Services",
-     2.48
+     "",
+     1.98
     ],
     [
-     "Mahindra & Mahindra Ltd",
-     "Automobiles",
-     1.99
+     "Titan Co Ltd",
+     "",
+     1.56
     ],
     [
      "Tata Consultancy Services Ltd",
-     "IT - Software",
-     1.62
-    ],
-    [
-     "ITC Ltd",
-     "Diversified FMCG",
-     1.61
+     "",
+     1.55
     ]
    ],
    "top_debt": [],
@@ -1924,12 +1928,14 @@
    ],
    "unhedged": [],
    "name": "Sapphire Equity Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-08-31",
    "source": "Franklin Templeton Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports",
    "unhedged_long": 0,
    "unhedged_short": 0,
-   "unhedged_count": 0
+   "unhedged_count": 0,
+   "split_source": "Fund size and top positions as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
+   "factsheet_only": true
   },
   "SIF-102": {
    "allocation": [
@@ -1950,57 +1956,57 @@
      17.13
     ]
    ],
-   "net_assets_cr": 275.64,
+   "net_assets_cr": 343.9,
    "top_equity": [
     [
-     "HDFC BANK LTD.",
-     "Banks",
-     5.97
+     "HDFC Bank Ltd.",
+     "",
+     5.26
     ],
     [
-     "ICICI BANK LTD.",
-     "Banks",
-     3.91
+     "Axis Bank Ltd.",
+     "",
+     3.03
     ],
     [
-     "MAHINDRA & MAHINDRA LTD.",
-     "Automobiles",
-     3.58
-    ],
-    [
-     "RELIANCE INDUSTRIES LTD.",
-     "Petroleum Products",
-     3.08
+     "ICICI Bank Ltd.",
+     "",
+     2.88
     ],
     [
      "NTPC Ltd.",
-     "Power",
-     2.77
+     "",
+     2.63
     ],
     [
-     "BHARTI AIRTEL LTD.",
-     "Telecom - Services",
-     2.72
+     "Reliance Industries Ltd.",
+     "",
+     2.59
     ],
     [
-     "ULTRATECH CEMENT LTD.",
-     "Cement & Cement Products",
-     2.16
+     "Mahindra & Mahindra Ltd.",
+     "",
+     2.49
     ],
     [
-     "TATA CONSULTANCY SERVICES LTD.",
-     "IT - Software",
-     2.15
+     "Bharti Airtel Ltd.",
+     "",
+     2.3
     ],
     [
-     "ABBOTT INDIA LTD.",
-     "Pharmaceuticals & Biotechnology",
-     2.02
+     "Abbott India Ltd.",
+     "",
+     2.05
     ],
     [
-     "AXIS BANK LTD.",
-     "Banks",
-     2.01
+     "Ultratech Cement Ltd.",
+     "",
+     1.91
+    ],
+    [
+     "Vishal Mega Mart Ltd.",
+     "",
+     1.91
     ]
    ],
    "top_debt": [
@@ -2119,13 +2125,15 @@
    ],
    "sector_note": "Share of the fund held in stocks (82.9%), before futures and options hedges",
    "name": "Titanium Equity Long-Short Fund",
-   "as_of": "2026-07-31",
+   "as_of": "2026-09-30",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
    "unhedged_long": 5.67,
    "unhedged_short": 6.86,
    "unhedged_count": 13,
-   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out."
+   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out.",
+   "split_source": "Fund size and top positions (net of futures) as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
+   "factsheet_only": true
   },
   "SIF-143": {
    "allocation": [
