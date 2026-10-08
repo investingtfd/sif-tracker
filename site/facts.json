@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T18:42:11.140Z",
+ "updated_at": "2026-10-08T06:57:28.875Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -3776,9 +3776,9 @@
     ]
    ],
    "equity_gross_pct": 76.78,
-   "equity_net_pct": 60.4,
+   "equity_net_pct": 59.4,
    "holdings_count": 133,
-   "turnover_ratio": null,
+   "turnover_ratio": 1.71,
    "derivative_gross_exposure_cr": 438.91,
    "derivative_basis": "futures",
    "risk_band": 5,
@@ -3812,15 +3812,15 @@
    "split": [
     [
      "Equity (unhedged)",
-     60.4
+     59.4
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     17.38
     ],
     [
      "Fixed income",
      23.22
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     16.38
     ]
    ],
    "unhedged": [],
@@ -3831,7 +3831,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 0,
-   "unhedged_short": 0
+   "unhedged_short": 0,
+   "nav_regular_growth": 10.37
   },
   "SIF-35": {
    "allocation": [
@@ -3957,7 +3958,7 @@
    "equity_gross_pct": 68.1,
    "equity_net_pct": 65.47,
    "holdings_count": 92,
-   "turnover_ratio": null,
+   "turnover_ratio": 1.39,
    "derivative_gross_exposure_cr": 158.2,
    "derivative_basis": "futures",
    "risk_band": 5,
@@ -3994,12 +3995,12 @@
      61.1
     ],
     [
-     "Fixed income",
-     31.9
-    ],
-    [
      "Arbitrage (hedged equity)",
      7
+    ],
+    [
+     "Fixed income",
+     31.9
     ]
    ],
    "unhedged": [
@@ -4032,7 +4033,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 4.37,
-   "unhedged_short": 0.59
+   "unhedged_short": 0.59,
+   "nav_regular_growth": 10.6807
   },
   "SIF-124": {
    "allocation": [
@@ -4050,7 +4052,7 @@
     ],
     [
      "invit",
-     0.77
+     0.78
     ],
     [
      "fut",
@@ -4165,9 +4167,9 @@
     ]
    ],
    "equity_gross_pct": 53.99,
-   "equity_net_pct": 5.46,
+   "equity_net_pct": 5.57,
    "holdings_count": 162,
-   "turnover_ratio": null,
+   "turnover_ratio": 1.3,
    "derivative_gross_exposure_cr": 683.04,
    "derivative_basis": "futures",
    "risk_band": 2,
@@ -4200,20 +4202,20 @@
    ],
    "split": [
     [
+     "Equity (unhedged)",
+     4.94
+    ],
+    [
      "Arbitrage (hedged equity)",
      49.04
     ],
     [
      "Fixed income",
-     45.24
-    ],
-    [
-     "Equity (unhedged)",
-     4.95
+     45.23
     ],
     [
      "REITs and InvITs",
-     0.77
+     0.78
     ]
    ],
    "unhedged": [
@@ -4251,7 +4253,8 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 0.63,
-   "unhedged_short": 6.4
+   "unhedged_short": 6.4,
+   "nav_regular_growth": 10.4173
   },
   "SIF-126": {
    "allocation": [
@@ -4336,7 +4339,7 @@
    "equity_gross_pct": 84.85,
    "equity_net_pct": 74.34,
    "holdings_count": 121,
-   "turnover_ratio": null,
+   "turnover_ratio": 0.91,
    "derivative_gross_exposure_cr": 123.18,
    "derivative_basis": "futures",
    "risk_band": 5,
@@ -4373,12 +4376,12 @@
      73.1
     ],
     [
-     "Fixed income",
-     15.15
-    ],
-    [
      "Arbitrage (hedged equity)",
      11.75
+    ],
+    [
+     "Fixed income",
+     15.15
     ]
    ],
    "unhedged": [
@@ -4409,38 +4412,39 @@
     ]
    ],
    "unhedged_count": 13,
-   "sector_note": "Share of the fund held in stocks (84.8%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (84.9%), before futures and options hedges",
    "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
    "name": "iSIF Equity Long-Short Fund",
    "as_of": "2026-08-31",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_long": 1.24,
-   "unhedged_short": 7.52
+   "unhedged_short": 7.52,
+   "nav_regular_growth": 10.88
   },
   "SIF-80": {
    "name": "Apex Hybrid Long-Short Fund",
    "as_of": "2026-09-30",
    "allocation": [
     [
-     "eq",
-     40.48
-    ],
-    [
      "fi",
      46.72
     ],
     [
+     "mf",
+     10.02
+    ],
+    [
+     "eq",
+     40.47
+    ],
+    [
      "reit",
-     1.74
+     1.75
     ],
     [
      "invit",
      1.04
-    ],
-    [
-     "mf",
-     10.02
     ],
     [
      "fut",
@@ -4475,7 +4479,7 @@
     ],
     [
      "Knowledge Realty Trust",
-     "REIT",
+     "Realty",
      1.02
     ],
     [
@@ -4526,40 +4530,14 @@
      2.8
     ],
     [
-     "7.62% National Bank for Agriculture and Rural Development (31/01/2028) **",
+     "7.62% National Bank for Agriculture and Rural Development (31/01/2028)",
      "ICRA AAA",
      1.41
     ]
    ],
-   "top_shorts": [
-    [
-     "UPL Ltd.",
-     "Fertilizers & Agrochemicals",
-     -4.98
-    ],
-    [
-     "ICICI Bank Ltd.",
-     "Banks",
-     -2.42
-    ],
-    [
-     "Reliance Industries Ltd.",
-     "Petroleum Products",
-     -0.89
-    ],
-    [
-     "HDFC Bank Ltd.",
-     "Banks",
-     -0.59
-    ],
-    [
-     "Adani Energy Solutions Ltd.",
-     "Power",
-     -0.18
-    ]
-   ],
-   "equity_gross_pct": 40.48,
-   "equity_net_pct": 31.3,
+   "top_shorts": [],
+   "equity_gross_pct": 40.47,
+   "equity_net_pct": 31.29,
    "holdings_count": 99,
    "nav_regular_growth": 10.7182,
    "benchmark": "Nifty 50 Hybrid Composite Debt 50:50 Index",
@@ -4572,7 +4550,7 @@
     ],
     [
      "Equity (unhedged)",
-     31.25
+     31.24
     ],
     [
      "Mutual fund units",
@@ -4584,7 +4562,7 @@
     ],
     [
      "REITs and InvITs",
-     2.78
+     2.79
     ]
    ],
    "split_source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
@@ -4611,7 +4589,7 @@
     ],
     [
      "Other sectors",
-     16.66
+     17.68
     ]
    ],
    "sector_note": "Share of the fund held in stocks (40.5%), before futures and options hedges",
@@ -4634,29 +4612,30 @@
     ],
     [
      "Varun Beverages Ltd. (options)",
-     "",
+     "Beverages",
      0.002
     ]
    ],
-   "unhedged_long": 0.46,
+   "unhedged_long": 0.45,
    "unhedged_short": 0,
-   "unhedged_count": 5,
+   "unhedged_count": 4,
    "risk_band": 1,
    "benchmark_risk_band": 2,
-   "derivative_gross_exposure_cr": 34.54,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
+   "derivative_gross_exposure_cr": 34.5,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger.",
+   "derivative_basis": "futures"
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-09-30",
    "allocation": [
     [
-     "eq",
-     42.88
-    ],
-    [
      "fi",
      56.89
+    ],
+    [
+     "eq",
+     42.88
     ],
     [
      "reit",
@@ -4751,36 +4730,10 @@
      1.99
     ]
    ],
-   "top_shorts": [
-    [
-     "Central Depository Services (I) Ltd.",
-     "",
-     -3.09
-    ],
-    [
-     "RBL Bank Ltd.",
-     "",
-     -1.97
-    ],
-    [
-     "UNO Minda Ltd.",
-     "",
-     -1.59
-    ],
-    [
-     "Bharat Dynamics Ltd.",
-     "",
-     -1.5
-    ],
-    [
-     "Waaree Energies Ltd.",
-     "",
-     -1.46
-    ]
-   ],
+   "top_shorts": [],
    "equity_gross_pct": 42.88,
    "equity_net_pct": 4.67,
-   "holdings_count": 74,
+   "holdings_count": 75,
    "nav_regular_growth": 9.93,
    "benchmark": "NIFTY 500 TRI",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
@@ -4823,55 +4776,56 @@
     ],
     [
      "Other sectors",
-     25.11
+     25.34
     ]
    ],
    "sector_note": "Share of the fund held in stocks (42.9%), before futures and options hedges",
    "net_shorts": [],
    "unhedged": [
     [
-     "Central Depository Services (I) Ltd.",
+     "Central Depository Services (I) Ltd. (futures)",
      "",
      -3.09
     ],
     [
-     "RBL Bank Ltd.",
+     "RBL Bank Ltd. (futures)",
      "",
      -1.97
     ],
     [
-     "UNO Minda Ltd.",
+     "UNO Minda Ltd. (futures)",
      "",
      -1.59
     ],
     [
-     "Bharat Dynamics Ltd.",
+     "Bharat Dynamics Ltd. (futures)",
      "",
      -1.5
     ],
     [
-     "Waaree Energies Ltd.",
+     "Waaree Energies Ltd. (futures)",
      "",
      -1.46
     ]
    ],
    "unhedged_long": 0,
-   "unhedged_short": 37.17,
+   "unhedged_short": 37.21,
    "unhedged_count": 42,
    "derivative_gross_exposure_cr": 95.67,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks."
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
+   "derivative_basis": "futures"
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
    "as_of": "2026-09-30",
    "allocation": [
     [
-     "eq",
-     62.05
-    ],
-    [
      "fi",
      37.95
+    ],
+    [
+     "eq",
+     62.05
     ],
     [
      "fut",
@@ -4952,36 +4906,10 @@
      3.95
     ]
    ],
-   "top_shorts": [
-    [
-     "UNO Minda Ltd.",
-     "",
-     -1.54
-    ],
-    [
-     "JSW Energy Ltd.",
-     "",
-     -1.31
-    ],
-    [
-     "Central Depository Services (I) Ltd.",
-     "",
-     -1.21
-    ],
-    [
-     "Angel One Ltd.",
-     "",
-     -1.1
-    ],
-    [
-     "Siemens Ltd.",
-     "",
-     -1.04
-    ]
-   ],
+   "top_shorts": [],
    "equity_gross_pct": 62.05,
    "equity_net_pct": 44.67,
-   "holdings_count": 61,
+   "holdings_count": 63,
    "nav_regular_growth": 9.8,
    "benchmark": "NIFTY 500 TRI",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
@@ -5027,36 +4955,37 @@
    "net_shorts": [],
    "unhedged": [
     [
-     "UNO Minda Ltd.",
+     "UNO Minda Ltd. (futures)",
      "",
      -1.54
     ],
     [
-     "JSW Energy Ltd.",
+     "JSW Energy Ltd. (futures)",
      "",
      -1.31
     ],
     [
-     "Central Depository Services (I) Ltd.",
+     "Central Depository Services (I) Ltd. (futures)",
      "",
      -1.21
     ],
     [
-     "Angel One Ltd.",
+     "Angel One Ltd. (futures)",
      "",
      -1.1
     ],
     [
-     "Siemens Ltd.",
+     "Siemens Ltd. (futures)",
      "",
      -1.04
     ]
    ],
    "unhedged_long": 1.26,
-   "unhedged_short": 17.9,
+   "unhedged_short": 17.91,
    "unhedged_count": 26,
-   "derivative_gross_exposure_cr": 24.96,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks."
+   "derivative_gross_exposure_cr": 24.95,
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
+   "derivative_basis": "futures"
   },
   "SIF-40": {
    "name": "Arudha Hybrid Long-Short Fund",
@@ -5064,15 +4993,15 @@
    "allocation": [
     [
      "eq",
-     37.79
-    ],
-    [
-     "fi",
-     62.24
+     37.77
     ],
     [
      "fut",
-     -37.99
+     -38
+    ],
+    [
+     "fi",
+     62.23
     ]
    ],
    "net_assets_cr": 146.93,
@@ -5130,17 +5059,17 @@
    ],
    "top_debt": [
     [
-     "7.42% SIDBI 2029(SR- VII) 12/03/2029 **",
+     "7.42% SIDBI 2029(SR- VII) 12/03/2029",
      "CRISIL AAA",
      6.77
     ],
     [
-     "7.44%  UNSNCD NABARD - 17/07/2029 **",
+     "7.44% UNSNCD NABARD - 17/07/2029",
      "CRISIL AAA",
      6.76
     ],
     [
-     "7.7% Bajaj Finance Ltd - 20/9/2029 **",
+     "7.7% Bajaj Finance Ltd - 20/9/2029",
      "CRISIL AAA",
      6.73
     ],
@@ -5150,48 +5079,48 @@
      5.26
     ],
     [
-     "7.85% Bajaj Housing Finance (01/09/2028) **",
+     "7.85% Bajaj Housing Finance (01/09/2028)",
      "CRISIL AAA",
      3.4
     ]
    ],
    "top_shorts": [
     [
-     "HDFC Bank Ltd.",
-     "Banks",
+     "HDFC Bank Ltd. 29/09/2026",
+     "",
      -1.99
     ],
     [
-     "Bharti Airtel Ltd.",
-     "Telecom - Services",
+     "Bharti Airtel Ltd. 29/09/2026",
+     "",
      -1.21
     ],
     [
-     "Bajaj Finance Ltd.",
-     "Finance",
-     -1.21
-    ],
-    [
-     "ICICI Bank Ltd",
-     "Banks",
+     "ICICI Bank Ltd 29/09/2026",
+     "",
      -1.18
     ],
     [
-     "Adani Green Energy Ltd",
-     "Power",
+     "Adani Green Energy Ltd 29/09/2026",
+     "",
      -1.17
+    ],
+    [
+     "Vodafone Idea Ltd. 29/09/2026",
+     "",
+     -1.15
     ]
    ],
-   "equity_gross_pct": 37.79,
-   "equity_net_pct": -0.2,
-   "holdings_count": 74,
+   "equity_gross_pct": 37.77,
+   "equity_net_pct": -0.23,
+   "holdings_count": 137,
    "nav_regular_growth": 10.354,
    "source": "Bandhan Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
    "split": [
     [
      "Fixed income",
-     62.24
+     62.23
     ],
     [
      "Arbitrage (hedged equity)",
@@ -5199,18 +5128,18 @@
     ],
     [
      "Equity (unhedged)",
-     0.15
+     0.13
     ]
    ],
    "split_source": "Bandhan Mutual Fund monthly portfolio disclosure",
    "sectors": [
     [
      "Banks",
-     10.4
+     10.38
     ],
     [
      "Finance",
-     3.35
+     3.34
     ],
     [
      "Automobiles",
@@ -5222,11 +5151,11 @@
     ],
     [
      "Consumer Durables",
-     2.41
+     2.42
     ],
     [
      "Other sectors",
-     15.7
+     15.69
     ]
    ],
    "sector_note": "Share of the fund held in stocks (37.8%), before futures and options hedges",
@@ -5238,7 +5167,8 @@
    "benchmark": "CRISIL Hybrid 85+15 Conservative Index",
    "risk_band": 1,
    "benchmark_risk_band": 3,
-   "derivative_gross_exposure_cr": 55.82
+   "derivative_gross_exposure_cr": 55.83,
+   "derivative_basis": "futures"
   },
   "SIF-62": {
    "name": "Arudha Equity Long-Short Fund",
@@ -5249,20 +5179,16 @@
      78.39
     ],
     [
-     "fi",
-     19.73
-    ],
-    [
      "reit",
      1.87
     ],
     [
-     "fut",
-     -1.85
+     "fi",
+     19.67
     ],
     [
-     "opt",
-     -0.08
+     "fut",
+     -1.85
     ]
    ],
    "net_assets_cr": 127.87,
@@ -5333,38 +5259,48 @@
      "6.68% GSEC BONDS- 07/07/2040",
      "Sovereign",
      0.75
+    ],
+    [
+     "CALL NMDC Ltd. 29/09/2026 88",
+     "",
+     -0.02
+    ],
+    [
+     "CALL State Bank of India 29/09/2026 1080",
+     "",
+     -0.02
     ]
    ],
    "top_shorts": [
     [
-     "Hindustan Petroleum Corporation Ltd.",
+     "Hindustan Petroleum Corporation Ltd. 29/09/2026",
      "",
      -0.8
     ],
     [
-     "Dmart",
+     "Dmart 29/09/2026",
      "",
      -0.63
     ],
     [
-     "Ambuja Cements Ltd.",
+     "Ambuja Cements Ltd. 29/09/2026",
      "",
      -0.53
     ],
     [
-     "JSW Energy Ltd.",
+     "JSW Energy Ltd. 29/09/2026",
      "",
      -0.4
     ],
     [
-     "Inox Wind Ltd.",
+     "Inox Wind Ltd. 29/09/2026",
      "",
      -0.32
     ]
    ],
    "equity_gross_pct": 78.39,
-   "equity_net_pct": 76.46,
-   "holdings_count": 51,
+   "equity_net_pct": 76.54,
+   "holdings_count": 62,
    "nav_regular_growth": 10.51,
    "source": "Bandhan Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
@@ -5375,7 +5311,7 @@
     ],
     [
      "Fixed income",
-     19.73
+     19.67
     ],
     [
      "REITs and InvITs",
@@ -5413,27 +5349,27 @@
    "net_shorts": [],
    "unhedged": [
     [
-     "Indian Oil Corporation Ltd.",
+     "Indian Oil Corporation Ltd. (futures)",
      "",
      0.83
     ],
     [
-     "Hindustan Petroleum Corporation Ltd.",
+     "Hindustan Petroleum Corporation Ltd. (futures)",
      "",
      -0.8
     ],
     [
-     "Dmart",
+     "Dmart (futures)",
      "",
      -0.63
     ],
     [
-     "Ambuja Cements Ltd.",
+     "Ambuja Cements Ltd. (futures)",
      "",
      -0.53
     ],
     [
-     "JSW Energy Ltd.",
+     "JSW Energy Ltd. (futures)",
      "",
      -0.4
     ]
@@ -5445,8 +5381,9 @@
    "benchmark": "NIFTY 500 TRI",
    "risk_band": 5,
    "benchmark_risk_band": 5,
-   "derivative_gross_exposure_cr": 4.59,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
+   "derivative_gross_exposure_cr": 4.49,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "derivative_basis": "futures"
   }
  }
 }
