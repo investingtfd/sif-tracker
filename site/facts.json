@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T07:39:22.160Z",
+ "updated_at": "2026-10-09T07:28:43.446Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -1188,23 +1188,23 @@
    "allocation": [
     [
      "eq",
-     49.27
+     52.94
     ],
     [
      "reit",
-     2.28
+     3.05
     ],
     [
      "fut",
-     9.91
+     5.56
     ],
     [
      "opt",
-     -0.14
+     0.07
     ],
     [
      "fi",
-     48.45
+     44
     ]
    ],
    "net_assets_cr": 540.57,
@@ -1217,193 +1217,191 @@
     [
      "HDFC BANK LTD.",
      "Banks",
-     3.95
+     4.33
     ],
     [
      "MAHINDRA & MAHINDRA LTD.",
      "Automobiles",
-     3.18
+     3
     ],
     [
      "BHARTI AIRTEL LTD.",
      "Telecom - Services",
-     3.02
+     2.93
     ],
     [
      "RELIANCE INDUSTRIES LTD.",
      "Petroleum Products",
-     2.67
+     2.63
     ],
     [
      "LARSEN & TOUBRO LTD.",
      "Construction",
-     2.42
+     2.5
+    ],
+    [
+     "LIFE INSURANCE CORPORATION OF INDIA",
+     "Insurance",
+     2.12
     ],
     [
      "NTPC Ltd.",
      "Power",
-     1.95
+     1.97
     ],
     [
      "STATE BANK OF INDIA",
      "Banks",
-     1.93
+     1.95
     ],
     [
-     "ITC LTD.",
-     "Diversified FMCG",
-     1.44
-    ],
-    [
-     "AXIS BANK LTD.",
-     "Banks",
-     1.26
+     "TEMPSENS INSTRUMENTS INDIA LIMITED",
+     "Industrial Manufacturing",
+     1.95
     ]
    ],
    "top_debt": [
     [
-     "I) REPO",
-     "",
-     8.65
-    ],
-    [
      "08.85 % MUTHOOT FINANCE LTD. - 20/12/2028",
      "CRISIL-AA+",
-     8.57
-    ],
-    [
-     "07.51 % SMALL INDUST DEVLOP BANK OF INDIA - 12/06/2028",
-     "CRISIL-AAA",
-     4.26
+     9.24
     ],
     [
      "TREASURY BILL 364 DAYS (08/10/2026)",
      "SOVRN-SOV",
-     4.22
+     4.62
     ],
     [
      "TREASURY BILL 364 DAYS (23/10/2026)",
      "SOVRN-SOV",
-     4.21
+     4.61
+    ],
+    [
+     "07.51 % SMALL INDUST DEVLOP BANK OF INDIA - 12/06/2028",
+     "CRISIL-AAA",
+     4.6
+    ],
+    [
+     "TREASURY BILL 182 DAYS (05/11/2026)",
+     "SOVRN-SOV",
+     4.6
     ]
    ],
    "top_shorts": [
     [
-     "NIFTY MIDCAP SELECT INDEX",
+     "Nifty midcap select index",
      "",
-     -1.21
+     -1.23
     ],
     [
      "LARSEN & TOUBRO LTD.",
      "Construction",
-     -1
+     -1.22
     ],
     [
-     "FEDERAL BANK LTD.",
-     "Banks",
-     -0.92
+     "AMBUJA CEMENTS LTD.",
+     "Cement & Cement Products",
+     -0.83
     ],
     [
-     "BAJAJ AUTO LTD.",
-     "Automobiles",
-     -0.89
+     "DLF LTD.",
+     "Realty",
+     -0.82
     ],
     [
-     "HYUNDAI MOTOR INDIA LTD.",
-     "Automobiles",
-     -0.81
+     "CG POWER AND INDUSTRIAL SOLUTIONS LTD.",
+     "Electrical Equipment",
+     -0.68
     ]
    ],
-   "equity_gross_pct": 49.27,
-   "equity_net_pct": 59.04,
-   "holdings_count": 93,
+   "equity_gross_pct": 52.94,
+   "equity_net_pct": 58.57,
+   "holdings_count": 79,
    "turnover_ratio": null,
-   "derivative_gross_exposure_cr": 114.87,
+   "derivative_gross_exposure_cr": 81.68,
    "derivative_basis": "futures",
    "risk_band": 5,
    "benchmark_risk_band": null,
    "sectors": [
     [
      "Banks",
-     12.4
-    ],
-    [
-     "Telecom - Services",
-     3.98
+     12.04
     ],
     [
      "Automobiles",
+     4.11
+    ],
+    [
+     "Telecom - Services",
      3.91
+    ],
+    [
+     "Insurance",
+     3.63
     ],
     [
      "Petroleum Products",
      3.45
     ],
     [
-     "Power",
-     3.06
-    ],
-    [
      "Other sectors",
-     22.48
+     25.82
     ]
    ],
    "split": [
     [
      "Fixed income",
-     48.45
+     44
     ],
     [
      "Equity (unhedged)",
-     39.15
+     41.12
     ],
     [
      "Arbitrage (hedged equity)",
-     9.98
+     11.89
     ],
     [
      "REITs and InvITs",
-     2.28
+     3.05
     ]
    ],
+   "sector_note": "Share of the fund held in stocks (52.9%), before futures and options hedges",
    "unhedged": [
     [
-     "Nifty Midcap Select Index (futures)",
+     "Nifty midcap select index (futures)",
      "",
-     -1.21
+     -1.23
+    ],
+    [
+     "AXIS BANK LTD. (futures)",
+     "Banks",
+     1.14
+    ],
+    [
+     "HDFC BANK LTD. (futures)",
+     "Banks",
+     1.12
     ],
     [
      "BPCL (futures)",
      "Petroleum Products",
-     1.08
+     1.11
     ],
     [
-     "Hindustan Unilever Ltd. (futures)",
-     "Diversified FMCG",
-     1.08
-    ],
-    [
-     "Axis Bank Ltd. (futures)",
-     "Banks",
-     1.05
-    ],
-    [
-     "Ultratech Cement Ltd. (futures)",
+     "ULTRATECH CEMENT LTD. (futures)",
      "Cement & Cement Products",
-     1.02
+     1.01
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (49.3%), before futures and options hedges",
    "name": "Titanium Hybrid Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
-   "unhedged_long": 14.74,
-   "unhedged_short": 3.82,
-   "unhedged_count": 20,
-   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out.",
-   "split_source": "Fund size as on 30 Sep 2026 (monthly factsheet). Top positions, asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
-   "factsheet_only": true
+   "unhedged_long": 10.34,
+   "unhedged_short": 3.56,
+   "unhedged_count": 16,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-55": {
    "allocation": [
@@ -1820,320 +1818,331 @@
    "allocation": [
     [
      "eq",
-     97.21
+     93.75
+    ],
+    [
+     "opt",
+     -0.01
     ],
     [
      "fi",
-     2.79
+     6.25
     ]
    ],
-   "net_assets_cr": 216.02,
+   "net_assets_cr": 211.03,
    "top_equity": [
     [
-     "ICICI Bank Ltd",
-     "",
-     4.64
+     "HDFC Bank Ltd",
+     "Banks",
+     4.81
     ],
     [
-     "HDFC Bank Ltd",
-     "",
-     4.57
+     "ICICI Bank Ltd",
+     "Banks",
+     4.31
     ],
     [
      "Reliance Industries Ltd",
-     "",
-     3.49
-    ],
-    [
-     "Larsen & Toubro Ltd",
-     "",
-     2.98
-    ],
-    [
-     "Axis Bank Ltd",
-     "",
-     2.44
-    ],
-    [
-     "State Bank of India",
-     "",
-     2.29
-    ],
-    [
-     "Infosys Ltd",
-     "",
-     2.29
+     "Petroleum Products",
+     4.14
     ],
     [
      "Bharti Airtel Ltd",
-     "",
-     1.98
+     "Telecom - Services",
+     2.94
     ],
     [
-     "Titan Co Ltd",
-     "",
-     1.56
+     "Infosys Ltd",
+     "IT - Software",
+     2.55
     ],
     [
-     "Tata Consultancy Services Ltd",
-     "",
-     1.55
+     "Larsen & Toubro Ltd",
+     "Construction",
+     2.5
+    ],
+    [
+     "State Bank of India",
+     "Banks",
+     2.33
+    ],
+    [
+     "Bajaj Finance Ltd",
+     "Finance",
+     1.86
+    ],
+    [
+     "Axis Bank Ltd",
+     "Banks",
+     1.83
+    ],
+    [
+     "ITC Ltd",
+     "Diversified FMCG",
+     1.75
     ]
    ],
    "top_debt": [],
    "top_shorts": [],
-   "equity_gross_pct": 97.21,
-   "equity_net_pct": 97.21,
-   "holdings_count": 114,
-   "turnover_ratio": 0.15,
-   "derivative_gross_exposure_cr": 0,
-   "derivative_basis": "none",
+   "equity_gross_pct": 93.75,
+   "equity_net_pct": 93.74,
+   "holdings_count": 115,
+   "turnover_ratio": 0.63,
+   "derivative_gross_exposure_cr": 0.42,
+   "derivative_basis": "futures",
    "risk_band": 5,
    "benchmark_risk_band": 3,
    "sectors": [
     [
      "Banks",
-     19.71
-    ],
-    [
-     "Finance",
-     6.72
-    ],
-    [
-     "IT - Software",
-     5.96
-    ],
-    [
-     "Automobiles",
-     5.46
+     17.47
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     5.05
+     7.24
+    ],
+    [
+     "Finance",
+     6.08
+    ],
+    [
+     "IT - Software",
+     5.7
+    ],
+    [
+     "Petroleum Products",
+     5.61
     ],
     [
      "Other sectors",
-     54.31
+     51.66
     ]
    ],
    "split": [
     [
-     "Equity",
-     97.21
+     "Equity (unhedged)",
+     91.01
     ],
     [
      "Fixed income",
-     2.79
+     6.25
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     2.73
     ]
    ],
+   "sector_note": "Share of the fund held in stocks (93.8%), before futures and options hedges",
    "unhedged": [],
    "name": "Sapphire Equity Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "source": "Franklin Templeton Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports",
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0,
-   "split_source": "Fund size and top positions as on 31 Aug 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
-   "factsheet_only": true
+   "unhedged_pending": true
   },
   "SIF-102": {
    "allocation": [
     [
      "eq",
-     82.87
+     84.59
     ],
     [
      "fut",
-     -1.21
+     0.7
     ],
     [
      "opt",
-     -0.06
+     0.11
     ],
     [
      "fi",
-     17.13
+     15.41
     ]
    ],
-   "net_assets_cr": 343.9,
+   "net_assets_cr": 343.89,
    "top_equity": [
     [
-     "HDFC Bank Ltd.",
-     "",
+     "HDFC BANK LTD.",
+     "Banks",
      5.26
     ],
     [
-     "Axis Bank Ltd.",
-     "",
+     "AXIS BANK LTD.",
+     "Banks",
      3.03
     ],
     [
-     "ICICI Bank Ltd.",
-     "",
+     "ICICI BANK LTD.",
+     "Banks",
      2.88
     ],
     [
      "NTPC Ltd.",
-     "",
+     "Power",
      2.63
     ],
     [
-     "Reliance Industries Ltd.",
-     "",
+     "RELIANCE INDUSTRIES LTD.",
+     "Petroleum Products",
      2.59
     ],
     [
-     "Mahindra & Mahindra Ltd.",
-     "",
+     "MAHINDRA & MAHINDRA LTD.",
+     "Automobiles",
      2.49
     ],
     [
-     "Bharti Airtel Ltd.",
-     "",
+     "BHARTI AIRTEL LTD.",
+     "Telecom - Services",
      2.3
     ],
     [
-     "Abbott India Ltd.",
-     "",
+     "ABBOTT INDIA LTD.",
+     "Pharmaceuticals & Biotechnology",
      2.05
     ],
     [
-     "Ultratech Cement Ltd.",
-     "",
+     "ULTRATECH CEMENT LTD.",
+     "Cement & Cement Products",
      1.91
     ],
     [
-     "Vishal Mega Mart Ltd.",
-     "",
+     "VISHAL MEGA MART LTD",
+     "Retailing",
      1.91
     ]
    ],
    "top_debt": [
     [
-     "TREASURY BILL 91 DAYS (20/08/2026)",
+     "TREASURY BILL 182 DAYS (19/11/2026)",
      "SOVRN-SOV",
-     9.05
+     5.77
     ],
     [
-     "I) REPO",
-     "",
-     3.45
+     "TREASURY BILL 182 DAYS (05/11/2026)",
+     "SOVRN-SOV",
+     4.34
+    ],
+    [
+     "TREASURY BILL 91 DAYS (05/11/2026)",
+     "SOVRN-SOV",
+     1.45
     ]
    ],
    "top_shorts": [
     [
-     "NIFTY MIDCAP SELECT INDEX",
+     "Nifty midcap select index",
      "",
-     -1.61
+     -1.2
     ],
     [
-     "WIPRO LTD.",
-     "IT - Software",
-     -1
+     "SONA BLW PRECISION FORGINGS LTD.",
+     "Auto Components",
+     -0.89
     ],
     [
      "AUROBINDO PHARMA LTD.",
      "Pharmaceuticals & Biotechnology",
-     -0.95
+     -0.8
     ],
     [
-     "BAJAJ AUTO LTD.",
-     "Automobiles",
-     -0.94
+     "MAX FINANCIAL SERVICES LTD.",
+     "Insurance",
+     -0.8
     ],
     [
-     "INTERGLOBE AVIATION LTD.",
-     "Transport Services",
-     -0.85
+     "MAX HEALTHCARE INSTITUTE LTD.",
+     "Healthcare Services",
+     -0.7
     ]
    ],
-   "equity_gross_pct": 82.87,
-   "equity_net_pct": 81.6,
-   "holdings_count": 76,
+   "equity_gross_pct": 84.59,
+   "equity_net_pct": 85.4,
+   "holdings_count": 93,
    "turnover_ratio": null,
-   "derivative_gross_exposure_cr": 34.54,
+   "derivative_gross_exposure_cr": 45.43,
    "derivative_basis": "futures",
    "risk_band": 5,
    "benchmark_risk_band": null,
    "sectors": [
     [
      "Banks",
-     15.88
-    ],
-    [
-     "Pharmaceuticals & Biotechnology",
-     6.25
+     14.47
     ],
     [
      "Automobiles",
-     6.15
-    ],
-    [
-     "Cement & Cement Products",
-     4.49
+     6.09
     ],
     [
      "Insurance",
-     4.4
+     5.82
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     4.49
+    ],
+    [
+     "Cement & Cement Products",
+     3.94
     ],
     [
      "Other sectors",
-     45.7
+     49.78
     ]
    ],
    "split": [
     [
      "Equity (unhedged)",
-     74.43
+     77.86
     ],
     [
      "Fixed income",
-     17.13
+     15.41
     ],
     [
      "Arbitrage (hedged equity)",
-     8.38
+     6.84
     ]
    ],
+   "sector_note": "Share of the fund held in stocks (84.6%), before futures and options hedges",
    "unhedged": [
     [
-     "Nifty Midcap Select Index (futures)",
-     "",
-     -1.61
-    ],
-    [
-     "Kotak Mahindra Bank (futures)",
+     "HDFC BANK LTD. (futures)",
      "Banks",
-     1.14
+     1.76
     ],
     [
-     "ITC Ltd. (futures)",
-     "Diversified FMCG",
-     1.06
+     "Nifty midcap select index (futures)",
+     "",
+     -1.2
     ],
     [
-     "Wipro Ltd. (futures)",
-     "IT - Software",
-     -1
+     "INDUS TOWERS LTD. (futures)",
+     "Telecom - Services",
+     0.93
     ],
     [
-     "SBI Cards & Payment Services Ltd. (futures)",
-     "Finance",
-     0.96
+     "TATA CONSUMER PRODUCTS LTD. (futures)",
+     "Agricultural Food & other Products",
+     0.92
+    ],
+    [
+     "SONA BLW PRECISION FORGINGS LTD. (futures)",
+     "Auto Components",
+     -0.89
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (82.9%), before futures and options hedges",
    "name": "Titanium Equity Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Tata Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.tatamutualfund.com/titanium-sif/schemes-related",
-   "unhedged_long": 5.67,
-   "unhedged_short": 6.86,
-   "unhedged_count": 13,
-   "unhedged_note": "Futures the fund is not using to hedge a holding: long futures, and shorts the AMC lists as other than hedging, as % of net assets. Its index put is treated as protection for the portfolio and left out.",
-   "split_source": "Fund size and top positions (net of futures) as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Jul 2026, pending the full portfolio",
-   "factsheet_only": true
+   "unhedged_long": 6.96,
+   "unhedged_short": 4.76,
+   "unhedged_count": 15,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger."
   },
   "SIF-143": {
    "allocation": [
@@ -3132,209 +3141,224 @@
    "allocation": [
     [
      "eq",
-     36.9
+     42.61
     ],
     [
      "reit",
-     4.61
+     4.52
     ],
     [
      "opt",
-     -0.62
+     -0.51
     ],
     [
      "fi",
-     57.58
+     51.53
     ],
     [
      "invit",
-     1.52
+     1.85
     ],
     [
      "fut",
-     3.54
+     -6.7
     ]
    ],
-   "net_assets_cr": 297.05,
+   "net_assets_cr": 458.54,
    "top_equity": [
     [
-     "Embassy Office Parks REIT",
+     "Orient Cement Ltd",
+     "Cement & Cement Products",
+     4.36
+    ],
+    [
+     "Knowledge Realty Trust",
      "REIT",
-     2.89
-    ],
-    [
-     "Oriental Hotels Ltd",
-     "Leisure Services",
-     2.47
-    ],
-    [
-     "Life Insurance Corporation Of India",
-     "Insurance",
-     1.64
-    ],
-    [
-     "Brookfield India Real Estate Trust",
-     "REIT",
-     1.22
-    ],
-    [
-     "IndiGrid Infrastructure Trust",
-     "InvIT",
-     1.16
+     3.37
     ],
     [
      "ACC Ltd",
      "Cement & Cement Products",
-     1.1
+     2.59
     ],
     [
-     "Colgate Palmolive (India) Ltd",
-     "Personal Products",
-     1.04
+     "Oriental Hotels Ltd",
+     "Leisure Services",
+     2.53
     ],
     [
-     "Orient Cement Ltd",
-     "Cement & Cement Products",
-     1.03
+     "Life Insurance Corporation Of India",
+     "Insurance",
+     1.5
     ],
     [
-     "Crompton Greaves Consumer Electricals Ltd",
-     "Consumer Durables",
-     1.02
+     "Irb Invit Fund",
+     "InvIT",
+     1.11
     ],
     [
-     "Divi's Laboratories Ltd",
-     "Pharmaceuticals & Biotechnology",
-     1.02
+     "Tata Steel Ltd",
+     "Ferrous Metals",
+     1.09
+    ],
+    [
+     "Sona Blw Precision Forgings Ltd",
+     "Auto Components",
+     1.09
+    ],
+    [
+     "Axis Bank Ltd",
+     "Banks",
+     1.09
+    ],
+    [
+     "Punjab National Bank",
+     "Banks",
+     1.08
     ]
    ],
    "top_debt": [
     [
-     "Small Industries Development Bank Of India (03-Sep-2026)",
-     "CRISIL A1+",
-     8.41
+     "7.48% National Bank For Agriculture & Rural Development (15-Sep-2028)",
+     "CRISIL AAA",
+     5.42
     ],
     [
      "7.9% Bajaj Finance Ltd (13-Apr-2028)",
      "CRISIL AAA",
-     6.72
+     4.34
+    ],
+    [
+     "8.2% Tata Capital Housing Finance Ltd (25-Sep-2029)",
+     "CRISIL AAA",
+     3.27
     ],
     [
      "8.12% L&T Finance Ltd (29-Jun-2029)",
      "CRISIL AAA",
-     5.06
+     3.26
     ],
     [
      "7.7% National Bank For Agriculture & Rural Development (30-Sep-2027)",
      "CRISIL AAA",
-     3.37
-    ],
-    [
-     "8.1% Aditya Birla Capital Ltd (07-Sep-2029)",
-     "CARE AAA",
-     3.37
+     2.18
     ]
    ],
    "top_shorts": [
     [
-     "Indian Hotels Co Ltd 29-Sep-26 FUT",
+     "Ambuja Cements Ltd Fut 27-Oct-26",
      "",
-     -2.75
+     -7.23
     ],
     [
-     "Ambuja Cements Ltd 29-Sep-26 FUT",
+     "Indian Hotels Co Ltd Fut 27-Oct-26",
      "",
-     -2.21
+     -2.79
     ],
     [
-     "Life Insurance Corporation Of India 29-Sep-26 FUT",
+     "Life Insurance Corpora Fut 27-Oct-26",
      "",
-     -0.73
+     -0.45
+    ],
+    [
+     "Reliance Industries Ltd Fut 27-Oct-26",
+     "",
+     -0.39
+    ],
+    [
+     "Bharti Airtel Ltd Fut 27-Oct-26",
+     "",
+     -0.22
     ]
    ],
-   "equity_gross_pct": 36.9,
-   "equity_net_pct": 39.82,
-   "holdings_count": 131,
-   "turnover_ratio": 0.89,
-   "derivative_gross_exposure_cr": 44.35,
+   "equity_gross_pct": 42.61,
+   "equity_net_pct": 35.4,
+   "holdings_count": 150,
+   "turnover_ratio": 1.55,
+   "derivative_gross_exposure_cr": 73.73,
    "derivative_basis": "futures",
    "risk_band": 1,
    "benchmark_risk_band": 2,
    "sectors": [
     [
-     "Banks",
-     3.73
+     "Cement & Cement Products",
+     7.03
     ],
     [
-     "Insurance",
-     2.62
+     "Banks",
+     6.47
     ],
     [
      "Leisure Services",
-     2.47
-    ],
-    [
-     "Cement & Cement Products",
-     2.13
+     3.61
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     2.03
+     3.06
+    ],
+    [
+     "Petroleum Products",
+     2.55
     ],
     [
      "Other sectors",
-     23.91
+     19.9
     ]
    ],
    "split": [
     [
      "Fixed income",
-     57.58
+     51.53
     ],
     [
      "Arbitrage (hedged equity)",
-     27.96
+     28.86
     ],
     [
      "Equity (unhedged)",
-     8.32
+     13.24
     ],
     [
      "REITs and InvITs",
-     6.13
+     6.37
     ]
    ],
+   "sector_note": "Share of the fund held in stocks (42.6%), before futures and options hedges",
    "unhedged": [
     [
-     "Bank Nifty (futures)",
-     "Index",
-     4.62
+     "Ambuja Cements Ltd Fut 27-Oct-26 (futures)",
+     "Cement & Cement Products",
+     -7.23
+    ],
+    [
+     "Indian Hotels Co Ltd Fut 27-Oct-26 (futures)",
+     "Leisure Services",
+     -2.79
     ],
     [
      "Nifty 50 (futures)",
      "Index",
-     4.62
+     2.35
     ],
     [
-     "Indian Hotels Co Ltd (futures)",
-     "Leisure Services",
-     -2.75
+     "Bank Nifty (futures)",
+     "Index",
+     2.34
     ],
     [
-     "Ambuja Cements Ltd (futures)",
-     "Cement & Cement Products",
-     -2.21
+     "Life Insurance Corpora Fut 27-Oct-26 (futures)",
+     "Insurance",
+     -0.45
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (36.9%), before futures and options hedges",
    "name": "Prism Hybrid Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
-   "unhedged_long": 9.24,
-   "unhedged_short": 4.97,
-   "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long index futures, and shorts on stocks it does not hold. The AMC classes the index futures as hedging; they are shown because they add market exposure."
+   "unhedged_long": 4.69,
+   "unhedged_short": 11.39,
+   "unhedged_count": 16,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
   },
   "SIF-21": {
    "allocation": [
@@ -3495,51 +3519,51 @@
    "allocation": [
     [
      "eq",
-     65.94
+     66.12
     ],
     [
      "opt",
-     -0.2
+     0.23
     ],
     [
      "reit",
-     0.85
+     0.84
     ],
     [
      "fi",
-     29.51
+     28.98
     ],
     [
      "invit",
-     3.89
+     3.84
     ]
    ],
-   "net_assets_cr": 4001.17,
+   "net_assets_cr": 3981.67,
    "top_equity": [
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     3.75
+    ],
     [
      "Kotak Mahindra Bank Ltd.",
      "Banks",
-     3.6
+     3.59
+    ],
+    [
+     "Biocon Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     2.92
     ],
     [
      "ICICI Bank Ltd.",
      "Banks",
-     3.19
+     2.91
     ],
     [
      "Axis Bank Ltd.",
      "Banks",
-     2.98
-    ],
-    [
-     "Reliance Industries Ltd.",
-     "Petroleum Products",
-     2.8
-    ],
-    [
-     "HDFC Bank Ltd.",
-     "Banks",
-     2.75
+     2.83
     ],
     [
      "Raajmarg Infra Investment Trust",
@@ -3547,46 +3571,46 @@
      2.7
     ],
     [
+     "Reliance Industries Ltd.",
+     "Petroleum Products",
+     2.61
+    ],
+    [
+     "Adani Ports and Special Economic Zone Ltd.",
+     "Transport Infrastructure",
+     2.43
+    ],
+    [
      "Avenue Supermarts Ltd.",
      "Retailing",
-     2.44
-    ],
-    [
-     "Sun Pharmaceutical Industries Ltd.",
-     "Pharmaceuticals & Biotechnology",
-     2.4
-    ],
-    [
-     "Biocon Ltd.",
-     "Pharmaceuticals & Biotechnology",
      2.39
     ],
     [
      "HDFC Life Insurance Company Ltd.",
      "Insurance",
-     2.38
+     2.3
     ]
    ],
    "top_debt": [
+    [
+     "91 DAY T-BILL 24.12.26",
+     "Sovereign",
+     2.48
+    ],
     [
      "7.37% CGL 2028",
      "Sovereign",
      2.04
     ],
     [
-     "TVS Motor Company Ltd.",
-     "CARE A1+",
-     2.04
+     "Cholamandalam Investment & Finance Co. Ltd.Perpetual",
+     "[ICRA]AA",
+     1.92
     ],
     [
-     "364 DAY T-BILL 02.10.26",
+     "91 DAY T-BILL 03.12.26",
      "Sovereign",
-     1.87
-    ],
-    [
-     "91 DAY T-BILL 17.09.26",
-     "Sovereign",
-     1.62
+     1.37
     ],
     [
      "7.06% CGL 2028",
@@ -3595,62 +3619,62 @@
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 65.94,
-   "equity_net_pct": 65.74,
-   "holdings_count": 136,
-   "turnover_ratio": 3.92,
+   "equity_gross_pct": 66.12,
+   "equity_net_pct": 66.35,
+   "holdings_count": 135,
+   "turnover_ratio": 3.96,
    "derivative_gross_exposure_cr": 0,
-   "derivative_basis": "options",
+   "derivative_basis": "futures",
    "risk_band": 1,
    "benchmark_risk_band": 2,
    "sectors": [
     [
      "Banks",
-     16
-    ],
-    [
-     "Automobiles",
-     6.28
+     16.83
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     5.92
+     6.21
     ],
     [
-     "Finance",
-     5.25
+     "Automobiles",
+     5.63
     ],
     [
      "Retailing",
-     4.08
+     5.25
+    ],
+    [
+     "Finance",
+     4.7
     ],
     [
      "Other sectors",
-     28.42
+     27.5
     ]
    ],
    "split": [
     [
      "Arbitrage (hedged equity)",
-     58.82
+     58.92
     ],
     [
      "Fixed income",
-     29.51
+     28.98
     ],
     [
      "Equity (unhedged)",
-     6.92
+     7.43
     ],
     [
      "REITs and InvITs",
-     4.74
+     4.68
     ]
    ],
+   "sector_note": "Share of the fund held in stocks (66.1%), before futures and options hedges",
    "unhedged": [],
-   "sector_note": "Share of the fund held in stocks (65.9%), before futures and options hedges",
    "name": "Magnum Hybrid Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "source": "SBI Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.sbimf.com/magnumsif-portfolios",
    "unhedged_long": 0,
@@ -5392,6 +5416,142 @@
    "derivative_gross_exposure_cr": 4.49,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "derivative_basis": "futures"
+  },
+  "NEW-SBI-Equity-Ex-Top-100": {
+   "allocation": [
+    [
+     "eq",
+     70.45
+    ],
+    [
+     "fi",
+     29.55
+    ],
+    [
+     "fut",
+     38.89
+    ]
+   ],
+   "net_assets_cr": 1598.35,
+   "top_equity": [
+    [
+     "Elgi Equipments Ltd.",
+     "Industrial Products",
+     4.46
+    ],
+    [
+     "Navin Fluorine International Ltd.",
+     "Chemicals & Petrochemicals",
+     3.87
+    ],
+    [
+     "Kotak Mahindra Bank Ltd.",
+     "Banks",
+     3.37
+    ],
+    [
+     "The South Indian Bank Ltd.",
+     "Banks",
+     3.29
+    ],
+    [
+     "Sundaram Finance Ltd.",
+     "Finance",
+     3.19
+    ],
+    [
+     "Sun TV Network Ltd.",
+     "Entertainment",
+     3.18
+    ],
+    [
+     "Bajaj Finance Ltd.",
+     "Finance",
+     3.15
+    ],
+    [
+     "Cohance Lifesciences Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     3.06
+    ],
+    [
+     "PNB Housing Finance Ltd.",
+     "Finance",
+     3.03
+    ],
+    [
+     "Balkrishna Industries Ltd.",
+     "Auto Components",
+     2.97
+    ]
+   ],
+   "top_debt": [
+    [
+     "91 DAY T-BILL 27.11.26",
+     "Sovereign",
+     4.65
+    ],
+    [
+     "91 DAY T-BILL 24.12.26",
+     "Sovereign",
+     3.09
+    ],
+    [
+     "7.04% CGL 2029",
+     "Sovereign",
+     0.63
+    ]
+   ],
+   "top_shorts": [],
+   "equity_gross_pct": 70.45,
+   "equity_net_pct": 109.34,
+   "holdings_count": 40,
+   "turnover_ratio": 0.43,
+   "derivative_gross_exposure_cr": 621.57,
+   "derivative_basis": "futures",
+   "risk_band": null,
+   "benchmark_risk_band": null,
+   "sectors": [
+    [
+     "Retailing",
+     9.85
+    ],
+    [
+     "Finance",
+     9.36
+    ],
+    [
+     "Banks",
+     6.66
+    ],
+    [
+     "Industrial Products",
+     5.54
+    ],
+    [
+     "Auto Components",
+     5.3
+    ],
+    [
+     "Other sectors",
+     33.75
+    ]
+   ],
+   "split": [
+    [
+     "Equity",
+     70.45
+    ],
+    [
+     "Fixed income",
+     29.55
+    ]
+   ],
+   "name": "Magnum Equity Ex-Top 100 Long Short Fund",
+   "as_of": "2026-09-30",
+   "source": "SBI Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://www.sbimf.com/magnumsif-portfolios",
+   "unhedged_pending": true
   }
  }
 }
