@@ -1,5 +1,5 @@
 window.TU=(function TUfactory(){
-const TU={version:'2026-10-08d'};
+const TU={version:'2026-10-09a'};
 const r2=x=>Math.round(x*100)/100;
 const STOP=new Set('limited ltd co company the and india of corporation corp limted'.split(' '));
 const clean=s=>String(s==null?'':s).replace(/\s+/g,' ').trim();
@@ -249,4 +249,77 @@ TU.finalize=(code,f,sheets,prev)=>{prev=prev||{};const K=['unhedged','unhedged_l
   if(Array.isArray(x.shorts))f.top_shorts=x.shorts;
   if(typeof x.arb==='number'&&Array.isArray(f.split))f.split=TU.fixSplit(f.split,x.arb)}
  return{ok,why:ok?null:(u?(u.error||u.pending||'figures out of range'):'no adapter for '+code)}};
+})();
+
+;(function(){
+const TU=window.TU;const r2=x=>Math.round(x*100)/100;
+TU.kotakParse=(pages)=>{
+ const isN=s=>/^-?\d+(\.\d+)?%$/.test(s),num=s=>parseFloat(s),near=(a,b,t)=>Math.abs(a-b)<=t;
+ const lines=p=>{const m={};p.forEach(([x,y,s])=>{(m[y]=m[y]||[]).push([x,s])});return Object.keys(m).map(Number).sort((a,b)=>b-a).map(y=>m[y].sort((a,b)=>a[0]-b[0]).map(c=>c[1]).join(' '))};
+ const all=pages.map(p=>lines(p).join('\n')).join('\n');
+ const MN=['january','february','march','april','may','june','july','august','september','october','november','december'];
+ const dm=all.match(/as on\s+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+),?\s+(\d{4})/i);if(!dm)return{error:'Kotak factsheet: data date not found'};
+ const mi=MN.indexOf(dm[2].toLowerCase());if(mi<0)return{error:'Kotak factsheet: data date not understood'};
+ const as_of=dm[3]+'-'+String(mi+1).padStart(2,'0')+'-'+String(dm[1]).padStart(2,'0');
+ const MonL=MN[mi][0].toUpperCase()+MN[mi].slice(1),dshort=(+dm[1])+' '+MonL.slice(0,3)+' '+dm[3];
+ const am=all.match(/(?:^|\n)\s*AUM\s*-\s*([\d,]+\.\d+)/);if(!am)return{error:'Kotak factsheet: fund size not found'};const aum=parseFloat(am[1].replace(/,/g,''));
+ const nm0=all.match(/(?:^|\n)\s*Growth\s+\D{0,3}\s*(\d+\.\d+)/),tm=all.match(/Portfolio Turnover\s*-\s*([\d.]+)%/),bm=all.match(/Benchmark\s*-\s*([^\n]+)/);
+ const rb=[];pages.forEach(p=>p.forEach(i=>{const q=i[2].match(/^Risk Level\s*(\d)$/);if(q)rb.push([i[0],+q[1]])}));rb.sort((a,b)=>a[0]-b[0]);
+ const SEC=[[/^arbitrage\s*:/i,'arb'],[/^debt instruments\s*:/i,'debt'],[/^relative value trades?\s*\/\s*derivatives\s*:/i,'rv'],[/^directional equity/i,'dir'],[/^reit/i,'reit'],[/^others\s*:/i,'oth'],[/^covered call.*:/i,'cc']];
+ const S={arb:[],debt:[],rv:[],dir:[],reit:[],oth:[],cc:[]},H={},TOT={};
+ pages.forEach(p=>{if(!p.some(i=>/Portfolio Holding Details/i.test(i[2])))return;let first=null;
+  [p.filter(i=>i[0]<300),p.filter(i=>i[0]>=300)].forEach((half,hi)=>{const m={};half.forEach(([x,y,s])=>{(m[y]=m[y]||[]).push([x,s])});let sec=hi?first:null,last=null;
+   Object.keys(m).map(Number).sort((a,b)=>b-a).forEach(y=>{const r=m[y].sort((a,b)=>a[0]-b[0]);const nm=r.filter(c=>!isN(c[1])).map(c=>c[1]).join(' ').trim(),ns=r.filter(c=>isN(c[1])).map(c=>num(c[1]));
+    const h=SEC.find(e=>e[0].test(nm));
+    if(h){sec=h[1];if(!hi&&!first)first=sec;const pm=nm.match(/(-?\d+(\.\d+)?)%/);if(pm)H[sec]=num(pm[1]);last=null;return}
+    if(!sec)return;
+    if(!ns.length){if(last&&/\b(and|of|&)$/i.test(last[0])&&nm&&!/weight|stocks name|options|futures|cash/i.test(nm))last[0]+=' '+nm;return}
+    if(/^total$/i.test(nm)){TOT[sec]=ns;last=null;return}
+    if(!nm)return;last=[nm].concat(ns);S[sec].push(last)})})});
+ const sum=(a,i)=>r2(a.reduce((t,r)=>t+(r[i]||0),0));const need=['arb','debt','rv','dir','reit','oth','cc'];
+ for(const k of need)if(!S[k].length||typeof H[k]!=='number')return{error:'Kotak factsheet: section not found: '+k};
+ const chk=[['arb',sum(S.arb,1)],['debt',sum(S.debt,1)],['rv',sum(S.rv,1)],['dir',sum(S.dir,1)],['reit',sum(S.reit,1)],['oth',sum(S.oth,1)],['cc',r2(sum(S.cc,1)+sum(S.cc,2))]];
+ for(const [k,v] of chk)if(!near(v,H[k],0.15))return{error:'Kotak factsheet: '+k+' rows add to '+v+' but the heading says '+H[k]};
+ const tot=r2(need.reduce((t,k)=>t+H[k],0));if(!near(tot,100,0.5))return{error:'Kotak factsheet: buckets add to '+tot};
+ const KN=/triparty|treps|net current|future.*covered call|put options|relative value/i;if(S.oth.some(r=>!KN.test(r[0])))return{error:'Kotak factsheet: unfamiliar line under Others: '+S.oth.map(r=>r[0]).join('; ')};
+ const g=re=>{const r=S.oth.find(r=>re.test(r[0]));return r?r[1]:0};
+ const treps=g(/triparty|treps/i),nca=g(/net current/i),ccFut=-g(/future.*covered call/i),puts=g(/put options/i);
+ const mf=(S.debt.find(r=>/mutual fund/i.test(r[0]))||[0,0])[1];
+ const ccCF=TOT.cc?TOT.cc[0]:sum(S.cc,1),ccOpt=TOT.cc&&TOT.cc.length>1?TOT.cc[1]:sum(S.cc,2),arbFut=TOT.arb&&TOT.arb.length>1?TOT.arb[1]:sum(S.arb,2);
+ const eq=r2(H.arb+ccCF-ccFut+H.dir);
+ const TR=S.reit.map(r=>[r[0],/reit|real estate/i.test(r[0])?'REIT':'InvIT',r[1]]);
+ const reit=r2(TR.filter(r=>r[1]==='REIT').reduce((t,r)=>t+r[2],0)),invit=r2(TR.filter(r=>r[1]==='InvIT').reduce((t,r)=>t+r[2],0));
+ const fi=r2(H.debt-mf+treps+nca);const alloc=[['fi',fi],['eq',eq]];if(reit)alloc.push(['reit',reit]);if(invit)alloc.push(['invit',invit]);if(mf)alloc.push(['mf',mf]);
+ const opt=r2(ccOpt+puts);if(opt)alloc.push(['opt',opt]);const fut=r2(arbFut+ccFut+H.rv);if(fut)alloc.push(['fut',fut]);
+ const split=[['Fixed income',r2(fi+puts)],['Arbitrage (hedged equity)',r2(H.arb+H.cc-ccFut)],['REITs and InvITs',H.reit],['Equity (unhedged)',H.dir]];if(mf)split.push(['Mutual fund units',mf]);split.sort((a,b)=>b[1]-a[1]);
+ const ss=r2(split.reduce((t,r)=>t+r[1],0));if(!near(ss,100,1))return{error:'Kotak factsheet: split adds to '+ss};
+ const nice=s=>s.replace(/\s+/g,' ').replace(/\bOf\b/g,'of').replace(/\bAnd\b/g,'and').replace(/\bReit\b/g,'REIT').replace(/\bJIO\b/g,'Jio').trim();
+ const nk=s=>s.toLowerCase().replace(/\b(ltd|limited|pvt)\b\.?/g,'').replace(/[^a-z0-9&]+/g,' ').trim();
+ const agg={};const add=(n,p,t)=>{const k=nk(n);(agg[k]=agg[k]||{n:nice(n),p:0,t:t||''}).p+=p};
+ S.arb.forEach(r=>add(r[0],r[1]));S.dir.forEach(r=>add(r[0],r[1]));S.cc.forEach(r=>add(r[0],r[1]));TR.forEach(r=>add(r[0],r[2],r[1]));
+ const hold=Object.values(agg);const top=hold.slice().sort((a,b)=>r2(b.p)-r2(a.p)).slice(0,10).map(a=>[a.n,a.t,r2(a.p)]);
+ const shorts=S.arb.filter(r=>r[2]<0).sort((a,b)=>a[2]-b[2]).slice(0,5).map(r=>[nice(r[0]),'',r[2]]);
+ const ua={};S.rv.forEach(r=>{const n=/^(cnx )?nifty( 50)?( index)?$/i.test(r[0])?'Nifty 50 index':nice(r[0]);const k=nk(n);(ua[k]=ua[k]||{n,p:0}).p+=r[1]});
+ const ul=Object.values(ua).sort((a,b)=>r2(b.p)-r2(a.p));
+ const f={name:'Infinity Hybrid Long-Short Fund',as_of,allocation:alloc,net_assets_cr:aum,top_equity:top,top_debt:[],top_shorts:shorts,equity_gross_pct:eq,equity_net_pct:r2(H.dir+H.rv),holdings_count:hold.length+S.rv.length,
+  derivative_gross_exposure_cr:r2((Math.abs(arbFut)+ccFut+Math.abs(ccOpt)+Math.abs(puts)+H.rv)/100*aum),derivative_basis:'futures',
+  source:'Kotak Mahindra Mutual Fund monthly factsheet',source_url:'https://www.kotakmf.com/sif/forms-and-downloads',split,
+  split_source:'All figures as on '+dshort+', from the monthly factsheet (the AMC has not published the '+MonL+' portfolio file). Arbitrage (hedged equity) is the AMC\'s arbitrage book ('+H.arb+'%) plus the stocks in its covered-call book ('+r2(H.cc-ccFut)+'%); fixed income is debt, TREPS and cash. The positions count covers the stocks, trusts and derivative positions the factsheet lists; bonds are not itemised',
+  sectors:[],unhedged:ul.slice(0,5).map(u=>[u.n+' (futures/options)','',r2(u.p)]),unhedged_long:H.rv,unhedged_short:r2(Math.abs(puts)),unhedged_count:ul.length,
+  unhedged_note:'As the AMC reports it in the '+MonL+' factsheet: '+H.rv+'% of the fund in "relative value trades / derivatives" (futures and options that are not hedges). The factsheet does not say which are long and which are short; they are shown here as long because the AMC counts them as positive exposure.'+(puts?' The '+r2(Math.abs(puts))+'% short is puts the fund has written, at premium value.':'')+' Covered calls ('+H.cc+'% of the fund) are left out.',factsheet_only:true};
+ if(nm0)f.nav_regular_growth=parseFloat(nm0[1]);if(tm)f.turnover_ratio=r2(parseFloat(tm[1])/100);if(bm)f.benchmark=bm[1].replace(/\bdebt\b/,'Debt').trim();
+ if(rb.length===2){f.risk_band=rb[0][1];f.benchmark_risk_band=rb[1][1]}
+ return{f,diag:{H,tot,rows:Object.keys(S).map(k=>k+':'+S[k].length).join(' ')}}};
+TU.loadKotak=async()=>{try{
+ const API='https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/',BASE='https://vatseelabs-s3.kotakmf.com/';
+ const lst=async id=>{const j=await (await fetch(API+id+'?year=&month=&type=month')).json();return (j.subHeaderList||[]).slice().sort((a,b)=>b.date-a.date)};
+ const F=await lst(7);if(!F.length)return{error:'Kotak: no factsheet listed'};
+ const res=await fetch(BASE+F[0].content);if(!res.ok)return{error:'Kotak: factsheet file refused ('+res.status+')'};
+ const lib=await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs');lib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs';
+ const doc=await lib.getDocument({data:await res.arrayBuffer()}).promise;const pages=[];
+ for(let i=1;i<=doc.numPages;i++){const tc=await (await doc.getPage(i)).getTextContent();pages.push(tc.items.filter(t=>t.str.trim()).map(t=>[Math.round(t.transform[4]),Math.round(t.transform[5]),t.str.trim()]))}
+ const r=TU.kotakParse(pages);if(r.error)return r;
+ let wb={listed:null};try{const P=await lst(15);if(P.length){const h=await fetch(BASE+P[0].content);wb={listed:P[0].subHeaderTitle,status:h.status}}}catch(e){}
+ return{'SIF-146':{f:r.f,diag:r.diag,file:F[0].content,factsheet:F[0].subHeaderTitle,workbook:wb}}
+}catch(e){return{error:'Kotak: '+String(e)}}};
 })();
