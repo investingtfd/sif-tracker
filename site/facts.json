@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T07:45:59.068Z",
+ "updated_at": "2026-10-09T10:15:30.544Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -5600,6 +5600,185 @@
    "derivative_gross_exposure_cr": 4.49,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "derivative_basis": "futures"
+  },
+  "SIF-146": {
+   "name": "Infinity Hybrid Long-Short Fund",
+   "as_of": "2026-09-30",
+   "allocation": [
+    [
+     "fi",
+     59.39
+    ],
+    [
+     "eq",
+     35.51
+    ],
+    [
+     "reit",
+     3.18
+    ],
+    [
+     "invit",
+     1.43
+    ],
+    [
+     "mf",
+     1.19
+    ],
+    [
+     "opt",
+     -0.7
+    ],
+    [
+     "fut",
+     -2.51
+    ]
+   ],
+   "net_assets_cr": 2994.62,
+   "top_equity": [
+    [
+     "ICICI Bank Ltd.",
+     "",
+     3.05
+    ],
+    [
+     "Ultratech Cement Ltd.",
+     "",
+     2.06
+    ],
+    [
+     "Biocon Ltd.",
+     "",
+     1.74
+    ],
+    [
+     "Gland Pharma Limited",
+     "",
+     1.71
+    ],
+    [
+     "Swiggy Ltd",
+     "",
+     1.67
+    ],
+    [
+     "Embassy Office Parks REIT",
+     "REIT",
+     1.67
+    ],
+    [
+     "Steel Authority of India Ltd.",
+     "",
+     1.52
+    ],
+    [
+     "Brookfield India Real Estate Trust",
+     "REIT",
+     1.51
+    ],
+    [
+     "Cube Highway Trust",
+     "InvIT",
+     1.43
+    ],
+    [
+     "Bharti Airtel Ltd",
+     "",
+     1.4
+    ]
+   ],
+   "top_debt": [],
+   "top_shorts": [
+    [
+     "ICICI Bank Ltd.",
+     "",
+     -2.67
+    ],
+    [
+     "Biocon Ltd.",
+     "",
+     -1.59
+    ],
+    [
+     "Steel Authority of India Ltd.",
+     "",
+     -1.49
+    ],
+    [
+     "Ultratech Cement Ltd.",
+     "",
+     -1.27
+    ],
+    [
+     "Swiggy Ltd",
+     "",
+     -1.07
+    ]
+   ],
+   "equity_gross_pct": 35.51,
+   "equity_net_pct": 10.64,
+   "nav_regular_growth": 10.34,
+   "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+   "risk_band": 1,
+   "benchmark_risk_band": 2,
+   "source": "Kotak Mahindra Mutual Fund monthly factsheet",
+   "source_url": "https://www.kotakmf.com/sif/forms-and-downloads",
+   "split": [
+    [
+     "Fixed income",
+     59.31
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     30.29
+    ],
+    [
+     "REITs and InvITs",
+     4.61
+    ],
+    [
+     "Equity (unhedged)",
+     4.6
+    ],
+    [
+     "Mutual fund units",
+     1.19
+    ]
+   ],
+   "split_source": "All figures as on 30 Sep 2026, from the monthly factsheet (the AMC has not published the September portfolio file). Arbitrage (hedged equity) is the AMC's arbitrage book (12.84%) plus the stocks in its covered-call book (17.45%); fixed income is debt, TREPS and cash",
+   "sectors": [],
+   "unhedged": [
+    [
+     "Nifty 50 index (futures/options)",
+     "",
+     1.95
+    ],
+    [
+     "Aurobindo Pharma Ltd. (futures/options)",
+     "",
+     0.92
+    ],
+    [
+     "Polycab India Ltd. (futures/options)",
+     "",
+     0.33
+    ],
+    [
+     "HDFC Bank Ltd. (futures/options)",
+     "",
+     0.31
+    ],
+    [
+     "Bharti Airtel Ltd (futures/options)",
+     "",
+     0.28
+    ]
+   ],
+   "unhedged_long": 6.04,
+   "unhedged_short": 0.08,
+   "unhedged_count": 19,
+   "unhedged_note": "As the AMC reports it in the September factsheet: 6.04% of the fund in \"relative value trades / derivatives\" (futures and options that are not hedges). The factsheet does not say which are long and which are short; they are shown here as long because the AMC counts them as positive exposure. The 0.08% short is puts the fund has written, at premium value. Covered calls (21.78% of the fund) are left out.",
+   "factsheet_only": true
   }
  }
 }
