@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T10:15:30.544Z",
+ "updated_at": "2026-10-09T10:17:11.734Z",
  "funds": {
   "SIF-11": {
    "name": "Altiva Hybrid Long-Short Fund",
@@ -5745,7 +5745,7 @@
      1.19
     ]
    ],
-   "split_source": "All figures as on 30 Sep 2026, from the monthly factsheet (the AMC has not published the September portfolio file). Arbitrage (hedged equity) is the AMC's arbitrage book (12.84%) plus the stocks in its covered-call book (17.45%); fixed income is debt, TREPS and cash",
+   "split_source": "All figures as on 30 Sep 2026, from the monthly factsheet (the AMC has not published the September portfolio file). Arbitrage (hedged equity) is the AMC's arbitrage book (12.84%) plus the stocks in its covered-call book (17.45%); fixed income is debt, TREPS and cash. The positions count covers the stocks, trusts and derivative positions the factsheet lists; bonds are not itemised",
    "sectors": [],
    "unhedged": [
     [
@@ -5778,7 +5778,11 @@
    "unhedged_short": 0.08,
    "unhedged_count": 19,
    "unhedged_note": "As the AMC reports it in the September factsheet: 6.04% of the fund in \"relative value trades / derivatives\" (futures and options that are not hedges). The factsheet does not say which are long and which are short; they are shown here as long because the AMC counts them as positive exposure. The 0.08% short is puts the fund has written, at premium value. Covered calls (21.78% of the fund) are left out.",
-   "factsheet_only": true
+   "factsheet_only": true,
+   "holdings_count": 98,
+   "turnover_ratio": 1.59,
+   "derivative_gross_exposure_cr": 717.21,
+   "derivative_basis": "futures"
   }
  }
 }
