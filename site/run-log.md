@@ -1,5 +1,82 @@
 # SIF Tracker daily run log
 
+## 2026-10-12 09:00 Lisbon time
+Result: nothing changed. facts.json was not committed (no fund had anything newer to load; it still holds 33 funds).
+
+Updates found and made
+- None
+
+Updates available but not made, or only partly made
+- Arudha Hybrid and Arudha Equity (Bandhan): 30 Sep 2026 monthly files are listed; watch-only, waiting for a manual load.
+- DynaSIF (360 ONE): the download page was blocked by Cloudflare again, so it could not be checked; its three funds are already on 30 Sep 2026. Retried next run.
+- Infinity Hybrid (Kotak): still factsheet-only (30 Sep 2026); the September portfolio workbook opens but has no reader.
+- Altiva Equity Long-Short (SIF-161): unhedged card still shows "Updating"; no reader exists for it yet.
+- Magnum Equity Ex-Top 100 (SIF-157): risk band still empty; the newest SBI factsheet is still August and does not cover it. Retried next run.
+- RedHex Hybrid (HSBC): September portfolio and factsheet not published yet (newest is 31 Aug 2026). Retried next run.
+
+### Data completeness
+Up to date: 30 of 33 SIF funds (91%) have data as on 30 Sep 2026
+of which 29 from the full Excel portfolio and 1 from the factsheet only (full portfolio still to come)
+
+Not yet up to date
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| RedHex Hybrid Long-Short | HSBC | 31 Aug 2026 | AMC has not published yet |
+| Arudha Hybrid Long-Short | Bandhan | 31 Aug 2026 | Watch-only, file waiting for a manual load |
+| Arudha Equity Long-Short | Bandhan | 31 Aug 2026 | Watch-only, file waiting for a manual load |
+
+| AMC | Funds | Up to date | Data as on |
+|---|---|---|---|
+| Altiva / Edelweiss | 3 | 3 | 30 Sep 2026 |
+| RedHex / HSBC | 1 | 0 | 31 Aug 2026 |
+| WSIF / The Wealth Company | 2 | 2 | 30 Sep 2026 |
+| Titanium / Tata | 2 | 2 | 30 Sep 2026 |
+| Platinum / Mirae | 1 | 1 | 30 Sep 2026 |
+| Sapphire / Franklin | 1 | 1 | 30 Sep 2026 |
+| DynaSIF / 360 ONE | 3 | 3 | 30 Sep 2026 |
+| Summit / Invesco | 1 | 1 | 30 Sep 2026 |
+| qsif / quant | 5 | 5 | 30 Sep 2026 |
+| Prism / Jio BlackRock | 1 | 1 | 30 Sep 2026 |
+| Diviniti / ITI | 1 | 1 | 30 Sep 2026 |
+| Magnum / SBI | 2 | 2 | 30 Sep 2026 |
+| iSIF / ICICI Prudential | 4 | 4 | 30 Sep 2026 |
+| Infinity / Kotak | 1 | 1 | 30 Sep 2026 (factsheet) |
+| Apex / Aditya Birla | 3 | 3 | 30 Sep 2026 |
+| Arudha / Bandhan | 2 | 0 | 31 Aug 2026 |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why, in plain words | Resolution |
+|---|---|---|---|---|
+| 1 | Page blocked | 360 ONE, all 3 DynaSIF funds | The download page showed a Cloudflare "Attention Required" page, so the file lists could not be read; no workaround was tried. The funds already hold 30 Sep 2026 data | Will retry automatically next run |
+| 2 | New file waiting for a manual load | Bandhan, Arudha Hybrid (SIF-40) and Arudha Equity (SIF-62) | Monthly portfolios dated 30 Sep 2026 are listed; these funds are loaded by hand | Needs Ashish: load the two 30-09-2026 Arudha monthly files by hand. |
+| 3 | Portfolio workbook readable, no reader | Kotak, Infinity Hybrid (SIF-146) | Kotak's storage no longer refuses the workbook, but nothing can read it yet | Needs Ashish: Kotak's portfolio workbook (Portfolio as of september 2026) can now be read; it needs a reader. |
+| 4 | Unhedged card needs a manual re-read | Edelweiss, Altiva Equity Long-Short (SIF-161) | No reader exists yet for this fund; the card shows "Updating" | Needs Ashish: add a reader for SIF-161 (sheet AEEQLS in the Edelweiss workbook). |
+| 5 | Risk band not read | SBI, Magnum Equity Ex-Top 100 (SIF-157) | The workbook has no band and the newest SBI factsheet (August) does not cover this fund | Will retry automatically next run |
+| 6 | New fund seen, no data yet | Arthaya Equity Long Short Fund (SIF-114) | It is in the daily NAV feed but belongs to an AMC this task has no page for | Needs Ashish: say which AMC site carries the Arthaya SIF portfolio or factsheet. |
+
+### AMC by AMC
+
+| AMC | Page opened | Newest Excel found | Newest factsheet found | Loaded before (as_of) | Action |
+|---|---|---|---|---|---|
+| Altiva / Edelweiss | yes | 30 Sep 2026 (no October option yet) | not rechecked today (30 Sep 2026 last run; nothing later is possible yet) | 30 Sep 2026 | nothing new |
+| RedHex / HSBC | yes | 31 Aug 2026 | 31 Aug 2026 | 31 Aug 2026 | nothing new |
+| WSIF / The Wealth Company | yes | 30 Sep 2026 | none (no SIF factsheet) | 30 Sep 2026 | nothing new |
+| Titanium / Tata | yes | 30 Sep 2026 | 30 Sep 2026 | 30 Sep 2026 | nothing new |
+| Platinum / Mirae | yes | 30 Sep 2026 | 31 Aug 2026 (named "September 2026") | 30 Sep 2026 | nothing new |
+| Sapphire / Franklin | yes | 30 Sep 2026 | 31 Aug 2026 | 30 Sep 2026 | nothing new |
+| DynaSIF / 360 ONE | blocked (Cloudflare "Attention Required" page) | not seen | not seen | 30 Sep 2026 | skipped: page blocked |
+| Summit / Invesco | yes | 30 Sep 2026 | 30 Sep 2026 | 30 Sep 2026 | nothing new |
+| qsif / quant | yes | 30 Sep 2026 | not rechecked today ("October 2026" = 30 Sep data last run; nothing later is possible yet) | 30 Sep 2026 | nothing new |
+| Prism / Jio BlackRock | yes (factsheet page) | 30 Sep 2026 (as loaded) | 31 Aug 2026 (none for September or October) | 30 Sep 2026 | nothing new |
+| Diviniti / ITI | yes | 30 Sep 2026 (September 2026 file) | 31 Aug 2026 | 30 Sep 2026 | nothing new |
+| Magnum / SBI | yes | 30 Sep 2026 | 31 Aug 2026 | 30 Sep 2026 | nothing new |
+| iSIF / ICICI Prudential | yes | 30 Sep 2026 (September 2026 zip) | none listed | 30 Sep 2026 | nothing new |
+| Infinity / Kotak | yes | listed, now opens (September 2026; no reader) | 30 Sep 2026 | 30 Sep 2026 (factsheet) | nothing new |
+| Apex / Aditya Birla (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 30 Sep 2026 | nothing new |
+| Arudha / Bandhan (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 31 Aug 2026 | new file waiting for a manual load |
+
 ## 2026-10-11 14:41 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had anything newer to load; it still holds 33 funds).
 
