@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T11:32:06.173Z",
+ "updated_at": "2026-10-14T12:50:14.282Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5109,187 +5109,185 @@
    "derivative_basis": "futures"
   },
   "SIF-40": {
-   "name": "Arudha Hybrid Long-Short Fund",
-   "as_of": "2026-08-31",
    "allocation": [
     [
      "eq",
-     37.77
+     38.66
     ],
     [
      "fut",
-     -38
+     -38.84
     ],
     [
      "fi",
-     62.23
+     61.34
     ]
    ],
-   "net_assets_cr": 146.93,
+   "net_assets_cr": 157.8,
    "top_equity": [
     [
-     "HDFC Bank Ltd.",
+     "Icici Bank Ltd",
      "Banks",
-     1.98
+     2.87
     ],
     [
-     "Bajaj Finance Ltd.",
-     "Finance",
-     1.19
+     "Hdfc Bank Ltd.",
+     "Banks",
+     1.84
     ],
     [
-     "ICICI Bank Ltd",
+     "State Bank Of India",
      "Banks",
-     1.18
+     1.55
     ],
     [
      "Bharti Airtel Ltd.",
      "Telecom - Services",
-     1.17
+     1.38
     ],
     [
-     "Axis Bank Ltd",
-     "Banks",
-     1.16
+     "Bajaj Finance Ltd.",
+     "Finance",
+     1.28
+    ],
+    [
+     "Reliance Industries Ltd",
+     "Petroleum Products",
+     1.17
     ],
     [
      "Adani Green Energy Ltd",
      "Power",
-     1.14
+     1.12
+    ],
+    [
+     "Axis Bank Ltd",
+     "Banks",
+     1.02
+    ],
+    [
+     "Larsen And Toubro Ltd",
+     "Construction",
+     0.96
     ],
     [
      "Vodafone Idea Ltd.",
      "Telecom - Services",
-     1.12
-    ],
-    [
-     "Larsen and Toubro Ltd",
-     "Construction",
-     1.11
-    ],
-    [
-     "State Bank of India",
-     "Banks",
-     1.08
-    ],
-    [
-     "Mahindra and Mahindra Ltd",
-     "Automobiles",
-     1.07
+     0.94
     ]
    ],
    "top_debt": [
     [
-     "7.42% SIDBI 2029(SR- VII) 12/03/2029",
-     "CRISIL AAA",
-     6.77
-    ],
-    [
      "7.44% UNSNCD NABARD - 17/07/2029",
      "CRISIL AAA",
-     6.76
+     6.27
+    ],
+    [
+     "7.42% SIDBI 2029(SR- VII) 12/03/2029",
+     "CRISIL AAA",
+     6.27
     ],
     [
      "7.7% Bajaj Finance Ltd - 20/9/2029",
      "CRISIL AAA",
-     6.73
+     6.23
     ],
     [
-     "6.68% GSEC BONDS- 07/07/2040",
-     "Sovereign",
-     5.26
+     "(3MTBILL+3.15%):MUTHFIN 53A I:MAT:4.9.29",
+     "CRISIL AA+",
+     3.17
     ],
     [
      "7.85% Bajaj Housing Finance (01/09/2028)",
      "CRISIL AAA",
-     3.4
+     3.15
     ]
    ],
    "top_shorts": [
     [
-     "HDFC Bank Ltd. 29/09/2026",
+     "ICICI Bank Ltd 27/10/2026",
      "",
-     -1.99
+     -2.89
     ],
     [
-     "Bharti Airtel Ltd. 29/09/2026",
+     "HDFC Bank Ltd. 27/10/2026",
      "",
-     -1.21
+     -1.86
     ],
     [
-     "ICICI Bank Ltd 29/09/2026",
+     "State Bank of India 27/10/2026",
      "",
-     -1.18
+     -1.56
     ],
     [
-     "Adani Green Energy Ltd 29/09/2026",
+     "Bharti Airtel Ltd. 27/10/2026",
      "",
-     -1.17
+     -1.38
     ],
     [
-     "Vodafone Idea Ltd. 29/09/2026",
+     "Bajaj Finance Ltd. 27/10/2026",
      "",
-     -1.15
+     -1.29
     ]
    ],
-   "equity_gross_pct": 37.77,
-   "equity_net_pct": -0.23,
-   "holdings_count": 137,
-   "nav_regular_growth": 10.354,
-   "source": "Bandhan Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://arudhasif.com/downloads/",
-   "split": [
-    [
-     "Fixed income",
-     62.23
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     37.64
-    ],
-    [
-     "Equity (unhedged)",
-     0.13
-    ]
-   ],
-   "split_source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "equity_gross_pct": 38.66,
+   "equity_net_pct": -0.18,
+   "holdings_count": 146,
+   "turnover_ratio": null,
+   "derivative_gross_exposure_cr": 61.28,
+   "derivative_basis": "futures",
+   "risk_band": null,
+   "benchmark_risk_band": 3,
    "sectors": [
     [
      "Banks",
-     10.38
+     12.07
     ],
     [
      "Finance",
-     3.34
-    ],
-    [
-     "Automobiles",
-     3.15
+     3.13
     ],
     [
      "Telecom - Services",
-     2.78
+     2.76
     ],
     [
-     "Consumer Durables",
-     2.42
+     "Automobiles",
+     2.68
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     2.11
     ],
     [
      "Other sectors",
-     15.69
+     15.92
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (37.8%), before futures and options hedges",
-   "net_shorts": [],
+   "split": [
+    [
+     "Fixed income",
+     61.34
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     34.67
+    ],
+    [
+     "Equity (unhedged)",
+     3.99
+    ]
+   ],
+   "sector_note": "Share of the fund held in stocks (38.7%), before futures and options hedges",
+   "name": "Arudha Hybrid Long-Short Fund",
+   "as_of": "2026-09-30",
+   "source": "Arudha Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://arudhasif.com/downloads/",
    "unhedged": [],
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0,
-   "benchmark": "CRISIL Hybrid 85+15 Conservative Index",
-   "risk_band": 1,
-   "benchmark_risk_band": 3,
-   "derivative_gross_exposure_cr": 55.83,
-   "derivative_basis": "futures"
+   "unhedged_pending": true
   },
   "SIF-62": {
    "name": "Arudha Equity Long-Short Fund",
