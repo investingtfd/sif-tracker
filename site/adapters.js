@@ -1,5 +1,5 @@
 window.TU=(function TUfactory(){
-const TU={version:'2026-10-09a'};
+const TU={version:'2026-10-14a'};
 const r2=x=>Math.round(x*100)/100;
 const STOP=new Set('limited ltd co company the and india of corporation corp limted'.split(' '));
 const clean=s=>String(s==null?'':s).replace(/\s+/g,' ').trim();
@@ -199,7 +199,7 @@ TU.quant=D=>{const iDer=find(D,/^DERIVATIVES$/i,2);const iGT=find(D,/^Grand Tota
 ;(function(){const orig=TU.unhedged;TU.unhedged=(code,sheets)=>{const a=TU.byCode[code];if(a&&a[1]==='*'){try{const D=TU.dense(sheets.reduce((r,x)=>r.concat(x.rows),[]));return TU[a[0]](D)}catch(e){return{error:String(e)}}}return orig(code,sheets)}})();
 
 ;(function(){const {r2,clean,strip,key,txt,num,isEq,find,rule,finish,nn,fz}=TU._;
-TU.version='2026-10-09a';
+TU.version='2026-10-14a';
 const dn=s=>clean(String(s).replace(/\s+\d\d[-.\/]\d\d[-.\/]\d{2,4}.*$/,'').replace(/\s+\d\d-[A-Za-z]{3}-\d{2,4}.*$/,''));
 const sbiOld=TU.sbi;
 TU.sbi=D=>{const iD=find(D,/^DERIVATIVES$/i,2);if(iD<0)return sbiOld(D);
@@ -322,4 +322,55 @@ TU.loadKotak=async()=>{try{
  let wb={listed:null};try{const P=await lst(15);if(P.length){const h=await fetch(BASE+P[0].content);wb={listed:P[0].subHeaderTitle,status:h.status}}}catch(e){}
  return{'SIF-146':{f:r.f,diag:r.diag,file:F[0].content,factsheet:F[0].subHeaderTitle,workbook:wb}}
 }catch(e){return{error:'Kotak: '+String(e)}}};
+
+/* ---- Kotak workbook reader (2026-10-14a) ---- */
+TU.kotakXls=function(R,prev){
+  var nrm=function(s){return String(s).toLowerCase().replace(/&/g,'and').replace(/\b(ltd|limited|pvt|india|of|the|company|corporation|corp|and)\b/g,'').replace(/[^a-z0-9]/g,'')};
+  var num=function(v){return typeof v==='number'?v:(parseFloat(v)||0)};
+  var r2=function(x){return Math.round(x*100)/100};
+  var asOn=String((R[0]||[]).join(' ')).match(/as on\s+(\d{1,2})-([A-Za-z]{3})-(\d{4})/i);
+  var mon={jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+  var asOf=asOn?asOn[3]+'-'+String(mon[asOn[2].toLowerCase()]).padStart(2,'0')+'-'+String(asOn[1]).padStart(2,'0'):null;
+  var futRow=-1;for(var i=0;i<R.length;i++){if(String(R[i][1]||'').trim()==='Futures'){futRow=i;break}}
+  if(futRow<0)return {error:'no Futures section'};
+  var st={},fut={},opt=[],eq=0;
+  for(i=3;i<futRow;i++){var r=R[i],nm=String(r[2]||'').trim();if(!nm||typeof r[8]!=='number')continue;
+    if(/REIT|InvIT/i.test(String(r[1]))||/^INE\w{5}2[35]/.test(String(r[3])))continue;
+    st[nrm(nm)]={n:nm,p:r[8]};eq+=r[8]}
+  var end=futRow;for(i=futRow+1;i<R.length;i++){var t=String(R[i][1]||'').trim();if(/^(Mutual Fund Units|Infrastructure|Debt Instruments)/i.test(t)){end=i;break}}
+  for(i=futRow+1;i<end;i++){r=R[i];nm=String(r[2]||'').trim();if(!nm)continue;var p=num(r[8]);
+    if(/-[A-Z]{3}20\d\d$/.test(nm)&&!/OPT|PT [CP]/.test(nm)){var k=nrm(nm.replace(/-[A-Z]{3}20\d\d$/,''));fut[k]=(fut[k]||{n:nm.replace(/-[A-Z]{3}20\d\d$/,''),p:0});fut[k].p+=p}
+    else if(/OPT|PT [CP]/.test(nm))opt.push({n:nm,p:p})}
+  var fz=function(k,o){if(o[k])return o[k];var ks=Object.keys(o);for(var j=0;j<ks.length;j++){if(ks[j].indexOf(k.slice(0,7))===0||k.indexOf(ks[j].slice(0,7))===0)return o[ks[j]]}return null};
+  var oth=-1,hed=-1;for(i=0;i<R.length;i++){var s=String(R[i][1]||R[i][0]||'');if(/Other than Hedging Positions through Futures/i.test(s))oth=i;if(/Hedging Positions through Futures as on/i.test(s)&&!/Other/i.test(s))hed=i}
+  if(oth<0)return {error:'no other-than-hedging futures list'};
+  var list=[];for(i=oth+2;i<R.length;i++){var row=R[i].map(String);var t2=row.join(' ');if(/Total exposure due to futures/i.test(t2)){var tot=parseFloat((t2.match(/non hedging positions\)\s*as a\s*(-?[\d.]+)/i)||[])[1]);break}
+    var c=row.find(function(x){return /Future\s*$/.test(x.trim())});if(c){list.push({n:c.replace(/\s*-\s*[A-Za-z]+\s+20\d\d\s*-\s*Future\s*$/,'').trim(),side:row.indexOf('Long')>-1?'L':'S'})}}
+  var rows=[],miss=[];
+  list.forEach(function(o){var f=fz(nrm(o.n),fut);if(!f){miss.push(o.n);return}var s2=fz(nrm(o.n),st);var sp=s2?s2.p:0;var p=f.p;var u=p>0?p:(sp+p<-0.05?sp+p:0);if(u)rows.push({n:o.n,p:r2(u)})});
+  // written puts, premium
+  opt.forEach(function(o){if(o.p<0&&/\bP\b|OPT P|PT P/.test(o.n)){var nm2=o.n.replace(/-(6)?(OPT|PT)\s*[CP].*$/,'').trim();rows.push({n:nm2+' (written put)',p:r2(o.p),put:true})}});
+  var L=rows.filter(function(x){return x.p>0}),S=rows.filter(function(x){return x.p<0});
+  var sum=function(a){return r2(a.reduce(function(t,x){return t+x.p},0))};
+  var netCheck=sum(list.map(function(o){var f=fz(nrm(o.n),fut);return {p:f?f.p:0}}));
+  var pending=[];
+  if(miss.length)pending.push('futures not matched: '+miss.join(', '));
+  if(!isNaN(tot)&&Math.abs(netCheck-tot)>0.06)pending.push('non-hedging futures add to '+netCheck+' but the file says '+tot);
+  if(prev&&prev.equity_gross_pct&&Math.abs(eq-prev.equity_gross_pct)>0.15)pending.push('equity '+r2(eq)+' differs from stored '+prev.equity_gross_pct);
+  var top=rows.slice().sort(function(a,b){return Math.abs(b.p)-Math.abs(a.p)}).slice(0,5).map(function(x){return [x.put?x.n:x.n+' (futures)','',x.p]});
+  var out={as_of:asOf,unhedged:top,unhedged_long:sum(L),unhedged_short:Math.abs(sum(S)),unhedged_count:rows.length,
+    unhedged_note:'From the AMC\'s own list of futures held for reasons other than hedging, with long and short as the AMC marks them. A short future on a stock the fund holds is treated as a hedge and left out. Written puts are shown as short at premium value. Covered calls are left out.'};
+  if(pending.length)out.pending=pending.join('; ');
+  return out};
+TU.loadKotakXls=async function(){
+  var l=await fetch('https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
+  var best=(l.subHeaderList||[]).filter(function(x){return /\.xlsx?$/i.test(x.fileName||'')}).sort(function(a,b){return b.date-a.date})[0];
+  if(!best)return {error:'no portfolio file listed'};
+  var u='https://vatseelabs-s3.kotakmf.com/'+best.content;
+  var resp=await fetch(u);if(resp.status!==200)return {blocked:resp.status,file:best.fileName};
+  var buf=await resp.arrayBuffer();
+  if(!window.XLSX){await new Promise(function(res,rej){var s=document.createElement('script');s.src='https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js';s.onload=res;s.onerror=function(){rej('SheetJS failed')};document.head.appendChild(s)})}
+  var wb=XLSX.read(buf,{type:'array'});var R=XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]],{header:1,defval:''});
+  var o=TU.kotakXls(R,null);o.file=best.fileName;o.title=best.subHeaderTitle;return o};
+
 })();
