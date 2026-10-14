@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T12:57:19.639Z",
+ "updated_at": "2026-10-14T13:36:03.975Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -4579,44 +4579,9 @@
    "net_assets_cr": 353.87,
    "top_equity": [
     [
-     "UPL Ltd.",
-     "Fertilizers & Agrochemicals",
-     5.16
-    ],
-    [
-     "Reliance Industries Ltd.",
-     "Petroleum Products",
-     3.17
-    ],
-    [
-     "ICICI Bank Ltd.",
-     "Banks",
-     3.09
-    ],
-    [
-     "HDFC Bank Ltd.",
-     "Banks",
-     2.27
-    ],
-    [
      "Knowledge Realty Trust",
-     "Realty",
+     "REIT",
      1.02
-    ],
-    [
-     "Swiggy Ltd.",
-     "Retailing",
-     0.9
-    ],
-    [
-     "Kotak Mahindra Bank Ltd.",
-     "Banks",
-     0.82
-    ],
-    [
-     "Bharat Forge Ltd.",
-     "Auto Components",
-     0.82
     ],
     [
      "INDO-MIM Ltd.",
@@ -4624,9 +4589,44 @@
      0.75
     ],
     [
-     "Axis Bank Ltd.",
-     "Banks",
-     0.67
+     "Cube Highways Trust",
+     "InvIT",
+     0.58
+    ],
+    [
+     "Tempsens Instruments (India) Ltd.",
+     "Industrial Manufacturing",
+     0.55
+    ],
+    [
+     "Whirlpool of India Ltd.",
+     "Consumer Durables",
+     0.5
+    ],
+    [
+     "Embassy Office Parks REIT",
+     "REIT",
+     0.5
+    ],
+    [
+     "Indus Infra Trust",
+     "InvIT",
+     0.46
+    ],
+    [
+     "National Stock Exchange of India Ltd.",
+     "Capital Markets",
+     0.38
+    ],
+    [
+     "Moneyview Ltd.",
+     "Finance",
+     0.31
+    ],
+    [
+     "Meesho Ltd.",
+     "Retailing",
+     0.28
     ]
    ],
    "top_debt": [
@@ -4658,7 +4658,7 @@
    ],
    "top_shorts": [],
    "equity_gross_pct": 40.47,
-   "equity_net_pct": 31.29,
+   "equity_net_pct": 5.5,
    "holdings_count": 99,
    "nav_regular_growth": 10.7182,
    "benchmark": "Nifty 50 Hybrid Composite Debt 50:50 Index",
@@ -4670,23 +4670,23 @@
      46.72
     ],
     [
-     "Equity (unhedged)",
-     31.24
+     "Arbitrage (hedged equity)",
+     34.97
     ],
     [
      "Mutual fund units",
      10.02
     ],
     [
-     "Arbitrage (hedged equity)",
-     9.23
+     "Equity (unhedged)",
+     5.5
     ],
     [
      "REITs and InvITs",
      2.79
     ]
    ],
-   "split_source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
+   "split_source": "Apex SIF factsheet (net equity 5.5%) and monthly portfolio, 30 Sep 2026. Hedges include futures and options at full exposure",
    "sectors": [
     [
      "Banks",
@@ -4717,34 +4717,37 @@
    "net_shorts": [],
    "unhedged": [
     [
-     "LTM Ltd. (futures)",
-     "",
-     0.29
-    ],
-    [
      "Nifty 50 Index (options)",
      "",
-     0.16
-    ],
-    [
-     "SBI Life Insurance Co. Ltd. (options)",
-     "",
-     0.003
+     18.7
     ],
     [
      "Varun Beverages Ltd. (options)",
      "Beverages",
-     0.002
+     0.32
+    ],
+    [
+     "LTM Ltd. (futures)",
+     "IT - Software",
+     0.29
+    ],
+    [
+     "SBI Life Insurance Co. Ltd. (options)",
+     "Insurance",
+     0.003
     ]
    ],
-   "unhedged_long": 0.45,
+   "unhedged_long": 19.31,
    "unhedged_short": 0,
    "unhedged_count": 4,
    "risk_band": 1,
    "benchmark_risk_band": 2,
-   "derivative_gross_exposure_cr": 34.5,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options are shown at premium value, as this AMC reports them, so their market exposure is larger.",
-   "derivative_basis": "futures"
+   "derivative_gross_exposure_cr": 68.3,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Options shown at full market exposure (units x underlying price); SBI Life at premium value. Apex reports net market sensitivity of 13-15%.",
+   "derivative_basis": "unhedged",
+   "top_equity_basis": "unhedged",
+   "derivative_all_cr": 249.5,
+   "factcheck": "2026-10-14: options valued at notional; net equity from Apex factsheet; derivative tile = unhedged only"
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
