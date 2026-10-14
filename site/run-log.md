@@ -1,5 +1,50 @@
 # SIF Tracker daily run log
 
+## 2026-10-14 08:30 Lisbon time
+Result: nothing changed. facts.json was not committed (33 funds, no fund had anything newer to load).
+
+Updates found and made
+- None
+
+Updates available but not made, or only partly made
+- Arudha Hybrid (SIF-40) and Arudha Equity (SIF-62): the 30 Sep 2026 monthly files are listed; watch-only, waiting for a manual load.
+- RedHex Hybrid (SIF-128): newest workbook and factsheet are still 31 Aug 2026; the September files are not published yet. Retried next run.
+
+### Data completeness
+Up to date: 30 of 33 SIF funds (91%) have data as on 30 Sep 2026
+of which 29 from the full Excel portfolio and 1 from the factsheet only (full portfolio still to come: Infinity Hybrid, Kotak)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-128 RedHex Hybrid | RedHex / HSBC | 31 Aug 2026 | AMC has not published September yet |
+| SIF-40 Arudha Hybrid | Arudha / Bandhan | 31 Aug 2026 | Watch-only, 30 Sep file waiting for a manual load |
+| SIF-62 Arudha Equity | Arudha / Bandhan | 31 Aug 2026 | Watch-only, 30 Sep file waiting for a manual load |
+
+### Fails and fixes
+No fails today. Note: this run only re-checked the AMCs that were not at 30 Sep (RedHex, Arudha) plus Apex; every other AMC was already at the target month, so it was not re-opened.
+
+### AMC by AMC
+| AMC | Page opened | Newest Excel found | Newest factsheet found | Loaded before (as_of) | Action |
+|---|---|---|---|---|---|
+| Altiva / Edelweiss | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| RedHex / HSBC | yes | 31 Aug 2026 | Aug 2026 | 31 Aug 2026 | nothing new |
+| WSIF / Wealth Company | not re-opened | - | n/a | 30 Sep 2026 | nothing new (already at target month) |
+| Titanium / Tata | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Platinum / Mirae | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Sapphire / Franklin | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| DynaSIF / 360 ONE | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Summit / Invesco | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| qsif / quant | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Prism / Jio BlackRock | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Diviniti / ITI | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Magnum / SBI | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| iSIF / ICICI Prudential | not re-opened | - | - | 30 Sep 2026 | nothing new (already at target month) |
+| Infinity / Kotak | not re-opened | - | - | 30 Sep 2026 (factsheet) | nothing new (already at target month) |
+| Apex / Aditya Birla | yes | 31 Aug 2026 | - | 30 Sep 2026 | nothing new |
+| Arudha / Bandhan | yes | 30 Sep 2026 | - | 31 Aug 2026 | new file waiting for a manual load |
+
+Schedule note: Ashish changed the schedule on 14 Oct to 4 runs a day (07:52, 11:52, 15:52, 19:52 Lisbon); once a day's entry is logged, later firings stop. The model change to Sonnet 5.5 could not be applied from inside the run (needs the routine's own settings).
+
 ## 2026-10-12 09:00 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had anything newer to load; it still holds 33 funds).
 
@@ -443,3 +488,4 @@ Note: for Tata SIF-102 the top positions come from the factsheet table "Top 10 N
 | Titanium Hybrid Long-Short (SIF-29) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 587.04 -> 540.57 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | split_source, factsheet_only (top positions not changed) |
 | Titanium Equity Long-Short (SIF-102) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 275.64 -> 343.9 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
 | Sapphire Equity Long-Short (SIF-96) | Factsheet | 31 Jul 2026 -> 31 Aug 2026 | 204.5 -> 216.02 | 5 -> 5 (read; benchmark 3) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
+
