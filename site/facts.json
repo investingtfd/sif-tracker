@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T13:52:41.262Z",
+ "updated_at": "2026-10-15T10:56:48.998Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -3732,8 +3732,8 @@
    "turnover_ratio": 0.43,
    "derivative_gross_exposure_cr": 310.78,
    "derivative_basis": "futures",
-   "risk_band": null,
-   "benchmark_risk_band": null,
+   "risk_band": 5,
+   "benchmark_risk_band": 3,
    "sectors": [
     [
      "Retailing",
@@ -5290,7 +5290,7 @@
   },
   "SIF-62": {
    "name": "Arudha Equity Long-Short Fund",
-   "as_of": "2026-08-31",
+   "as_of": "2026-09-30",
    "allocation": [
     [
      "eq",
@@ -5309,57 +5309,57 @@
      -1.85
     ]
    ],
-   "net_assets_cr": 127.87,
+   "net_assets_cr": 133.38,
    "top_equity": [
     [
      "ICICI Bank Ltd",
      "Banks",
-     5.07
+     4.42
     ],
     [
      "HDFC Bank Ltd.",
      "Banks",
-     4.17
-    ],
-    [
-     "Mahindra and Mahindra Ltd",
-     "Automobiles",
-     3.55
+     4
     ],
     [
      "Bharti Airtel Ltd.",
      "Telecom - Services",
-     3.02
+     3.46
     ],
     [
-     "TVS Holdings Ltd.",
-     "Finance",
-     2.93
+     "Mahindra and Mahindra Ltd",
+     "Automobiles",
+     3.06
     ],
     [
      "Cipla Ltd.",
      "Pharmaceuticals & Biotechnology",
-     2.31
+     2.41
     ],
     [
-     "Ipca Laboratories Limited",
+     "TVS Holdings Ltd",
+     "Finance",
+     2.09
+    ],
+    [
+     "Ipca Laboratories Ltd.",
      "Pharmaceuticals & Biotechnology",
-     2.16
+     2.02
     ],
     [
-     "Sagility India Ltd.",
-     "IT - Services",
-     2.13
+     "Shriram Finance Ltd.",
+     "Finance",
+     2.02
     ],
     [
-     "HDFC AMC Ltd",
-     "Capital Markets",
-     1.95
+     "Bajaj Holdings & Investment Ltd",
+     "Finance",
+     2.01
     ],
     [
-     "Info Edge India Ltd",
-     "Retailing",
-     1.88
+     "State Bank of India",
+     "Banks",
+     1.99
     ]
    ],
    "top_debt": [
@@ -5436,7 +5436,7 @@
      1.87
     ]
    ],
-   "split_source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "split_source": "Fund size and top positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Aug 2026, pending the full portfolio",
    "sectors": [
     [
      "Banks",
@@ -5501,7 +5501,8 @@
    "benchmark_risk_band": 5,
    "derivative_gross_exposure_cr": 4.49,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
-   "derivative_basis": "futures"
+   "derivative_basis": "futures",
+   "factsheet_only": true
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
