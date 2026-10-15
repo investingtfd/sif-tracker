@@ -266,6 +266,26 @@ def _diagnose(url: str, content: bytes):
     print("--- end diagnostics ---")
 
 
+def _prev_total(tag: str):
+    """Previous month's Grand Total from AMFI's prior report, so the site can
+    show 'change vs last month' with no hand-kept numbers."""
+    try:
+        mon = MONTHS.index(tag[:3])
+        year = int(tag[3:])
+        mm, yy = (mon - 1, year) if mon > 0 else (11, year - 1)
+        ptag = f"{MONTHS[mm]}{yy}"
+        content = _fetch(URL_TMPL.format(mon=MONTHS[mm], year=yy))
+        if not content:
+            return None
+        parsed = _rows_from_html(content) or _rows_from_xls(content)
+        gt = parsed and parsed.get("grand_total")
+        if gt and gt.get("net_aum_cr"):
+            return {"report_month": ptag, "as_of": parsed.get("as_of"), "net_aum_cr": gt["net_aum_cr"]}
+    except Exception:
+        return None
+    return None
+
+
 def run() -> int:
     today = dt.date.today()
     for url, tag in _candidate_urls(today):
@@ -286,6 +306,21 @@ def run() -> int:
             "categories": parsed["categories"],
             "grand_total": parsed["grand_total"],
         }
+        prev = _prev_total(tag)
+        if not prev:
+            # fall back to whatever the previous file held for an earlier month
+            try:
+                with open(OUT_PATH, encoding="utf-8") as pf:
+                    old = json.load(pf)
+                if old.get("report_month") != tag and (old.get("grand_total") or {}).get("net_aum_cr"):
+                    prev = {"report_month": old["report_month"], "as_of": old.get("as_of"),
+                            "net_aum_cr": old["grand_total"]["net_aum_cr"]}
+                elif old.get("prev"):
+                    prev = old["prev"]
+            except Exception:
+                prev = None
+        if prev:
+            payload["prev"] = prev
         os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
         with open(OUT_PATH, "w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2)
