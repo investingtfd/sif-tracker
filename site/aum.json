@@ -2,7 +2,7 @@
   "source_url": "https://portal.amfiindia.com/spages/sif_amsep2026repo.xls",
   "report_month": "sep2026",
   "as_of": "2026-09-30",
-  "fetched_at": "2026-10-15T11:00:25.142613Z",
+  "fetched_at": "2026-10-15T21:03:54.089890Z",
   "categories": {
     "Equity Long-Short": {
       "net_aum_cr": 4216.05928379,
@@ -34,5 +34,10 @@
     "net_aum_cr": 38286.93598936,
     "avg_aum_cr": 35020.743581040006,
     "schemes": 34.0
+  },
+  "prev": {
+    "report_month": "aug2026",
+    "as_of": "2026-08-31",
+    "net_aum_cr": 31175.427308309998
   }
 }
