@@ -1,5 +1,64 @@
 # SIF Tracker daily run log
 
+## 2026-10-15 11:58 Lisbon time
+Result: 2 funds updated. facts.json was committed and verified (33 funds, no risk band lost).
+
+Updates found and made
+- Arudha Equity (SIF-62): monthly factsheet, data as on 30 Sep 2026, size Rs 133.38 cr (factsheet only; the Excel link is broken on Arudha's side).
+- Magnum Equity Ex-Top 100 (SIF-157): risk band set to 5 (benchmark 3) from SBI's September factsheet; data date unchanged (30 Sep 2026).
+
+Updates available but not made, or only partly made
+- Arudha Equity (SIF-62): the 30 Sep 2026 Excel link returns an error page, so asset split, shorts and unhedged figures stay as on 31 Aug 2026. Will retry automatically next run.
+- RedHex Hybrid (SIF-128): newest workbook and factsheet are still 31 Aug 2026; September not published yet. Will retry automatically next run.
+- Infinity Hybrid (SIF-146, Kotak): stays factsheet only; the September workbook was read for the unhedged card (already applied), but there is no workbook reader for the asset split yet.
+
+### Data completeness
+Up to date: 32 of 33 SIF funds (97%) have data as on 30 Sep 2026
+of which 30 from the full Excel portfolio and 2 from the factsheet only (full portfolio still to come: Arudha Equity, Infinity Hybrid)
+
+Not yet up to date
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-128 RedHex Hybrid | RedHex / HSBC | 31 Aug 2026 | AMC has not published September yet |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why, in plain words | Resolution |
+|---|---|---|---|---|
+| 1 | September Excel could not be read | Arudha / SIF-62 Equity | The 30 Sep 2026 file link returns a small error page, not a workbook (problem on Arudha's side) | Fixed in this run: loaded from the September factsheet instead; will retry the Excel automatically next run |
+| 2 | Risk band not read | Apex / SIF-154 Equity, SIF-156 Equity Ex-Top 100 | Apex's factsheet ("October 2026", data as on 30 Sep) only covers the Hybrid fund | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| RedHex / HSBC | 1 | 31 Aug 2026 | 🟥 0% | yes | 31 Aug 2026 | 31 Aug 2026 | nothing new | none |
+| WSIF / Wealth Company | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | n/a | nothing new | none |
+| Titanium / Tata | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Platinum / Mirae | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Sapphire / Franklin | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| DynaSIF / 360 ONE | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Summit / Invesco | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| qsif / quant | 5 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Prism / Jio BlackRock | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Diviniti / ITI | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Magnum / SBI | 2 | 30 Sep 2026 | 🟩 100% | yes (factsheet page) | - | 30 Sep 2026 | risk band for SIF-157 loaded from factsheet | none (risk band added) |
+| iSIF / ICICI Prudential | 4 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Infinity / Kotak | 1 | 30 Sep 2026 (factsheet) | 🟧 50% | yes | Portfolio as of September 2026 (read for unhedged card, already applied) | 30 Sep 2026 | nothing new | none |
+| Apex / Aditya Birla | 3 | 30 Sep 2026 | 🟩 100% | yes (factsheet list) | not re-read, already at target month | 30 Sep 2026 ("October 2026") | nothing new; equity risk bands not in factsheet | none |
+| Arudha / Bandhan | 2 | 30 Sep 2026 | 🟧 75% | yes | 30 Sep 2026 (Hybrid read; Equity link broken) | 30 Sep 2026 ("September 2026") | SIF-62 loaded from factsheet | 50% -> 75% |
+
+Industry AUM (AMFI): as on 30 Sep 2026
+
+### Funds changed
+
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band before -> after | Unhedged long/short before -> after | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-62 Arudha Equity | Arudha monthly factsheet (Sep 2026) | 31 Aug 2026 -> 30 Sep 2026 | 127.87 -> 133.38 | 5 -> 5 | frozen (as on 31 Aug) | top_equity, factsheet_only = true, split_source |
+| SIF-157 Magnum Equity Ex-Top 100 | SBI monthly factsheet (Sep 2026) | 30 Sep 2026 -> 30 Sep 2026 | 1598.35 -> 1598.35 | none -> 5 | unchanged | benchmark_risk_band none -> 3 |
+
 ## 2026-10-14 08:30 Lisbon time
 Result: nothing changed. facts.json was not committed (33 funds, no fund had anything newer to load).
 
@@ -488,4 +547,3 @@ Note: for Tata SIF-102 the top positions come from the factsheet table "Top 10 N
 | Titanium Hybrid Long-Short (SIF-29) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 587.04 -> 540.57 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | split_source, factsheet_only (top positions not changed) |
 | Titanium Equity Long-Short (SIF-102) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 275.64 -> 343.9 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
 | Sapphire Equity Long-Short (SIF-96) | Factsheet | 31 Jul 2026 -> 31 Aug 2026 | 204.5 -> 216.02 | 5 -> 5 (read; benchmark 3) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
-
