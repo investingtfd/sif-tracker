@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T08:41:56.853Z",
+ "updated_at": "2026-10-16T08:49:52.477Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -344,7 +344,8 @@
    "as_of": "2026-09-30",
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
-   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions."
+   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions.",
+   "unhedged_zero_since": "2026-09-30"
   },
   "SIF-136": {
    "allocation": [
@@ -705,7 +706,8 @@
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0,
-   "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets."
+   "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets.",
+   "unhedged_zero_since": "2026-09-30"
   },
   "SIF-105": {
    "allocation": [
@@ -1095,7 +1097,8 @@
    "as_of": "2026-09-30",
    "source": "Invesco Mutual Fund monthly portfolio disclosure",
    "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
-   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions."
+   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions.",
+   "unhedged_zero_since": "2026-09-30"
   },
   "SIF-29": {
    "allocation": [
@@ -3622,7 +3625,8 @@
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0,
-   "unhedged_note": "No unhedged derivative positions reported as on 30 Sep 2026."
+   "unhedged_note": "No unhedged derivative positions reported as on 30 Sep 2026.",
+   "unhedged_zero_since": "2026-09-30"
   },
   "SIF-157": {
    "allocation": [
@@ -5265,7 +5269,8 @@
    "as_of": "2026-09-30",
    "source": "Arudha Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
-   "unhedged_note": "No unhedged derivative positions in August or September 2026. The futures the fund holds are short hedges against matching shares (arbitrage), not directional bets."
+   "unhedged_note": "No unhedged derivative positions in August or September 2026. The futures the fund holds are short hedges against matching shares (arbitrage), not directional bets.",
+   "unhedged_zero_since": "2026-08-31"
   },
   "SIF-62": {
    "name": "Arudha Equity Long-Short Fund",
