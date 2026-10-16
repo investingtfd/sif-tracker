@@ -1,5 +1,52 @@
 # SIF Tracker daily run log
 
+## 2026-10-16 15:52 Lisbon time
+Result: nothing changed. facts.json was not touched (no newer data found).
+
+Updates found and made
+- None
+
+Updates available but not made, or only partly made
+- Arudha Equity (SIF-62): still on the 30 Sep 2026 factsheet; the Excel link still returns an error page on Arudha's side. Retried automatically, will retry next run.
+- Apex Equity (SIF-154) and Equity Ex-Top 100 (SIF-156): risk band still blank; the October factsheet (data 30 Sep) shows the band only as a graphic for the hybrid fund, so it cannot be read with confidence. Will retry next run.
+
+### Data completeness
+Up to date: 32 of 33 SIF funds (97%) have data as on 30 Sep 2026
+of which 30 from the full Excel portfolio and 2 from the factsheet only (full portfolio still to come)
+
+Not yet up to date
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| RedHex Hybrid Long-Short (SIF-128) | RedHex / HSBC | 31 Aug 2026 | AMC has not published yet (newest Excel and factsheet are August) |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution |
+|---|---|---|---|---|
+| 1 | Excel would not open | Arudha / SIF-62 | The 30 Sep file link returns an error page | Will retry automatically next run |
+| 2 | Risk band not read | Apex / SIF-154, SIF-156 | Factsheet band is a graphic only | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| RedHex / HSBC | 1 | 31 Aug 2026 | 🟥 0% | yes | 31 Aug 2026 | Aug 2026 | nothing new | none |
+| WSIF / Wealth Company | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | none exists | nothing new | none |
+| Titanium / Tata | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Platinum / Mirae | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Sapphire / Franklin | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| DynaSIF / 360 ONE | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Summit / Invesco | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| qsif / quant | 5 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Prism / Jio BlackRock | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Diviniti / ITI | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Magnum / SBI | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| iSIF / ICICI Prudential | 4 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| Apex / Aditya Birla | 3 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | 30 Sep 2026 (Oct file) | nothing new | none |
+| Arudha / Bandhan | 2 | 30 Sep 2026 | 🟩 100% (Hybrid) / 🟧 50% (Equity) = 75% | yes | Hybrid 30 Sep 2026; Equity link broken | not re-read | nothing new | none |
+| Infinity / Kotak | 1 | 30 Sep 2026 | 🟧 50% | yes | 30 Sep 2026 (workbook already applied for unhedged card) | Sep 2026 | nothing new | none |
+
+Industry AUM (AMFI): as on 2026-09-30
+
 ## 2026-10-15 11:58 Lisbon time
 Result: 2 funds updated. facts.json was committed and verified (33 funds, no risk band lost).
 
