@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T08:17:38.916Z",
+ "updated_at": "2026-10-16T08:31:36.690Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -4930,7 +4930,8 @@
    "unhedged_count": 42,
    "derivative_gross_exposure_cr": 95.67,
    "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
-   "derivative_basis": "futures"
+   "derivative_basis": "futures",
+   "risk_band": 3
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -5102,7 +5103,8 @@
    "unhedged_count": 26,
    "derivative_gross_exposure_cr": 24.95,
    "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
-   "derivative_basis": "futures"
+   "derivative_basis": "futures",
+   "risk_band": 2
   },
   "SIF-40": {
    "allocation": [
