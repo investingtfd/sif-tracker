@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T10:56:48.998Z",
+ "updated_at": "2026-10-16T08:17:38.916Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -551,168 +551,164 @@
    "allocation": [
     [
      "eq",
-     26.23
+     23.9
     ],
     [
      "fi",
-     49.58
+     44.25
     ],
     [
      "mf",
-     6.03
+     5.99
     ],
     [
      "reit",
-     9.02
+     11.73
     ],
     [
      "invit",
-     9.14
+     14.13
     ]
    ],
-   "net_assets_cr": 1072.84,
+   "net_assets_cr": 1504,
    "top_equity": [
     [
      "Cube Highway Trust",
      "InvIT",
-     4.26
-    ],
-    [
-     "Embassy Office Parks REIT",
-     "REIT",
-     3.74
+     4.65
     ],
     [
      "Mindspace Business Parks REIT",
      "REIT",
-     2.84
+     3.71
+    ],
+    [
+     "IRB InvIT Fund",
+     "InvIT",
+     3.71
+    ],
+    [
+     "Knowledge Realty Trust",
+     "REIT",
+     3.6
+    ],
+    [
+     "ICICI Bank Limited",
+     "Banks",
+     3.01
+    ],
+    [
+     "Embassy Office Parks REIT",
+     "REIT",
+     2.64
+    ],
+    [
+     "Capital Infra Trust InvIT",
+     "InvIT",
+     2.3
     ],
     [
      "Indus Towers Limited",
      "Telecom - Services",
-     2.61
-    ],
-    [
-     "Canara Bank",
-     "Banks",
-     2.6
-    ],
-    [
-     "Raajmarg Infra Investment Trust",
-     "InvIT",
-     2.49
+     1.79
     ],
     [
      "Bagmane Prime Office REIT",
      "REIT",
-     2.44
+     1.77
     ],
     [
-     "National Highways Infra Trust",
+     "Raajmarg Infra Investment Trust",
      "InvIT",
-     2.39
-    ],
-    [
-     "Steel Authority of India Limited",
-     "Ferrous Metals",
-     1.99
-    ],
-    [
-     "Godrej Properties Limited",
-     "Realty",
-     1.88
+     1.77
     ]
    ],
    "top_debt": [
     [
+     "GMR Airports Limited",
+     "CRISIL AA-",
+     4.7
+    ],
+    [
+     "Incred Financial Services Ltd",
+     "CRISIL AA-",
+     3.92
+    ],
+    [
      "TRIUMPH COMPOSITES PVT LTD",
      "IND AA-",
-     4.69
+     3.36
+    ],
+    [
+     "NABARD",
+     "CRISIL AAA",
+     3.32
     ],
     [
      "Liquid Gold Series 24",
      "CRISIL A(SO)",
-     4.63
-    ],
-    [
-     "GMR Airports Limited",
-     "CRISIL A+",
-     4.52
-    ],
-    [
-     "Indigo 053",
-     "CARE AA(SO)",
-     4.04
-    ],
-    [
-     "Krazybee Services Limited",
-     "CARE A+",
-     3.73
+     3.29
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 26.23,
-   "equity_net_pct": 26.23,
-   "holdings_count": 80,
-   "turnover_ratio": 1.05,
-   "derivative_gross_exposure_cr": 280.87,
+   "equity_gross_pct": 23.9,
+   "equity_net_pct": 23.9,
+   "holdings_count": 90,
+   "turnover_ratio": 1.31,
+   "derivative_gross_exposure_cr": 359.46,
    "derivative_basis": "futures",
    "risk_band": 2,
    "benchmark_risk_band": null,
    "sectors": [
     [
      "Banks",
-     7.44
+     8.09
     ],
     [
      "Telecom - Services",
-     2.66
+     2.58
+    ],
+    [
+     "Petroleum Products",
+     1.95
     ],
     [
      "Ferrous Metals",
-     2.45
+     1.64
     ],
     [
      "Automobiles",
-     2.43
-    ],
-    [
-     "Realty",
-     1.88
+     1.61
     ],
     [
      "Other sectors",
-     9.37
+     8.03
     ]
    ],
    "split": [
     [
      "Fixed income",
-     49.58
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     26.18
+     44.25
     ],
     [
      "REITs and InvITs",
-     18.16
+     25.86
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     23.9
     ],
     [
      "Mutual fund units",
-     6.03
-    ],
-    [
-     "Equity (unhedged)",
-     0.05
+     5.99
     ]
    ],
-   "unhedged": [],
-   "sector_note": "Share of the fund held in stocks (26.2%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (23.9%), before futures and options hedges",
    "name": "RedHex Hybrid Long-Short Fund",
-   "as_of": "2026-08-31",
    "source": "HSBC Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.assetmanagement.hsbc.co.in/en/redhex-sif/investor-resources/information-library",
+   "as_of": "2026-09-30",
+   "unhedged": [],
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0
