@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T08:31:36.690Z",
+ "updated_at": "2026-10-16T08:38:03.622Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -555,11 +555,7 @@
     ],
     [
      "fi",
-     44.25
-    ],
-    [
-     "mf",
-     5.99
+     50.24
     ],
     [
      "reit",
@@ -688,7 +684,7 @@
    "split": [
     [
      "Fixed income",
-     44.25
+     50.24
     ],
     [
      "REITs and InvITs",
@@ -697,10 +693,6 @@
     [
      "Arbitrage (hedged equity)",
      23.9
-    ],
-    [
-     "Mutual fund units",
-     5.99
     ]
    ],
    "sector_note": "Share of the fund held in stocks (23.9%), before futures and options hedges",
@@ -2244,7 +2236,7 @@
    "allocation": [
     [
      "eq",
-     69.61
+     70.12
     ],
     [
      "fut",
@@ -2253,10 +2245,6 @@
     [
      "fi",
      29.89
-    ],
-    [
-     "mf",
-     0.51
     ]
    ],
    "net_assets_cr": 1017.78,
@@ -2363,15 +2351,11 @@
    "split": [
     [
      "Equity",
-     69.61
+     70.12
     ],
     [
      "Fixed income",
      29.89
-    ],
-    [
-     "Mutual fund units",
-     0.51
     ]
    ],
    "unhedged": [
@@ -4547,11 +4531,7 @@
    "allocation": [
     [
      "fi",
-     46.72
-    ],
-    [
-     "mf",
-     10.02
+     56.74
     ],
     [
      "eq",
@@ -4665,15 +4645,11 @@
    "split": [
     [
      "Fixed income",
-     46.72
+     56.74
     ],
     [
      "Arbitrage (hedged equity)",
      34.97
-    ],
-    [
-     "Mutual fund units",
-     10.02
     ],
     [
      "Equity (unhedged)",
@@ -5508,7 +5484,7 @@
    "allocation": [
     [
      "fi",
-     59.39
+     60.58
     ],
     [
      "eq",
@@ -5521,10 +5497,6 @@
     [
      "invit",
      1.43
-    ],
-    [
-     "mf",
-     1.19
     ],
     [
      "opt",
@@ -5627,7 +5599,7 @@
    "split": [
     [
      "Fixed income",
-     59.31
+     60.5
     ],
     [
      "Arbitrage (hedged equity)",
@@ -5640,10 +5612,6 @@
     [
      "Equity (unhedged)",
      4.6
-    ],
-    [
-     "Mutual fund units",
-     1.19
     ]
    ],
    "split_source": "All figures as on 30 Sep 2026, from the monthly factsheet (the AMC has not published the September portfolio file). Arbitrage (hedged equity) is the AMC's arbitrage book (12.84%) plus the stocks in its covered-call book (17.45%); fixed income is debt, TREPS and cash. The positions count covers the stocks, trusts and derivative positions the factsheet lists; bonds are not itemised",
