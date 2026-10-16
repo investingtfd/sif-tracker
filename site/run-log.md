@@ -1,14 +1,15 @@
 # SIF Tracker daily run log
 
 ## 2026-10-16 17:10 Lisbon time
-Result: 1 fund updated. facts.json was committed and verified (33 funds, no risk band lost).
+Result: 1 fund updated, plus 2 risk bands filled in. facts.json was committed and verified (33 funds, no risk band missing).
 
 Updates found and made
 - RedHex Hybrid Long-Short (SIF-128): monthly Excel portfolio, data as on 30 Sep 2026, size Rs 1,504 cr (was Rs 1,072.84 cr on 31 Aug), risk band 2 (unchanged).
+- Apex Equity Long-Short (SIF-154): risk band 2 and Apex Equity Ex-Top 100 (SIF-156): risk band 3, both given by Ashish from the prospectus (factsheets do not cover them yet). Apex Hybrid (SIF-80): band 1 and benchmark band 2 confirmed from the factsheet.
 
 Updates available but not made, or only partly made
 - Arudha Equity (SIF-62): still on the 30 Sep factsheet; the Excel link returns an error page on Arudha's side. Will retry next run.
-- Apex Equity (SIF-154) and Equity Ex-Top 100 (SIF-156): risk band still blank (factsheet shows it only as a graphic). Will retry next run.
+- None other than Arudha (above). Apex risk bands were supplied by Ashish and applied (see Updates found).
 
 ### Data completeness
 Up to date: 33 of 33 SIF funds (100%) have data as on 30 Sep 2026
@@ -21,7 +22,7 @@ Not yet up to date: none.
 |---|---|---|---|---|
 | 1 | Missed HSBC September files in the first pass | RedHex / HSBC (SIF-128) | The investor-resources page only lists the newest files when opened with its filter link (Doc=redhex-sif-factsheet); the unfiltered page and the library page showed up to August | Fixed in this run: loaded the 30 Sep Excel. From now on HSBC is read through the filtered links |
 | 2 | Excel would not open | Arudha / Equity (SIF-62) | The 30 Sep file link returns an error page | Will retry automatically next run; if still broken in about a week, Needs Ashish: email Arudha SIF to repair the link |
-| 3 | Risk band not read | Apex / SIF-154, SIF-156 | Factsheet band is a graphic only | Will retry automatically next run; if still blank next month, Needs Ashish: read the band on the factsheet and tell me |
+| 3 | Risk band not read | Apex / SIF-154, SIF-156 | Factsheet band is a graphic only and does not yet cover these funds | Fixed in this run: Ashish supplied the bands (2 and 3) from the prospectus. Later factsheets will be used to check them |
 
 ### AMC by AMC
 | AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
