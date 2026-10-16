@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T08:49:52.477Z",
+ "updated_at": "2026-10-16T08:59:16.819Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -3938,22 +3938,18 @@
    "sector_note": "Share of the fund held in stocks (79.7%), before futures and options hedges",
    "nav_regular_growth": 10.09,
    "as_of": "2026-09-30",
-   "unhedged": [
-    [
-     "Fortis Healthcare Ltd. (bought put options)",
-     "Healthcare Services",
-     -1.15
-    ]
-   ],
+   "unhedged": [],
    "unhedged_long": 0,
-   "unhedged_short": 1.15,
-   "unhedged_count": 1,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
+   "unhedged_short": 0,
+   "unhedged_count": 0,
+   "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026. The fund does use derivatives, but to hedge or earn income: calls written on shares it holds (2.3% of net assets) and protective puts. Its one put on a share it does not hold (Fortis Healthcare, 1.15% at exposure value) can lose at most the premium, about 0.12% of net assets for all its non-hedging options.",
    "risk_band": 5,
    "benchmark_risk_band": 3,
    "name": "iSIF Equity Ex-Top 100 Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_source": "iSIF portfolio workbook, September 2026, reviewed for hedges",
+   "unhedged_zero_since": "2026-09-30"
   },
   "SIF-35": {
    "allocation": [
@@ -4120,27 +4116,18 @@
      "HDFC Life Insurance Company Ltd (futures)",
      "Insurance",
      0.95
-    ],
-    [
-     "Apollo Hospitals Enterprise Ltd. (bought put options)",
-     "Healthcare Services",
-     -0.48
-    ],
-    [
-     "Hyundai Motor India Ltd. (bought put options)",
-     "Automobiles",
-     -0.48
     ]
    ],
    "unhedged_long": 3.82,
-   "unhedged_short": 0.96,
-   "unhedged_count": 4,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
+   "unhedged_short": 0,
+   "unhedged_count": 2,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Not counted: calls written on shares the fund holds (covered calls, 1% of net assets), short futures against holdings and puts bought on shares it holds (protection). Also not counted: puts bought on shares or an index it does not hold (0.96% at exposure value): the most the fund can lose on a bought put is the premium, and the AMC puts all its non-hedging options at about 0.24% of net assets.",
    "risk_band": 5,
    "benchmark_risk_band": 2,
    "name": "iSIF Hybrid Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_source": "iSIF portfolio workbook, September 2026, reviewed for hedges"
   },
   "SIF-124": {
    "allocation": [
@@ -4327,40 +4314,36 @@
    "as_of": "2026-09-30",
    "unhedged": [
     [
-     "Bse Sensex. (call options)",
-     "Index Futures/Options",
-     -2.79
-    ],
-    [
-     "Bse Sensex. (bought put options)",
-     "Index Futures/Options",
-     -2.77
-    ],
-    [
      "Gold (1 KG-1000 GMS) Commodity (futures)",
      "Gold",
      2.21
     ],
     [
-     "ICICI Bank Ltd. (call options)",
+     "HDFC Bank Ltd. (futures)",
      "Banks",
-     -1.84
+     0.86
     ],
     [
-     "HDFC Life Insurance Company Ltd (call options)",
+     "ICICI Bank Ltd. (futures)",
+     "Banks",
+     0.32
+    ],
+    [
+     "HDFC Life Insurance Company Ltd (futures)",
      "Insurance",
-     -1.06
+     0.18
     ]
    ],
    "unhedged_long": 3.58,
-   "unhedged_short": 13.07,
-   "unhedged_count": 17,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
+   "unhedged_short": 0,
+   "unhedged_count": 4,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Not counted: calls written on shares the fund holds (covered calls, 28% of net assets), short futures against holdings and puts bought on shares it holds (protection); Sensex and Nifty index calls written against its stock book (3.3%) are also treated as a portfolio hedge. Also not counted: puts bought on shares or an index it does not hold (6.78% at exposure value): the most the fund can lose on a bought put is the premium, and the AMC puts all its non-hedging options at about 0.28% of net assets.",
    "risk_band": 2,
    "benchmark_risk_band": 2,
    "name": "iSIF Active Asset Allocator Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_source": "iSIF portfolio workbook, September 2026, reviewed for hedges"
   },
   "SIF-126": {
    "allocation": [
@@ -4448,7 +4431,7 @@
    ],
    "top_shorts": [],
    "equity_gross_pct": 82.45,
-   "equity_net_pct": 79.29,
+   "equity_net_pct": 79.26,
    "holdings_count": 121,
    "turnover_ratio": 1.19,
    "derivative_gross_exposure_cr": 138.44,
@@ -4498,40 +4481,26 @@
    "as_of": "2026-09-30",
    "unhedged": [
     [
-     "Apollo Hospitals Enterprise Ltd. (bought put options)",
-     "Healthcare Services",
-     -2.23
-    ],
-    [
      "HDFC Life Insurance Company Ltd (futures)",
      "Insurance",
      1.41
     ],
     [
-     "Marico Ltd. (bought put options)",
-     "Agricultural Food & Other Products",
-     -0.97
-    ],
-    [
-     "Coal India Ltd. (bought put options)",
-     "Consumable Fuels",
-     -0.57
-    ],
-    [
-     "PB Fintech Ltd. (bought put options)",
-     "Financial Technology (Fintech)",
-     -0.22
+     "ITC Ltd. (call written and put bought, together a short)",
+     "Diversified Fmcg",
+     -1
     ]
    ],
-   "unhedged_long": 1.44,
-   "unhedged_short": 4,
-   "unhedged_count": 6,
-   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Bought puts on stocks the fund holds are treated as protection and left out; puts on stocks it does not hold are shown at exposure value, though the most the fund can lose on them is the premium paid.",
+   "unhedged_long": 1.41,
+   "unhedged_short": 1,
+   "unhedged_count": 2,
+   "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets. Not counted: calls written on shares the fund holds (covered calls, 8.3% of net assets), short futures against holdings and puts bought on shares it holds (protection). Also not counted: puts bought on shares or an index it does not hold (4.96% at exposure value): the most the fund can lose on a bought put is the premium, and the AMC puts all its non-hedging options at about 0.27% of net assets.",
    "risk_band": 5,
    "benchmark_risk_band": 3,
    "name": "iSIF Equity Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads"
+   "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
+   "unhedged_source": "iSIF portfolio workbook, September 2026, reviewed for hedges"
   },
   "SIF-80": {
    "name": "Apex Hybrid Long-Short Fund",
