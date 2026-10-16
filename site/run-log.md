@@ -6,6 +6,7 @@ Result: 1 fund updated, plus 2 risk bands filled in. facts.json was committed an
 Updates found and made
 - RedHex Hybrid Long-Short (SIF-128): monthly Excel portfolio, data as on 30 Sep 2026, size Rs 1,504 cr (was Rs 1,072.84 cr on 31 Aug), risk band 2 (unchanged).
 - Apex Equity Long-Short (SIF-154): risk band 2 and Apex Equity Ex-Top 100 (SIF-156): risk band 3, both given by Ashish from the prospectus (factsheets do not cover them yet). Apex Hybrid (SIF-80): band 1 and benchmark band 2 confirmed from the factsheet.
+- Mutual fund units reclassified (Ashish's rule: no separate "Mutual fund units" bucket; liquid/money market fund units count as Fixed income): RedHex 5.99% (HSBC Money Market Fund), Apex Hybrid 10.02% (ABSL Liquid Fund, plus 0.01% Nifty 50 ETF), Kotak Hybrid 1.19% (Kotak Liquid Fund) moved to Fixed income; qsif Equity 0.51% (units of qsif Sector Rotation Long-Short Fund) moved to Equity.
 
 Updates available but not made, or only partly made
 - Arudha Equity (SIF-62): still on the 30 Sep factsheet; the Excel link returns an error page on Arudha's side. Will retry next run.
