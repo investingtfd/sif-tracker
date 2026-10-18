@@ -4,7 +4,7 @@
   {
    "name": "Summit Active Asset Allocator Long-Short Fund",
    "amc": "Invesco Mutual Fund",
-   "strategy": "Active Asset Allocator",
+   "strategy": "",
    "open": "2026-10-12",
    "close": "2026-10-26",
    "sources": [
@@ -17,7 +17,7 @@
   {
    "name": "Eminence Hybrid Long Short Fund",
    "amc": "AlphaGrep Mutual Fund",
-   "strategy": "Hybrid",
+   "strategy": "",
    "open": "2026-10-14",
    "close": "2026-10-28",
    "sources": [
