@@ -150,6 +150,27 @@
   .rank-meta .tag { font-size: 10px; padding: 0 6px; }
   .rank-item .spark { flex-shrink: 0; display: block; }
   .rank-item .delta { flex-shrink: 0; font-size: 13px; }
+  /* Added: launches strip, risk and unhedged columns, fund detail */
+  .nfo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px; }
+  .nfo-card { border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; background: var(--page); display: grid; gap: 4px; }
+  .nfo-card b { font-size: 14px; }
+  .nfo-pill { justify-self: start; font-size: 11px; font-weight: 700; border-radius: 999px; padding: 2px 8px; }
+  .nfo-pill.open { background: rgba(12,163,12,.15); color: var(--good); }
+  .nfo-pill.soon { background: rgba(42,120,214,.15); color: var(--s1); }
+  .nfo-src { font-size: 11px; color: var(--text-muted); }
+  .u { display: inline-block; font-variant-numeric: tabular-nums; font-weight: 600; border-radius: 6px; padding: 1px 7px; }
+  .u0 { color: var(--text-muted); font-weight: 400; }
+  .u1 { background: rgba(237,161,0,.20); }
+  .u2 { background: #b45309; color: #fff; }
+  .chk { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; color: var(--text-secondary); }
+  tr.detail td { background: var(--page); padding: 12px 14px; }
+  .dgrid { display: flex; flex-wrap: wrap; gap: 18px; margin-bottom: 8px; }
+  .dgrid div span { display: block; font-size: 11px; color: var(--text-muted); }
+  .dgrid div b { font-size: 16px; font-variant-numeric: tabular-nums; }
+  ul.ulist { list-style: none; margin: 6px 0; padding: 0; max-width: 560px; }
+  ul.ulist li { display: flex; justify-content: space-between; gap: 12px; padding: 3px 0; border-bottom: 1px dashed var(--gridline); }
+  .scheme-name { cursor: pointer; }
+  .scheme-name:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
@@ -163,6 +184,8 @@
   <div class="kpis" id="kpis"></div>
 
   <div class="aum-panel" id="aumPanel"></div>
+
+  <div id="nfoStrip"></div>
 
   <div class="leaderboard-grid">
     <div class="panel">
@@ -190,6 +213,9 @@
       <select id="fCategory"><option value="">All strategies</option></select>
       <select id="fProvider"><option value="">All providers</option></select>
       <input type="search" id="fSearch" placeholder="Search scheme name…">
+      <label class="chk"><input type="checkbox" id="fUnh"> Has unhedged derivatives</label>
+      <label class="chk"><input type="checkbox" id="fUnh5"> Unhedged above 5%</label>
+
     </div>
     <div class="table-wrap">
       <table id="schemeTable">
@@ -204,6 +230,11 @@
             <th data-sort="return_1m_pct" class="num">1M</th>
             <th data-sort="return_3m_pct" class="num">3M</th>
             <th data-sort="change_since_first_pct" class="num">SI</th>
+            <th data-sort="unh_total" class="num" title="Derivative exposure without a matching stock position, % of net assets (AMC monthly portfolio)">Unhedged</th>
+            <th data-sort="sharpe" class="num" title="Annualised Sharpe ratio from daily NAV, risk-free 6.5%. Needs 3 months of history.">Sharpe</th>
+            <th data-sort="max_dd" class="num" title="Largest fall from a previous NAV peak since launch">Max drawdown</th>
+            <th data-sort="facts_asof" class="num" title="Month-end date of the AMC portfolio used for the Unhedged column">Portfolio as of</th>
+
           </tr>
         </thead>
         <tbody id="tableBody"></tbody>
@@ -228,7 +259,7 @@
     Annualised returns for schemes with less than 1 year of tracked history are extrapolated from a
     shorter period and can change significantly as more history accumulates — treat them as an estimate,
     not a lived full-year return.
-    Data source: AMFI (Association of Mutual Funds in India), SIF NAV history, updated once daily after
+    Sharpe ratio uses daily NAV with a 6.5% risk-free rate and needs 3 months of history; max drawdown is the largest fall from a previous NAV peak. Unhedged figures come from each AMC's monthly portfolio and are updated when new portfolios are published. Data source: AMFI (Association of Mutual Funds in India), SIF NAV history, updated once daily after
     the day's NAV strike. NAV values shown are end-of-day, not intraday/live prices. Past performance is
     not indicative of future returns. This page is for informational purposes only and is not investment
     advice or a recommendation to buy, hold, or sell any scheme. Provided by Investing TFD (AMFI-registered
@@ -281,6 +312,7 @@ async function init() {
   const res = await fetch('data.json');
   DATA = await res.json();
   DATA.schemes.forEach(s => { s.inception_date = s.series[0].date; });
+  await loadExtras();
 
   try {
     const aumRes = await fetch('aum.json', { cache: 'no-store' });
@@ -308,6 +340,7 @@ async function init() {
   renderAum();
   renderLeaderboards();
   renderTable();
+  renderNfos();
 
   cat.addEventListener('change', renderTable);
   prov.addEventListener('change', renderTable);
@@ -406,7 +439,7 @@ function filteredSchemes() {
   const prov = document.getElementById('fProvider').value;
   const q = document.getElementById('fSearch').value.trim().toLowerCase();
   return DATA.schemes.filter(s =>
-    (!cat || s.category === cat) &&
+    (!cat || s.category === cat) && passUnh(s) &&
     (!prov || s.provider === prov) &&
     (!q || s.scheme_name.toLowerCase().includes(q) || s.provider.toLowerCase().includes(q))
   );
@@ -434,7 +467,12 @@ function renderTable() {
       <td class="num">${fmtPct(s.return_1m_pct)}</td>
       <td class="num">${fmtPct(s.return_3m_pct)}</td>
       <td class="num">${fmtPct(s.change_since_first_pct)}</td>
-    </tr>
+      <td class="num">${fmtUnh(s)}</td>
+      <td class="num">${s.sharpe == null ? '—' : s.sharpe.toFixed(2)}</td>
+      <td class="num">${s.max_dd == null ? '—' : fmtPct(s.max_dd)}</td>
+      <td class="num scheme-meta">${s.facts ? s.facts.as_of : '—'}</td>
+
+    </tr>${detailRow(s)}
   `).join('');
 
   document.querySelectorAll('#tableBody input[type=checkbox]').forEach(cb => {
@@ -580,6 +618,102 @@ function renderChartTable(indexed) {
   html += '</tbody></table>';
   wrap.innerHTML = html;
 }
+
+/* ---- Added: AMC portfolio facts, risk metrics, launches ---- */
+const RF = 0.065;
+let FACTS = null, NFOS = null, expanded = null;
+const normName = s => s.toLowerCase().replace(/regular|growth|plan|option|fund|sif|[^a-z0-9]/g, '');
+
+function computeMetrics(s) {
+  const v = s.series.map(p => p.nav);
+  let peak = v[0], dd = 0;
+  v.forEach(x => { if (x > peak) peak = x; const d = x / peak - 1; if (d < dd) dd = d; });
+  s.max_dd = v.length >= 20 ? dd * 100 : null;
+  s.sharpe = null;
+  if (v.length < 61) return;
+  const r = [];
+  for (let i = 1; i < v.length; i++) r.push(v[i] / v[i - 1] - 1);
+  const m = r.reduce((a, b) => a + b, 0) / r.length;
+  const sd = Math.sqrt(r.reduce((a, b) => a + (b - m) ** 2, 0) / (r.length - 1));
+  s.sharpe = sd > 0 ? ((m - RF / 252) / sd) * Math.sqrt(252) : null;
+}
+
+async function loadExtras() {
+  DATA.schemes.forEach(computeMetrics);
+  try {
+    const r = await fetch('facts.json', { cache: 'no-store' });
+    FACTS = r.ok ? await r.json() : null;
+  } catch (e) { FACTS = null; }
+  const map = {};
+  if (FACTS && FACTS.funds) Object.values(FACTS.funds).forEach(f => { map[normName(f.name)] = f; });
+  DATA.schemes.forEach(s => {
+    s.facts = map[normName(s.scheme_name)] || null;
+    s.unh_total = s.facts ? (s.facts.unhedged_long || 0) + (s.facts.unhedged_short || 0) : null;
+    s.facts_asof = s.facts ? s.facts.as_of : null;
+  });
+  try {
+    const r = await fetch('nfos.json', { cache: 'no-store' });
+    NFOS = r.ok ? await r.json() : null;
+  } catch (e) { NFOS = null; }
+}
+
+function fmtUnh(s) {
+  if (!s.facts) return '<span class="u0" title="No AMC portfolio loaded for this fund yet">—</span>';
+  if (!s.unh_total) return '<span class="u0">None</span>';
+  const cls = s.unh_total > 5 ? 'u2' : 'u1';
+  return `<span class="u ${cls}">${s.unh_total.toFixed(2)}%</span><div class="scheme-meta">L ${(s.facts.unhedged_long || 0).toFixed(2)} / S ${(s.facts.unhedged_short || 0).toFixed(2)}</div>`;
+}
+
+function passUnh(s) {
+  if (document.getElementById('fUnh').checked && !(s.unh_total > 0)) return false;
+  if (document.getElementById('fUnh5').checked && !(s.unh_total > 5)) return false;
+  return true;
+}
+
+function esc(t) { return String(t == null ? '' : t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+
+function detailRow(s) {
+  if (expanded !== s.scheme_code) return '';
+  const f = s.facts;
+  let h = '<tr class="detail"><td colspan="13">';
+  h += `<div class="dgrid"><div><span>Sharpe (annualised)</span><b>${s.sharpe == null ? 'n/a (under 3 months)' : s.sharpe.toFixed(2)}</b></div>`
+     + `<div><span>Max drawdown</span><b>${s.max_dd == null ? 'n/a' : s.max_dd.toFixed(2) + '%'}</b></div>`;
+  if (f) h += `<div><span>Unhedged long</span><b>${(f.unhedged_long || 0).toFixed(2)}%</b></div><div><span>Unhedged short</span><b>${(f.unhedged_short || 0).toFixed(2)}%</b></div><div><span>Net equity</span><b>${f.equity_net_pct == null ? '—' : f.equity_net_pct.toFixed(1) + '%'}</b></div>`;
+  h += '</div>';
+  if (f) {
+    if (f.unhedged && f.unhedged.length) h += '<b>Largest unhedged items</b><ul class="ulist">' + f.unhedged.slice(0, 5).map(u => `<li><span>${esc(u[0])}</span><span>${Number(u[u.length - 1]).toFixed(2)}%</span></li>`).join('') + '</ul>';
+    else h += '<div class="scheme-meta">No unhedged derivatives reported this month.</div>';
+    if (f.unhedged_note) h += `<div class="scheme-meta" style="margin-top:6px">${esc(f.unhedged_note)}</div>`;
+    h += `<div class="scheme-meta" style="margin-top:6px">Portfolio as of ${esc(f.as_of)} · Source: ${esc(f.source || 'AMC monthly portfolio disclosure')} · checked against the AMC's own non-hedging total.</div>`;
+  } else h += '<div class="scheme-meta">This fund\'s monthly portfolio is not loaded yet, so there is no unhedged figure.</div>';
+  return h + '</td></tr>';
+}
+
+function fmtD(iso) { if (!iso) return ''; const d = new Date(iso + 'T00:00:00Z'); return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' }); }
+
+function renderNfos() {
+  const el = document.getElementById('nfoStrip');
+  if (!NFOS || !NFOS.items) { el.innerHTML = ''; return; }
+  const today = new Date().toISOString().slice(0, 10);
+  const items = NFOS.items.filter(n => !n.close || n.close >= today);
+  if (!items.length) { el.innerHTML = ''; return; }
+  el.innerHTML = `<div class="panel"><div class="section-head"><h2>Open and upcoming launches</h2><span class="live-badge">Checked ${esc(NFOS.checked_at || '')}</span></div><div class="nfo-grid">` + items.map(n => {
+    const open = n.open && n.open <= today;
+    const pill = open ? `<span class="nfo-pill open">OPEN · closes ${fmtD(n.close)}</span>` : `<span class="nfo-pill soon">${n.open ? 'OPENS ' + fmtD(n.open) : 'COMING SOON'}</span>`;
+    const dates = n.open && n.close ? `${fmtD(n.open)} to ${fmtD(n.close)}` : 'Dates to be announced';
+    const chk = (n.sources || []).join(' · ') + (n.amfi === true ? ' · name on AMFI' : n.amfi === false ? ' · not on AMFI yet' : '');
+    return `<div class="nfo-card">${pill}<b>${esc(n.name)}</b><span class="scheme-meta">${esc(n.amc || 'AMC to verify')}${n.strategy ? ' · ' + esc(n.strategy) : ''}</span><span>${dates}</span>${n.note ? `<span class="scheme-meta">${esc(n.note)}</span>` : ''}<span class="nfo-src">${esc(chk)}</span></div>`;
+  }).join('') + '</div><div class="scheme-meta" style="margin-top:8px">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Dates come from SIFPrime and AMC sites and are checked daily; always confirm in the offer document.</div></div>';
+}
+
+document.addEventListener('click', e => {
+  const n = e.target.closest('#tableBody .scheme-name');
+  if (!n) return;
+  const code = n.closest('tr').querySelector('input[type=checkbox]').dataset.code;
+  expanded = expanded === code ? null : code;
+  renderTable();
+});
+['fUnh', 'fUnh5'].forEach(id => document.addEventListener('change', e => { if (e.target.id === id) renderTable(); }));
 
 init();
 </script>

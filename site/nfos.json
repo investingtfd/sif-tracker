@@ -1,0 +1,45 @@
+{
+ "checked_at": "2026-10-18",
+ "items": [
+  {
+   "name": "Summit Active Asset Allocator Long-Short Fund",
+   "amc": "Invesco Mutual Fund",
+   "strategy": "Active Asset Allocator",
+   "open": "2026-10-12",
+   "close": "2026-10-26",
+   "sources": [
+    "SIFPrime"
+   ],
+   "note": "",
+   "amfi": true,
+   "first_seen": "2026-10-18"
+  },
+  {
+   "name": "Eminence Hybrid Long Short Fund",
+   "amc": "AlphaGrep Mutual Fund",
+   "strategy": "Hybrid",
+   "open": "2026-10-14",
+   "close": "2026-10-28",
+   "sources": [
+    "SIFPrime"
+   ],
+   "note": "",
+   "amfi": true,
+   "first_seen": "2026-10-18"
+  },
+  {
+   "name": "Select Equity Ex-Top 100 Long-Short Fund",
+   "amc": "Sundaram Mutual Fund",
+   "strategy": "Equity Ex-Top 100 Long-Short",
+   "open": "2026-10-21",
+   "close": "2026-11-04",
+   "sources": [
+    "Sundaram Mutual Fund site"
+   ],
+   "url": "https://www.sundarammutual.com/selectsif",
+   "note": "Minimum ₹10 lakh at PAN level, ₹1 lakh for accredited investors.",
+   "amfi": false,
+   "first_seen": "2026-10-18"
+  }
+ ]
+}
