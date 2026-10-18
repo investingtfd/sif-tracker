@@ -1,5 +1,56 @@
 # SIF Tracker daily run log
 
+## 2026-10-18 10:40 Lisbon time (hedge re-check of every AMC)
+Result: 2 funds corrected (Prism SIF-138, Altiva Equity SIF-161) and the shared loader fixed. facts.json and adapters.js committed and verified (33 funds, no band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+- Prism Hybrid (SIF-138): unhedged shorts 11.39% -> 10.02%. Its futures are named "X Fut 27-Oct-26", which the loader did not recognise, so 12 hedged shorts (HDFC Bank, Reliance, LIC, Tata Steel and others, 1.37% in total) were counted as unhedged. Now only Ambuja Cements (-7.23) and Indian Hotels (-2.79) shorts remain, which Prism itself lists as non-hedging.
+- Altiva Equity (SIF-161): card was "Updating"; now long 6.66% (Nifty futures, listed by Altiva as non-hedging), short 0, no options.
+
+**Updates available but not made, or only partly made**
+- Arudha Equity (SIF-62): September Excel link on arudhasif.com returns 404 (file missing, not corrupt); factsheet figures stay in place. Retried every run.
+
+### Data completeness
+Up to date: 33 of 33 SIF funds (100%) have data as on 30 Sep 2026
+of which 31 from the full Excel portfolio and 2 from the factsheet only (Arudha Equity SIF-62, Kotak SIF-146).
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why, in plain words | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Hedged shorts shown as unhedged | Prism SIF-138 | Futures named "X Fut 27-Oct-26"; name matching also missed "Life Insurance Corpora" vs "Corporation Of India" | Fixed in this run: loader strip and name-match rules corrected in adapters.js, card recomputed |
+| 2 | Card stuck on "Updating" | Altiva Equity SIF-161 | No reader result was applied to the new fund | Fixed in this run: card written from the workbook's non-hedging section |
+| 3 | September Excel not downloadable | Arudha Equity SIF-62 | Link returns 404 Page Not Found | Will retry automatically next run |
+| 4 | Old instruction took the first link by name | Invesco SIF-150 | The August file was named sif_portfolio.xls, September is sif_monthly-portfolio-sept-2026.xlsx | Fixed in this run: task now pairs each link with its date label and takes the newest |
+| 5 | qsif page refused by the browser pane earlier | qsif (5 funds) | Site was temporarily unreachable; opened fine later | Fixed in this run: read the five September workbooks; retry later in a run if refused again |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 3 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | SIF-161 card filled; SIF-11 netted card kept (options book too large to re-derive) | none (cards only) |
+| RedHex / HSBC | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | nothing new | none |
+| WSIF / Wealth Company | 2 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | none published | hedge check: matches AMC 2.73 and 2.47 | none |
+| Titanium / Tata | 2 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check by hand, unchanged | none |
+| Platinum / Mirae | 1 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check: matches AMC 3.11 | none |
+| Sapphire / Franklin | 1 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check: matches AMC 2.19 | none |
+| DynaSIF / 360 ONE | 3 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check: unchanged | none |
+| Summit / Invesco | 1 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | no derivatives, confirmed | none |
+| qsif / quant | 5 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | all five totals match the AMC | none |
+| Prism / Jio BlackRock | 1 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | card corrected | unhedged short 11.39 -> 10.02 |
+| Diviniti / ITI | 1 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check: matches AMC 12.36 | none |
+| Magnum / SBI | 2 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | hedge check: matches AMC 19.44 and nil | none |
+| iSIF / ICICI Prudential | 4 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 | not checked | hedge review done earlier today | none |
+| Apex / Aditya Birla | 3 | 30 Sep 2026 | 🟩 100% | yes | 30 Sep 2026 | not checked | re-read workbook by hand: cards agree with AMC sections | none |
+| Arudha / Bandhan | 2 | 30 Sep 2026 | SIF-40 🟩 100%, SIF-62 🟧 50% | yes | 30 Sep 2026 (Hybrid), Equity file 404 | not checked | nothing new | none |
+| Infinity / Kotak | 1 | 30 Sep 2026 | 🟧 50% | yes | 30 Sep 2026 (read) | 30 Sep 2026 | netted card kept (AMC non-hedging futures 5.05%, options -0.70%) | none |
+Industry AUM (AMFI): not checked in this pass.
+
+### Funds changed
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band before -> after | Unhedged long/short before -> after | Other fields changed |
+|---|---|---|---|---|---|---|
+| Prism Hybrid SIF-138 | Excel | 2026-09-30 (same) | same | same | 4.69/11.39 -> 4.69/10.02 | items cut from 14 to 4; note explains AMC's hedging sections |
+| Altiva Equity SIF-161 | Excel | 2026-09-30 (same) | same | same | "Updating" -> 6.66/0 | unhedged_pending removed |
+
+
 ## 2026-10-18 08:35 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had newer data).
 
