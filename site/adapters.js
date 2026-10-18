@@ -4,8 +4,8 @@ const r2=x=>Math.round(x*100)/100;
 const STOP=new Set('limited ltd co company the and india of corporation corp limted'.split(' '));
 const clean=s=>String(s==null?'':s).replace(/\s+/g,' ').trim();
 const MON='(january|february|march|april|may|june|july|august|september|october|november|december)';
-const strip=s=>clean(s).replace(/\s*\$\$/g,'').replace(/\*+$/,'').replace(/\s*\((put|call) option\)/i,'').replace(/-(FUT|OPT)-.*$/i,'').replace(new RegExp('\\s+\\d[\\d.]*\\s+(call|put)\\s+'+MON+'\\s+20\\d\\d\\s+option$','i'),'').replace(new RegExp('\\s+'+MON+'\\s+20\\d\\d\\s+future$','i'),'').replace(/\s+\d\d-[A-Za-z]{3}-\d\d\s+FUT$/i,'').replace(/\s+\d\d\/\d\d\/\d{2,4}.*$/,'').replace(/\(erstwhile.*$/i,'').trim();
-const key=s=>strip(s).toLowerCase().replace(/&/g,' and ').replace(/[^a-z0-9 ]/g,' ').split(/\s+/).filter(t=>t&&!STOP.has(t)).sort().join(' ');
+const strip=s=>clean(s).replace(/\s*\$\$/g,'').replace(/\*+$/,'').replace(/\s*\((put|call) option\)/i,'').replace(/-(FUT|OPT)-.*$/i,'').replace(/\s+FUT\s+\d\d[-\/][A-Za-z0-9]{2,3}[-\/]\d{2,4}$/i,'').replace(new RegExp('\\s+\\d[\\d.]*\\s+(call|put)\\s+'+MON+'\\s+20\\d\\d\\s+option$','i'),'').replace(new RegExp('\\s+'+MON+'\\s+20\\d\\d\\s+future$','i'),'').replace(/\s+(FUT\s+)?\d\d-[A-Za-z]{3}-\d\d(\s+FUT)?$/i,'').replace(/\s+\d\d\/\d\d\/\d{2,4}.*$/,'').replace(/\(erstwhile.*$/i,'').trim();
+const key=s=>{const t=strip(s).toLowerCase().replace(/&/g,' and ').replace(/ultra\s+tech/g,'ultratech').replace(/[^a-z0-9 ]/g,' ').split(/\s+/).filter(x=>x&&!STOP.has(x)&&x!=='corpora');return t.slice(0,3).map(x=>x.slice(0,4)).sort().join(' ')};
 const txt=(r,c)=>clean(r&&r[c]); const num=v=>typeof v==='number'&&isFinite(v)?v:null;
 const isEq=s=>{s=String(s||'');return s.length===12&&/^IN/.test(s)&&s.slice(7,9)==='01'};
 const find=(D,re,col,from)=>{for(let i=from||0;i<D.length;i++){if(re.test(txt(D[i],col)))return i}return -1};
@@ -53,7 +53,7 @@ TU.wsif=D=>{const iD=find(D,/^DERIVATIVES$/i,1);const stock={};for(let i=0;i<(iD
  return finish(U,'premium')};
 
 TU.prism=D=>{const gt=find(D,/^Grand Total/i,1);const stock={};for(let i=0;i<gt;i++){const x=D[i];if(isEq(x[2])&&num(x[6])!=null)stock[key(x[1])]={ind:clean(x[3]),p:x[6]}}
- const iD=find(D,/^Derivatives$/i,1,gt);const futs=[];if(iD>=0)for(let i=iD+1;i<D.length;i++){const x=D[i];if(/^Total$/i.test(txt(x,1)))break;const sd=txt(x,2).toLowerCase();if(/^(long|short)$/.test(sd)&&num(x[6])!=null)futs.push({n:clean(x[1]).replace(/\s+\d\d-[A-Za-z]{3}-\d\d\s+FUT$/i,'').replace(/^BANKNIFTY$/,'Bank Nifty').replace(/^NIFTY$/,'Nifty 50'),k:key(x[1]),ind:clean(x[3]),p:x[6]})}
+ const iD=find(D,/^Derivatives$/i,1,gt);const futs=[];if(iD>=0)for(let i=iD+1;i<D.length;i++){const x=D[i];if(/^Total$/i.test(txt(x,1)))break;const sd=txt(x,2).toLowerCase();if(/^(long|short)$/.test(sd)&&num(x[6])!=null)futs.push({n:clean(x[1]).replace(/\s+(FUT\s+)?\d\d-[A-Za-z]{3}-\d\d(\s+FUT)?$/i,'').replace(/^BANKNIFTY$/,'Bank Nifty').replace(/^NIFTY$/,'Nifty 50'),k:key(x[1]),ind:clean(x[3]),p:x[6]})}
  const list=re=>{const s=find(D,re,1,gt);const set=new Set();if(s<0)return set;for(let i=s+2;i<D.length;i++){const x=D[i];if(!/^(long|short)$/i.test(txt(x,2)))break;set.add(key(x[1]))}return set};
  const hF=list(/^\s*a\)\s*Hedging Positions through Futures/i),oF=list(/^\s*b\)\s*Other than Hedging Positions through Futures/i);
  const io=find(D,/Other than hedging positions through options/i,1,gt);let optPending=false;if(io>=0){const nx=txt(D[io+1],1)+' '+txt(D[io+2],1)+' '+txt(D[io],1);if(!/nil/i.test(nx))optPending=true}

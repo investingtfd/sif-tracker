@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T08:59:16.819Z",
+ "updated_at": "2026-10-18T09:33:03.006Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -3239,12 +3239,12 @@
    "sector_note": "Share of the fund held in stocks (42.6%), before futures and options hedges",
    "unhedged": [
     [
-     "Ambuja Cements Ltd Fut 27-Oct-26 (futures)",
+     "Ambuja Cements Ltd (futures)",
      "Cement & Cement Products",
      -7.23
     ],
     [
-     "Indian Hotels Co Ltd Fut 27-Oct-26 (futures)",
+     "Indian Hotels Co Ltd (futures)",
      "Leisure Services",
      -2.79
     ],
@@ -3257,11 +3257,6 @@
      "Bank Nifty (futures)",
      "Index",
      2.34
-    ],
-    [
-     "Life Insurance Corpora Fut 27-Oct-26 (futures)",
-     "Insurance",
-     -0.45
     ]
    ],
    "name": "Prism Hybrid Long-Short Fund",
@@ -3269,9 +3264,10 @@
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
    "unhedged_long": 4.69,
-   "unhedged_short": 11.39,
-   "unhedged_count": 16,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets."
+   "unhedged_short": 10.02,
+   "unhedged_count": 4,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Prism's own workbook lists the Nifty and Bank Nifty longs under hedging positions and the Ambuja Cements and Indian Hotels shorts as non-hedging; the fund holds almost none of those two stocks.",
+   "unhedged_source": "Prism portfolio workbook, September 2026, futures matched to holdings and the AMC hedging sections"
   },
   "SIF-21": {
    "allocation": [
@@ -5727,7 +5723,7 @@
    "holdings_count": 71,
    "turnover_ratio": 0,
    "derivative_gross_exposure_cr": 0,
-   "derivative_basis": "amc",
+   "derivative_basis": "unhedged",
    "risk_band": 3,
    "benchmark_risk_band": 3,
    "sectors": [
@@ -5766,11 +5762,22 @@
      49.07
     ]
    ],
-   "unhedged_pending": true,
    "name": "Altiva Equity Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes"
+   "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
+   "unhedged": [
+    [
+     "Nifty Index (futures)",
+     "Index",
+     6.66
+    ]
+   ],
+   "unhedged_long": 6.66,
+   "unhedged_short": 0,
+   "unhedged_count": 1,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Altiva's workbook lists this long Nifty futures position under 'other than hedging' and reports no options.",
+   "unhedged_source": "Altiva portfolio workbook, September 2026, reviewed against the AMC's hedging sections"
   }
  }
 }
