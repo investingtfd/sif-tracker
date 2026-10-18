@@ -1,0 +1,17 @@
+{
+ "note": "Add a launch here when an AMC announces it before SIFPrime lists it. Remove it after it is on SIFPrime or has closed (closed ones drop off by themselves).",
+ "items": [
+  {
+   "name": "Select Equity Ex-Top 100 Long-Short Fund",
+   "amc": "Sundaram Mutual Fund",
+   "strategy": "Equity Ex-Top 100 Long-Short",
+   "open": "2026-10-21",
+   "close": "2026-11-04",
+   "sources": [
+    "Sundaram Mutual Fund site"
+   ],
+   "url": "https://www.sundarammutual.com/selectsif",
+   "note": "Minimum ₹10 lakh at PAN level, ₹1 lakh for accredited investors."
+  }
+ ]
+}
