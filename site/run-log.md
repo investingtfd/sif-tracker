@@ -1,5 +1,50 @@
 # SIF Tracker daily run log
 
+## 2026-10-18 08:35 Lisbon time
+Result: nothing changed. facts.json was not committed (no fund had newer data).
+
+Updates found and made
+- None
+
+Updates available but not made, or only partly made
+- Arudha Equity Long-Short (SIF-62): stays on the 30 Sep 2026 factsheet; the 30 Sep Excel is still corrupted on Arudha's side ("not zip"). Will retry automatically next run.
+
+### Data completeness
+Up to date: 33 of 33 SIF funds (100%) have data as on 30 Sep 2026
+of which 31 from the full Excel portfolio and 2 from the factsheet only (full portfolio still to come)
+
+Not yet up to date: none.
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why, in plain words | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Excel would not open | Arudha / Equity Long-Short (SIF-62) | The 30 Sep 2026 portfolio file on Arudha's site is not a valid Excel file (corrupted on their side); factsheet figures stay in place | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| RedHex / HSBC | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | Sep 2026 (earlier run) | nothing new | none |
+| WSIF / Wealth Company | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | none exists | nothing new | none |
+| Titanium / Tata | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Platinum / Mirae | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Sapphire / Franklin | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| DynaSIF / 360 ONE | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Summit / Invesco | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| qsif / quant | 5 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Prism / Jio BlackRock | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Diviniti / ITI | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Magnum / SBI | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| iSIF / ICICI Prudential | 4 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Apex / Aditya Birla | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (earlier run) | not checked | nothing new | none |
+| Arudha / Bandhan | 2 | 30 Sep 2026 | 🟧 75% | yes | Hybrid 30 Sep 2026 (read, same as loaded); Equity 30 Sep 2026 (corrupted) | Sep 2026 (30 Sep data, already loaded for SIF-62) | nothing new; SIF-62 Excel unreadable | none |
+| Infinity / Kotak | 1 | 30 Sep 2026 | 🟧 50% | yes | Portfolio as of September 2026 (read; unhedged card already from IHLSsept.xlsx) | Factsheet September 2026 (30 Sep data, already loaded) | nothing new | none |
+
+Industry AUM (AMFI): as on 30 Sep 2026
+
+Classification sweep (no Mutual fund units lines, no-unhedged notes and streaks): all 33 entries already comply, no fixes needed.
+
+
 ## 2026-10-16 17:10 Lisbon time
 Result: 1 fund updated, plus 2 risk bands filled in. facts.json was committed and verified (33 funds, no risk band missing).
 
