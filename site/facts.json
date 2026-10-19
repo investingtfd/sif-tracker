@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T09:33:03.006Z",
+ "updated_at": "2026-10-19T09:17:09.807Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5456,14 +5456,15 @@
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
    "as_of": "2026-09-30",
+   "net_assets_cr": 2994.62,
    "allocation": [
     [
      "fi",
-     60.58
+     59.87
     ],
     [
      "eq",
-     35.51
+     35.52
     ],
     [
      "reit",
@@ -5479,15 +5480,53 @@
     ],
     [
      "fut",
-     -2.51
+     -8.24
     ]
    ],
-   "net_assets_cr": 2994.62,
+   "split": [
+    [
+     "Fixed income",
+     59.87
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     30.09
+    ],
+    [
+     "Equity (unhedged)",
+     5.43
+    ],
+    [
+     "REITs and InvITs",
+     4.61
+    ]
+   ],
+   "split_source": "Holdings, fund size and asset split from the monthly portfolio workbook (IHLSsept.xlsx). Arbitrage (hedged equity) = stocks hedged with short futures (12.64% of net assets, workbook) plus stocks held in the covered-call book (17.45%, from the monthly factsheet, as the workbook does not total it). Fixed income includes debt, money market, TREPS, cash and units of Kotak Liquid Direct Growth (1.19%).",
    "top_equity": [
     [
-     "Gland Pharma Ltd.",
+     "ICICI Bank Ltd.",
+     "Banks",
+     3.05
+    ],
+    [
+     "Ultratech Cement Ltd.",
+     "Cement and Cement Products",
+     2.05
+    ],
+    [
+     "Biocon Ltd.",
+     "Pharmaceuticals and Biotechnology",
+     1.75
+    ],
+    [
+     "Gland Pharma Limited",
      "Pharmaceuticals and Biotechnology",
      1.71
+    ],
+    [
+     "Swiggy Ltd",
+     "Retailing",
+     1.67
     ],
     [
      "Embassy Office Parks REIT",
@@ -5495,47 +5534,53 @@
      1.67
     ],
     [
-     "Brookfield India REIT",
+     "Steel Authority of India Ltd.",
+     "Ferrous Metals",
+     1.52
+    ],
+    [
+     "Brookfield REIT",
      "REIT",
      1.51
     ],
     [
-     "Cube Highways Trust",
+     "Cube Highway Trust",
      "InvIT",
      1.43
     ],
     [
-     "Billionbrains Garage Ventures (Groww)",
-     "Capital Markets",
-     0.91
-    ],
-    [
-     "Hero Motors Ltd.",
-     "Auto Components",
-     0.61
-    ],
-    [
-     "Aster DM Healthcare Ltd.",
-     "Healthcare Services",
-     0.58
-    ],
-    [
-     "Aditya Infotech Ltd.",
-     "Industrial Manufacturing",
-     0.54
-    ],
-    [
-     "Lumino Industries Ltd.",
-     "Industrial Products",
-     0.17
-    ],
-    [
-     "SBI Funds Management Ltd.",
-     "Capital Markets",
-     0.08
+     "Bharti Airtel Ltd",
+     "Telecom - Services",
+     1.11
     ]
    ],
-   "top_debt": [],
+   "top_debt": [
+    [
+     "VEDANTA LTD.",
+     "ICRA AA+",
+     5.01
+    ],
+    [
+     "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA",
+     "CRISIL AAA",
+     4.13
+    ],
+    [
+     "NOMURA CAPITAL (INDIA) PRIVATE LIMITED",
+     "FITCH AAA",
+     3.33
+    ],
+    [
+     "NATIONAL BANK FOR AGRICULTURE & RURAL DEVELOPMENT",
+     "CRISIL AAA",
+     3.33
+    ],
+    [
+     "TB",
+     "SOV",
+     3.32
+    ]
+   ],
    "top_shorts": [
     [
      "ICICI Bank Ltd.",
@@ -5563,34 +5608,42 @@
      -1.07
     ]
    ],
-   "equity_gross_pct": 35.51,
+   "sectors": [
+    [
+     "Banks",
+     5.69
+    ],
+    [
+     "Pharmaceuticals and Biotechnology",
+     4.66
+    ],
+    [
+     "Telecom - Services",
+     2.41
+    ],
+    [
+     "Finance",
+     2.38
+    ],
+    [
+     "Capital Markets",
+     2.3
+    ],
+    [
+     "Other sectors",
+     18.07
+    ]
+   ],
+   "holdings_count": 181,
+   "equity_gross_pct": 35.52,
    "equity_net_pct": 9.89,
+   "derivative_gross_exposure_cr": 112.9,
+   "derivative_basis": "unhedged",
+   "turnover_ratio": 1.59,
    "nav_regular_growth": 10.34,
    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
    "risk_band": 1,
    "benchmark_risk_band": 2,
-   "source": "Kotak Mahindra Mutual Fund monthly factsheet",
-   "source_url": "https://www.kotakmf.com/sif/forms-and-downloads",
-   "split": [
-    [
-     "Fixed income",
-     60.5
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     30.29
-    ],
-    [
-     "REITs and InvITs",
-     4.61
-    ],
-    [
-     "Equity (unhedged)",
-     4.6
-    ]
-   ],
-   "split_source": "All figures as on 30 Sep 2026, from the monthly factsheet (the AMC has not published the September portfolio file). Arbitrage (hedged equity) is the AMC's arbitrage book (12.84%) plus the stocks in its covered-call book (17.45%); fixed income is debt, TREPS and cash. The positions count covers the stocks, trusts and derivative positions the factsheet lists; bonds are not itemised",
-   "sectors": [],
    "unhedged": [
     [
      "Nifty 50 (puts and calls written, net)",
@@ -5622,15 +5675,11 @@
    "unhedged_short": 0.01,
    "unhedged_count": 16,
    "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets, at full market exposure. A call written against a holding or a long future is treated as covering it; written puts count as long. Futures and options on the same name are netted.",
-   "factsheet_only": true,
-   "holdings_count": 98,
-   "turnover_ratio": 1.59,
-   "derivative_gross_exposure_cr": 112.9,
-   "derivative_basis": "unhedged",
    "unhedged_source": "portfolio workbook IHLSsept.xlsx",
-   "updated": "2026-10-14T12:56:41.673Z",
-   "top_equity_basis": "unhedged",
-   "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only"
+   "source": "Kotak Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://www.kotakmf.com/sif/forms-and-downloads",
+   "sector_note": "Share of the fund held in stocks (35.5%), before futures and options hedges",
+   "factcheck": "2026-10-19: holdings, size and asset split loaded from the portfolio workbook IHLSsept.xlsx; unhedged card and derivative tile kept from the 2026-10-14 hand review (written options netted with futures and holdings at notional)"
   },
   "SIF-161": {
    "allocation": [

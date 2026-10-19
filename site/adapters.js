@@ -374,3 +374,93 @@ TU.loadKotakXls=async function(){
   var o=TU.kotakXls(R,null);o.file=best.fileName;o.title=best.subHeaderTitle;return o};
 
 })();
+
+// Kotak Infinity Hybrid (SIF-146): full load from the monthly PORTFOLIO WORKBOOK (holdings, size, debt, sectors,
+// asset split), with two items the workbook does not state taken from the same month's FACTSHEET: the share of
+// equity held in the covered-call book (moved to "Arbitrage (hedged equity)") and the risk bands / benchmark / NAV.
+// Returns {"SIF-146": {f, file, factsheet, diag}} or {error, fallback}. f is complete: write it as the new entry.
+TU.loadKotakFull = async function(){
+  var r2 = function(v){ return Math.round(v*100)/100; };
+  var fsr = await TU.loadKotak();
+  var fv = fsr && fsr['SIF-146'];
+  if(!fv || !fv.f) return {error:'factsheet: '+((fsr && fsr.error) || 'missing')};
+  var fs = fv.f;
+  var x = await TU.loadKotakXls();
+  if(x.error || x.blocked || x.pending) return {error:'workbook: '+(x.error || (x.blocked ? 'blocked '+x.blocked : x.pending)), fallback:'factsheet'};
+  if(x.as_of !== fs.as_of) return {error:'workbook ('+x.as_of+') and factsheet ('+fs.as_of+') are for different months', fallback:'factsheet', workbook_as_of:x.as_of};
+  var l = await fetch('https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
+  var best = (l.subHeaderList||[]).filter(function(z){return /\.xlsx?$/i.test(z.fileName||'')}).sort(function(a,b){return b.date-a.date})[0];
+  if(!best || best.fileName !== x.file) return {error:'workbook listing changed during the run', fallback:'factsheet'};
+  var sheets = await T.readXlsx('https://vatseelabs-s3.kotakmf.com/'+best.content);
+  var rows = sheets[0].rows;
+  var p = T.parse(rows, true), w = p.f;
+  var D = TU.dense(rows);
+  var A = {}; (w.allocation||[]).forEach(function(a){ A[a[0]] = (A[a[0]]||0) + a[1]; });
+  // walk the rows: trusts and mutual fund units by section
+  var sec = '', trusts = [], mf = [], futHedged = null, nonHedge = null;
+  D.forEach(function(r){
+    var cells = r.map(function(c){ return c == null ? '' : String(c).trim(); });
+    var txt = cells.filter(Boolean).join(' | ');
+    var m1 = txt.match(/Total\s*-?\s*([\d.]+)\s*%age of existing assets hedged through futures/i); if(m1) futHedged = +m1[1];
+    var m2 = txt.match(/non hedging positions\)\s*as a\s*([\d.]+)\s*%age/i); if(m2) nonHedge = +m2[1];
+    var isin = cells.find(function(c){ return /^IN[EF][0-9A-Z]{9}$/.test(c); });
+    if(!isin){ var lab = cells.filter(Boolean); if(lab.length === 1 && !/^(un)?listed|awaiting|privately placed|^total/i.test(lab[0])) sec = lab[0]; return; }
+    var pct = r[8]; if(typeof pct !== 'number') return;
+    var name = (cells[2]||'').replace(/\s*[@*#^~]+\s*$/,'').trim();
+    if(/^REIT$/i.test(cells[1]) || /\bREIT\b/i.test(name)) trusts.push([name, 'REIT', r2(pct)]);
+    else if(/Infrastructure Investment Trust/i.test(sec) || /\bInvIT\b/i.test(name)) trusts.push([name, 'InvIT', r2(pct)]);
+    else if(/Mutual Fund/i.test(sec)) mf.push([name, r2(pct)]);
+  });
+  var reit = r2(trusts.filter(function(t){return t[1]==='REIT'}).reduce(function(a,t){return a+t[2]},0));
+  var invit = r2(trusts.filter(function(t){return t[1]==='InvIT'}).reduce(function(a,t){return a+t[2]},0));
+  var mfDebt = 0, mfEq = 0, mfUnknown = [];
+  mf.forEach(function(u){ if(/liquid|money market|overnight|ultra|treasury|gilt|debt|bond|income|savings/i.test(u[0])) mfDebt += u[1]; else if(/equity|nifty|sensex|etf|index/i.test(u[0])) mfEq += u[1]; else mfUnknown.push(u[0]); });
+  if(mfUnknown.length) return {error:'mutual fund units not recognised: '+mfUnknown.join(', '), fallback:'factsheet'};
+  var eq = r2(A.eq||0);                    // listed stocks, REITs excluded
+  var fi = r2((A.fi||0) + mfDebt);
+  // covered-call book share, from the factsheet: its arbitrage line minus its futures-arbitrage book
+  var fsArb = (fs.split||[]).filter(function(s){return /Arbitrage/i.test(s[0])}).reduce(function(a,s){return a+s[1]},0);
+  var cc = r2(Math.max(0, fsArb - ((fv.diag && fv.diag.H && fv.diag.H.arb) || 0)));
+  if(futHedged == null) return {error:'workbook: hedged-futures total not found', fallback:'factsheet'};
+  var hedged = r2(Math.min(eq, futHedged + cc));
+  var dir = r2(eq - hedged + mfEq);
+  var split = [['Fixed income', fi], ['Arbitrage (hedged equity)', hedged], ['REITs and InvITs', r2(reit+invit)], ['Equity (unhedged)', dir]]
+    .filter(function(s){return s[1] > 0.004}).sort(function(a,b){return b[1]-a[1]});
+  var splitSum = r2(split.reduce(function(a,s){return a+s[1]},0));
+  if(splitSum < 98 || splitSum > 102) return {error:'split adds to '+splitSum, fallback:'factsheet'};
+  var opt = (fs.allocation||[]).filter(function(a){return a[0]==='opt'}).reduce(function(a,b){return a+b[1]},0);
+  var allocation = [['fi', fi], ['eq', r2(eq+mfEq)], ['reit', reit], ['invit', invit]];
+  if(opt) allocation.push(['opt', r2(opt)]);
+  if(A.fut) allocation.push(['fut', r2(A.fut)]);
+  // names: use the factsheet's spelling where the same company appears there
+  var fsNames = {}; (fs.top_equity||[]).forEach(function(t){ fsNames[TU._.key(t[0])] = t[0]; });
+  var KEEP = {REIT:1, SBI:1, ICICI:1, HDFC:1, BSE:1, NTPC:1, LIC:1, ITC:1, GAIL:1, UPL:1, IDFC:1, HCL:1, NHPC:1, ONGC:1, PNB:1, IRFC:1, REC:1, PFC:1};
+  var title = function(n){ if(/[a-z]/.test(n)) return n; return n.toLowerCase().replace(/[a-z0-9&.'()-]+/g, function(wd){ var u = wd.replace(/[^a-z0-9]/g,'').toUpperCase(); if(KEEP[u]) return wd.toUpperCase(); if(u === 'INVIT') return wd.replace(/invit/,'InvIT'); return wd.replace(/[a-z]/, function(c){ return c.toUpperCase(); }); }); };
+  var nice = function(n){ n = n.replace(/\s*-\s*[A-Z]{3}\d{4}$/,'').replace(/\s*[@*#^~]+\s*$/,'').trim(); var k = TU._.key(n); if(fsNames[k]) return fsNames[k]; return title(n); };
+  var topEq = TU.mergeTop(w.top_equity||[], trusts).map(function(t){ return [nice(t[0]), t[1], t[2]]; });
+  var size = w.net_assets_cr;
+  var f = {
+    name: fs.name, as_of: x.as_of, net_assets_cr: size,
+    allocation: allocation, split: split,
+    split_source: 'Holdings, fund size and asset split from the monthly portfolio workbook ('+x.file+'). Arbitrage (hedged equity) = stocks hedged with short futures ('+r2(futHedged)+'% of net assets, workbook) plus stocks held in the covered-call book ('+cc+'%, from the monthly factsheet, as the workbook does not total it). Fixed income includes debt, money market, TREPS, cash'+(mfDebt?' and units of '+mf.map(function(u){return u[0]}).join(', ')+' ('+r2(mfDebt)+'%)':'')+'.',
+    top_equity: topEq,
+    top_debt: w.top_debt || [],
+    top_shorts: (w.top_shorts||[]).map(function(t){ return [nice(t[0]), t[1], t[2]]; }),
+    sectors: w.sectors || [],
+    holdings_count: w.holdings_count,
+    equity_gross_pct: eq,
+    equity_net_pct: r2(fs.equity_net_pct + ((x.unhedged_long - x.unhedged_short) - (fs.unhedged_long - fs.unhedged_short))),
+    derivative_gross_exposure_cr: r2((x.unhedged_long + x.unhedged_short) * size / 100),
+    derivative_basis: 'unhedged',
+    turnover_ratio: fs.turnover_ratio, nav_regular_growth: fs.nav_regular_growth, benchmark: fs.benchmark,
+    risk_band: fs.risk_band, benchmark_risk_band: fs.benchmark_risk_band,
+    unhedged: x.unhedged, unhedged_long: x.unhedged_long, unhedged_short: x.unhedged_short,
+    unhedged_count: x.unhedged_count, unhedged_note: x.unhedged_note,
+    unhedged_source: 'portfolio workbook ' + x.file,
+    source: 'Kotak Mutual Fund monthly portfolio disclosure',
+    source_url: 'https://www.kotakmf.com/sif/forms-and-downloads'
+  };
+  if(w.sector_note) f.sector_note = w.sector_note;
+  Object.keys(f).forEach(function(k){ if(f[k] == null) delete f[k]; });
+  return {'SIF-146': {f: f, file: x.file, factsheet: fv.file, diag: {eq: eq, futHedged: futHedged, coveredCallBook: cc, nonHedgeTotal: nonHedge, mf: mf, trusts: trusts, splitSum: splitSum, parse: p.diag && {n: p.diag.n, splitSum: p.diag.splitSum, date: p.diag.date}}}};
+};
