@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T09:17:09.807Z",
+ "updated_at": "2026-10-19T12:43:13.726Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -3159,27 +3159,27 @@
    ],
    "top_shorts": [
     [
-     "Ambuja Cements Ltd Fut 27-Oct-26",
+     "Ambuja Cements Ltd",
      "",
      -7.23
     ],
     [
-     "Indian Hotels Co Ltd Fut 27-Oct-26",
+     "Indian Hotels Co Ltd",
      "",
      -2.79
     ],
     [
-     "Life Insurance Corpora Fut 27-Oct-26",
+     "Life Insurance Corporation Of India",
      "",
      -0.45
     ],
     [
-     "Reliance Industries Ltd Fut 27-Oct-26",
+     "Reliance Industries Ltd",
      "",
      -0.39
     ],
     [
-     "Bharti Airtel Ltd Fut 27-Oct-26",
+     "Bharti Airtel Ltd",
      "",
      -0.22
     ]
@@ -3241,33 +3241,23 @@
     [
      "Ambuja Cements Ltd (futures)",
      "Cement & Cement Products",
-     -7.23
+     -7.19
     ],
     [
      "Indian Hotels Co Ltd (futures)",
      "Leisure Services",
      -2.79
-    ],
-    [
-     "Nifty 50 (futures)",
-     "Index",
-     2.35
-    ],
-    [
-     "Bank Nifty (futures)",
-     "Index",
-     2.34
     ]
    ],
    "name": "Prism Hybrid Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
-   "unhedged_long": 4.69,
-   "unhedged_short": 10.02,
-   "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Prism's own workbook lists the Nifty and Bank Nifty longs under hedging positions and the Ambuja Cements and Indian Hotels shorts as non-hedging; the fund holds almost none of those two stocks.",
-   "unhedged_source": "Prism portfolio workbook, September 2026, futures matched to holdings and the AMC hedging sections"
+   "unhedged_long": 0,
+   "unhedged_short": 9.98,
+   "unhedged_count": 2,
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets, as Prism's own workbook classes them (its non-hedging total is 9.98%). Ambuja Cements: the fund holds only 4,800 shares against a short future of 884,400 shares, so just the 0.04% that covers the holding is a hedge and the rest (7.19%) is a short position. Indian Hotels: the 68,000 shares held are already covered by calls written on them, and Prism lists the whole short future (2.79%) as non-hedging. Not counted: the Nifty and Bank Nifty long futures (4.69%), which Prism lists as hedging positions, short futures against holdings, covered calls and protective puts.",
+   "unhedged_source": "Prism portfolio workbook, September 2026, futures matched to holdings and the AMC hedging sections (partly hedged futures split, 19 Oct 2026)"
   },
   "SIF-21": {
    "allocation": [
