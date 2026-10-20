@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:43:13.726Z",
+ "updated_at": "2026-10-20T10:10:27.556Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5228,24 +5228,22 @@
    "unhedged_zero_since": "2026-08-31"
   },
   "SIF-62": {
-   "name": "Arudha Equity Long-Short Fund",
-   "as_of": "2026-09-30",
    "allocation": [
     [
      "eq",
-     78.39
+     75.93
     ],
     [
      "reit",
-     1.87
-    ],
-    [
-     "fi",
-     19.67
+     1.78
     ],
     [
      "fut",
-     -1.85
+     -7.06
+    ],
+    [
+     "fi",
+     22.23
     ]
    ],
    "net_assets_cr": 133.38,
@@ -5281,13 +5279,13 @@
      2.09
     ],
     [
-     "Ipca Laboratories Ltd.",
-     "Pharmaceuticals & Biotechnology",
+     "Shriram Finance Ltd.",
+     "Finance",
      2.02
     ],
     [
-     "Shriram Finance Ltd.",
-     "Finance",
+     "Ipca Laboratories Limited",
+     "Pharmaceuticals & Biotechnology",
      2.02
     ],
     [
@@ -5305,143 +5303,141 @@
     [
      "182 DAYS T-BILL - 17/12/2026",
      "Sovereign",
-     3.85
+     3.71
     ],
     [
      "364 DAYS T-BILL - 10/12/2026",
      "Sovereign",
-     1.54
+     1.48
     ],
     [
      "6.68% GSEC BONDS- 07/07/2040",
      "Sovereign",
-     0.75
+     0.71
     ],
     [
-     "CALL NMDC Ltd. 29/09/2026 88",
+     "6% NCPRS TVS Holding Ltd",
      "",
-     -0.02
+     0.1
     ],
     [
-     "CALL State Bank of India 29/09/2026 1080",
+     "CALL L&T Finance Ltd. 27/10/2026 305",
      "",
-     -0.02
+     0
     ]
    ],
    "top_shorts": [
     [
-     "Hindustan Petroleum Corporation Ltd. 29/09/2026",
+     "NIFTY 27/10/2026",
      "",
-     -0.8
+     -2.88
     ],
     [
-     "Dmart 29/09/2026",
+     "Hindustan Petroleum Corporation Ltd. 27/10/2026",
      "",
-     -0.63
+     -0.75
     ],
     [
-     "Ambuja Cements Ltd. 29/09/2026",
+     "InterGlobe Aviation Ltd. 27/10/2026",
      "",
-     -0.53
+     -0.62
     ],
     [
-     "JSW Energy Ltd. 29/09/2026",
+     "Page Industries Ltd. 27/10/2026",
      "",
-     -0.4
+     -0.61
     ],
     [
-     "Inox Wind Ltd. 29/09/2026",
+     "Avenue Supermarts Ltd. 27/10/2026",
      "",
-     -0.32
+     -0.6
     ]
    ],
-   "equity_gross_pct": 78.39,
-   "equity_net_pct": 76.54,
-   "holdings_count": 62,
-   "nav_regular_growth": 10.51,
-   "source": "Bandhan Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://arudhasif.com/downloads/",
-   "split": [
-    [
-     "Equity",
-     78.39
-    ],
-    [
-     "Fixed income",
-     19.67
-    ],
-    [
-     "REITs and InvITs",
-     1.87
-    ]
-   ],
-   "split_source": "Fund size and top positions as on 30 Sep 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 31 Aug 2026, pending the full portfolio",
+   "equity_gross_pct": 75.93,
+   "equity_net_pct": 68.87,
+   "holdings_count": 71,
+   "turnover_ratio": null,
+   "derivative_gross_exposure_cr": 11.86,
+   "derivative_basis": "futures",
+   "risk_band": 5,
+   "benchmark_risk_band": 5,
    "sectors": [
     [
      "Banks",
-     14.49
+     13.67
     ],
     [
      "Finance",
-     9.81
-    ],
-    [
-     "Pharmaceuticals & Biotechnology",
-     5.61
+     9.32
     ],
     [
      "Capital Markets",
-     4.95
+     5.84
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     5.53
     ],
     [
      "Telecom - Services",
-     4.83
+     5.12
     ],
     [
      "Other sectors",
-     38.7
+     36.45
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (78.4%), before futures and options hedges",
-   "net_shorts": [],
+   "split": [
+    [
+     "Equity",
+     75.93
+    ],
+    [
+     "Fixed income",
+     22.23
+    ],
+    [
+     "REITs and InvITs",
+     1.78
+    ]
+   ],
    "unhedged": [
+    [
+     "NIFTY (futures)",
+     "",
+     -2.88
+    ],
     [
      "Indian Oil Corporation Ltd. (futures)",
      "",
-     0.83
+     0.78
     ],
     [
      "Hindustan Petroleum Corporation Ltd. (futures)",
      "",
-     -0.8
+     -0.75
     ],
     [
-     "Dmart (futures)",
+     "InterGlobe Aviation Ltd. (futures)",
      "",
-     -0.63
+     -0.62
     ],
     [
-     "Ambuja Cements Ltd. (futures)",
+     "Page Industries Ltd. (futures)",
      "",
-     -0.53
-    ],
-    [
-     "JSW Energy Ltd. (futures)",
-     "",
-     -0.4
+     -0.61
     ]
    ],
-   "unhedged_long": 0.83,
-   "unhedged_short": 2.68,
-   "unhedged_count": 6,
-   "turnover_ratio": 0.17,
-   "benchmark": "NIFTY 500 TRI",
-   "risk_band": 5,
-   "benchmark_risk_band": 5,
-   "derivative_gross_exposure_cr": 4.49,
+   "unhedged_count": 11,
+   "unhedged_long": 0.78,
+   "unhedged_short": 7.98,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
-   "derivative_basis": "futures",
-   "factsheet_only": true
+   "name": "Arudha Equity Long-Short Fund",
+   "as_of": "2026-09-30",
+   "source": "Bandhan Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://arudhasif.com/downloads/",
+   "benchmark": "NIFTY 500 TRI",
+   "nav_regular_growth": 10.51
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
