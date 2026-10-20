@@ -49,6 +49,7 @@ d.innerHTML='<div class="tn-h"><h2>Open and upcoming launches</h2><span class="t
  +'</div><div class="tn-f">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Launch dates are checked daily against AMFI and AMC websites. Confirm in the offer document before investing.</div>'}
 function logos(){if(!LG)return;[].forEach.call(document.querySelectorAll('img[src*="sifprime.com/amc-logos/"]'),function(im){var f=im.getAttribute('src').split('/').pop();var key=OLD[f];var u=key&&logoUrl(key);if(u)im.src=u})}
 function fill(){if(!LG)return;[].forEach.call(document.querySelectorAll('.logotile'),function(tl){if(tl.querySelector('img')||tl.getAttribute('data-tf'))return;var c=tl.closest('.fundcell')||tl.parentElement;var tx=c?c.innerText:'';if(c&&c.parentElement&&tx.length<12)tx=c.parentElement.innerText;var key=amcKey((tx||'').slice(0,200));var u=logoUrl(key);if(!u)return;tl.setAttribute('data-tf','1');var im=document.createElement('img');im.decoding='async';im.alt=key+' logo';im.onerror=function(){im.remove()};im.src=u;tl.appendChild(im)})}
+function css2(){if(document.getElementById('tfdCss2'))return;var s=document.createElement('style');s.id='tfdCss2';s.textContent='.table-mini tbody tr td:first-child{position:relative}.table-mini tbody tr .fn::after{position:absolute;right:10px;top:14px;margin:0}.table-mini tbody tr .fn{padding-right:0}';document.head.appendChild(s)}
 function search(){var q=document.getElementById('fxQ');var pills=document.getElementById('catPillsBar');if(!q||!pills)return;var bar=document.getElementById('tfdSearch');if(bar&&bar.contains(q))return;if(!bar){bar=document.createElement('div');bar.id='tfdSearch';pills.parentNode.insertBefore(bar,pills)}var w=q.closest('.fxq-w')||q.parentNode;bar.appendChild(w);q.placeholder='Search all SIFs by name, AMC or category'}
 function lb(){var g=document.getElementById('lbGrid');if(!g||g.children.length<2)return;var kids=[].slice.call(g.children);
  var labels=kids.map(function(k){var m=k.querySelector('.meta');var t=m?m.textContent.split('·')[0].trim():'';return /^all/i.test(t)?'All SIFs':t.toLowerCase().replace(/\b\w/g,function(c){return c.toUpperCase()}).replace('Ex-top','Ex-Top')});
@@ -63,7 +64,7 @@ function nd(){if(!FACTS||!FACTS.funds)return;var t=document.querySelector('#brow
   tr.classList.toggle('tfd-hide2',fND&&!yes)});
  var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No unhedged derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
  var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No unhedged')<0)n.textContent+=' A green "No unhedged derivatives" tag means every futures or options position is matched by a share position, or the fund holds none.'}
-function tick(){try{css();nfo();logos();fill();search();lb();nd();navbar()}catch(e){}}
+function tick(){try{css();css2();nfo();logos();fill();search();lb();nd();navbar()}catch(e){}}
 
 function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document.getElementById('tfdNav');var back=document.getElementById('detBack');
  if(!m||!back){if(old)old.remove();return}
