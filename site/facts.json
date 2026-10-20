@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:10:27.556Z",
+ "updated_at": "2026-10-20T11:25:59.305Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5813,6 +5813,140 @@
    "unhedged_count": 1,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Altiva's workbook lists this long Nifty futures position under 'other than hedging' and reports no options.",
    "unhedged_source": "Altiva portfolio workbook, September 2026, reviewed against the AMC's hedging sections"
+  },
+  "SIF-114": {
+   "name": "Arthaya Equity Long-Short Fund",
+   "as_of": "2026-09-30",
+   "net_assets_cr": 131,
+   "allocation": [
+    [
+     "eq",
+     73.13
+    ],
+    [
+     "fi",
+     26.87
+    ]
+   ],
+   "top_equity": [
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     5.7
+    ],
+    [
+     "ICICI Bank Ltd.",
+     "Banks",
+     5.09
+    ],
+    [
+     "Kotak Mahindra Bank Ltd.",
+     "Banks",
+     5.03
+    ],
+    [
+     "Axis Bank Ltd.",
+     "Banks",
+     3.92
+    ],
+    [
+     "Reliance Industries Ltd.",
+     "Petroleum Products",
+     3.9
+    ],
+    [
+     "Maruti Suzuki India Ltd.",
+     "Automobiles",
+     2.79
+    ],
+    [
+     "Mahindra & Mahindra Ltd.",
+     "Automobiles",
+     2.7
+    ],
+    [
+     "Divi's Laboratories Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     2.63
+    ],
+    [
+     "Eternal Ltd.",
+     "Retailing",
+     2.55
+    ],
+    [
+     "RBL Bank Ltd.",
+     "Banks",
+     2.44
+    ]
+   ],
+   "top_debt": [
+    [
+     "91 Day Treasury Bill",
+     "SOV",
+     11.12
+    ],
+    [
+     "364 Day Treasury Bill",
+     "SOV",
+     3.74
+    ]
+   ],
+   "top_shorts": [],
+   "equity_gross_pct": 73.13,
+   "holdings_count": 38,
+   "sectors": [
+    [
+     "Banks",
+     28.07
+    ],
+    [
+     "Automobiles",
+     9.42
+    ],
+    [
+     "Retailing",
+     5.3
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     4.52
+    ],
+    [
+     "Capital Markets",
+     4.04
+    ],
+    [
+     "Other sectors",
+     21.78
+    ]
+   ],
+   "sector_note": "Share of the fund held in stocks (73.1%), before futures hedges",
+   "split": [
+    [
+     "Equity (unhedged)",
+     65.2
+    ],
+    [
+     "Arbitrage (hedged equity)",
+     8.2
+    ],
+    [
+     "Fixed income",
+     26.7
+    ]
+   ],
+   "split_source": "Holdings as published by the AMC (30 Sep 2026) and reproduced by SIFPrime; the list may not be complete. Asset mix from SIF360. Fund size is the AUM shown by SIF360 on 20 Oct 2026.",
+   "benchmark": "NIFTY 200 TRI",
+   "risk_band": 5,
+   "unhedged": [],
+   "unhedged_count": 0,
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "unhedged_pending": true,
+   "unhedged_note": "Unhedged derivative positions: available soon.",
+   "source": "Union Mutual Fund portfolio disclosure via SIFPrime and SIF360",
+   "source_url": "https://sifprime.com/sifs/arthaya-equity-long-short"
   }
  }
 }
