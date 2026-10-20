@@ -18,7 +18,9 @@
   "Union": "logo-union.png",
   "HSBC": "logo-hsbc.svg",
   "Jio BlackRock": "logo-jio-blackrock.svg",
-  "Invesco": "https://investingtfd.com/wp-content/uploads/2026/10/summit-sif-mark.png"
+  "Invesco": "https://investingtfd.com/wp-content/uploads/2026/10/summit-sif-mark.png",
+  "Sundaram": "logo-sundaram.png",
+  "AlphaGrep": "logo-alphagrep.png"
  },
  "aliases": {
   "quant": "Quant",
@@ -55,6 +57,10 @@
   "redhex": "HSBC",
   "jio": "Jio BlackRock",
   "blackrock": "Jio BlackRock",
-  "prism": "Jio BlackRock"
+  "prism": "Jio BlackRock",
+  "sundaram": "Sundaram",
+  "select": "Sundaram",
+  "alphagrep": "AlphaGrep",
+  "eminence": "AlphaGrep"
  }
 }
