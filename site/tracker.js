@@ -55,13 +55,13 @@ function lb(){var g=document.getElementById('lbGrid');if(!g||g.children.length<2
  if(!bar){bar=document.createElement('div');bar.id='tfdLbTabs';bar.className='pills';g.parentNode.insertBefore(bar,g);bar.addEventListener('click',function(e){var p=e.target.closest('.pill');if(!p)return;lbIdx=+p.getAttribute('data-i');lb()})}
  if(bar.getAttribute('data-sig')!==sig){bar.setAttribute('data-sig',sig);bar.innerHTML=labels.map(function(l,i){return '<span class="pill" data-i="'+i+'">'+esc(l)+'</span>'}).join('');if(lbIdx>=kids.length)lbIdx=0}
  g.classList.add('tfd-tg');[].forEach.call(bar.children,function(p,i){p.classList.toggle('active',i===lbIdx)});kids.forEach(function(k,i){k.classList.toggle('on',i===lbIdx)})}
-function noDeriv(f){return!!f&&!f.unhedged_pending&&!(f.derivative_gross_exposure_cr>0)&&!(f.unhedged_count>0)&&!(f.allocation||[]).some(function(a){return /^(fut|opt)$/.test(a[0])})}
+function noDeriv(f){return!!f&&!f.unhedged_pending&&!(f.unhedged_count>0)&&!((f.unhedged||[]).length>0)}
 function nd(){if(!FACTS||!FACTS.funds)return;var t=document.querySelector('#browsePanel table.table-mini tbody');if(!t)return;
  [].forEach.call(t.querySelectorAll('tr[data-code]'),function(tr){var f=FACTS.funds[tr.getAttribute('data-code')];var yes=noDeriv(f);
-  var td=tr.querySelector('td');if(td&&yes&&!tr.querySelector('.tfd-nd')){var s=document.createElement('span');s.className='tfd-nd';s.textContent='No derivatives';s.title='As on '+(f.as_of||'')+' this fund holds no futures or options';td.appendChild(s)}
+  var td=tr.querySelector('td');if(td&&yes&&!tr.querySelector('.tfd-nd')){var s=document.createElement('span');s.className='tfd-nd';s.textContent='No unhedged derivatives';s.title='As on '+(f.as_of||'')+' this fund has no unhedged derivative positions (any futures or options it holds are matched by shares)';td.appendChild(s)}
   tr.classList.toggle('tfd-hide2',fND&&!yes)});
- var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
- var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No derivatives')<0)n.textContent+=' A green "No derivatives" tag means the fund holds no futures or options at all.'}
+ var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No unhedged derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
+ var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No unhedged')<0)n.textContent+=' A green "No unhedged derivatives" tag means every futures or options position is matched by a share position, or the fund holds none.'}
 function tick(){try{css();nfo();logos();search();lb();nd();navbar()}catch(e){}}
 
 function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document.getElementById('tfdNav');var back=document.getElementById('detBack');
