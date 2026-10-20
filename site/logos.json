@@ -3,17 +3,17 @@
  "base": "https://cdn.jsdelivr.net/gh/investingtfd/sif-tracker@main/site/",
  "amcs": {
   "Quant": "logo-quant.png",
-  "Aditya Birla Sun Life": "logo-apex-sif.jpg",
-  "Tata": "logo-titanium-sif.webp",
-  "Edelweiss": "logo-altiva-sif.svg",
-  "SBI": "logo-magnum-sif.png",
+  "Aditya Birla Sun Life": "logo-aditya-birla-sun-life.png",
+  "Tata": "logo-tata.svg",
+  "Edelweiss": "logo-edelweiss.png",
+  "SBI": "logo-sbi.svg",
   "360 ONE": "logo-360-one.svg",
   "Bandhan": "logo-bandhan.png",
-  "Franklin Templeton": "logo-sapphire-sif.png",
+  "Franklin Templeton": "logo-franklin-templeton.png",
   "ICICI Prudential": "logo-icici-prudential.png",
   "ITI": "logo-iti.png",
   "Kotak": "logo-kotak.svg",
-  "Mirae Asset": "logo-platinum-sif.svg",
+  "Mirae Asset": "logo-mirae-asset.png",
   "The Wealth Company": "logo-the-wealth-company.svg",
   "Union": "logo-union.png",
   "HSBC": "logo-hsbc.svg",
@@ -62,5 +62,14 @@
   "select": "Sundaram",
   "alphagrep": "AlphaGrep",
   "eminence": "AlphaGrep"
- }
+ },
+ "wide": {
+  "Edelweiss": "logo-altiva-sif.svg",
+  "Tata": "logo-titanium-sif.webp",
+  "Aditya Birla Sun Life": "logo-apex-sif.jpg",
+  "SBI": "logo-magnum-sif.png",
+  "Mirae Asset": "logo-platinum-sif.svg",
+  "Franklin Templeton": "logo-sapphire-sif.png"
+ },
+ "note2": "wide: full SIF wordmarks for larger spaces. amcs: square marks for the small table tiles."
 }
