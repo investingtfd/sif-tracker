@@ -1,5 +1,10 @@
 # SIF Tracker daily run log
 
+## 2026-10-20 evening Lisbon time (manual)
+
+- Action: SIF-114 Arthaya Equity Long-Short added from Union MF portfolio data via the fallback sources (as of 30 Sep 2026); unhedged derivatives shown as "available soon". Facts now cover 34 of 35 funds (97%).
+- Tracker page: NFO cards, AMC logos (stored in repo, automatic by AMC), search bar, No-derivatives marker, Returns snapshot toggle, Previous / Home / Next fund navigation published.
+
 ## 2026-10-20 11:12 Lisbon time
 Result: 1 fund updated. facts.json committed and verified (33 funds, none lost, no risk band lost).
 
