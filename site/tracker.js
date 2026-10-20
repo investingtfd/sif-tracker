@@ -83,3 +83,9 @@ function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document
 function sched(){clearTimeout(timer);timer=setTimeout(tick,150)}
 Promise.all([jget('logos.json'),jget('facts.json'),jget('nfos.json')]).then(function(r){LG=r[0];FACTS=r[1];NF=r[2];tick();new MutationObserver(sched).observe(document.body,{childList:true,subtree:true});setInterval(tick,3000)});
 })();
+
+;(function(){
+function fixAlt(){document.querySelectorAll('img').forEach(function(i){if(i.hasAttribute('alt')&&i.alt.trim()!=='')return;if(i.closest('.logotile'))return;if(i.classList.contains('neve-site-logo'))i.alt='Investing TFD';else if(i.classList.contains('site-icon'))i.alt='Investing TFD site icon'})}
+function fixCount(){fetch('https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var n=j&&j.schemes&&j.schemes.length;var el=document.getElementById('hxCount');if(n&&el&&el.textContent!==String(n))el.textContent=n}).catch(function(){})}
+fixAlt();setTimeout(fixAlt,1500);setTimeout(fixAlt,4000);fixCount();
+})();
