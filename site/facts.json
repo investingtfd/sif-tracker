@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T10:09:11.400Z",
+ "updated_at": "2026-10-22T10:24:34.303Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -3234,20 +3234,24 @@
    ],
    "split": [
     [
+     "Collar strategy",
+     30.8
+    ],
+    [
      "Fixed income",
      51.53
     ],
     [
-     "Arbitrage (hedged equity)",
-     28.86
-    ],
-    [
-     "Equity (unhedged)",
-     13.24
+     "Merger arbitrage",
+     9.8
     ],
     [
      "REITs and InvITs",
      6.37
+    ],
+    [
+     "Special situations",
+     1.5
     ]
    ],
    "sector_note": "Share of the fund held in stocks (42.6%), before futures and options hedges",
@@ -3271,7 +3275,8 @@
    "unhedged_short": 9.98,
    "unhedged_count": 2,
    "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets, as Prism's own workbook classes them (its non-hedging total is 9.98%). Ambuja Cements: the fund holds only 4,800 shares against a short future of 884,400 shares, so just the 0.04% that covers the holding is a hedge and the rest (7.19%) is a short position. Indian Hotels: the 68,000 shares held are already covered by calls written on them, and Prism lists the whole short future (2.79%) as non-hedging. Not counted: the Nifty and Bank Nifty long futures (4.69%), which Prism lists as hedging positions, short futures against holdings, covered calls and protective puts.",
-   "unhedged_source": "Prism portfolio workbook, September 2026, futures matched to holdings and the AMC hedging sections (partly hedged futures split, 19 Oct 2026)"
+   "unhedged_source": "Prism portfolio workbook, September 2026, futures matched to holdings and the AMC hedging sections (partly hedged futures split, 19 Oct 2026)",
+   "split_source": "Prism SIF factsheet commentary as on 30 Sep 2026 (AMC's own classification, approximate): Collar strategies about 30.8% and merger arbitrage about 9.8%; special situations is the balance of the equity book. REITs and InvITs from the monthly portfolio. Fixed income includes cash and derivative margin. Index derivative strategies (about 4.6%, long index futures) are shown on the unhedged card"
   },
   "SIF-21": {
    "allocation": [
@@ -3600,7 +3605,7 @@
    ],
    "split": [
     [
-     "Arbitrage (hedged equity)",
+     "Arbitrage and covered calls",
      58.92
     ],
     [
@@ -3626,7 +3631,8 @@
    "unhedged_short": 0,
    "unhedged_count": 0,
    "unhedged_note": "No unhedged derivative positions reported as on 30 Sep 2026.",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_zero_since": "2026-09-30",
+   "split_source": "Magnum Hybrid invests mainly in covered calls, arbitrage and debt (SBI factsheet objective), so the hedged-equity bucket is shown as Arbitrage and covered calls. Equity (unhedged) is the unhedged equity part"
   },
   "SIF-157": {
    "allocation": [
