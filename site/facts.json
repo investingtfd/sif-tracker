@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T11:25:59.305Z",
+ "updated_at": "2026-10-22T10:04:45.213Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -171,20 +171,28 @@
    ],
    "split": [
     [
-     "Fixed income",
-     56.95
+     "Arbitrage and covered calls",
+     38
     ],
     [
-     "Arbitrage (hedged equity)",
-     36.03
+     "Fixed income",
+     41
+    ],
+    [
+     "Other derivative strategies",
+     12
     ],
     [
      "REITs and InvITs",
-     4.91
+     5
     ],
     [
-     "Equity (unhedged)",
-     2.11
+     "Special situations",
+     2
+    ],
+    [
+     "Others",
+     1
     ]
    ],
    "sector_note": "Share of the fund held in stocks (39.3%), before futures and options hedges",
@@ -224,7 +232,8 @@
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "top_equity_basis": "unhedged",
-   "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only"
+   "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only",
+   "split_source": "AMC-style classification as shown in the Altiva 1-year video (fund manager disclosure, 30 Sep 2026), rounded to whole numbers. Special situations means IPO, OFS and QIP"
   },
   "SIF-122": {
    "allocation": [
@@ -4607,23 +4616,23 @@
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
    "split": [
     [
+     "Arbitrage and covered calls",
+     34.97
+    ],
+    [
      "Fixed income",
      56.74
     ],
     [
-     "Arbitrage (hedged equity)",
-     34.97
-    ],
-    [
-     "Equity (unhedged)",
-     5.5
-    ],
-    [
      "REITs and InvITs",
      2.79
+    ],
+    [
+     "Special situations",
+     5.5
     ]
    ],
-   "split_source": "Apex SIF factsheet (net equity 5.5%) and monthly portfolio, 30 Sep 2026. Hedges include futures and options at full exposure",
+   "split_source": "Apex SIF factsheet (net equity 5.5%) and monthly portfolio, 30 Sep 2026. Arbitrage and covered calls includes stocks hedged with futures and options at full exposure. Special situations is the unhedged equity part",
    "sectors": [
     [
      "Banks",
@@ -5471,23 +5480,23 @@
    ],
    "split": [
     [
+     "Arbitrage and covered calls",
+     30.09
+    ],
+    [
      "Fixed income",
      59.87
     ],
     [
-     "Arbitrage (hedged equity)",
-     30.09
-    ],
-    [
-     "Equity (unhedged)",
-     5.43
-    ],
-    [
      "REITs and InvITs",
      4.61
+    ],
+    [
+     "Special situations",
+     5.43
     ]
    ],
-   "split_source": "Holdings, fund size and asset split from the monthly portfolio workbook (IHLSsept.xlsx). Arbitrage (hedged equity) = stocks hedged with short futures (12.64% of net assets, workbook) plus stocks held in the covered-call book (17.45%, from the monthly factsheet, as the workbook does not total it). Fixed income includes debt, money market, TREPS, cash and units of Kotak Liquid Direct Growth (1.19%).",
+   "split_source": "Holdings, fund size and asset split from the monthly portfolio workbook (IHLSsept.xlsx). Arbitrage and covered calls = stocks hedged with short futures (12.64% of net assets, workbook) plus stocks held in the covered-call book (17.45%, from the monthly factsheet, as the workbook does not total it). Fixed income includes debt, money market, TREPS, cash and units of Kotak Liquid Direct Growth (1.19%). Special situations is the unhedged equity part (IPO, OFS, QIP and similar)",
    "top_equity": [
     [
      "ICICI Bank Ltd.",
