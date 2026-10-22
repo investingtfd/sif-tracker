@@ -1,5 +1,36 @@
 # SIF Tracker daily run log
 
+## 2026-10-22 11:05 Lisbon time
+Result: 3 funds updated (AMC-style split applied). facts.json committed and verified (34 funds, no risk band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+- Altiva Hybrid (SIF-11), Infinity Hybrid (SIF-146), Apex Hybrid (SIF-80): split now shown the AMC way, with "Arbitrage and covered calls" and "Special situations" (data as on 30 Sep 2026, Step 3f).
+
+**Updates available but not made, or only partly made**
+- Titanium Active Asset Allocator Long-Short Fund (SIF-169): first portfolio is for 31 Oct 2026, not out yet; will be added from November.
+
+### Data completeness
+Up to date: 34 of 35 SIF funds (97%) have data as on 30 Sep 2026
+of which 34 from the full Excel portfolio and 0 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| Titanium Active Asset Allocator Long-Short (SIF-169) | Titanium / Tata | not in tracker yet | new fund, first portfolio not out yet |
+
+### Fails and fixes
+No fails today.
+
+### AMC by AMC
+All 17 AMCs: 🟩 100% (all funds on 30 Sep 2026 from the Excel; not re-opened, already at target month). Tata is 🟩 100% for its two funds; SIF-169 is new and has no portfolio yet. Movement today: none, except the hybrid split display for Altiva, Infinity and Apex.
+Industry AUM (AMFI): as on 2026-09-30
+
+### Funds changed
+| Fund | Source | as_of | Size | Risk band | Unhedged | Other |
+|---|---|---|---|---|---|---|
+| SIF-11 Altiva Hybrid | Excel (unchanged) | 2026-09-30 | unchanged | unchanged | frozen | AMC-style split applied (38/41/12/5/2/1) |
+| SIF-146 Infinity Hybrid | Excel (unchanged) | 2026-09-30 | unchanged | unchanged | frozen | AMC-style split applied |
+| SIF-80 Apex Hybrid | Excel (unchanged) | 2026-09-30 | unchanged | unchanged | frozen | AMC-style split applied |
+
 ## 2026-10-21 08:50 Lisbon time
 Result: nothing changed. facts.json not committed (no fund below the target month; sweep found nothing to fix).
 
