@@ -1,0 +1,56 @@
+name: Sync fund pages to WordPress
+
+# Rebuilds the 34 fund pages on investingtfd.com after each daily data refresh.
+# Updates page bodies only; new funds become DRAFTS and open an issue. Nothing is deleted or auto-published.
+# Needs two repository secrets: WP_USER and WP_APP_PASSWORD (a WordPress application password).
+# Until they exist, this workflow skips quietly.
+
+on:
+  workflow_run:
+    workflows: ["Daily SIF NAV fetch and publish"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Report what would change without writing to WordPress"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: wp-page-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync fund pages
+        env:
+          WP_URL: https://investingtfd.com
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
+          REPORT_FILE: ${{ github.workspace }}/sync-report-issue.md
+        run: node scripts/sync_pages.js
+
+      - name: Open an issue when something needs a person
+        if: ${{ always() && hashFiles('sync-report-issue.md') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Fund page sync needs attention ($(date -u +%Y-%m-%d))" \
+            --body-file sync-report-issue.md
