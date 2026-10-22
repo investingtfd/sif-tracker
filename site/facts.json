@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T10:24:34.303Z",
+ "updated_at": "2026-10-22T15:16:46.724Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -700,15 +700,19 @@
    "split": [
     [
      "Fixed income",
-     50.24
-    ],
-    [
-     "REITs and InvITs",
-     25.86
+     50.25
     ],
     [
      "Arbitrage (hedged equity)",
      23.9
+    ],
+    [
+     "InvITs",
+     14.13
+    ],
+    [
+     "REITs",
+     11.72
     ]
    ],
    "sector_note": "Share of the fund held in stocks (23.9%), before futures and options hedges",
@@ -721,7 +725,8 @@
    "unhedged_short": 0,
    "unhedged_count": 0,
    "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets.",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_zero_since": "2026-09-30",
+   "split_source": "RedHex factsheet as on 30 Sep 2026 (AMC's own classification): debt 50.27%, equity arbitrage 23.88%, REITs 11.72%, InvITs 14.13%. REITs and InvITs are shown separately"
   },
   "SIF-105": {
    "allocation": [

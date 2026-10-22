@@ -1,5 +1,37 @@
 # SIF Tracker daily run log
 
+## 2026-10-22 16:16 Lisbon time (catch-up)
+Result: 6 funds' splits improved (strategy split work, Step 3g). facts.json committed and verified (34 funds, no risk band lost).
+
+**Updates found and made**
+- Platinum Hybrid (SIF-136): Collar strategy 39.09, Fixed income 34.89, Arbitrage 23.76, Special situations 2.26 (Mirae factsheet, 30 Sep 2026).
+- Prism Hybrid (SIF-138): Collar strategy 30.8, Fixed income 51.53, Merger arbitrage 9.8, REITs and InvITs 6.37, Special situations 1.5 (Jio factsheet commentary, approximate).
+- Magnum Hybrid (SIF-13): label now "Arbitrage and covered calls" (SBI objective).
+- RedHex Hybrid (SIF-128): REITs 11.72 and InvITs 14.13 now shown separately (HSBC factsheet).
+
+**Updates available but not made, or only partly made**
+- Arthaya (SIF-114): Union MF site would not open in the browser pane; will retry next run.
+- Titanium SIF-169: first portfolio is for 31 Oct 2026, not out yet.
+
+### Strategy-split check (Step 3g), 22 Oct 2026
+| AMC | Funds | Finding | Action |
+|---|---|---|---|
+| Mirae | SIF-136 | collar, arbitrage, special situations stated | split changed |
+| Jio | SIF-138 | collar 30.8, merger arbitrage 9.8 stated in commentary | split changed |
+| SBI | SIF-13 | objective says covered calls and arbitrage; no numeric buckets | label changed |
+| HSBC | SIF-128 | debt, equity arbitrage, REITs, InvITs stated | REITs and InvITs split apart |
+| Edelweiss | SIF-11, 122, 161 | hybrid matches 38/41/12/5/2; equity funds state no buckets | none |
+| Apex | SIF-80, 154, 156 | factsheet covers the hybrid only | none |
+| Arudha | SIF-40, 62 | asset class and rating only | none |
+| iSIF, Tata, 360 ONE, qsif, ITI | 18 funds | no strategy buckets in factsheet | none |
+| Union | SIF-114 | site would not open | retry next run |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Union MF site would not open | Arthaya SIF-114 | Browser pane navigation to unionmf.com is denied | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+
+
 ## 2026-10-22 11:05 Lisbon time
 Result: 3 funds updated (AMC-style split applied). facts.json committed and verified (34 funds, no risk band lost, no "Mutual fund units" line).
 
