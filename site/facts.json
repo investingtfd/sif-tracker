@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T10:04:45.213Z",
+ "updated_at": "2026-10-22T10:09:11.400Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -514,8 +514,8 @@
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     41.33
+     "Collar strategy",
+     39.09
     ],
     [
      "Fixed income",
@@ -523,7 +523,11 @@
     ],
     [
      "Arbitrage (hedged equity)",
-     23.78
+     23.76
+    ],
+    [
+     "Special situations",
+     2.26
     ]
    ],
    "sector_note": "Share of the fund held in stocks (65.1%), before futures and options hedges",
@@ -556,7 +560,8 @@
    "name": "Platinum Hybrid Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Mirae Asset Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio"
+   "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio",
+   "split_source": "Platinum SIF factsheet as on 30 Sep 2026 (AMC's own classification). Collar strategy is stock held with options protection (bought puts, calls written), not open equity. Special situations is tactical plays. Fixed income includes cash and derivative margin"
   },
   "SIF-128": {
    "allocation": [
