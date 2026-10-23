@@ -89,3 +89,10 @@ function fixAlt(){document.querySelectorAll('img').forEach(function(i){if(i.hasA
 function fixCount(){fetch('https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var n=j&&j.schemes&&j.schemes.length;var el=document.getElementById('hxCount');if(n&&el&&el.textContent!==String(n))el.textContent=n}).catch(function(){})}
 fixAlt();setTimeout(fixAlt,1500);setTimeout(fixAlt,4000);fixCount();
 })();
+
+;(function(){
+var SLUG={};
+function sl(n){return String(n).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}
+function link(){document.querySelectorAll('tr[data-code]').forEach(function(tr){var fn=tr.querySelector('.fn');if(!fn||fn.querySelector('a.fl'))return;var s=SLUG[tr.getAttribute('data-code')];if(!s)return;var a=document.createElement('a');a.className='fl';a.href='/sif-tracker/'+s+'/';a.style.cssText='color:inherit;text-decoration:none';a.textContent=fn.textContent;a.addEventListener('click',function(e){if(e.ctrlKey||e.metaKey||e.shiftKey||e.button)return;e.preventDefault()});fn.textContent='';fn.appendChild(a)})}
+fetch('https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/facts.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var F=(j&&j.funds)||j||{};Object.keys(F).forEach(function(c){if(F[c]&&F[c].name)SLUG[c]=sl(F[c].name)});link();setInterval(link,3000)}).catch(function(){})
+})();
