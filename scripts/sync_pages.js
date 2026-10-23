@@ -68,7 +68,7 @@ function sane(p) {
   if (/\bNaN\b|undefined|\bnull\b/.test(bare)) return 'contains NaN/undefined/null';
   if ((p.html.match(/<h1[ >]/g) || []).length !== 1) return 'not exactly one H1';
   if (!/FAQPage/.test(p.html)) return 'FAQ markup missing';
-  if (p.html.length < 3000) return 'page is suspiciously short';
+  if (p.html.length < (p.kind === 'amc' ? 3000 : 3000)) return 'page is suspiciously short';
   return null;
 }
 
@@ -80,12 +80,14 @@ async function main() {
   const facts = JSON.parse(fs.readFileSync(path.join(SITE, 'facts.json'), 'utf8'));
   const data = JSON.parse(fs.readFileSync(path.join(SITE, 'data.json'), 'utf8'));
   const SIFPAGES = require(path.join(SITE, 'pagegen.js'));
-  const built = SIFPAGES.build(facts.funds || facts, data);
+  const fundPages = SIFPAGES.build(facts.funds || facts, data);
+  const amcPages = SIFPAGES.buildAmc ? SIFPAGES.buildAmc(facts.funds || facts, data) : [];
+  const built = fundPages.concat(amcPages);
 
   // Guard: a broken feed must never rewrite the site.
-  if (built.length < 30) {
-    summary(['## Page sync stopped', 'Only ' + built.length + ' pages were built (expected 30 or more). Nothing was written.']);
-    fs.writeFileSync(REPORT_FILE, 'The fund page sync built only ' + built.length + ' pages from facts.json and data.json, so it stopped without writing. Please check the daily data.\n');
+  if (fundPages.length < 30) {
+    summary(['## Page sync stopped', 'Only ' + fundPages.length + ' fund pages were built (expected 30 or more). Nothing was written.']);
+    fs.writeFileSync(REPORT_FILE, 'The fund page sync built only ' + fundPages.length + ' fund pages from facts.json and data.json, so it stopped without writing. Please check the daily data.\n');
     return 1;
   }
   const slugs = built.map((p) => p.slug);
