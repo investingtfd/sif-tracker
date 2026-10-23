@@ -1,5 +1,53 @@
 # SIF Tracker daily run log
 
+## 2026-10-23 07:54 Lisbon time
+Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026; sweeps found nothing to fix).
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- Arthaya SIF-114: the Union MF site would not open in the browser pane, so the official workbook could not be read. Its figures stay as loaded. It is retried every run.
+- Titanium Active Asset Allocator SIF-169: new fund, first NAV 16 Oct 2026, first portfolio is for 31 Oct 2026. Will be added in November.
+
+### Data completeness
+Up to date: 34 of 35 SIF funds (97%) have data as on 30 Sep 2026
+of which 33 from the full Excel portfolio and 1 from the factsheet / third-party sources only (Arthaya SIF-114; full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| Titanium Active Asset Allocator Long-Short Fund (SIF-169) | Tata | not in tracker yet | new fund, first portfolio not out yet (due for 31 Oct 2026) |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why, in plain words | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | unionmf.com/arthayasif fails to load in the browser pane (same as 19 Oct) | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Unhedged card pending | Arthaya SIF-114 | no official workbook read yet, card shows "available soon" | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva (Edelweiss) | SIF-11, 122, 161 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| RedHex (HSBC) | SIF-128 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| WSIF (Wealth Co) | SIF-105, 111 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Titanium (Tata) | SIF-29, 102 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Platinum (Mirae) | SIF-136 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Sapphire (Franklin) | SIF-96 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| DynaSIF (360 ONE) | SIF-55, 87, 143 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Summit (Invesco) | SIF-150 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| qsif (quant) | SIF-3, 7, 25, 93, 117 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Prism (Jio BlackRock) | SIF-138 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Diviniti (ITI) | SIF-21 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Magnum (SBI) | SIF-13, 157 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| iSIF (ICICI Pru) | SIF-34, 35, 124, 126 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Apex (Aditya Birla) | SIF-80, 154, 156 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Arudha (Bandhan) | SIF-40, 62 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Infinity (Kotak) | SIF-146 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | n/a | nothing new | none |
+| Arthaya (Union MF) | SIF-114 | 30 Sep 2026 | 🟧 50% | error (page would not load in the browser pane) | not seen | not seen | skipped: site would not open; fund stays on SIFPrime/SIF360 figures | none |
+
+Industry AUM (AMFI): as on 2026-09-30
+Strategy-split check (Step 3g): not run today (no new month published, all AMCs already at the target month); sweep of facts.json found no "Mutual fund units" line, no null risk band, the three hybrids (SIF-11, 146, 80) already in AMC-style split, all splits add to 98-102. Pending checks from 3g(5) remain for the next month's data.
+
 ## 2026-10-22 16:16 Lisbon time (catch-up)
 Result: 6 funds' splits improved (strategy split work, Step 3g). facts.json committed and verified (34 funds, no risk band lost).
 
