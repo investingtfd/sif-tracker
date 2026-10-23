@@ -72,6 +72,50 @@
     });
     return out;
   }
-  root.SIFPAGES={build:build,BASE:BASE};
+
+  function buildAmc(F, DATA){
+    var SCH={};DATA.schemes.forEach(function(s){SCH[s.scheme_code]=s});
+    var rows=[];
+    Object.keys(SCH).filter(function(c){return F[c]&&F[c].name}).forEach(function(c){
+      var s=SCH[c],f=F[c];var brand=s.provider.replace(' SIF','').replace('SUMMIT','Summit');
+      var ser=s.series.slice().sort(function(a,b){return a.date<b.date?-1:1});
+      var last=ser[ser.length-1],first=ser[0];
+      var un=f.unhedged_pending?null:((f.unhedged_long||0)+(f.unhedged_short||0));
+      rows.push({code:c,name:f.name,slug:slugify(f.name),brand:brand,amc:AMC[brand]||brand,cat:catLabel(s.category),nav:last.nav,navD:last.date,first:first.date,sl:(last.nav/first.nav-1)*100,size:f.net_assets_cr,rb:f.risk_band,asof:f.as_of,un:un,pending:!!f.unhedged_pending});
+    });
+    var byAmc={};rows.forEach(function(r){(byAmc[r.amc]=byAmc[r.amc]||[]).push(r)});
+    var css='<style>.tfdf{max-width:880px;margin:0 auto;font-size:17px;line-height:1.6}.tfdf h1{font-size:2rem;line-height:1.2;margin:.2em 0 .4em}.tfdf h2{font-size:1.35rem;margin:1.8em 0 .5em}.tfdf h3{font-size:1.05rem;margin:1.2em 0 .3em}.tfdf-t{width:100%;border-collapse:collapse;margin:.5em 0 1em;font-size:.95rem}.tfdf-t th,.tfdf-t td{padding:.5em .6em;border-bottom:1px solid #e3e3df;text-align:left;vertical-align:top}.tfdf-t td.n{text-align:right;font-variant-numeric:tabular-nums}.tfdf-t th{font-weight:600;color:#33403a}.tfdf-w{overflow-x:auto}.tfdf-n,.tfdf-d{font-size:.88rem;color:#5b6660}.tfdf-b{display:flex;gap:.8rem;flex-wrap:wrap;margin:1.2em 0}.tfdf-b a{background:#0f6e56;color:#fff;padding:.55em 1em;border-radius:999px;text-decoration:none;font-weight:600;font-size:.95rem}.tfdf-b a.o{background:#fff;color:#0f6e56;border:1px solid #0f6e56}.tfdf nav{font-size:.9rem}</style>';
+    var out=[];
+    Object.keys(byAmc).sort().forEach(function(amc){
+      var fs=byAmc[amc].sort(function(a,b){return a.name<b.name?-1:1});
+      var brand=fs[0].brand+' SIF'.replace('WSIF SIF','WSIF');if(fs[0].brand==='WSIF')brand='WSIF';
+      var n=fs.length,nm=amc.replace(' Mutual Fund','');
+      var slug=slugify(amc)+'-sifs';
+      var name=amc+' SIFs';
+      var title=amc+' SIFs: '+n+(n===1?' fund':' funds')+', NAV and returns';if(title.length>62)title=amc+' SIFs: '+n+(n===1?' fund':' funds')+' and NAV';if(title.length>62)title=amc+' SIFs: NAV and returns';if(title.length>62)title=amc+' SIFs';
+      var latest=fs.map(function(f){return f.navD}).sort().pop();
+      var dTail=' Compare NAV, returns, fund size and unhedged derivatives exposure.';
+      var desc=(n===1?amc+' has 1 Specialised Investment Fund (SIF), sold under the '+brand+' brand.':amc+' has '+n+' Specialised Investment Funds (SIFs), sold under the '+brand+' brand.')+dTail;
+      if(desc.length>158)desc=amc+' SIFs: '+n+(n===1?' fund':' funds')+'. Compare NAV, returns, fund size and unhedged exposure.';
+      if(desc.length>158)desc=desc.slice(0,157);
+      var trs=fs.map(function(f){var u=f.pending?'Available soon':(f.un?f.un.toFixed(2)+'%':'None');return '<tr><td><a href="'+BASE+f.slug+'/">'+e(f.name)+'</a></td><td>'+e(f.cat)+'</td><td class="n">'+f.nav.toFixed(4)+'</td><td class="n">'+pct(f.sl,1)+'</td><td class="n">'+(f.size?num(f.size,0):'n/a')+'</td><td class="n">'+(f.rb?f.rb+' of 5':'n/a')+'</td><td class="n">'+u+'</td></tr>'}).join('');
+      var tbl='<div class="tfdf-w"><table class="tfdf-t"><thead><tr><th>Fund</th><th>Strategy</th><th>NAV (Rs)</th><th>Since launch</th><th>Size (Rs cr)</th><th>Risk band</th><th>Unhedged derivatives</th></tr></thead><tbody>'+trs+'</tbody></table></div>';
+      var lead=amc+' offers '+n+(n===1?' Specialised Investment Fund (SIF)':' Specialised Investment Funds (SIFs)')+' under the '+brand+' brand. Each one can hold shares it expects to rise and take short positions through derivatives. The table shows the latest NAV and the key numbers for each fund. Click a fund for its full page.';
+      var oldest=fs.map(function(f){return f.first}).sort()[0];
+      var faq=[
+        ['What SIFs does '+amc+' offer?',amc+' offers '+n+(n===1?' SIF: ':' SIFs: ')+fs.map(function(f){return f.name}).join(', ')+'. Data is as of '+fd(latest)+'.'],
+        ['What is a SIF?','A Specialised Investment Fund (SIF) is a SEBI-regulated category above regular mutual funds. It can use long-short strategies, including shorting through derivatives. The minimum investment is Rs 10 lakh per investor per fund house, across that fund house\'s SIF strategies.'],
+        ['What is the minimum investment in '+amc+' SIFs?','Rs 10 lakh per investor per fund house, across all of '+amc+'\'s SIF strategies. Check each scheme\'s offer documents for further rules.'],
+        ['Since when has '+amc+' offered SIFs?','Its earliest SIF here launched on '+fd(oldest)+'. These are young funds, so returns say little about how they behave over a full market cycle.']];
+      var faqH='<h2>Frequently asked questions</h2>'+faq.map(function(q){return '<h3>'+e(q[0])+'</h3><p>'+e(q[1])+'</p>'}).join('');
+      var ld=[{'@context':'https://schema.org','@type':'FAQPage',mainEntity:faq.map(function(q){return {'@type':'Question',name:q[0],acceptedAnswer:{'@type':'Answer',text:q[1]}}})}];
+      var ldH=ld.map(function(x){return '<script type="application/ld+json">'+JSON.stringify(x).replace(/</g,'\\u003c').replace(/&/g,'\\u0026')+'</script>'}).join('');
+      var others=Object.keys(byAmc).filter(function(a){return a!==amc}).sort().map(function(a){return '<li><a href="'+BASE+slugify(a)+'-sifs/">'+e(a)+' SIFs</a></li>'}).join('');
+      var html=css+'<div class="tfdf"><nav><a href="https://investingtfd.com/">Investing TFD</a> / <a href="'+BASE+'">SIF Tracker</a> / '+e(name)+'</nav><h1>'+e(name)+': '+n+(n===1?' fund':' funds')+', NAV and returns</h1><p>'+e(lead)+'</p><div class="tfdf-b"><a href="'+BASE+'">Compare all SIFs</a></div><h2>'+e(amc)+' SIFs at a glance</h2>'+tbl+'<p class="tfdf-n">Returns are absolute and measured on the Regular plan growth NAV from AMFI. Unhedged derivatives show the long and short positions not matched by a share holding, as % of net assets.</p>'+faqH+'<h2>Other fund houses</h2><ul>'+others+'</ul><p class="tfdf-d">Data as of '+fd(latest)+' (NAV). Sources: AMFI and '+e(amc)+' disclosures. This page is information, not advice, and no return is promised. Ashish Jain, AMFI-registered mutual fund distributor, ARN-294841. Mutual fund investments are subject to market risks; read all scheme related documents carefully.</p></div>'+ldH;
+      out.push({slug:slug,code:'AMC:'+amc,title:title,description:desc,html:html,name:name,kind:'amc'});
+    });
+    return out;
+  }
+  root.SIFPAGES={build:build,buildAmc:buildAmc,BASE:BASE};
   if(typeof module!=='undefined')module.exports=root.SIFPAGES;
 })(typeof window!=='undefined'?window:globalThis);
