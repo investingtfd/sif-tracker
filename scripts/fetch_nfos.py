@@ -15,6 +15,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "nfos.json"
+PENDING = ROOT / "site" / "pending.json"
+DATA = ROOT / "site" / "data.json"
 MANUAL = ROOT / "data" / "nfos_manual.json"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; sif-tracker-bot; +https://investingtfd.com/sif-tracker)"}
 MONTHS = {m: i for i, m in enumerate(
@@ -75,6 +77,23 @@ def key(name):
     return w[0] if w else name.lower()
 
 
+STOP = {"fund", "sif", "long", "short", "longshort", "plan", "growth", "regular", "direct", "option",
+        "mutual", "the", "and", "of", "ex", "top", "100", "-"}
+
+
+def toks(text):
+    return [w for w in re.sub(r"[^a-z0-9 ]", " ", (text or "").lower()).split() if w not in STOP]
+
+
+def nav_started(it, data_text):
+    """True when the fund (or, for a new AMC, its sponsor) already appears in the AMFI-based data.json."""
+    t = toks(it["name"])
+    if t and all(w in data_text for w in t):
+        return True
+    a = toks(it.get("amc", ""))
+    return bool(a) and a[0] in data_text
+
+
 def main():
     today = datetime.date.today().isoformat()
     prev = {}
@@ -110,14 +129,40 @@ def main():
             merged[k] = dict(it)
     amfi = amfi_names()
     first_seen = {key(i["name"]): i.get("first_seen") for i in prev.get("items", [])}
-    final = []
+    final, closed = [], []
     for k, it in merged.items():
         if it.get("close") and it["close"] < today:
+            closed.append(it)
             continue
         it["amfi"] = None if amfi is None else ((k + " sif") in amfi)
         it["first_seen"] = first_seen.get(k) or today
         final.append(it)
     final.sort(key=lambda i: (i.get("open") or "9999", i["name"]))
+    # Closed launches whose fund has no NAV in the AMFI feed yet stay on the tracker as "awaiting first NAV".
+    try:
+        d = json.loads(DATA.read_text())
+        data_text = " ".join((x.get("scheme_name", "") + " " + x.get("provider", "")) for x in d.get("schemes", [])).lower()
+    except Exception:
+        data_text = None
+    pend = []
+    old_pend = {}
+    if PENDING.exists():
+        try:
+            old_pend = {key(i["name"]): i for i in json.loads(PENDING.read_text()).get("items", [])}
+        except Exception:
+            old_pend = {}
+    cutoff = (datetime.date.today() - datetime.timedelta(days=120)).isoformat()
+    for it in closed + [v for k, v in old_pend.items() if k not in merged]:
+        if data_text is None or it.get("close", "") < cutoff or nav_started(it, data_text):
+            continue
+        pend.append({"name": it["name"], "amc": it.get("amc", ""), "strategy": it.get("strategy", ""),
+                     "open": it.get("open"), "close": it.get("close"), "sources": it.get("sources", []),
+                     "status": "NFO closed, awaiting first NAV",
+                     "first_seen": it.get("first_seen") or today})
+    seen = set()
+    pend = [p for p in sorted(pend, key=lambda p: p.get("close") or "") if not (key(p["name"]) in seen or seen.add(key(p["name"])))]
+    PENDING.write_text(json.dumps({"checked_at": today, "items": pend}, indent=1, ensure_ascii=False) + "\n")
+    print("pending.json:", len(pend), "funds awaiting first NAV")
     OUT.write_text(json.dumps({"checked_at": today, "items": final}, indent=1, ensure_ascii=False) + "\n")
     print("nfos.json:", len(final), "launches;", "SIFPrime ok" if ok else "SIFPrime kept from previous")
     return 0
