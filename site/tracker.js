@@ -64,12 +64,21 @@ function nd(){if(!FACTS||!FACTS.funds)return;var t=document.querySelector('#brow
   tr.classList.toggle('tfd-hide2',fND&&!yes)});
  var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No unhedged derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
  var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No unhedged')<0)n.textContent+=' A green "No unhedged derivatives" tag means every futures or options position is matched by a share position, or the fund holds none.'}
+function hero(){var c=document.getElementById('hxCount'),a=document.getElementById('hxAmcs');if(!c||!a||!LG)return;var p=c.parentNode;var today=new Date().toISOString().slice(0,10);
+ var cur=+c.textContent,curA=+a.textContent;if(p.getAttribute('data-tot')===c.textContent+'|'+a.textContent)return;
+ var names={},keys={},live={};
+ if(FACTS&&FACTS.funds)Object.keys(FACTS.funds).forEach(function(k){var k2=amcKey(FACTS.funds[k].name||'');if(k2)live[k2]=1});
+ var pipe=[];(PD&&PD.items||[]).forEach(function(n){pipe.push(n)});(NF&&NF.items||[]).forEach(function(n){if(!n.close||n.close>=today)pipe.push(n)});
+ pipe.forEach(function(n){var nk=String(n.name||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').replace(/\b(fund|sif|long|short|hybrid|equity)\b/g,'').trim();if(names[nk])return;names[nk]=1;var k2=amcKey((n.amc||'')+' '+(n.name||''))||String(n.amc||'').toLowerCase();if(!live[k2])keys[k2]=1});
+ var nf=Object.keys(names).length,na=Object.keys(keys).length;if(!nf)return;
+ c.textContent=cur+nf;a.textContent=curA+na;var tot=c.textContent+'|'+a.textContent;
+ var last=a.nextSibling;if(last)last.textContent=' AMCs · '+cur+' live on AMFI + '+nf+' in pipeline';p.setAttribute('data-tot',tot);p.title=cur+' funds live on AMFI, '+nf+' open or closed NFOs awaiting first NAV; '+curA+' AMCs live, '+na+' more in the pipeline'}
 function pend(){var t=document.querySelector('#browsePanel table.table-mini tbody');if(!t||!LG||!PD||!PD.items||!PD.items.length)return;
  PD.items.forEach(function(n){var id='tfdP'+String(n.name).replace(/[^a-z0-9]/gi,'').toLowerCase();if(document.getElementById(id))return;
   var amc=String(n.amc||'AMC to verify');var key=amcKey(amc+' '+n.name);var tr=document.createElement('tr');tr.id=id;tr.className='tfd-pend';
   tr.innerHTML='<td class="fund"><div class="fundcell">'+tile(key,amc.replace(/\s*Mutual Fund\s*$/i,''))+'<div><div class="fn">'+esc(shortName(n.name))+'</div><div class="am">'+esc(amc)+'</div></div></div></td><td class="num" colspan="14" style="text-align:left;color:#6E6E73"><span class="tfd-nd" style="background:rgba(42,120,214,.12);color:#1c5fb0">NAV awaited</span> '+esc(n.status||'NFO closed, awaiting first NAV')+(n.close?' (closed '+fd(n.close)+')':'')+'. NAV and returns appear here once the fund is in the AMFI NAV file.</td>';
   t.appendChild(tr)})}
-function tick(){try{css();css2();nfo();pend();logos();fill();search();lb();nd();navbar()}catch(e){}}
+function tick(){try{css();css2();nfo();pend();hero();logos();fill();search();lb();nd();navbar()}catch(e){}}
 
 function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document.getElementById('tfdNav');var back=document.getElementById('detBack');
  if(!m||!back){if(old)old.remove();return}
