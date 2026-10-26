@@ -20,7 +20,8 @@
   "Jio BlackRock": "logo-jio-blackrock.svg",
   "Invesco": "https://investingtfd.com/wp-content/uploads/2026/10/summit-sif-mark.png",
   "Sundaram": "logo-sundaram.png",
-  "AlphaGrep": "logo-alphagrep.png"
+  "AlphaGrep": "logo-alphagrep.png",
+  "Mahindra Manulife": "logo-mahindra-manulife.svg"
  },
  "aliases": {
   "quant": "Quant",
@@ -61,7 +62,9 @@
   "sundaram": "Sundaram",
   "select": "Sundaram",
   "alphagrep": "AlphaGrep",
-  "eminence": "AlphaGrep"
+  "eminence": "AlphaGrep",
+  "mahindra": "Mahindra Manulife",
+  "msif": "Mahindra Manulife"
  },
  "wide": {
   "Edelweiss": "logo-altiva-sif.svg",
