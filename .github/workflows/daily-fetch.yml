@@ -55,6 +55,7 @@ jobs:
           [ -f site/aum.json ] && git add site/aum.json || true
           [ -f site/indices.json ] && git add site/indices.json || true
           [ -f site/nfos.json ] && git add site/nfos.json || true
+          [ -f site/pending.json ] && git add site/pending.json || true
           git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
           git push
 
