@@ -2,7 +2,7 @@
 (function(){
 if(window.__tfdV19)return;window.__tfdV19=1;
 var RAW='https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/';
-var LG=null,FACTS=null,NF=null,lbIdx=0,fND=false,timer=0;
+var LG=null,FACTS=null,NF=null,PD=null,lbIdx=0,fND=false,timer=0;
 var OLD={'quant-clean-mark.png':'Quant','aditya-birla-sun-life-clean-mark.png':'Aditya Birla Sun Life','tata.svg':'Tata','edelweiss-clean-mark.png':'Edelweiss','sbi-symbol.svg':'SBI','360-one.svg':'360 ONE','bandhan-mark.png':'Bandhan','franklin-templeton-clean-mark.png':'Franklin Templeton','icici-prudential-mark.png':'ICICI Prudential','iti-clean-mark.png':'ITI','kotak.svg':'Kotak','mirae-asset-clean-mark.png':'Mirae Asset','wealth-company-mark.svg':'The Wealth Company','union-clean-mark.png':'Union'};
 function esc(t){return String(t==null?'':t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function jget(f){return fetch(RAW+f+'?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).catch(function(){return null})}
@@ -64,7 +64,12 @@ function nd(){if(!FACTS||!FACTS.funds)return;var t=document.querySelector('#brow
   tr.classList.toggle('tfd-hide2',fND&&!yes)});
  var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No unhedged derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
  var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No unhedged')<0)n.textContent+=' A green "No unhedged derivatives" tag means every futures or options position is matched by a share position, or the fund holds none.'}
-function tick(){try{css();css2();nfo();logos();fill();search();lb();nd();navbar()}catch(e){}}
+function pend(){var t=document.querySelector('#browsePanel table.table-mini tbody');if(!t||!LG||!PD||!PD.items||!PD.items.length)return;
+ PD.items.forEach(function(n){var id='tfdP'+String(n.name).replace(/[^a-z0-9]/gi,'').toLowerCase();if(document.getElementById(id))return;
+  var amc=String(n.amc||'AMC to verify');var key=amcKey(amc+' '+n.name);var tr=document.createElement('tr');tr.id=id;tr.className='tfd-pend';
+  tr.innerHTML='<td class="fund"><div class="fundcell">'+tile(key,amc.replace(/\s*Mutual Fund\s*$/i,''))+'<div><div class="fn">'+esc(shortName(n.name))+'</div><div class="am">'+esc(amc)+'</div></div></div></td><td class="num" colspan="14" style="text-align:left;color:#6E6E73"><span class="tfd-nd" style="background:rgba(42,120,214,.12);color:#1c5fb0">NAV awaited</span> '+esc(n.status||'NFO closed, awaiting first NAV')+(n.close?' (closed '+fd(n.close)+')':'')+'. NAV and returns appear here once the fund is in the AMFI NAV file.</td>';
+  t.appendChild(tr)})}
+function tick(){try{css();css2();nfo();pend();logos();fill();search();lb();nd();navbar()}catch(e){}}
 
 function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document.getElementById('tfdNav');var back=document.getElementById('detBack');
  if(!m||!back){if(old)old.remove();return}
@@ -81,7 +86,7 @@ function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document
  back.parentNode.insertBefore(d,back);
  d.addEventListener('click',function(e){var a=e.target.closest('a');if(!a)return;if(a.classList.contains('off')){e.preventDefault();return}if(a.classList.contains('home')){e.preventDefault();location.href='/sif-tracker/';return}window.scrollTo(0,0)})}
 function sched(){clearTimeout(timer);timer=setTimeout(tick,150)}
-Promise.all([jget('logos.json'),jget('facts.json'),jget('nfos.json')]).then(function(r){LG=r[0];FACTS=r[1];NF=r[2];tick();new MutationObserver(sched).observe(document.body,{childList:true,subtree:true});setInterval(tick,3000)});
+Promise.all([jget('logos.json'),jget('facts.json'),jget('nfos.json'),jget('pending.json')]).then(function(r){LG=r[0];FACTS=r[1];NF=r[2];PD=r[3];tick();new MutationObserver(sched).observe(document.body,{childList:true,subtree:true});setInterval(tick,3000)});
 })();
 
 ;(function(){

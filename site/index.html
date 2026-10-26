@@ -352,7 +352,7 @@ function isHybrid(cat) { return cat.includes('Hybrid'); }
 
 function renderKpis() {
   const providers = DATA.providers.length;
-  const schemes = DATA.schemes.length;
+  const schemes = DATA.schemes.length + ((PEND && PEND.items) ? PEND.items.length : 0);
   const dates = new Set();
   DATA.schemes.forEach(s => s.series.forEach(p => dates.add(p.date)));
   const hybridCount = DATA.schemes.filter(s => isHybrid(s.category)).length;
@@ -474,6 +474,12 @@ function renderTable() {
 
     </tr>${detailRow(s)}
   `).join('');
+
+  if (PEND && PEND.items && !document.getElementById('fCategory').value && !document.getElementById('fProvider').value && !document.getElementById('fUnh').checked && !document.getElementById('fUnh5').checked) {
+    const q = document.getElementById('fSearch').value.trim().toLowerCase();
+    document.getElementById('tableBody').insertAdjacentHTML('beforeend', PEND.items.filter(n => !q || (n.name + ' ' + n.amc).toLowerCase().includes(q)).map(n =>
+      `<tr><td></td><td><div class="scheme-name">${esc(n.name)}</div></td><td>${esc(n.amc)}</td><td class="num" colspan="10"><span class="nfo-pill soon">NAV AWAITED</span> ${esc(n.status || 'NFO closed, awaiting first NAV')}${n.close ? ' (closed ' + fmtD(n.close) + ')' : ''}</td></tr>`).join(''));
+  }
 
   document.querySelectorAll('#tableBody input[type=checkbox]').forEach(cb => {
     cb.addEventListener('change', e => {
@@ -621,7 +627,7 @@ function renderChartTable(indexed) {
 
 /* ---- Added: AMC portfolio facts, risk metrics, launches ---- */
 const RF = 0.065;
-let FACTS = null, NFOS = null, expanded = null;
+let FACTS = null, NFOS = null, PEND = null, expanded = null;
 const normName = s => s.toLowerCase().replace(/regular|growth|plan|option|fund|sif|[^a-z0-9]/g, '');
 
 function computeMetrics(s) {
@@ -655,6 +661,10 @@ async function loadExtras() {
     const r = await fetch('nfos.json', { cache: 'no-store' });
     NFOS = r.ok ? await r.json() : null;
   } catch (e) { NFOS = null; }
+  try {
+    const r = await fetch('pending.json', { cache: 'no-store' });
+    PEND = r.ok ? await r.json() : null;
+  } catch (e) { PEND = null; }
 }
 
 function fmtUnh(s) {
