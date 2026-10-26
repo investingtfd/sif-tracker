@@ -12,6 +12,17 @@
    ],
    "url": "https://www.sundarammutual.com/selectsif",
    "note": "Minimum ₹10 lakh at PAN level, ₹1 lakh for accredited investors."
+  },
+  {
+   "name": "MSIF Equity Long-Short Fund",
+   "amc": "Mahindra Manulife Mutual Fund",
+   "strategy": "Equity Long-Short",
+   "open": "2026-09-30",
+   "close": "2026-10-14",
+   "sources": [
+    "Angel One"
+   ],
+   "note": "Closed launch kept until its first NAV appears in the AMFI feed."
   }
  ]
 }
