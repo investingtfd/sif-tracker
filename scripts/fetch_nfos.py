@@ -85,13 +85,14 @@ def toks(text):
     return [w for w in re.sub(r"[^a-z0-9 ]", " ", (text or "").lower()).split() if w not in STOP]
 
 
-def nav_started(it, data_text):
-    """True when the fund (or, for a new AMC, its sponsor) already appears in the AMFI-based data.json."""
+def nav_started(it, schemes):
+    """True only when ONE scheme in the AMFI-based data.json carries every distinctive word of the fund name.
+    (Matching words across all schemes together gave false positives, e.g. Summit Active Asset Allocator
+    matched 'summit' from Summit Equity and 'active asset allocator' from Titanium.)"""
     t = toks(it["name"])
-    if t and all(w in data_text for w in t):
-        return True
-    a = toks(it.get("amc", ""))
-    return bool(a) and a[0] in data_text
+    if not t:
+        return False
+    return any(all(w in sc for w in t) for sc in schemes)
 
 
 def main():
@@ -141,7 +142,7 @@ def main():
     # Closed launches whose fund has no NAV in the AMFI feed yet stay on the tracker as "awaiting first NAV".
     try:
         d = json.loads(DATA.read_text())
-        data_text = " ".join((x.get("scheme_name", "") + " " + x.get("provider", "")) for x in d.get("schemes", [])).lower()
+        data_text = [(x.get("scheme_name", "") + " " + x.get("provider", "")).lower() for x in d.get("schemes", [])]
     except Exception:
         data_text = None
     pend = []
