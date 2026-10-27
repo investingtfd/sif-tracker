@@ -1,17 +1,4 @@
 {
- "checked_at": "2026-10-26",
- "items": [
-  {
-   "name": "MSIF Equity Long-Short Fund",
-   "amc": "Mahindra Manulife Mutual Fund",
-   "strategy": "Equity Long-Short",
-   "open": "2026-09-30",
-   "close": "2026-10-14",
-   "sources": [
-    "Angel One"
-   ],
-   "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-10-26"
-  }
- ]
+ "checked_at": "2026-10-27",
+ "items": []
 }
