@@ -23,6 +23,19 @@
     "Angel One"
    ],
    "note": "Closed launch kept until its first NAV appears in the AMFI feed."
+  },
+  {
+   "name": "Summit Active Asset Allocator Long-Short Fund",
+   "amc": "Invesco Mutual Fund",
+   "strategy": "Active Asset Allocator Long-Short",
+   "open": "2026-10-12",
+   "close": "2026-10-26",
+   "sources": [
+    "5paisa",
+    "Zenith Finserve"
+   ],
+   "url": "https://summitsif.invescomutualfund.com/",
+   "note": "Closed launch kept until its first NAV appears in the AMFI feed."
   }
  ]
 }
