@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:04:34.207Z",
+ "updated_at": "2026-10-28T12:21:06.085Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5426,19 +5426,69 @@
      1.78
     ]
    ],
-   "unhedged": [],
-   "unhedged_count": 0,
-   "unhedged_long": 0,
-   "unhedged_short": 0,
-   "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026: Arudha classes all its futures as hedging and reports none as non-hedging. These are 9 single-stock short futures (about 5.1% of net assets), a NIFTY short (2.9%) and a long Indian Oil future (0.8%), plus covered calls with puts bought on L&T Finance, MCX and Hindustan Zinc. The fund does not hold the 9 shorted stocks, so these are the fund's long-short positions rather than hedges of single holdings.",
+   "unhedged": [
+    [
+     "Indian Oil Corporation Ltd. (futures)",
+     "",
+     0.78
+    ],
+    [
+     "Hindustan Petroleum Corporation Ltd. (futures)",
+     "",
+     -0.75
+    ],
+    [
+     "InterGlobe Aviation Ltd. (futures)",
+     "",
+     -0.62
+    ],
+    [
+     "Page Industries Ltd. (futures)",
+     "",
+     -0.61
+    ],
+    [
+     "Avenue Supermarts Ltd. (futures)",
+     "",
+     -0.6
+    ],
+    [
+     "Trent Ltd. (futures)",
+     "",
+     -0.58
+    ],
+    [
+     "United Spirits Ltd. (futures)",
+     "",
+     -0.57
+    ],
+    [
+     "Voltas Limited (futures)",
+     "",
+     -0.54
+    ],
+    [
+     "Ambuja Cements Ltd. (futures)",
+     "",
+     -0.47
+    ],
+    [
+     "JSW Energy Ltd. (futures)",
+     "",
+     -0.36
+    ]
+   ],
+   "unhedged_count": 10,
+   "unhedged_long": 0.78,
+   "unhedged_short": 5.1,
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: short futures on 9 stocks it does not hold and a long Indian Oil future. Arudha lists these under hedging, but its team confirmed in a webinar they are not hedge positions, so they are shown as unhedged. Not counted: the NIFTY short (2.9%), which offsets part of the fund's roughly 78% equity book, and calls written on L&T Finance, MCX and Hindustan Zinc, which it holds (covered calls, with puts bought on the same stocks).",
    "name": "Arudha Equity Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "Bandhan Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
    "benchmark": "NIFTY 500 TRI",
    "nav_regular_growth": 10.51,
-   "unhedged_zero_since": "2026-09-30",
-   "unhedged_source": "Arudha portfolio workbook, 30 Sep 2026: hedging-positions tables followed (non-hedging futures nil)"
+   "unhedged_source": "Arudha portfolio workbook, 30 Sep 2026, reviewed: Arudha team confirmed its futures listed as hedging are not hedges"
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
