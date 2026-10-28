@@ -1,5 +1,55 @@
 # SIF Tracker daily run log
 
+## 2026-10-28 09:00 Lisbon time
+Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026, all from the Excel portfolio; no fund below the target month).
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- Titanium Active Asset Allocator SIF-169: first NAV 16 Oct 2026, first monthly portfolio is for 31 Oct 2026; added automatically once Tata publishes it.
+- MSIF Equity Long-Short Fund SIF-174 (Mahindra Manulife, a new AMC): first NAV 26 Oct 2026, no portfolio or factsheet expected yet; will be added when its first file appears.
+
+### Data completeness
+Up to date: 34 of 36 SIF funds (94%) have data as on 30 Sep 2026
+of which 34 from the full Excel portfolio and 0 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| Titanium Active Asset Allocator Long-Short Fund (SIF-169) | Titanium / Tata | not in tracker yet | new fund, first portfolio not out yet |
+| MSIF Equity Long-Short Fund (SIF-174) | Mahindra Manulife | not in tracker yet | new AMC, no portfolio published yet (first NAV 26 Oct) |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Nothing failed | - | - | - |
+| 2 | New AMC not yet tracked | Mahindra Manulife, SIF-174 | Launched this week; no files yet | Will retry automatically next run (find its SIF site and add it once a portfolio or factsheet exists) |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | SIF-11, 122, 161 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| RedHex / HSBC | SIF-128 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| WSIF / Wealth Company | SIF-105, 111 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Titanium / Tata | SIF-29, 102 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Platinum / Mirae | SIF-136 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Summit / Invesco | SIF-150 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| qsif / quant | SIF-3, 7, 25, 93, 117 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Prism / Jio BlackRock | SIF-138 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Diviniti / ITI | SIF-21 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Magnum / SBI | SIF-13, 157 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| iSIF / ICICI Prudential | SIF-34, 35, 124, 126 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Apex / Aditya Birla | SIF-80, 154, 156 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Arudha / Bandhan | SIF-40, 62 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Infinity / Kotak | SIF-146 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new (not re-opened) | none |
+| Mahindra Manulife | SIF-174 | not in tracker yet | 🟥 0% | not opened (no files expected yet) | - | - | skipped: fund launched 26 Oct | none |
+
+Industry AUM (AMFI): as on 2026-09-30
+Strategy-split check (Step 3g): no AMC re-checked this run (all funds at target month, AMCs not re-opened).
+
 ## 2026-10-27 09:00 Lisbon time
 Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026; sweeps for Steps 3c, 3f and 3g found no fixes needed).
 
