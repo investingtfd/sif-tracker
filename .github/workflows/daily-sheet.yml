@@ -1,0 +1,64 @@
+name: Daily SIF sheet (image and captions)
+
+on:
+  schedule:
+    # Hourly from 17:30 to 03:30 UTC. AMFI publishes SIF NAVs late evening IST; the sheet is built ONLY when
+    # every fund has the same latest NAV date (see the gate in make_sheet.py), then once per date.
+    - cron: '30 17-23 * * *'
+    - cron: '30 0-3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sheet
+  cancel-in-progress: false
+
+jobs:
+  sheet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest NAV and rebuild data
+        run: |
+          python3 scripts/fetch_daily.py
+          python3 scripts/build_site_data.py
+
+      - name: Fetch benchmark indices (best-effort)
+        continue-on-error: true
+        run: python3 scripts/fetch_indices.py
+
+      - name: Completeness gate (all funds must have the latest NAV)
+        id: gate
+        run: python3 tools/daily_sheet/make_sheet.py --check
+
+      - name: Install fonts and browser
+        if: steps.gate.outputs.ready == 'true'
+        run: |
+          (cd tools/daily_sheet && npm install --no-audit --no-fund)
+          pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+
+      - name: Build sheet and captions
+        if: steps.gate.outputs.ready == 'true'
+        run: python3 tools/daily_sheet/make_sheet.py
+
+      - name: Commit
+        run: |
+          git config user.name "sif-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.csv site/data.json site/daily
+          [ -f site/indices.json ] && git add site/indices.json || true
+          git diff --staged --quiet || git commit -m "Daily SIF sheet $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push
