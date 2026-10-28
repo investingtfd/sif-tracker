@@ -51,7 +51,7 @@ for s in d['schemes']:
     _p = on_or_before(sr, (last - datetime.timedelta(days=7)).isoformat()); _q = on_or_before(sr, (last - datetime.timedelta(days=14)).isoformat())
     r['prev1w'] = (_p[1] / _q[1] - 1) * 100 if (_p and _q and _p[0] != _q[0] and _q[0] <= (last - datetime.timedelta(days=12)).isoformat()) else None
     r['nav'] = sr[-1][1]; r['inc'] = datetime.date.fromisoformat(sr[0][0])
-    r['days'] = (last - datetime.date.fromisoformat(sr[0][0])).days
+    r['last'] = last; r['days'] = (last - datetime.date.fromisoformat(sr[0][0])).days
     fa = F.get(s['scheme_code'], {})
     r['asof'] = fa.get('as_of'); r['aum'] = fa.get('net_assets_cr'); r['risk'] = fa.get('risk_band')
     r['ul'] = fa.get('unhedged_long'); r['us'] = fa.get('unhedged_short'); r['uc'] = fa.get('unhedged_count')
@@ -64,6 +64,9 @@ for s in d['schemes']:
 for k in rows: rows[k].sort(key=lambda r: -(r['aum'] or -1 if r['aum'] is not None else -1) if r['aum'] is not None else 1e9 * 0 + 1)
 for k in rows: rows[k].sort(key=lambda r: (r['sharpe'] is None, -(r['sharpe'] if r['sharpe'] is not None else 0), -(r['1W'] if r['1W'] is not None else -99)))
 allr = [r for v in rows.values() for r in v]
+for r in allr:
+    if r['last'] < asof: r['stale'] = True; r['1D'] = None
+n1 = sum(1 for r in allr if r['1D'] is not None)
 up = sum(1 for r in allr if (r['1D'] or 0) > 0); dn = sum(1 for r in allr if (r['1D'] or 0) < 0)
 best = max((r for r in allr if r['1D'] is not None), key=lambda r: r['1D']); worst = min((r for r in allr if r['1D'] is not None), key=lambda r: r['1D'])
 DATE = asof.strftime('%d %b %Y').lstrip('0')
@@ -115,6 +118,11 @@ def rnk(r):
     if not n: return f"<div class='c' style='width:44px;font-size:14px;color:#b9b2a0'>NR</div>"
     bg = {1: '#d4a72c', 2: '#9aa5a0', 3: '#b9774a'}.get(n, 'transparent'); fg = '#fff' if n <= 3 else INK
     return f"<div style='width:44px;display:flex;justify-content:center'><span style='width:28px;height:28px;border-radius:50%;background:{bg};color:{fg};font:700 15px Geist Mono;display:flex;align-items:center;justify-content:center'>{n}</span></div>"
+def d1(r):
+    if r.get('stale'): return f"<div class='c' style='width:56px;color:{MU}'>†</div>"
+    return pc(r['1D'], 56)
+STALE = [r for r in allr if r.get('stale')]
+STALE_NOTE = (' † 1D not shown: ' + str(len(STALE)) + ' fund(s) had not published a ' + DATE + ' NAV yet, so their other columns use the previous NAV.') if STALE else ''
 def pf(r):
     return datetime.date.fromisoformat(r['asof']).strftime('%d %b').lstrip('0') if r.get('asof') else '–'
 def dl(r):
@@ -131,8 +139,8 @@ for kind in ['Equity Ex-Top 100', 'Equity', 'Sector Rotation', 'Hybrid', 'Active
     body += f"<div class='gh'><span>{TITLE[kind]}</span><span class='gn'>{len(its)} fund{'s' if len(its)!=1 else ''}</span></div>"
     for r in its:
         brand = r['name'].rsplit(' ', 2)[0] if False else BRAND.get(r['prov'], r['prov'])
-        body += f"<div class='row'>{rnk(r)}{lgo(r['prov'])}<div style='width:122px;line-height:1.1'><b>{brand}</b><div class='amc'>{AMC.get(r['prov'], '')}</div></div><div class='c' style='width:78px;color:{MU};font-size:13px'>{age(r)}</div>{rk(r['risk'])}<div class='c' style='width:66px'>{r['nav']:,.2f}</div>{pc(r['1D'],56)}{pc(r['1W'],60,True)}{pc(r['1M'],56)}{pc(r['3M'],56)}{pc(r['6M'],56)}{pc(r['SI'],72)}{pc(((1+r['SI']/100)**(365/r['days'])-1)*100 if (r['days']>=365 and r['SI'] is not None) else None,78)}{un(r)}<div class='c' style='width:76px;color:{MU};font-size:13px'>{pf(r)}</div><div class='c' style='width:68px'>{f"{r['aum']:,.0f}" if r['aum'] is not None else '–'}</div></div>"
-body += f"<div class='gh' style='background:#3b4a46'><span>Benchmark indices (price index)</span><span class='gn'>for reference</span></div>"
+        body += f"<div class='row'>{rnk(r)}{lgo(r['prov'])}<div style='width:122px;line-height:1.1'><b>{brand}</b><div class='amc'>{AMC.get(r['prov'], '')}</div></div><div class='c' style='width:78px;color:{MU};font-size:13px'>{age(r)}</div>{rk(r['risk'])}<div class='c' style='width:66px'>{r['nav']:,.2f}</div>{d1(r)}{pc(r['1W'],60,True)}{pc(r['1M'],56)}{pc(r['3M'],56)}{pc(r['6M'],56)}{pc(r['SI'],72)}{pc(((1+r['SI']/100)**(365/r['days'])-1)*100 if (r['days']>=30 and r['SI'] is not None) else None,78)}{un(r)}<div class='c' style='width:76px;color:{MU};font-size:13px'>{pf(r)}</div><div class='c' style='width:68px'>{f"{r['aum']:,.0f}" if r['aum'] is not None else '–'}</div></div>"
+body += f"<div class='gh' style='background:#3b4a46'><span>Benchmark indices (price index, to {IXR[0]['d'].strftime('%d %b').lstrip('0')})</span><span class='gn'>for reference</span></div>"
 for x in IXR:
     body += f"<div class='row'><div style='width:44px'></div><div style='width:52px'></div><div style='width:122px'><b>{x['name']}</b></div><div class='c' style='width:78px;color:{MU}'>–</div><div style='width:44px'></div><div class='c' style='width:66px'>{x['nav']:,.0f}</div>{pc(x['1D'],56)}{pc(x['1W'],60,True)}{pc(x['1M'],56)}{pc(x['3M'],56)}{pc(x['6M'],56)}<div class='c' style='width:72px;color:{MU}'>–</div><div style='width:78px'></div><div style='width:98px'></div><div style='width:76px'></div><div style='width:68px'></div></div>"
 
@@ -165,7 +173,7 @@ html = f"""<html><head><meta charset='utf-8'><style>{FONTS}</style></head><body>
 <div style='font:900 60px/1.02 Fraunces;letter-spacing:-.015em;margin-top:6px'>Every SIF, one page</div>
 <div style='font-size:19px;color:{MU};margin-top:8px'>{len(allr)} Specialised Investment Funds · Regular plan, Growth · ranked by Sharpe ratio within each strategy (higher = more return per unit of risk) · returns in %</div></div>
 <div style='text-align:right'><div style='font:500 14px "Geist Mono";color:{MU};letter-spacing:.1em'>NAV AS ON</div><div style='font:900 40px Fraunces'>{DATE}</div>
-<div style='margin-top:8px;font:600 17px "Geist Mono";background:{GRN};color:#fff;padding:8px 16px;border-radius:999px;display:inline-block'>{up} of {len(allr)} up today</div></div></div>
+<div style='margin-top:8px;font:600 17px "Geist Mono";background:{GRN};color:#fff;padding:8px 16px;border-radius:999px;display:inline-block'>{up} of {n1} up today</div></div></div>
 <div style='margin-top:12px;font-size:15px;color:{MU}'><span style='color:{GRN};font-weight:700'>+ gain</span> / <span style='color:{RED};font-weight:700'>− loss</span> · "–" fund too new for the period · Risk L1 (lowest) to L5 · Unhedged: <span style='color:{GRN}'>▲ long</span> <span style='color:{RED}'>▼ short</span> derivatives with no matching stock, % of fund</div>
 {STRIP}<div style='margin-top:14px;background:{CARD};border:1px solid {LINE};border-radius:12px;padding:10px 14px 14px'>{HEAD}{body}</div>
 <div style='margin-top:14px;display:flex;justify-content:space-between;align-items:center;background:{GRN};color:#fff;border-radius:12px;padding:14px 20px'>
@@ -173,7 +181,7 @@ html = f"""<html><head><meta charset='utf-8'><style>{FONTS}</style></head><body>
 <div style='margin-top:16px;display:flex;align-items:center;justify-content:space-between'>
 <div style='display:flex;align-items:center;gap:16px'><img src='file://{A}/avatar_sq.jpg' style='width:72px;height:72px;border-radius:50%;object-fit:cover;border:3px solid {GRN}'><div><div style='font-weight:700;font-size:24px'>Ashish Jain · ARN-294841</div><div style='font-size:17px;color:{MU}'>AMFI Registered MFD &amp; SIF Distributor · Delhi NCR · WhatsApp +351 932 196 874</div></div></div>
 <img src='file://{A}/logo.png' style='height:52px'></div>
-<div style='margin-top:14px;font-size:13px;line-height:1.4;color:{MU}'>Returns are NAV change (1D vs previous NAV; 1W 7 days; 1M, 3M, 6M calendar months). Since start is absolute return. Rank is by Sharpe ratio within each strategy (daily NAVs since the first NAV, 6.5% assumed risk-free rate); funds with fewer than 60 NAV days are not ranked (NR), and short histories can move sharply. Annualised (CAGR) is shown only for funds with at least one year of history; younger funds show a dash. Risk band and unhedged data are from each fund's latest portfolio disclosure (portfolio month shown). Indices are price indices, not total return; hybrid funds have their own benchmarks, so no index is drawn against them. Educational only, not investment advice. Specialised Investment Fund investments are subject to market risks. Read all scheme related documents carefully. Past performance may not be sustained. Source: AMFI NAVs, AMC portfolio disclosures, NSE.</div>
+<div style='margin-top:14px;font-size:13px;line-height:1.4;color:{MU}'>Returns are NAV change (1D vs previous NAV; 1W 7 days; 1M, 3M, 6M calendar months). Since start is absolute return. Rank is by Sharpe ratio within each strategy (daily NAVs since the first NAV, 6.5% assumed risk-free rate); funds with fewer than 60 NAV days are not ranked (NR), and short histories can move sharply. Annualised is CAGR since the first NAV, shown from 30 days of history as on the SIF Tracker; for funds under a year it is a projection, not a lived year, and can swing a lot. Risk band and unhedged data are from each fund's latest portfolio disclosure (portfolio month shown). Indices are price indices, not total return; hybrid funds have their own benchmarks, so no index is drawn against them. Educational only, not investment advice. Specialised Investment Fund investments are subject to market risks. Read all scheme related documents carefully. Past performance may not be sustained. Source: AMFI NAVs, AMC portfolio disclosures, NSE.{STALE_NOTE}</div>
 </body></html>"""
 
 # ---------------- captions ----------------
@@ -186,7 +194,7 @@ sg = lambda v: ('+' if v > 0 else '−' if v < 0 else '') + f"{abs(v):.1f}%"
 headline = f"NAV as on {DATE}: {up} of {len(allr)} SIFs up on the day. Best: {best['name'].replace(' L/S', '')} {sg(best['1D'])}. Weakest: {worst['name'].replace(' L/S', '')} {sg(worst['1D'])}."
 cap_x = f"""{REG}
 
-SIF daily sheet, NAV as on {DATE}: {up} of {len(allr)} up. Best {best['name'].replace(' L/S', '')} {sg(best['1D'])}, weakest {worst['name'].replace(' L/S', '')} {sg(worst['1D'])}.
+SIF daily sheet, NAV as on {DATE}: {up} of {n1} up. Best {best['name'].replace(' L/S', '')} {sg(best['1D'])}, weakest {worst['name'].replace(' L/S', '')} {sg(worst['1D'])}.
 
 Live tracker: {LINK}
 
@@ -208,7 +216,7 @@ Full tracker with fund pages: {LINK}
 
 #SIF #SpecialisedInvestmentFund #InvestingTFD"""
 (OUT / 'caption_x.txt').write_text(cap_x); (OUT / 'caption_li.txt').write_text(cap_li)
-json.dump({'nav_date': asof.isoformat(), 'up': up, 'n': len(allr), 'built_utc': datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None).isoformat(timespec='minutes') + 'Z', 'x_chars': len(cap_x)}, open(OUT / 'meta.json', 'w'))
+json.dump({'nav_date': asof.isoformat(), 'up': up, 'n': n1, 'built_utc': datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None).isoformat(timespec='minutes') + 'Z', 'x_chars': len(cap_x)}, open(OUT / 'meta.json', 'w'))
 async def main():
     async with async_playwright() as p:
         br = await p.chromium.launch(); pg = await br.new_page(viewport={'width': 1200, 'height': 1600}, device_scale_factor=1.5)
