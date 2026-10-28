@@ -67,6 +67,19 @@ allr = [r for v in rows.values() for r in v]
 for r in allr:
     if r['last'] < asof: r['stale'] = True; r['1D'] = None
 n1 = sum(1 for r in allr if r['1D'] is not None)
+# ---- completeness gate: build only when EVERY fund has the latest NAV date, and only once per date ----
+import sys, os
+missing = sorted(r['name'] + ' (' + r['last'].isoformat() + ')' for r in allr if r['last'] < asof)
+_prev = None
+try: _prev = json.load(open(ROOT / 'site' / 'daily' / 'meta.json')).get('nav_date')
+except Exception: pass
+_ready = (not missing) and _prev != asof.isoformat()
+_why = 'ready' if _ready else ('already built for ' + asof.isoformat() if not missing else 'waiting for NAVs: ' + '; '.join(missing))
+print('GATE:', _why)
+(ROOT / 'site' / 'daily').mkdir(parents=True, exist_ok=True)
+json.dump({'nav_date': asof.isoformat(), 'funds': len(allr), 'missing': missing, 'checked_utc': datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None).isoformat(timespec='minutes') + 'Z'}, open(ROOT / 'site' / 'daily' / 'status.json', 'w'))
+if os.environ.get('GITHUB_OUTPUT'): open(os.environ['GITHUB_OUTPUT'], 'a').write('ready=' + ('true' if _ready else 'false') + '\n')
+if '--check' in sys.argv or not _ready: sys.exit(0)
 up = sum(1 for r in allr if (r['1D'] or 0) > 0); dn = sum(1 for r in allr if (r['1D'] or 0) < 0)
 best = max((r for r in allr if r['1D'] is not None), key=lambda r: r['1D']); worst = min((r for r in allr if r['1D'] is not None), key=lambda r: r['1D'])
 DATE = asof.strftime('%d %b %Y').lstrip('0')

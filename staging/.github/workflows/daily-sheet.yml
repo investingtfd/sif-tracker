@@ -2,8 +2,10 @@ name: Daily SIF sheet (image and captions)
 
 on:
   schedule:
-    # 19:15 UTC = 12:45 AM IST: after AMFI's ~11pm IST NAV publish, so the sheet has that day's NAV
-    - cron: '15 19 * * *'
+    # Hourly from 17:30 to 03:30 UTC. AMFI publishes SIF NAVs late evening IST; the sheet is built ONLY when
+    # every fund has the same latest NAV date (see the gate in make_sheet.py), then once per date.
+    - cron: '30 17-23 * * *'
+    - cron: '30 0-3 * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -36,13 +38,19 @@ jobs:
         continue-on-error: true
         run: python3 scripts/fetch_indices.py
 
+      - name: Completeness gate (all funds must have the latest NAV)
+        id: gate
+        run: python3 tools/daily_sheet/make_sheet.py --check
+
       - name: Install fonts and browser
+        if: steps.gate.outputs.ready == 'true'
         run: |
           (cd tools/daily_sheet && npm install --no-audit --no-fund)
           pip install --quiet playwright
           python3 -m playwright install --with-deps chromium
 
       - name: Build sheet and captions
+        if: steps.gate.outputs.ready == 'true'
         run: python3 tools/daily_sheet/make_sheet.py
 
       - name: Commit
