@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:36:46.193Z",
+ "updated_at": "2026-10-28T12:49:49.878Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5513,7 +5513,7 @@
      ]
     ],
     "net": 68.73,
-    "note": "The table above shows where the money sits. Futures use only a small margin, not cash, so they are shown here as exposure. The single-stock shorts are not hedges of holdings (the fund holds none of those stocks); the NIFTY short offsets part of the market risk of the equity book."
+    "note": "Where the money sits is shown above. Futures use only a small margin, not cash, so they are shown here as exposure. The single-stock shorts are not hedges of holdings (the fund holds none of those stocks); the NIFTY short offsets part of the market risk of the equity book."
    }
   },
   "SIF-146": {
