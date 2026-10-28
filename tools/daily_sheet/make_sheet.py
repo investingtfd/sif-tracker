@@ -2,7 +2,6 @@
 Run from the repo root:  python3 tools/daily_sheet/make_sheet.py
 Needs: playwright (chromium), and `npm install` inside tools/daily_sheet (fonts)."""
 import asyncio, json, pathlib, datetime, re
-from playwright.async_api import async_playwright
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 TOOL = ROOT / 'tools' / 'daily_sheet'
@@ -80,6 +79,7 @@ print('GATE:', _why)
 json.dump({'nav_date': asof.isoformat(), 'funds': len(allr), 'missing': missing, 'checked_utc': datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None).isoformat(timespec='minutes') + 'Z'}, open(ROOT / 'site' / 'daily' / 'status.json', 'w'))
 if os.environ.get('GITHUB_OUTPUT'): open(os.environ['GITHUB_OUTPUT'], 'a').write('ready=' + ('true' if _ready else 'false') + '\n')
 if '--check' in sys.argv or not _ready: sys.exit(0)
+from playwright.async_api import async_playwright
 up = sum(1 for r in allr if (r['1D'] or 0) > 0); dn = sum(1 for r in allr if (r['1D'] or 0) < 0)
 best = max((r for r in allr if r['1D'] is not None), key=lambda r: r['1D']); worst = min((r for r in allr if r['1D'] is not None), key=lambda r: r['1D'])
 DATE = asof.strftime('%d %b %Y').lstrip('0')
