@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:21:06.085Z",
+ "updated_at": "2026-10-28T12:36:46.193Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5488,7 +5488,33 @@
    "source_url": "https://arudhasif.com/downloads/",
    "benchmark": "NIFTY 500 TRI",
    "nav_regular_growth": 10.51,
-   "unhedged_source": "Arudha portfolio workbook, 30 Sep 2026, reviewed: Arudha team confirmed its futures listed as hedging are not hedges"
+   "unhedged_source": "Arudha portfolio workbook, 30 Sep 2026, reviewed: Arudha team confirmed its futures listed as hedging are not hedges",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      75.93,
+      "eq"
+     ],
+     [
+      "Single-stock shorts (9 stocks not held)",
+      -5.1,
+      "sh"
+     ],
+     [
+      "NIFTY short (index hedge)",
+      -2.88,
+      "hd"
+     ],
+     [
+      "Indian Oil long",
+      0.78,
+      "lg"
+     ]
+    ],
+    "net": 68.73,
+    "note": "The table above shows where the money sits. Futures use only a small margin, not cash, so they are shown here as exposure. The single-stock shorts are not hedges of holdings (the fund holds none of those stocks); the NIFTY short offsets part of the market risk of the equity book."
+   }
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
