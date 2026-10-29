@@ -36,6 +36,18 @@
    ],
    "url": "https://summitsif.invescomutualfund.com/",
    "note": "Closed launch kept until its first NAV appears in the AMFI feed."
+  },
+  {
+   "name": "Eminence Hybrid Long-Short Fund",
+   "amc": "AlphaGrep Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": "2026-10-14",
+   "close": "2026-10-28",
+   "sources": [
+    "5paisa",
+    "Cafemutual"
+   ],
+   "note": "Closed launch kept until its first NAV appears in the AMFI feed."
   }
  ]
 }
