@@ -153,8 +153,11 @@ def main():
         except Exception:
             old_pend = {}
     cutoff = (datetime.date.today() - datetime.timedelta(days=120)).isoformat()
-    for it in closed + [v for k, v in old_pend.items() if k not in merged]:
-        if data_text is None or it.get("close", "") < cutoff or nav_started(it, data_text):
+    # A launch that was on the previous nfos.json but is no longer in this run's list (dropped from SIFPrime,
+    # or closed) must not vanish: keep it as pending until its NAV appears in the feed.
+    dropped = [i for i in prev.get("items", []) if key(i["name"]) not in merged and key(i["name"]) not in old_pend]
+    for it in closed + [v for k, v in old_pend.items() if k not in merged] + dropped:
+        if data_text is None or (it.get("close") or today) < cutoff or nav_started(it, data_text):
             continue
         pend.append({"name": it["name"], "amc": it.get("amc", ""), "strategy": it.get("strategy", ""),
                      "open": it.get("open"), "close": it.get("close"), "sources": it.get("sources", []),
