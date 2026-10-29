@@ -1,5 +1,54 @@
 # SIF Tracker daily run log
 
+## 2026-10-29 07:53 Lisbon time
+Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026, all from the Excel portfolio; no fund below the target month).
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- Titanium Active Asset Allocator SIF-169: first NAV 16 Oct 2026, first monthly portfolio is for 31 Oct 2026; added automatically once Tata publishes it.
+- MSIF Equity Long-Short Fund SIF-174 (Mahindra Manulife, a new AMC): first NAV 26 Oct 2026, no portfolio or factsheet expected yet; will be added automatically once one is published.
+
+### Data completeness
+Target date: 30 Sep 2026 (the 31 Oct 2026 portfolios cannot be out before month end).
+Up to date: 34 of 36 SIF funds (94%) have data as on 30 Sep 2026
+of which 34 from the full Excel portfolio and 0 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-169 Titanium Active Asset Allocator Long-Short Fund | Titanium (Tata) | not in tracker yet | new fund, first portfolio not out yet (due for 31 Oct 2026) |
+| SIF-174 MSIF Equity Long-Short Fund | Mahindra Manulife (new AMC) | not in tracker yet | new fund, first portfolio not out yet; new AMC, site not readable yet |
+
+### Fails and fixes
+No fails today.
+
+### AMC by AMC
+Shortcut used: every AMC with funds in the tracker is already at the target month from the Excel, so no AMC site was re-opened.
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva (Edelweiss) | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| RedHex (HSBC) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| WSIF (The Wealth Company) | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Titanium (Tata) | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Platinum (Mirae) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Sapphire (Franklin) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| DynaSIF (360 ONE) | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Summit (Invesco) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| qsif (quant) | 5 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Prism (Jio BlackRock) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Diviniti (ITI) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Magnum (SBI) | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| iSIF (ICICI Prudential) | 4 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Apex (Aditya Birla) | 3 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Arudha (Bandhan) | 2 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Infinity (Kotak) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+| Arthaya (Union) | 1 | 30 Sep 2026 | 🟩 100% | not re-opened, already at target month | 30 Sep 2026 (loaded) | not checked | nothing new | none |
+
+Industry AUM (AMFI): as on 30 Sep 2026
+Strategy-split check (Step 3g): not run today (all AMCs already at the target month; no new data to classify).
+
 ## 2026-10-28 09:00 Lisbon time
 Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026, all from the Excel portfolio; no fund below the target month).
 
@@ -1203,4 +1252,5 @@ Note: for Tata SIF-102 the top positions come from the factsheet table "Top 10 N
 | Titanium Hybrid Long-Short (SIF-29) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 587.04 -> 540.57 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | split_source, factsheet_only (top positions not changed) |
 | Titanium Equity Long-Short (SIF-102) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 275.64 -> 343.9 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
 | Sapphire Equity Long-Short (SIF-96) | Factsheet | 31 Jul 2026 -> 31 Aug 2026 | 204.5 -> 216.02 | 5 -> 5 (read; benchmark 3) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
+
 
