@@ -13,16 +13,6 @@
    ],
    "status": "NFO closed, awaiting first NAV",
    "first_seen": "2026-10-29"
-  },
-  {
-   "name": "Eminence Hybrid Long-Short Fund",
-   "amc": "AlphaGrep Mutual Fund",
-   "strategy": "Hybrid Long-Short",
-   "sources": [
-    "Choice India"
-   ],
-   "status": "Left the NFO list, awaiting first NAV (dates and details to be confirmed)",
-   "first_seen": "2026-10-29"
   }
  ]
 }
