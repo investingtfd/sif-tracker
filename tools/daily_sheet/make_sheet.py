@@ -45,8 +45,8 @@ for s in d['schemes']:
     import math, statistics as _st
     if len(sr) >= 61:
         _r = [sr[i][1] / sr[i-1][1] - 1 for i in range(1, len(sr))]; _sd = _st.pstdev(_r) * math.sqrt(252)
-        r['sharpe'] = (_st.mean(_r) * 252 - 0.065) / _sd if _sd > 0 else None
-    else: r['sharpe'] = None
+        r['sharpe'] = (_st.mean(_r) * 252 - 0.065) / _sd if _sd > 0 else None; r['sd'] = _sd * 100
+    else: r['sharpe'] = None; r['sd'] = None
     _p = on_or_before(sr, (last - datetime.timedelta(days=7)).isoformat()); _q = on_or_before(sr, (last - datetime.timedelta(days=14)).isoformat())
     r['prev1w'] = (_p[1] / _q[1] - 1) * 100 if (_p and _q and _p[0] != _q[0] and _q[0] <= (last - datetime.timedelta(days=12)).isoformat()) else None
     r['nav'] = sr[-1][1]; r['inc'] = datetime.date.fromisoformat(sr[0][0])
@@ -121,7 +121,7 @@ def un(r):
     return f"<div class='c' style='width:98px;font-size:15px'><span style='color:{GRN}'>▲{r['ul'] or 0:.1f}</span> <span style='color:{RED}'>▼{r['us'] or 0:.1f}</span></div>"
 def age(r):
     return r['inc'].strftime('%d %b %y').lstrip('0')
-COLS = [('INCEPTION', 78), ('RISK', 44), ('NAV ₹', 66), ('1D', 56), ('1W', 60), ('1M', 56), ('3M', 56), ('6M', 56), ('SINCE START', 72), ('ANNUAL-ISED', 78), ('UNHEDGED %', 98), ('PORTFOLIO', 76), ('AUM ₹CR', 68)]
+COLS = [('INCEPTION', 78), ('RISK', 44), ('NAV ₹', 66), ('1D', 56), ('1W', 60), ('1M', 56), ('3M', 56), ('6M', 56), ('SINCE START', 72), ('ANNUAL-ISED', 78), ('SD %', 56), ('UNHEDGED %', 98), ('PORTFOLIO', 76), ('AUM ₹CR', 68)]
 HEAD = f"<div class='th'><div style='width:44px'>RANK</div><div style='width:52px'></div><div style='width:122px'>FUND</div>" + ''.join(f"<div class='hc' style='width:{w}px;{'color:#fff;background:'+GRN+';' if t=='1W' else ''}'>{t}</div>" for t, w in COLS) + "</div>"
 TITLE = {'Equity Ex-Top 100': 'Equity Ex-Top 100 Long-Short', 'Equity': 'Equity Long-Short', 'Sector Rotation': 'Sector Rotation Long-Short', 'Hybrid': 'Hybrid Long-Short', 'Active Asset Allocator': 'Active Asset Allocator Long-Short'}
 AMC = {'Altiva SIF': 'Edelweiss', 'Magnum SIF': 'SBI', 'qsif SIF': 'Quant', 'iSIF SIF': 'ICICI Pru', 'Titanium SIF': 'Tata', 'RedHex SIF': 'HSBC', 'Prism SIF': 'Jio BlackRock', 'Platinum SIF': 'Mirae Asset', 'Arudha SIF': 'Bandhan', 'Apex SIF': 'Aditya Birla SL', 'Infinity SIF': 'Kotak', 'Sapphire SIF': 'Franklin', 'Diviniti SIF': 'ITI', 'WSIF': 'Wealth Co.', 'DynaSIF SIF': '360 ONE', 'Arthaya SIF': 'Union', 'SUMMIT SIF': 'Invesco', 'Mahindra Manulife Mutual Fund': 'Mahindra Manulife'}
@@ -138,6 +138,10 @@ STALE = [r for r in allr if r.get('stale')]
 STALE_NOTE = (' † 1D not shown: ' + str(len(STALE)) + ' fund(s) had not published a ' + DATE + ' NAV yet, so their other columns use the previous NAV.') if STALE else ''
 def pf(r):
     return datetime.date.fromisoformat(r['asof']).strftime('%d %b').lstrip('0') if r.get('asof') else '–'
+def sdc(r):
+    v = r.get('sd')
+    if v is None: return f"<div class='c' style='width:56px;color:{MU};font-size:13px'>NR</div>"
+    return f"<div class='c' style='width:56px'>{v:.1f}</div>"
 def dl(r):
     v = r.get('sharpe')
     if v is None: return f"<div class='c' style='width:56px;color:{MU};font-size:13px'>NR</div>"
@@ -152,10 +156,10 @@ for kind in ['Equity Ex-Top 100', 'Equity', 'Sector Rotation', 'Hybrid', 'Active
     body += f"<div class='gh'><span>{TITLE[kind]}</span><span class='gn'>{len(its)} fund{'s' if len(its)!=1 else ''}</span></div>"
     for r in its:
         brand = r['name'].rsplit(' ', 2)[0] if False else BRAND.get(r['prov'], r['prov'])
-        body += f"<div class='row'>{rnk(r)}{lgo(r['prov'])}<div style='width:122px;line-height:1.1'><b>{brand}</b><div class='amc'>{AMC.get(r['prov'], '')}</div></div><div class='c' style='width:78px;color:{MU};font-size:13px'>{age(r)}</div>{rk(r['risk'])}<div class='c' style='width:66px'>{r['nav']:,.2f}</div>{d1(r)}{pc(r['1W'],60,True)}{pc(r['1M'],56)}{pc(r['3M'],56)}{pc(r['6M'],56)}{pc(r['SI'],72)}{pc(((1+r['SI']/100)**(365/r['days'])-1)*100 if (r['days']>=30 and r['SI'] is not None) else None,78)}{un(r)}<div class='c' style='width:76px;color:{MU};font-size:13px'>{pf(r)}</div><div class='c' style='width:68px'>{f"{r['aum']:,.0f}" if r['aum'] is not None else '–'}</div></div>"
+        body += f"<div class='row'>{rnk(r)}{lgo(r['prov'])}<div style='width:122px;line-height:1.1'><b>{brand}</b><div class='amc'>{AMC.get(r['prov'], '')}</div></div><div class='c' style='width:78px;color:{MU};font-size:13px'>{age(r)}</div>{rk(r['risk'])}<div class='c' style='width:66px'>{r['nav']:,.2f}</div>{d1(r)}{pc(r['1W'],60,True)}{pc(r['1M'],56)}{pc(r['3M'],56)}{pc(r['6M'],56)}{pc(r['SI'],72)}{pc(((1+r['SI']/100)**(365/r['days'])-1)*100 if (r['days']>=30 and r['SI'] is not None) else None,78)}{sdc(r)}{un(r)}<div class='c' style='width:76px;color:{MU};font-size:13px'>{pf(r)}</div><div class='c' style='width:68px'>{f"{r['aum']:,.0f}" if r['aum'] is not None else '–'}</div></div>"
 body += f"<div class='gh' style='background:#3b4a46'><span>Benchmark indices (price index, to {IXR[0]['d'].strftime('%d %b').lstrip('0')})</span><span class='gn'>for reference</span></div>"
 for x in IXR:
-    body += f"<div class='row'><div style='width:44px'></div><div style='width:52px'></div><div style='width:122px'><b>{x['name']}</b></div><div class='c' style='width:78px;color:{MU}'>–</div><div style='width:44px'></div><div class='c' style='width:66px'>{x['nav']:,.0f}</div>{pc(x['1D'],56)}{pc(x['1W'],60,True)}{pc(x['1M'],56)}{pc(x['3M'],56)}{pc(x['6M'],56)}<div class='c' style='width:72px;color:{MU}'>–</div><div style='width:78px'></div><div style='width:98px'></div><div style='width:76px'></div><div style='width:68px'></div></div>"
+    body += f"<div class='row'><div style='width:44px'></div><div style='width:52px'></div><div style='width:122px'><b>{x['name']}</b></div><div class='c' style='width:78px;color:{MU}'>–</div><div style='width:44px'></div><div class='c' style='width:66px'>{x['nav']:,.0f}</div>{pc(x['1D'],56)}{pc(x['1W'],60,True)}{pc(x['1M'],56)}{pc(x['3M'],56)}{pc(x['6M'],56)}<div class='c' style='width:72px;color:{MU}'>–</div><div style='width:78px'></div><div style='width:56px'></div><div style='width:98px'></div><div style='width:76px'></div><div style='width:68px'></div></div>"
 
 srt = sorted([r for r in allr if r['1D'] is not None], key=lambda r: -r['1D'])
 def chip(r, g):
@@ -194,7 +198,7 @@ html = f"""<html><head><meta charset='utf-8'><style>{FONTS}</style></head><body>
 <div style='margin-top:16px;display:flex;align-items:center;justify-content:space-between'>
 <div style='display:flex;align-items:center;gap:16px'><img src='file://{A}/avatar_sq.jpg' style='width:72px;height:72px;border-radius:50%;object-fit:cover;border:3px solid {GRN}'><div><div style='font-weight:700;font-size:24px'>Ashish Jain · ARN-294841</div><div style='font-size:17px;color:{MU}'>AMFI Registered MFD &amp; SIF Distributor · Delhi NCR · WhatsApp +351 932 196 874</div></div></div>
 <img src='file://{A}/logo.png' style='height:52px'></div>
-<div style='margin-top:14px;font-size:13px;line-height:1.4;color:{MU}'>Returns are NAV change (1D vs previous NAV; 1W 7 days; 1M, 3M, 6M calendar months). Since start is absolute return. Rank is by Sharpe ratio within each strategy (daily NAVs since the first NAV, 6.5% assumed risk-free rate); funds with fewer than 60 NAV days are not ranked (NR), and short histories can move sharply. Annualised is CAGR since the first NAV, shown from 30 days of history as on the SIF Tracker; for funds under a year it is a projection, not a lived year, and can swing a lot. Risk band and unhedged data are from each fund's latest portfolio disclosure (portfolio month shown). Indices are price indices, not total return; hybrid funds have their own benchmarks, so no index is drawn against them. Educational only, not investment advice. Specialised Investment Fund investments are subject to market risks. Read all scheme related documents carefully. Past performance may not be sustained. Source: AMFI NAVs, AMC portfolio disclosures, NSE.{STALE_NOTE}</div>
+<div style='margin-top:14px;font-size:13px;line-height:1.4;color:{MU}'>Returns are NAV change (1D vs previous NAV; 1W 7 days; 1M, 3M, 6M calendar months). Since start is absolute return. Rank is by Sharpe ratio within each strategy (daily NAVs since the first NAV, 6.5% assumed risk-free rate); funds with fewer than 60 NAV days are not ranked (NR), and short histories can move sharply. SD is the annualised standard deviation of daily returns since the first NAV (how much the NAV moves up and down; lower is steadier), shown from 60 NAV days. Annualised is CAGR since the first NAV, shown from 30 days of history as on the SIF Tracker; for funds under a year it is a projection, not a lived year, and can swing a lot. Risk band and unhedged data are from each fund's latest portfolio disclosure (portfolio month shown). Indices are price indices, not total return; hybrid funds have their own benchmarks, so no index is drawn against them. Educational only, not investment advice. Specialised Investment Fund investments are subject to market risks. Read all scheme related documents carefully. Past performance may not be sustained. Source: AMFI NAVs, AMC portfolio disclosures, NSE.{STALE_NOTE}</div>
 </body></html>"""
 
 # ---------------- captions ----------------
@@ -219,7 +223,7 @@ cap_li = f"""{LI_REG}
 📊 SIF daily sheet. {headline}
 
 ▪️ 1D, 1W, 1M, 3M, 6M and since start
-▪️ Risk-adjusted (Sharpe) rank within each strategy
+▪️ Risk-adjusted (Sharpe) rank and SD (volatility) within each strategy
 ▪️ Risk band and unhedged derivative flag
 Full tracker with fund pages: {LINK}
 
