@@ -30,6 +30,22 @@
    "first_seen": "2026-10-30"
   },
   {
+   "name": "Accelerate SIF",
+   "amc": "Axis Mutual Fund",
+   "strategy": "",
+   "open": null,
+   "close": null,
+   "sources": [
+    "Accelerate SIF site",
+    "Angel One",
+    "Business Today"
+   ],
+   "url": "https://acceleratesif.com/",
+   "note": "Upcoming soon: Axis Mutual Fund's SIF platform (equity and hybrid strategies planned) is live on acceleratesif.com; NFO dates not yet published.",
+   "amfi": false,
+   "first_seen": "2026-10-30"
+  },
+  {
    "name": "Endurance SIF",
    "amc": "DSP Mutual Fund",
    "strategy": "",
