@@ -21,7 +21,9 @@
   "Invesco": "https://investingtfd.com/wp-content/uploads/2026/10/summit-sif-mark.png",
   "Sundaram": "logo-sundaram.png",
   "AlphaGrep": "logo-alphagrep.png",
-  "Mahindra Manulife": "logo-mahindra-manulife.svg"
+  "Mahindra Manulife": "logo-mahindra-manulife.svg",
+  "HDFC": "logo-hdfc.png",
+  "DSP": "logo-dsp.png"
  },
  "aliases": {
   "quant": "Quant",
@@ -64,7 +66,12 @@
   "alphagrep": "AlphaGrep",
   "eminence": "AlphaGrep",
   "mahindra": "Mahindra Manulife",
-  "msif": "Mahindra Manulife"
+  "msif": "Mahindra Manulife",
+  "hdfc": "HDFC",
+  "h-sif": "HDFC",
+  "hsif": "HDFC",
+  "dsp": "DSP",
+  "endurance": "DSP"
  },
  "wide": {
   "Edelweiss": "logo-altiva-sif.svg",
