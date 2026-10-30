@@ -15,6 +15,34 @@
    "url": "https://www.sundarammutual.com/selectsif",
    "amfi": false,
    "first_seen": "2026-10-18"
+  },
+  {
+   "name": "H-SIF Hybrid Long-Short Fund",
+   "amc": "HDFC Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": "2026-11-13",
+   "close": "2026-11-27",
+   "sources": [
+    "HDFC Mutual Fund H-SIF site"
+   ],
+   "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page.",
+   "amfi": false,
+   "first_seen": "2026-10-30"
+  },
+  {
+   "name": "Endurance SIF",
+   "amc": "DSP Mutual Fund",
+   "strategy": "",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SIF360",
+    "DSP Mutual Fund site"
+   ],
+   "url": "https://www.dspim.com/endurancesif",
+   "note": "Upcoming soon: launch announced, NFO dates not yet published.",
+   "amfi": false,
+   "first_seen": "2026-10-30"
   }
  ]
 }
