@@ -12131,15 +12131,19 @@
         {
           "date": "2026-10-28",
           "nav": 12.5693
+        },
+        {
+          "date": "2026-10-29",
+          "nav": 12.6746
         }
       ],
-      "latest_date": "2026-10-28",
-      "latest_nav": 12.5693,
-      "change_since_first_pct": 25.58,
-      "change_1d_pct": -0.31,
-      "return_1m_pct": -4.24,
-      "return_3m_pct": 14.56,
-      "return_annualised_pct": 55.98
+      "latest_date": "2026-10-29",
+      "latest_nav": 12.6746,
+      "change_since_first_pct": 26.63,
+      "change_1d_pct": 0.84,
+      "return_1m_pct": -3.46,
+      "return_3m_pct": 12.12,
+      "return_annualised_pct": 58.15
     },
     {
       "scheme_code": "SIF-96",

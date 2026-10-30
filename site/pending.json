@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-29",
+ "checked_at": "2026-10-30",
  "items": [
   {
    "name": "Summit Active Asset Allocator Long-Short Fund",
@@ -12,7 +12,7 @@
     "Zenith Finserve"
    ],
    "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   },
   {
    "name": "Eminence Hybrid Long-Short Fund",
@@ -25,7 +25,7 @@
     "Cafemutual"
    ],
    "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-10-29"
+   "first_seen": "2026-10-30"
   }
  ]
 }
