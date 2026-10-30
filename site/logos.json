@@ -23,7 +23,8 @@
   "AlphaGrep": "logo-alphagrep.png",
   "Mahindra Manulife": "logo-mahindra-manulife.svg",
   "HDFC": "logo-hdfc.png",
-  "DSP": "logo-dsp.png"
+  "DSP": "logo-dsp.png",
+  "Abakkus": "logo-abakkus.png"
  },
  "aliases": {
   "quant": "Quant",
@@ -71,7 +72,9 @@
   "h-sif": "HDFC",
   "hsif": "HDFC",
   "dsp": "DSP",
-  "endurance": "DSP"
+  "endurance": "DSP",
+  "abakkus": "Abakkus",
+  "fokkus": "Abakkus"
  },
  "wide": {
   "Edelweiss": "logo-altiva-sif.svg",
