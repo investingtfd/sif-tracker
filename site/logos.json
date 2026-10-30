@@ -24,7 +24,8 @@
   "Mahindra Manulife": "logo-mahindra-manulife.svg",
   "HDFC": "logo-hdfc.png",
   "DSP": "logo-dsp.png",
-  "Abakkus": "logo-abakkus.png"
+  "Abakkus": "logo-abakkus.png",
+  "Axis": "logo-axis-accelerate.png"
  },
  "aliases": {
   "quant": "Quant",
@@ -74,7 +75,9 @@
   "dsp": "DSP",
   "endurance": "DSP",
   "abakkus": "Abakkus",
-  "fokkus": "Abakkus"
+  "fokkus": "Abakkus",
+  "axis": "Axis",
+  "accelerate": "Axis"
  },
  "wide": {
   "Edelweiss": "logo-altiva-sif.svg",
