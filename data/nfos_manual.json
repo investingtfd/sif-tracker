@@ -48,6 +48,30 @@
     "Cafemutual"
    ],
    "note": "Closed launch kept until its first NAV appears in the AMFI feed."
+  },
+  {
+   "name": "H-SIF Hybrid Long-Short Fund",
+   "amc": "HDFC Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": "2026-11-13",
+   "close": "2026-11-27",
+   "sources": [
+    "HDFC Mutual Fund H-SIF site"
+   ],
+   "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page."
+  },
+  {
+   "name": "Endurance SIF",
+   "amc": "DSP Mutual Fund",
+   "strategy": "",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SIF360",
+    "DSP Mutual Fund site"
+   ],
+   "url": "https://www.dspim.com/endurancesif",
+   "note": "Upcoming soon: launch announced, NFO dates not yet published."
   }
  ]
 }
