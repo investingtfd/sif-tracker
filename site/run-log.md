@@ -1,5 +1,54 @@
 # SIF Tracker daily run log
 
+## 2026-11-01 09:52 Lisbon time
+Result: nothing changed. facts.json was not touched (all 34 entries stay on 30 Sep 2026; the new target month is 31 Oct 2026 and it is 1 Nov, so no AMC can have published October yet).
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- None
+
+### Data completeness
+Up to date: 0 of 36 SIF funds (0%) have data as on 31 Oct 2026
+of which 0 from the full Excel portfolio and 0 from the factsheet only (all 34 tracked funds are on 30 Sep 2026, one month behind the new target).
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| All 34 tracked funds | all 17 AMCs | 30 Sep 2026 | AMC has not published yet (month just ended) |
+| SIF-169 Titanium Active Asset Allocator Long-Short | Tata | not in tracker yet | New fund, first portfolio (31 Oct 2026) not out yet |
+| SIF-174 MSIF Equity Long-Short Fund | Mahindra Manulife | not in tracker yet | New AMC seen in the NAV feed (first NAV 26 Oct 2026); first portfolio not out yet, site not looked at yet |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Fund missing from tracker | Mahindra Manulife SIF-174 | New AMC; no portfolio or factsheet published yet | Will retry automatically next run (find its SIF site and add the fund once a file exists) |
+| 2 | Fund missing from tracker | Tata SIF-169 | First portfolio is for 31 Oct, not out yet | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | SIF-11, 122, 161 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| RedHex / HSBC | SIF-128 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | not checked | nothing new | none |
+| WSIF / Wealth Company | SIF-105, 111 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | none exists | nothing new | none |
+| Titanium / Tata | SIF-29, 102 (SIF-169 not in tracker yet) | 30 Sep 2026 | 🟥 0% | yes (API) | 30 Sep 2026 | not checked | nothing new | none |
+| Platinum / Mirae | SIF-136 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 30 Sep 2026 | 🟥 0% | yes | not checked (Excel is bimonthly) | 30 Sep 2026 | nothing new | none |
+| Summit / Invesco | SIF-150 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| qsif / quant | SIF-3, 7, 25, 93, 117 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Prism / Jio BlackRock | SIF-138 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Diviniti / ITI | SIF-21 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Magnum / SBI | SIF-13, 157 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| iSIF / ICICI Prudential | SIF-34, 35, 124, 126 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Apex / Aditya Birla | SIF-80, 154, 156 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Arudha / Bandhan | SIF-40, 62 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Infinity / Kotak | SIF-146 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟥 0% | not opened (1 Nov, October data cannot be out yet) | - | - | nothing new | none |
+
+Industry AUM (AMFI): as on 30 Sep 2026
+Strategy-split check (Step 3g): not run today (no new data month to check).
+
 ## 2026-10-30 07:54 Lisbon time
 Result: nothing changed. facts.json was not touched (all 34 entries already on 30 Sep 2026, all from the Excel portfolio; no fund below the target month).
 
