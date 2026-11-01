@@ -1,5 +1,5 @@
 {
-  "generated_at_data_date": "2026-10-30",
+  "generated_at_data_date": "2026-10-31",
   "categories": [
     "Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )",
     "Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )",
@@ -4172,15 +4172,19 @@
         {
           "date": "2026-10-30",
           "nav": 10.2446
+        },
+        {
+          "date": "2026-10-31",
+          "nav": 10.2449
         }
       ],
-      "latest_date": "2026-10-30",
-      "latest_nav": 10.2446,
-      "change_since_first_pct": 2.1,
-      "change_1d_pct": -0.04,
-      "return_1m_pct": -0.62,
-      "return_3m_pct": -2.15,
-      "return_annualised_pct": 2.1
+      "latest_date": "2026-10-31",
+      "latest_nav": 10.2449,
+      "change_since_first_pct": 2.11,
+      "change_1d_pct": 0.0,
+      "return_1m_pct": -0.28,
+      "return_3m_pct": -2.14,
+      "return_annualised_pct": 2.09
     },
     {
       "scheme_code": "SIF-25",
@@ -7680,14 +7684,18 @@
         {
           "date": "2026-10-30",
           "nav": 10.402
+        },
+        {
+          "date": "2026-10-31",
+          "nav": 10.403
         }
       ],
-      "latest_date": "2026-10-30",
-      "latest_nav": 10.402,
-      "change_since_first_pct": 3.68,
-      "change_1d_pct": 0.08,
-      "return_1m_pct": 0.16,
-      "return_3m_pct": 0.63,
+      "latest_date": "2026-10-31",
+      "latest_nav": 10.403,
+      "change_since_first_pct": 3.69,
+      "change_1d_pct": 0.01,
+      "return_1m_pct": 0.2,
+      "return_3m_pct": 0.64,
       "return_annualised_pct": 5.04
     },
     {
@@ -10460,15 +10468,19 @@
         {
           "date": "2026-10-30",
           "nav": 9.995
+        },
+        {
+          "date": "2026-10-31",
+          "nav": 9.995
         }
       ],
-      "latest_date": "2026-10-30",
+      "latest_date": "2026-10-31",
       "latest_nav": 9.995,
       "change_since_first_pct": 1.74,
-      "change_1d_pct": -0.46,
-      "return_1m_pct": -0.93,
+      "change_1d_pct": 0.0,
+      "return_1m_pct": -0.42,
       "return_3m_pct": -4.69,
-      "return_annualised_pct": 2.99
+      "return_annualised_pct": 2.97
     },
     {
       "scheme_code": "SIF-80",
@@ -18953,15 +18965,19 @@
         {
           "date": "2026-10-30",
           "nav": 9.3558
+        },
+        {
+          "date": "2026-10-31",
+          "nav": 9.3556
         }
       ],
-      "latest_date": "2026-10-30",
-      "latest_nav": 9.3558,
-      "change_since_first_pct": -6.09,
-      "change_1d_pct": -1.6,
-      "return_1m_pct": -4.65,
+      "latest_date": "2026-10-31",
+      "latest_nav": 9.3556,
+      "change_since_first_pct": -6.1,
+      "change_1d_pct": -0.0,
+      "return_1m_pct": -3.8,
       "return_3m_pct": null,
-      "return_annualised_pct": -32.68
+      "return_annualised_pct": -32.24
     },
     {
       "scheme_code": "SIF-161",
