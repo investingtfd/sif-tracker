@@ -1,5 +1,56 @@
 # SIF Tracker daily run log
 
+## 2026-11-03 08:40 Lisbon time
+Result: nothing changed. facts.json was not touched (all 34 entries stay on 30 Sep 2026; target month is 31 Oct 2026 and no checked AMC has published October yet).
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- None found. October files are not out at the AMCs checked; the next firings retry automatically.
+
+### Data completeness
+Up to date: 0 of 36 SIF funds (0%) have data as on 31 Oct 2026 (34 of 36 are tracked, all on 30 Sep 2026)
+of which 0 from the full Excel portfolio and 0 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| All 34 tracked funds | all AMCs | 30 Sep 2026 | AMC has not published October yet (checked 11 AMCs, see below); other AMCs not re-opened this run |
+| SIF-169 Titanium Active Asset Allocator Long-Short Fund | Titanium / Tata | not in tracker yet | new fund, first portfolio (31 Oct) not out yet |
+| SIF-174 MSIF Equity Long-Short Fund | unidentified AMC | not in tracker yet | new fund seen in the NAV feed, no data yet; AMC site to be found next run |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | DynaSIF / 360 ONE | Cloudflare "Attention Required" page | Will retry automatically next run |
+| 2 | Site would not open | Arthaya SIF-114 / Union MF | Browser pane refused unionmf.com | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+| 3 | New fund without data | SIF-174 MSIF Equity Long-Short Fund | In the NAV feed, no facts entry, AMC not identified yet | Will retry automatically next run |
+| 4 | Not re-opened | Altiva, Franklin, Invesco, quant, Jio, SBI, Mirae, Kotak | Run limited to AMCs most likely to publish first | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | SIF-11, 122, 161 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| RedHex / HSBC | SIF-128 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | - | nothing new | none |
+| WSIF / Wealth Co | SIF-105, 111 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | n/a | nothing new | none |
+| Titanium / Tata | SIF-29, 102 | 30 Sep 2026 | 🟥 0% | yes (API) | 30 Sep 2026 | 30 Sep 2026 | nothing new | none |
+| Platinum / Mirae | SIF-136 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 30 Sep 2026 | 🟥 0% | blocked (Cloudflare) | - | - | skipped: blocked | none |
+| Summit / Invesco | SIF-150 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| qsif / quant | SIF-3, 7, 25, 93, 117 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| Prism / Jio BlackRock | SIF-138 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| Diviniti / ITI | SIF-21 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | - | nothing new | none |
+| Magnum / SBI | SIF-13, 157 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| iSIF / ICICI Prudential | SIF-34, 35, 124, 126 | 30 Sep 2026 | 🟥 0% | yes (loader) | 30 Sep 2026 | - | nothing new | none |
+| Apex / Aditya Birla | SIF-80, 154, 156 | 30 Sep 2026 | 🟥 0% | yes (loader) | 30 Sep 2026 | - | nothing new | none |
+| Arudha / Bandhan | SIF-40, 62 | 30 Sep 2026 | 🟥 0% | yes | not read (links listed only) | Aug 2026 newest listed | nothing new seen | none |
+| Infinity / Kotak | SIF-146 | 30 Sep 2026 | 🟥 0% | not re-opened | - | - | not checked | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟥 0% | blocked (navigation failed) | - | - | skipped: site would not open | none |
+
+Industry AUM (AMFI): as on 30 Sep 2026
+Strategy-split check (Step 3g): not run today (no new month loaded).
+
 ## 2026-11-02 08:00 Lisbon time
 Result: nothing changed. facts.json was not touched (all 34 entries stay on 30 Sep 2026; target month is now 31 Oct 2026 and it is only 2 Nov).
 
