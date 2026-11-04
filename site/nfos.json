@@ -105,15 +105,16 @@
   },
   {
    "name": "Numa SIF Equity Long-Short Fund",
-   "amc": "AMC to be confirmed",
+   "amc": "Nuvama Mutual Fund",
    "strategy": "Equity Long-Short",
    "open": null,
    "close": null,
    "sources": [
-    "SEBI filings (Mutual Funds draft)"
+    "SEBI filings (Mutual Funds draft)",
+    "Numa SIF ISID"
    ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/numa-sif-equity-long-short-fund_105533.html",
-   "note": "Upcoming soon: draft SID filed with SEBI on 2 Nov 2026; NFO dates not announced. AMC name to be confirmed from the filing.",
+   "url": "https://nuvamamutualfund.com/numasif",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 2 Nov 2026 by Nuvama Asset Management Ltd (Numa SIF by Nuvama Mutual Fund). Risk band 5 (Very High); benchmark NIFTY 500 TRI, also risk band 5; Rs 10 per unit. NFO dates not yet announced.",
    "amfi": false,
    "first_seen": "2026-11-04"
   },
