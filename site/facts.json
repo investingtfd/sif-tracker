@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:11:17.999Z",
+ "updated_at": "2026-11-04T16:26:37.359Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -281,7 +281,11 @@
       "experience_years": 16,
       "since": "2025-10-20"
      }
-    ]
+    ],
+    "benchmark_short": "NIFTY 50 Hybrid Composite Debt 50:50",
+    "min_sip_short": "₹1,000",
+    "min_application_short": "₹10 lakh across Altiva strategies",
+    "exit_load_short": "0.50% if sold within 30 days, nil after"
    },
    "debt_quants": {
     "as_on": "2026-10-31",
@@ -435,6 +439,30 @@
     ],
     "net": 3,
     "note": "Based on the Altiva October 2026 fund note (31 Oct 2026). Most of the equity the fund holds sits in its Cash-Future Arbitrage and Covered Call strategy (43% of the fund), where each stock is hedged with a future or a call written, so market moves largely cancel. The open equity risk is the Special situations bucket (about 3%). REITs and InvITs (4.7%) also move with markets and are not counted here. This is an estimate from the AMC's own strategy split; the exact hedge ratio follows when the full October portfolio is published."
+   },
+   "strategy_overview": {
+    "tagline": "An income-oriented strategy with arbitrage and fixed income as the core, enhanced by selective special situations and derivatives.",
+    "core": [
+     {
+      "name": "Cash-future arbitrage and covered calls",
+      "text": "Arbitrage strategies aiming to capture low-risk returns."
+     },
+     {
+      "name": "Fixed income",
+      "text": "Quality debt aiming to generate accrual income and potential price appreciation."
+     }
+    ],
+    "enhanced": [
+     {
+      "name": "Special situations",
+      "text": "IPO, open offer, buyback, merger or demerger, QIP, index inclusion or exclusion."
+     },
+     {
+      "name": "Derivative strategies",
+      "text": "Long-short equities, straddles, strangles, put-call parity and similar."
+     }
+    ],
+    "note": "REITs and InvITs can also be held at the fund manager’s discretion. The mix can change with market conditions."
    }
   },
   "SIF-122": {
