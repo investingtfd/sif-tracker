@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:26:37.359Z",
+ "updated_at": "2026-11-04T16:29:37.154Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -83,56 +83,81 @@
    ],
    "top_debt": [
     [
-     "7.51% Small Industries Development Bank of India 12-Jun-2028",
-     "CRISIL AAA",
-     1.55
-    ],
-    [
-     "7.44% REC Ltd. 29-Feb-2028",
-     "CRISIL AAA",
-     1.42
-    ],
-    [
-     "7.90% Bajaj Finance Ltd. 13-Apr-2028",
-     "CRISIL AAA",
-     1.33
-    ],
-    [
-     "182 DAY T-BILL 27.11.26",
+     "T-Bill",
      "Sovereign",
-     1.32
+     11.77
     ],
     [
-     "364 DAY T-BILL 03.12.26",
-     "Sovereign",
-     1.32
+     "Bajaj Finance Ltd.",
+     "AAA",
+     3.75
+    ],
+    [
+     "NABARD",
+     "AAA",
+     3.62
+    ],
+    [
+     "SIDBI",
+     "AAA",
+     2.88
+    ],
+    [
+     "REC Ltd.",
+     "AAA",
+     2.25
+    ],
+    [
+     "Tata Capital Housing Finance",
+     "AAA",
+     2.06
+    ],
+    [
+     "Sun Pharma Industries Ltd.",
+     "AAA",
+     2.05
+    ],
+    [
+     "Muthoot Finance Ltd.",
+     "AA+",
+     1.78
+    ],
+    [
+     "Mahindra & Mahindra Fin Serv",
+     "AAA",
+     1.71
+    ],
+    [
+     "JTPM Metal Traders Ltd.",
+     "AA",
+     0.93
     ]
    ],
    "top_shorts": [
     [
-     "HDFC Bank Ltd.",
-     "Banks",
-     -1.05
+     "Persistent Systems Ltd.",
+     "IT - Software",
+     -1.48
     ],
     [
-     "Adani Enterprises Ltd.",
-     "Metals & Minerals Trading",
-     -0.89
+     "HDFC Bank Ltd.",
+     "Banks",
+     -0.94
+    ],
+    [
+     "ITC Ltd.",
+     "Diversified FMCG",
+     -0.84
     ],
     [
      "Adani Energy Solutions Ltd.",
      "Power",
-     -0.87
+     -0.82
     ],
     [
-     "Bharat Forge Ltd.",
-     "Auto Components",
-     -0.3
-    ],
-    [
-     "Life Insurance Corporation of India",
-     "Insurance",
-     -0.2
+     "Adani Enterprises Ltd.",
+     "Metals & Minerals Trading",
+     -0.73
     ]
    ],
    "equity_gross_pct": 43.84,
@@ -233,7 +258,7 @@
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "top_equity_basis": "unhedged",
    "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only",
-   "split_source": "Fund size, top positions and asset split as on 31 Oct 2026 (Altiva October fund note; the split is the AMC's own classification, whole numbers except REITs and InvITs, which use the exact weights; top positions are net of futures and options). Holdings count, sectors, shorts, derivatives and unhedged positions as on 30 Sep 2026, pending the full October portfolio. Special situations means IPO, OFS and QIP",
+   "split_source": "Fund size, top positions and asset split as on 31 Oct 2026 (Altiva October fund note; the split is the AMC's own classification, whole numbers except REITs and InvITs, which use the exact weights; top positions are net of futures and options). Top fixed income issuers and top short futures are also as on 31 Oct 2026. Holdings count, sectors and the unhedged derivative card are as on 30 Sep 2026, pending the full October portfolio. Special situations means IPO, OFS and QIP",
    "factsheet_only": true,
    "scheme_details": {
     "as_on": "2026-10-30",
