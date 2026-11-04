@@ -35,18 +35,35 @@ function css(){if(document.getElementById('tfdV19css'))return;var s=document.cre
 +'.tfd-nd{display:inline-block;margin-left:8px;font:600 11px/1 Manrope,system-ui,sans-serif;letter-spacing:.02em;color:#0a6b4a;background:rgba(13,107,84,.12);border-radius:999px;padding:4px 8px;white-space:nowrap;vertical-align:middle}'+'#tfdNav{display:flex;align-items:stretch;justify-content:space-between;gap:10px;margin:2px 0 14px}#tfdNav .nv{display:flex;flex-direction:column;justify-content:center;min-width:0;max-width:34%;padding:9px 16px;border:1px solid var(--border,#E3DFD3);border-radius:14px;background:#fff;color:var(--ink,#1c1c1c);text-decoration:none;font-size:14px}#tfdNav .nv small{font-weight:700;color:#0D6B54;font-size:12.5px;letter-spacing:.02em}#tfdNav .nv span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink-soft,#6E6E73);margin-top:2px}#tfdNav .next{text-align:right}#tfdNav .nv:hover{border-color:#0D6B54}#tfdNav .nv.off{opacity:.35;pointer-events:none}#tfdNav .home{flex:0 0 auto;align-items:center;justify-content:center;font-weight:700;color:#fff;background:#0D6B54;border-color:#0D6B54}@media(max-width:700px){#tfdNav .nv span{display:none}#tfdNav .nv{max-width:none;flex:1;padding:10px}}'
 +'tr.tfd-hide2{display:none!important}';
 document.head.appendChild(s)}
-function nfo(){var d=document.getElementById('tfdNfo');if(!d||!NF||!LG||!NF.items)return;var sig='v19:'+(NF.checked_at||'');if(d.getAttribute('data-v19')===sig)return;
+function nfo(){var d=document.getElementById('tfdNfo');if(!d||!NF||!LG||!NF.items)return;var sig='v20:'+(NF.checked_at||'')+':'+NF.items.length;if(d.getAttribute('data-v19')===sig)return;
 var today=new Date().toISOString().slice(0,10);var items=NF.items.filter(function(n){return!n.close||n.close>=today});if(!items.length)return;
 d.setAttribute('data-v19',sig);
-d.innerHTML='<div class="tn-h"><h2>Open and upcoming launches</h2><span class="tn-chk">Checked '+esc(NF.checked_at||'')+'</span></div><div class="tn-grid">'+items.map(function(n){
- var open=n.open&&n.open<=today;
- var k=open?'Open · closes '+fd(n.close):(n.open?'Opens '+fd(n.open):'Coming soon');
- var v=n.open&&n.close?fd(n.open)+' – '+fd(n.close):'Dates to be announced';
- var key=amcKey((n.amc||'')+' '+(n.name||''));var amc=String(n.amc||'AMC to verify');
- var chk=n.amfi===true?'Listed on AMFI':n.amfi===false?'Not on AMFI yet':'';
- var nt=[n.note,chk].filter(Boolean).join(' · ');
- return '<div class="tn2"><div class="k">'+esc(k)+'</div><div class="v '+(open?'o':'s')+'">'+esc(v)+'</div><div class="kl">'+tile(key,amc.replace(/\s*Mutual Fund\s*$/i,''))+'<div class="kt"><b>'+esc(shortName(n.name))+'</b><div class="am">'+esc(amc)+(n.strategy?' · '+esc(n.strategy):'')+'</div></div></div>'+(nt?'<div class="nt">'+esc(nt)+'</div>':'')+'</div>'}).join('')
- +'</div><div class="tn-f">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Launch dates are checked daily against AMFI and AMC websites. Confirm in the offer document before investing.</div>'}
+if(!document.getElementById('tfdNfoCss2')){var st=document.createElement('style');st.id='tfdNfoCss2';st.textContent='#tfdNfo .tn2{padding:18px 16px}#tfdNfo .tn2 .v{font-size:23px;margin:6px 0 8px}#tfdNfo .tn2 .kl .logotile{width:44px;height:44px;flex:0 0 44px}'
++'#tfdNfo .tn-u{margin:10px 34px 0;border-top:1px solid #E8E8ED;padding-top:8px}'
++'#tfdNfo .tn-ub{display:flex;align-items:center;gap:12px;width:100%;background:none;border:0;padding:8px 0;cursor:pointer;font:600 14px Manrope,system-ui,sans-serif;color:var(--ink,#1d1d1f);text-align:left}'
++'#tfdNfo .tn-ub .pv{display:flex;gap:6px;margin-left:auto}#tfdNfo .tn-ub .pv .logotile{width:28px;height:28px;flex:0 0 28px;border-radius:8px}'
++'#tfdNfo .tn-ua{color:#1c5fb0;font-weight:600;white-space:nowrap}#tfdNfo .tn-u.open .pv{display:none}#tfdNfo .tn-u.open .tn-ub .tn-ua{margin-left:auto}'
++'#tfdNfo .tn-ul{display:none;flex-wrap:wrap;gap:10px;padding:8px 0 4px}#tfdNfo .tn-u.open .tn-ul{display:flex}'
++'#tfdNfo .tn3{display:flex;align-items:center;gap:10px;border:1px solid #E8E8ED;border-radius:14px;padding:8px 12px;flex:1 1 260px;max-width:calc(33.3333% - 7px);box-sizing:border-box;min-width:0}'
++'#tfdNfo .tn3 .logotile{width:36px;height:36px;flex:0 0 36px;border-radius:9px}#tfdNfo .tn3 b{display:block;font-size:14px;line-height:1.25;color:var(--ink,#1d1d1f)}#tfdNfo .tn3 .kt span{font-size:12.5px;color:#6E6E73}'
++'@media(max-width:900px){#tfdNfo .tn-u{margin:10px 16px 0}#tfdNfo .tn3{max-width:none;flex-basis:100%}}';document.head.appendChild(st)}
+function risk(n){var m=/Risk band\s*(\d)/i.exec(n.note||'');return m?m[1]:''}
+function ntx(n){var chk=n.amfi===true?'Listed on AMFI':n.amfi===false?'Not on AMFI yet':'';return [n.note,chk].filter(Boolean).join(' · ')}
+function amcS(n){return String(n.amc||'AMC to verify')}
+var dated=items.filter(function(n){return n.open&&n.close}),und=items.filter(function(n){return!(n.open&&n.close)});
+var cards=dated.map(function(n){
+ var open=n.open<=today;
+ var k=open?'Open · closes '+fd(n.close):'Opens '+fd(n.open);
+ var v=fd(n.open)+' – '+fd(n.close);
+ var key=amcKey((n.amc||'')+' '+(n.name||''));var amc=amcS(n);var r=risk(n);
+ return '<div class="tn2" title="'+esc(ntx(n))+'"><div class="k">'+esc(k)+'</div><div class="v '+(open?'o':'s')+'">'+esc(v)+'</div><div class="kl">'+tile(key,amc.replace(/\s*Mutual Fund\s*$/i,''))+'<div class="kt"><b>'+esc(shortName(n.name))+'</b><div class="am">'+esc(amc)+(n.strategy?' · '+esc(n.strategy):'')+(r?' · Risk band '+r:'')+'</div></div></div></div>'}).join('');
+var chips=und.map(function(n){var key=amcKey((n.amc||'')+' '+(n.name||''));var amc=amcS(n).replace(/\s*Mutual Fund\s*$/i,'');var r=risk(n);
+ return '<div class="tn3" title="'+esc(ntx(n))+'">'+tile(key,amc)+'<div class="kt"><b>'+esc(shortName(n.name))+'</b><span>'+esc(amc)+(r?' · Risk band '+r:'')+'</span></div></div>'}).join('');
+var prev=und.slice(0,6).map(function(n){return tile(amcKey((n.amc||'')+' '+(n.name||'')),amcS(n).replace(/\s*Mutual Fund\s*$/i,''))}).join('');
+var ubox=und.length?'<div class="tn-u"><button type="button" class="tn-ub" aria-expanded="false"><span>Announced, dates awaited ('+und.length+')</span><span class="pv">'+prev+'</span><span class="tn-ua">Show</span></button><div class="tn-ul">'+chips+'</div></div>':'';
+d.innerHTML='<div class="tn-h"><h2>Open and upcoming launches</h2><span class="tn-chk">Checked '+esc(NF.checked_at||'')+'</span></div>'+(cards?'<div class="tn-grid">'+cards+'</div>':'')+ubox
+ +'<div class="tn-f">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Launch dates are checked daily against AMFI, SEBI filings and AMC websites. Hover or tap a card for notes. Confirm in the offer document before investing.</div>';
+if(!d.getAttribute('data-tg')){d.setAttribute('data-tg','1');d.addEventListener('click',function(e){var b=e.target.closest&&e.target.closest('.tn-ub');if(!b)return;var u=b.parentNode;var o=u.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');b.querySelector('.tn-ua').textContent=o?'Hide':'Show'})}}
 function logos(){if(!LG)return;[].forEach.call(document.querySelectorAll('img[src*="sifprime.com/amc-logos/"]'),function(im){var f=im.getAttribute('src').split('/').pop();var key=OLD[f];var u=key&&logoUrl(key);if(u)im.src=u})}
 function fill(){if(!LG)return;[].forEach.call(document.querySelectorAll('.logotile'),function(tl){if(tl.querySelector('img')||tl.getAttribute('data-tf'))return;var c=tl.closest('.fundcell')||tl.parentElement;var tx=c?c.innerText:'';if(c&&c.parentElement&&tx.length<12)tx=c.parentElement.innerText;var key=amcKey((tx||'').slice(0,200));var u=logoUrl(key);if(!u)return;tl.setAttribute('data-tf','1');var im=document.createElement('img');im.decoding='async';im.alt=key+' logo';im.onerror=function(){im.remove()};im.src=u;tl.appendChild(im)})}
 function css2(){if(document.getElementById('tfdCss2'))return;var s=document.createElement('style');s.id='tfdCss2';s.textContent='.table-mini tbody tr td:first-child{position:relative}.table-mini tbody tr .fn::after{position:absolute;right:10px;top:14px;margin:0}.table-mini tbody tr .fn{padding-right:0}';document.head.appendChild(s)}
