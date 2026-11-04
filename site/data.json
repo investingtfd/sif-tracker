@@ -9963,15 +9963,19 @@
         {
           "date": "2026-11-03",
           "nav": 10.102
+        },
+        {
+          "date": "2026-11-04",
+          "nav": 10.1941
         }
       ],
-      "latest_date": "2026-11-03",
-      "latest_nav": 10.102,
-      "change_since_first_pct": 0.96,
-      "change_1d_pct": 0.65,
-      "return_1m_pct": 0.42,
-      "return_3m_pct": -6.0,
-      "return_annualised_pct": 1.41
+      "latest_date": "2026-11-04",
+      "latest_nav": 10.1941,
+      "change_since_first_pct": 1.88,
+      "change_1d_pct": 0.91,
+      "return_1m_pct": 0.93,
+      "return_3m_pct": -5.3,
+      "return_annualised_pct": 2.76
     },
     {
       "scheme_code": "SIF-62",
@@ -17386,15 +17390,19 @@
         {
           "date": "2026-11-03",
           "nav": 10.2343
+        },
+        {
+          "date": "2026-11-04",
+          "nav": 10.2354
         }
       ],
-      "latest_date": "2026-11-03",
-      "latest_nav": 10.2343,
-      "change_since_first_pct": 2.14,
-      "change_1d_pct": 0.0,
-      "return_1m_pct": 0.26,
-      "return_3m_pct": 1.11,
-      "return_annualised_pct": 6.07
+      "latest_date": "2026-11-04",
+      "latest_nav": 10.2354,
+      "change_since_first_pct": 2.15,
+      "change_1d_pct": 0.01,
+      "return_1m_pct": 0.14,
+      "return_3m_pct": 1.17,
+      "return_annualised_pct": 6.06
     },
     {
       "scheme_code": "SIF-143",
@@ -17759,15 +17767,19 @@
         {
           "date": "2026-11-03",
           "nav": 10.7634
+        },
+        {
+          "date": "2026-11-04",
+          "nav": 10.9083
         }
       ],
-      "latest_date": "2026-11-03",
-      "latest_nav": 10.7634,
-      "change_since_first_pct": 7.88,
-      "change_1d_pct": 0.91,
-      "return_1m_pct": -2.55,
-      "return_3m_pct": 0.92,
-      "return_annualised_pct": 24.35
+      "latest_date": "2026-11-04",
+      "latest_nav": 10.9083,
+      "change_since_first_pct": 9.33,
+      "change_1d_pct": 1.35,
+      "return_1m_pct": -2.14,
+      "return_3m_pct": 1.64,
+      "return_annualised_pct": 28.96
     },
     {
       "scheme_code": "SIF-146",
