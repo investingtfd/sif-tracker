@@ -99,6 +99,54 @@
    ],
    "url": "https://acceleratesif.com/",
    "note": "Upcoming soon: Axis Mutual Fund's SIF platform (equity and hybrid strategies planned) is live on acceleratesif.com; NFO dates not yet published."
+  },
+  {
+   "name": "Numa SIF Equity Long-Short Fund",
+   "amc": "AMC to be confirmed",
+   "strategy": "Equity Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/numa-sif-equity-long-short-fund_105533.html",
+   "note": "Upcoming soon: draft SID filed with SEBI on 2 Nov 2026; NFO dates not announced. AMC name to be confirmed from the filing."
+  },
+  {
+   "name": "iSIF Sector Rotation Long-Short Fund",
+   "amc": "ICICI Prudential Mutual Fund",
+   "strategy": "Sector Rotation Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/isif-sector-rotation-long-short-fund_105476.html",
+   "note": "Upcoming soon: draft SID filed with SEBI on 29 Oct 2026; NFO dates not announced."
+  },
+  {
+   "name": "Classif Hybrid Long-Short Fund",
+   "amc": "AMC to be confirmed",
+   "strategy": "Hybrid Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/classif-hybrid-long-short-fund_105449.html",
+   "note": "Upcoming soon: draft SID filed with SEBI on 27 Oct 2026; NFO dates not announced. AMC name to be confirmed from the filing."
+  },
+  {
+   "name": "Altiva Active Asset Allocator Long-Short Fund",
+   "amc": "Edelweiss Mutual Fund",
+   "strategy": "Active Asset Allocator Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/altiva-active-asset-allocator-long-short-fund_105037.html",
+   "note": "Upcoming soon: draft SID filed with SEBI on 6 Oct 2026; NFO dates not announced."
   }
  ]
 }
