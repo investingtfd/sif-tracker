@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:29:37.154Z",
+ "updated_at": "2026-11-04T16:36:28.676Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -466,28 +466,57 @@
     "note": "Based on the Altiva October 2026 fund note (31 Oct 2026). Most of the equity the fund holds sits in its Cash-Future Arbitrage and Covered Call strategy (43% of the fund), where each stock is hedged with a future or a call written, so market moves largely cancel. The open equity risk is the Special situations bucket (about 3%). REITs and InvITs (4.7%) also move with markets and are not counted here. This is an estimate from the AMC's own strategy split; the exact hedge ratio follows when the full October portfolio is published."
    },
    "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Altiva October 2026 fund note",
     "tagline": "An income-oriented strategy with arbitrage and fixed income as the core, enhanced by selective special situations and derivatives.",
-    "core": [
+    "buckets": [
      {
       "name": "Cash-future arbitrage and covered calls",
-      "text": "Arbitrage strategies aiming to capture low-risk returns."
+      "group": "Core strategy",
+      "match": [
+       "Arbitrage and covered calls"
+      ],
+      "text": "Arbitrage strategies aiming to capture low-risk returns: a stock is bought and its future sold to lock in a small price gap, and calls are written on shares already held to earn premium.",
+      "note": "Carry strategies rose to about 43% of the fund in October. Cash-future arbitrage increased modestly, and covered calls and puts remain a significant part of the portfolio."
      },
      {
       "name": "Fixed income",
-      "text": "Quality debt aiming to generate accrual income and potential price appreciation."
-     }
-    ],
-    "enhanced": [
+      "group": "Core strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Quality debt instruments aiming to generate accrual income and potential price appreciation. Includes T-bills and cash.",
+      "note": "Allocation was broadly stable. Blended yield improved to about 8.6% and duration fell to about 1.3 years, a deliberately short profile. Surplus cash sits in T-bills and TREPS."
+     },
      {
       "name": "Special situations",
-      "text": "IPO, open offer, buyback, merger or demerger, QIP, index inclusion or exclusion."
+      "group": "Enhanced drivers",
+      "match": [
+       "Special situations"
+      ],
+      "text": "One-off events such as IPOs, open offers, buybacks, mergers or demergers, QIPs and index inclusion or exclusion.",
+      "note": "Open offers, QIPs, block deals and selective IPOs stayed active during October."
      },
      {
       "name": "Derivative strategies",
-      "text": "Long-short equities, straddles, strangles, put-call parity and similar."
+      "group": "Enhanced drivers",
+      "match": [
+       "Other derivative strategies"
+      ],
+      "text": "Long-short equity positions, straddles, strangles, put-call parity and similar strategies.",
+      "note": "Straddle and strangle positions moderated to about 9%, used selectively where volatility offered attractive risk-reward."
+     },
+     {
+      "name": "REITs and InvITs",
+      "group": "At the fund manager’s discretion",
+      "match": [
+       "REITs",
+       "InvITs"
+      ],
+      "text": "Trusts that own real estate or infrastructure and pass on the income. They sit alongside the core strategies and can change with market conditions.",
+      "note": "Exposure stayed at about 5% of the fund."
      }
-    ],
-    "note": "REITs and InvITs can also be held at the fund manager’s discretion. The mix can change with market conditions."
+    ]
    }
   },
   "SIF-122": {
