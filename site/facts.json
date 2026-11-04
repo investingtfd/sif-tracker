@@ -258,7 +258,7 @@
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "top_equity_basis": "unhedged",
    "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only",
-   "split_source": "Fund size, top positions and asset split as on 31 Oct 2026 (Altiva October fund note; the split is the AMC's own classification, whole numbers except REITs and InvITs, which use the exact weights; top positions are net of futures and options). Top fixed income issuers and top short futures are also as on 31 Oct 2026. Holdings count, sectors and the unhedged derivative card are as on 30 Sep 2026, pending the full October portfolio. Special situations means IPO, OFS and QIP",
+   "split_source": "As on 31 Oct 2026 · AMC's own classification (Altiva October fund note). Top positions are net of futures and options.",
    "factsheet_only": true,
    "scheme_details": {
     "as_on": "2026-10-30",
@@ -463,7 +463,7 @@
      ]
     ],
     "net": 3,
-    "note": "Based on the Altiva October 2026 fund note (31 Oct 2026). Most of the equity the fund holds sits in its Cash-Future Arbitrage and Covered Call strategy (43% of the fund), where each stock is hedged with a future or a call written, so market moves largely cancel. The open equity risk is the Special situations bucket (about 3%). REITs and InvITs (4.7%) also move with markets and are not counted here. This is an estimate from the AMC's own strategy split; the exact hedge ratio follows when the full October portfolio is published."
+    "note": "Most equity held sits in the arbitrage and covered-call book (43% of the fund), where each stock is hedged by a future or a call written. Open equity risk is mainly Special situations (about 3%). REITs and InvITs (4.7%) are not counted here."
    },
    "strategy_overview": {
     "as_on": "2026-10-31",
@@ -517,6 +517,10 @@
       "note": "Exposure stayed at about 5% of the fund."
      }
     ]
+   },
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
    }
   },
   "SIF-122": {
@@ -5008,7 +5012,23 @@
    "derivative_basis": "unhedged",
    "top_equity_basis": "unhedged",
    "derivative_all_cr": 249.5,
-   "factcheck": "2026-10-14: options at notional; Nifty spreads netted (legs matched by units); net equity from Apex factsheet; derivative tile = unhedged only"
+   "factcheck": "2026-10-14: options at notional; Nifty spreads netted (legs matched by units); net equity from Apex factsheet; derivative tile = unhedged only",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      40.47,
+      "eq"
+     ],
+     [
+      "Hedged by arbitrage futures and covered calls",
+      -34.97,
+      "hd"
+     ]
+    ],
+    "net": 5.5,
+    "note": "Most equity held sits in the arbitrage and covered-call book (35% of the fund), where each stock is hedged by a future or a call written. Open equity risk is mainly Special situations (5.5%). REITs and InvITs are not counted here."
+   }
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
@@ -6024,7 +6044,23 @@
    "source": "Kotak Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.kotakmf.com/sif/forms-and-downloads",
    "sector_note": "Share of the fund held in stocks (35.5%), before futures and options hedges",
-   "factcheck": "2026-10-19: holdings, size and asset split loaded from the portfolio workbook IHLSsept.xlsx; unhedged card and derivative tile kept from the 2026-10-14 hand review (written options netted with futures and holdings at notional)"
+   "factcheck": "2026-10-19: holdings, size and asset split loaded from the portfolio workbook IHLSsept.xlsx; unhedged card and derivative tile kept from the 2026-10-14 hand review (written options netted with futures and holdings at notional)",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      35.52,
+      "eq"
+     ],
+     [
+      "Hedged by arbitrage futures and covered calls",
+      -25.63,
+      "hd"
+     ]
+    ],
+    "net": 9.89,
+    "note": "Most equity held sits in the arbitrage and covered-call book (30% of the fund), where each stock is hedged by a future or a call written. Open equity risk is about 9.9%, including Special situations (5.4%). REITs and InvITs are not counted here."
+   }
   },
   "SIF-161": {
    "allocation": [
