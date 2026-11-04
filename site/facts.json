@@ -5,7 +5,7 @@
    "allocation": [
     [
      "eq",
-     39.34
+     43.84
     ],
     [
      "reit",
@@ -13,15 +13,15 @@
     ],
     [
      "fut",
-     -1.07
+     -5.1
     ],
     [
      "opt",
-     -1.2
+     -1.72
     ],
     [
      "fi",
-     56.95
+     40.54
     ],
     [
      "invit",
@@ -135,8 +135,8 @@
      -0.2
     ]
    ],
-   "equity_gross_pct": 39.34,
-   "equity_net_pct": 37.07,
+   "equity_gross_pct": 43.84,
+   "equity_net_pct": 3,
    "holdings_count": 299,
    "turnover_ratio": 3.31,
    "derivative_gross_exposure_cr": 425.6,
@@ -419,7 +419,23 @@
      0.05,
      10.51
     ]
-   ]
+   ],
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      43.84,
+      "eq"
+     ],
+     [
+      "Hedged by arbitrage futures and covered calls",
+      -40.84,
+      "hd"
+     ]
+    ],
+    "net": 3,
+    "note": "Based on the Altiva October 2026 fund note (31 Oct 2026). Most of the equity the fund holds sits in its Cash-Future Arbitrage and Covered Call strategy (43% of the fund), where each stock is hedged with a future or a call written, so market moves largely cancel. The open equity risk is the Special situations bucket (about 3%). REITs and InvITs (4.7%) also move with markets and are not counted here. This is an estimate from the AMC's own strategy split; the exact hedge ratio follows when the full October portfolio is published."
+   }
   },
   "SIF-122": {
    "allocation": [
