@@ -26,7 +26,8 @@
     "DSP": "logo-dsp.png",
     "Abakkus": "logo-abakkus.png",
     "Axis": "logo-axis-accelerate.png",
-    "Nuvama": "logo-nuvama.svg"
+    "Nuvama": "logo-nuvama.svg",
+    "UTI": "logo-uti.webp"
   },
   "aliases": {
     "quant": "Quant",
@@ -80,7 +81,9 @@
     "axis": "Axis",
     "accelerate": "Axis",
     "nuvama": "Nuvama",
-    "numa": "Nuvama"
+    "numa": "Nuvama",
+    "uti": "UTI",
+    "classif": "UTI"
   },
   "wide": {
     "Edelweiss": "logo-altiva-sif.svg",
