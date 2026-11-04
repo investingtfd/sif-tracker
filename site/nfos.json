@@ -52,24 +52,26 @@
    "open": null,
    "close": null,
    "sources": [
-    "SEBI filings (Mutual Funds draft)"
+    "SEBI filings (Mutual Funds draft)",
+    "Altiva SIF ISID"
    ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/altiva-active-asset-allocator-long-short-fund_105037.html",
-   "note": "Upcoming soon: draft SID filed with SEBI on 6 Oct 2026; NFO dates not announced.",
+   "url": "https://www.edelweissmf.com/altivasif",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 6 Oct 2026 by Edelweiss AMC (Altiva SIF). Risk band 3 (Moderately High); benchmark Nifty 50 TRI (50%) + Nifty Short Duration Debt Index (35%) + Gold (7.5%) + Silver (7.5%); Rs 10 per unit. NFO dates not yet announced.",
    "amfi": false,
    "first_seen": "2026-11-04"
   },
   {
    "name": "Classif Hybrid Long-Short Fund",
-   "amc": "AMC to be confirmed",
+   "amc": "UTI Mutual Fund",
    "strategy": "Hybrid Long-Short",
    "open": null,
    "close": null,
    "sources": [
-    "SEBI filings (Mutual Funds draft)"
+    "SEBI filings (Mutual Funds draft)",
+    "Classif SIF ISID"
    ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/classif-hybrid-long-short-fund_105449.html",
-   "note": "Upcoming soon: draft SID filed with SEBI on 27 Oct 2026; NFO dates not announced. AMC name to be confirmed from the filing.",
+   "url": "https://www.utimf.com/classif",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 27 Oct 2026 by UTI Asset Management Company (Classif SIF by UTI Mutual Fund). Risk band 3 (Moderately High); benchmark NIFTY 50 Hybrid Composite Debt 15:85 Index; Rs 10 per unit. NFO dates not yet announced.",
    "amfi": false,
    "first_seen": "2026-11-04"
   },
@@ -125,10 +127,11 @@
    "open": null,
    "close": null,
    "sources": [
-    "SEBI filings (Mutual Funds draft)"
+    "SEBI filings (Mutual Funds draft)",
+    "iSIF ISID"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/isif-sector-rotation-long-short-fund_105476.html",
-   "note": "Upcoming soon: draft SID filed with SEBI on 29 Oct 2026; NFO dates not announced.",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 29 Oct 2026 by ICICI Prudential AMC (iSIF). Risk band 5 (Very High); benchmark Nifty 500 TRI; Rs 10 per unit. NFO dates not yet announced.",
    "amfi": false,
    "first_seen": "2026-11-04"
   }
