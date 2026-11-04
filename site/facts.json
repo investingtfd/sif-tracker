@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:00:41.300Z",
+ "updated_at": "2026-11-04T16:11:17.999Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -9,7 +9,7 @@
     ],
     [
      "reit",
-     2.65
+     2.33
     ],
     [
      "fut",
@@ -25,7 +25,7 @@
     ],
     [
      "invit",
-     2.26
+     2.34
     ]
    ],
    "net_assets_cr": 12248,
@@ -183,8 +183,12 @@
      9
     ],
     [
-     "REITs and InvITs",
-     5
+     "REITs",
+     2.33
+    ],
+    [
+     "InvITs",
+     2.34
     ],
     [
      "Special situations",
@@ -229,8 +233,193 @@
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "top_equity_basis": "unhedged",
    "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only",
-   "split_source": "Fund size, top positions and asset split as on 31 Oct 2026 (Altiva October fund note; the split is the AMC's own classification, whole numbers; top positions are net of futures and options). Holdings count, sectors, shorts, derivatives and unhedged positions as on 30 Sep 2026, pending the full October portfolio. Special situations means IPO, OFS and QIP",
-   "factsheet_only": true
+   "split_source": "Fund size, top positions and asset split as on 31 Oct 2026 (Altiva October fund note; the split is the AMC's own classification, whole numbers except REITs and InvITs, which use the exact weights; top positions are net of futures and options). Holdings count, sectors, shorts, derivatives and unhedged positions as on 30 Sep 2026, pending the full October portfolio. Special situations means IPO, OFS and QIP",
+   "factsheet_only": true,
+   "scheme_details": {
+    "as_on": "2026-10-30",
+    "source": "Altiva Hybrid Long-Short Fund October 2026 fund note",
+    "inception_date": "2025-10-20",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "strategy_type": "Interval",
+    "plans": "Regular | Growth, IDCW",
+    "nav_regular": 10.8591,
+    "ber_regular_pct": 1.21,
+    "exit_load": "0.50% of NAV if units are redeemed or switched out within 30 days of allotment; nil after 30 days",
+    "min_application": "INR 10 lakh (subject to a minimum of Rs 10 lakh across all Altiva strategies)",
+    "min_sip_stp_swp": "Rs 1,000 and in multiples of Re 1 thereafter (subject to the Rs 10 lakh minimum across all Altiva strategies)",
+    "min_accredited": "Rs 1,00,000 and in multiples of Re 1 thereafter",
+    "frequency": "Daily / twice in a week (Monday and Wednesday)",
+    "features": "Lump sum, SIP, SWP, STP",
+    "fund_managers": [
+     {
+      "name": "Bhavesh Jain",
+      "role": "Equity",
+      "experience_years": 17,
+      "since": "2025-10-20"
+     },
+     {
+      "name": "Bharat Lahoti",
+      "role": "Equity",
+      "experience_years": 18,
+      "since": "2025-10-20"
+     },
+     {
+      "name": "Dhawal Dalal",
+      "role": "Debt",
+      "experience_years": 26,
+      "since": "2025-10-20"
+     },
+     {
+      "name": "Kedar Karnik",
+      "role": "Debt",
+      "experience_years": 19,
+      "since": "2026-01-15"
+     },
+     {
+      "name": "Amit Vora",
+      "role": "Overseas",
+      "experience_years": 16,
+      "since": "2025-10-20"
+     }
+    ]
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 8.61,
+    "modified_duration_yr": 1.26,
+    "avg_maturity_yr": 1.7,
+    "macaulay_duration_yr": 1.36,
+    "note": "Excludes T-bills"
+   },
+   "credit_quality": {
+    "as_on": "2026-10-31",
+    "basis": "Share of fixed income, rebased to 100",
+    "items": [
+     [
+      "SOV, AAA, TREPS",
+      84
+     ],
+     [
+      "AA+",
+      7
+     ],
+     [
+      "AA",
+      9
+     ]
+    ]
+   },
+   "performance": {
+    "as_on": "2026-10-30",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "periods": [
+     {
+      "period": "1Y",
+      "fund_pct": 8.42,
+      "benchmark_pct": -4.68
+     },
+     {
+      "period": "Since inception",
+      "fund_pct": 8.59,
+      "benchmark_pct": -4.97
+     }
+    ],
+    "volatility_since_launch_pct": 3.5,
+    "nifty50_volatility_pct": 13.6,
+    "arbitrage_category_since_inception_pct": 6
+   },
+   "monthly_returns": {
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "items": [
+     [
+      "2025-11",
+      0.94,
+      1.11
+     ],
+     [
+      "2025-12",
+      1.61,
+      -0.19
+     ],
+     [
+      "2026-01",
+      0.05,
+      -1.66
+     ],
+     [
+      "2026-02",
+      0.64,
+      0.11
+     ],
+     [
+      "2026-03",
+      -1.61,
+      -6.34
+     ],
+     [
+      "2026-04",
+      3.09,
+      3.91
+     ],
+     [
+      "2026-05",
+      1.06,
+      -0.82
+     ],
+     [
+      "2026-06",
+      1.28,
+      1.98
+     ],
+     [
+      "2026-07",
+      1.69,
+      1.1
+     ],
+     [
+      "2026-08",
+      1.07,
+      -0.79
+     ],
+     [
+      "2026-09",
+      -0.79,
+      -3.31
+     ],
+     [
+      "2026-10",
+      -0.81,
+      0.5
+     ]
+    ]
+   },
+   "idcw_history": [
+    [
+     "2026-10-26",
+     0.06,
+     10.38
+    ],
+    [
+     "2026-09-25",
+     0.06,
+     10.67
+    ],
+    [
+     "2026-08-25",
+     0.05,
+     10.74
+    ],
+    [
+     "2026-07-24",
+     0.05,
+     10.58
+    ],
+    [
+     "2026-06-23",
+     0.05,
+     10.51
+    ]
+   ]
   },
   "SIF-122": {
    "allocation": [
@@ -1294,7 +1483,7 @@
      11.89
     ],
     [
-     "REITs and InvITs",
+     "REITs",
      3.05
     ]
    ],
@@ -1689,8 +1878,12 @@
      45.31
     ],
     [
-     "REITs and InvITs",
-     36.11
+     "REITs",
+     20.29
+    ],
+    [
+     "InvITs",
+     15.82
     ],
     [
      "Arbitrage (hedged equity)",
@@ -2550,8 +2743,12 @@
      33.92
     ],
     [
-     "REITs and InvITs",
-     11.15
+     "REITs",
+     1.64
+    ],
+    [
+     "InvITs",
+     9.51
     ]
    ],
    "unhedged": [
@@ -3248,8 +3445,12 @@
      9.8
     ],
     [
-     "REITs and InvITs",
-     6.37
+     "REITs",
+     4.52
+    ],
+    [
+     "InvITs",
+     1.85
     ],
     [
      "Special situations",
@@ -3619,8 +3820,12 @@
      7.43
     ],
     [
-     "REITs and InvITs",
-     4.68
+     "REITs",
+     0.84
+    ],
+    [
+     "InvITs",
+     3.84
     ]
    ],
    "sector_note": "Share of the fund held in stocks (66.1%), before futures and options hedges",
@@ -4313,7 +4518,7 @@
      54.25
     ],
     [
-     "REITs and InvITs",
+     "InvITs",
      1.1
     ]
    ],
@@ -4637,8 +4842,12 @@
      56.74
     ],
     [
-     "REITs and InvITs",
-     2.79
+     "REITs",
+     1.75
+    ],
+    [
+     "InvITs",
+     1.04
     ],
     [
      "Special situations",
@@ -4826,7 +5035,7 @@
      42.88
     ],
     [
-     "REITs and InvITs",
+     "REITs",
      0.23
     ]
    ],
@@ -5419,7 +5628,7 @@
      22.23
     ],
     [
-     "REITs and InvITs",
+     "REITs",
      1.78
     ]
    ],
@@ -5527,8 +5736,12 @@
      59.87
     ],
     [
-     "REITs and InvITs",
-     4.61
+     "REITs",
+     3.18
+    ],
+    [
+     "InvITs",
+     1.43
     ],
     [
      "Special situations",
@@ -5996,5 +6209,15 @@
    "source": "Union Mutual Fund portfolio disclosure via SIFPrime and SIF360",
    "source_url": "https://sifprime.com/sifs/arthaya-equity-long-short"
   }
+ },
+ "split_definitions": {
+  "Arbitrage and covered calls": "Cash-future arbitrage and covered calls: arbitrage strategies aiming to capture low-risk returns.",
+  "Cash-Future Arbitrage & Covered Call": "Arbitrage strategies aiming to capture low-risk returns.",
+  "Arbitrage (hedged equity)": "Stocks held and hedged with futures, locking in a low-risk spread.",
+  "Fixed income": "Quality debt instruments (including T-bills, cash and margin) aiming to generate accrual and potential price appreciation.",
+  "Special situations": "IPO, open offer, buyback, merger/demerger, QIP, index inclusion/exclusion and similar one-off events.",
+  "Other derivative strategies": "Derivative strategies: long-short equities, straddles, strangles, put-call parity and similar.",
+  "REITs": "Real estate investment trusts: exposure taken at the fund manager's discretion alongside the core strategies.",
+  "InvITs": "Infrastructure investment trusts: exposure taken at the fund manager's discretion alongside the core strategies."
  }
 }
