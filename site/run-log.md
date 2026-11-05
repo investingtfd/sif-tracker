@@ -1,5 +1,60 @@
 # SIF Tracker daily run log
 
+
+## 2026-11-05 08:02 Lisbon time
+Result: nothing changed. facts.json was not touched (SIF-11 was already on 31 Oct 2026 from the Altiva October factsheet, loaded by an earlier session; the other 33 tracked funds stay on 30 Sep 2026). Target month is 31 Oct 2026.
+
+**Updates found and made**
+- None
+
+**Updates available but not made, or only partly made**
+- None found. No October workbook exists at any AMC that could be opened (Altiva month list ends Sep; Jio, Invesco, SBI, ITI, Franklin, Mirae, WSIF, Tata, HSBC, quant, ICICI, Apex, Arudha and Kotak all still show 30 Sep as newest). Altiva published an October factsheet today (05 Nov) but only for the Hybrid fund SIF-11, which is already loaded. Retried automatically on the next firings.
+
+### Data completeness
+Up to date: 1 of 37 SIF funds (3%) have data as on 31 Oct 2026 (37 funds in the NAV feed; 34 tracked)
+of which 0 from the full Excel portfolio and 1 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| 33 tracked funds (all except SIF-11) | 16 AMCs | 30 Sep 2026 | AMC has not published October yet; DynaSIF (SIF-55, 87, 143) and Arthaya (SIF-114) could not be opened today |
+| SIF-169 Titanium Active Asset Allocator Long-Short Fund | Titanium / Tata | not in tracker yet | new fund, first portfolio (31 Oct) not out; Tata API lists nothing for October |
+| SIF-174 MSIF Equity Long-Short Fund | Mahindra Manulife | not in tracker yet | new fund and AMC, no portfolio found; its SIF site is still to be located |
+| SIF-177 Summit Active Asset Allocator Long-Short Fund | Summit / Invesco | not in tracker yet | new fund (appeared in the NAV feed), Invesco holdings page lists only 30 Sep, 31 Aug, 31 Jul files; first portfolio not out |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 / Union MF | Browser pane refused unionmf.com (navigation denied) | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Page blocked | DynaSIF / 360 ONE (SIF-55, 87, 143) | Cloudflare "Attention Required" 403 on two tries today (it opened fine yesterday) | Will retry automatically next run (no workaround attempted) |
+| 3 | Fund not yet loadable | SIF-169 Titanium AAA | First portfolio for 31 Oct not out | Will retry automatically next run |
+| 4 | Fund not yet loadable | SIF-174 MSIF Equity Long-Short (Mahindra Manulife) | New fund and AMC, no portfolio, SIF site not found yet | Will retry automatically next run |
+| 5 | Fund not yet loadable | SIF-177 Summit Active Asset Allocator (Invesco) | New fund, no portfolio published | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | SIF-11, 122, 161 | 31 Oct (SIF-11, factsheet), 30 Sep (others) | 🟧 33% | yes | Sep 2026 (month list ends Sep) | Oct 2026, Hybrid fund only (SIF-11 already loaded) | nothing new | none |
+| RedHex / HSBC | SIF-128 | 30 Sep 2026 | 🟥 0% | yes (filtered pages) | 30 Sep 2026 | as on Sep 2026 | nothing new | none |
+| WSIF / Wealth Company | SIF-105, 111 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | none published | nothing new | none |
+| Titanium / Tata | SIF-102, 29 | 30 Sep 2026 | 🟥 0% | yes (CMS API) | 30 Sep 2026 | 30 Sep 2026 | nothing new | none |
+| Platinum / Mirae | SIF-136 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | not re-checked today | nothing new | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | not re-checked today | nothing new | none |
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 30 Sep 2026 | 🟥 0% | blocked (Cloudflare) | not checked | not checked | skipped: page blocked | none |
+| Summit / Invesco | SIF-150 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | not re-checked today | nothing new | none |
+| qsif / quant | SIF-3, 7, 25, 93, 117 | 30 Sep 2026 | 🟥 0% | yes (factsheet page) | Sep 2026 (not re-opened; published every two months) | Oct 2026 file = 30 Sep data | nothing new | none |
+| Prism / Jio BlackRock | SIF-138 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 (Oct and Nov selections empty) | not re-checked today | nothing new | none |
+| Diviniti / ITI | SIF-21 | 30 Sep 2026 | 🟥 0% | yes | Sep 2026 | not found beyond a generic link | nothing new | none |
+| Magnum / SBI | SIF-13, 157 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | Sep 2026 | nothing new | none |
+| iSIF / ICICI Prudential | SIF-34, 35, 124, 126 | 30 Sep 2026 | 🟥 0% | yes (loader) | 30 Sep 2026 | not re-checked today | nothing new | none |
+| Apex / Aditya Birla | SIF-80, 154, 156 | 30 Sep 2026 | 🟥 0% | yes (loader) | 30 Sep 2026 | not re-checked today | nothing new | none |
+| Arudha / Bandhan | SIF-40, 62 | 30 Sep 2026 | 🟥 0% | yes (loader) | 30 Sep 2026 (both funds now readable) | Apr 2026 newest on page | nothing new | none |
+| Infinity / Kotak | SIF-146 | 30 Sep 2026 | 🟥 0% | yes (loader) | IHLSsept.xlsx, Sep 2026 | Sep 2026 | nothing new | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟥 0% | blocked | not checked | not checked | skipped: site would not open | none |
+
+Industry AUM (AMFI): as on 30 Sep 2026 (report for October not due before mid-month)
+Strategy-split check (Step 3g): not run today, no fund data changed
+Key-details check (Step 3h): nothing written today; no fund loaded. Funds still waiting: all except those that already have scheme_details.
+
 ## 2026-11-04 12:12 Lisbon time
 Result: nothing changed. facts.json was not touched (all 34 entries stay on 30 Sep 2026; target month is 31 Oct 2026 and none of the 17 AMCs has published October files yet). Full exhaustive pass today: every AMC page was opened and both the Excel list and the factsheet list were checked.
 
