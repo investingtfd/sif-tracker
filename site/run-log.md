@@ -1,6 +1,52 @@
 # SIF Tracker daily run log
 
 
+## 2026-11-05 Lisbon time (catch-up, asked by Ashish)
+Result: 5 funds updated (quant SIF, from the factsheet). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+- SIF-3 qsif Equity Long-Short: factsheet as on 31 Oct 2026, size Rs 1,098 cr
+- SIF-7 qsif Hybrid Long-Short: factsheet 31 Oct 2026, Rs 843 cr
+- SIF-25 qsif Equity Ex-Top 100: factsheet 31 Oct 2026, Rs 1,264 cr
+- SIF-93 qsif Active Asset Allocator: factsheet 31 Oct 2026, Rs 1,099 cr
+- SIF-117 qsif Sector Rotation: factsheet 31 Oct 2026, Rs 72 cr
+
+**Updates available but not made, or only partly made**
+- quant: key details/returns (Step 3h) not written this pass; risk bands kept (shown only as image). Will be done as backfill on later runs.
+- ICICI iSIF has October fund notes but no October factsheet yet.
+
+### Data completeness
+Up to date: 6 of 37 SIF funds (16%) have data as on 31 Oct 2026
+of which 0 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+Not yet up to date: the other 31 funds (28 on 30 Sep 2026; SIF-169, SIF-174, SIF-177 not in tracker yet, no first portfolio published).
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the browser pane |
+| 2 | Not checked this pass | Wealth Co, Edelweiss (SIF-122/161), workbook feeds | Pass was factsheet-only; morning run found no October workbooks | Will retry automatically next run |
+
+### AMC by AMC (factsheet check)
+| AMC | Newest factsheet | Action |
+|---|---|---|
+| quant | 31 Oct 2026 | loaded from factsheet (5 funds) |
+| HSBC RedHex | Sep 2026 | nothing new |
+| 360 ONE | Sep 2026 | nothing new |
+| Invesco | Sep 2026 | nothing new |
+| Tata | Sep 2026 | nothing new |
+| Jio | none for Oct | nothing new |
+| SBI | Sep 2026 | nothing new |
+| Mirae | "October" file = 30 Sep data | nothing new |
+| Franklin | Sep 2026 | nothing new |
+| ITI | Sep 2026 | nothing new |
+| ICICI | Sep 2026 (Oct notes only) | nothing new |
+| Apex | "October" file = 30 Sep data | nothing new |
+| Arudha | Sep 2026 | nothing new |
+| Kotak | Sep 2026 | nothing new |
+| Arthaya | blocked | skipped |
+Industry AUM and Step 3g/3h checks: not run in this pass.
+
+
 ## 2026-11-05 08:02 Lisbon time
 Result: nothing changed. facts.json was not touched (SIF-11 was already on 31 Oct 2026 from the Altiva October factsheet, loaded by an earlier session; the other 33 tracked funds stay on 30 Sep 2026). Target month is 31 Oct 2026.
 
