@@ -1,0 +1,9 @@
+# Factsheet-only funds: data and display rules (4 Nov 2026, Ashish)
+
+When a fund is loaded from the monthly factsheet only (factsheet_only = true) and its position-level workbook is older (quant publishes it every two months):
+
+1. Write size, top positions, risk band (read the gauge image: render the factsheet page with pdf.js, crop the area under "RISK BAND", read "RISK-LEVEL n"; the band can change month to month), performance, scheme_details, strategy_overview, debt_quants and credit_quality when the factsheet states them. Never copy from another fund.
+2. Do not show the old unhedged derivative positions as current. Set unhedged_pending = true and unhedged_factsheet = {as_on, long_pct, short_pct, net_pct, deployment_pct, beta, text} from the factsheet commentary ("average unhedged long exposure ~X%, average short exposure ~Y%, average net exposure ~Z%, month-end portfolio beta B"). The page then shows "Position list pending" with that text.
+3. Set exposure = {items: [["Average unhedged long exposure", long, "eq"], ["Average short exposure", -short, "sh"]], net, note} from the same averages.
+4. Set stale_sections = {unhedged: "<DD Mon YYYY of last workbook>", sectors: "<same>"}; the page adds "as on <date>" to Positions, Derivative exposure and Portfolio turnover and a caption on the stale cards. Remove stale_sections and unhedged_factsheet when the workbook is loaded.
+5. quant factsheet: https://www.qsif.com/downloads/factsheet (file named for the publish month; "as on" text gives the data date). Pages per fund: Equity Ex Top 100 SIF-25, Active Asset Allocator SIF-93, Equity Long Short SIF-3, Hybrid SIF-7, Sector Rotation SIF-117 (positioning, strategy ranges, performance table, key details, fund size, top 10 unhedged positions, commentary with the average exposures). Read it with pdf.js: load pdf.worker.min.js then pdf.min.js as script tags (cdnjs 3.11.174) and set workerSrc to 'data:text/javascript,'.

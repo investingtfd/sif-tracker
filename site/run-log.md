@@ -1,6 +1,25 @@
 # SIF Tracker daily run log
 
 
+## 2026-11-05 (data and design update, asked by Ashish)
+Result: quant SIF (SIF-3, 7, 25, 93, 117) now carry risk bands, key details, performance, strategy panels and an October factsheet exposure view. Tracker page bugs fixed. facts.json committed and verified.
+
+**Updates found and made**
+- Risk bands read from the October factsheet gauge: SIF-25 3 -> 4, SIF-93 2 -> 3, SIF-3 3, SIF-7 3, SIF-117 3 (unchanged).
+- Key details, returns vs benchmark, strategy overview ("How this fund works") and, for SIF-7, debt quality written from the factsheet.
+- Factsheet-only display rule: the unhedged derivative position list (30 Sep, positions file) is hidden and replaced by the factsheet's October average long, short and net exposure and beta (fields unhedged_pending + unhedged_factsheet); the equity exposure card uses the same averages (field exposure); tiles Positions, Derivative exposure, Portfolio turnover carry "as on 30 Sep 2026".
+- Page fixes (WordPress SIF Tracker page): (1) patchDetailPage crashed on later fund switches because the Category AUM row is removed after first load; (2) Key details extra rows stayed from the first fund viewed; (3) How this fund works stayed from the previous fund when the next had no strategy panel; (4) Fund AUM row did not update. The stale caption now reads "latest monthly file not out yet" (was hard-coded to October).
+
+**Updates available but not made, or only partly made**
+- quant expense ratio and NAV are not in the factsheet text, so not written. Monthly returns table and top shorts are not in the factsheet.
+- Other AMCs: no October factsheet or workbook yet (see the earlier catch-up entry today).
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page would not open | Arthaya SIF-114 | unionmf.com refused in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+
+
 ## 2026-11-05 Lisbon time (catch-up, asked by Ashish)
 Result: 5 funds updated (quant SIF, from the factsheet). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
 
