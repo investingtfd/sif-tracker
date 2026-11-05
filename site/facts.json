@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T16:36:28.676Z",
+ "updated_at": "2026-11-05T19:14:36.442Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -2564,57 +2564,57 @@
      29.89
     ]
    ],
-   "net_assets_cr": 1017.78,
+   "net_assets_cr": 1098,
    "top_equity": [
+    [
+     "Bharti Airtel Limited",
+     "",
+     9.48
+    ],
     [
      "Indus Towers Limited",
      "",
-     9.47
+     9.11
     ],
     [
-     "National Stock Exchange of India Limited",
+     "ITC Limited",
      "",
-     8.25
+     8.41
+    ],
+    [
+     "Jio Platforms Limited",
+     "",
+     6.53
     ],
     [
      "Adani Green Energy Limited",
      "",
-     5.79
+     5.45
     ],
     [
-     "Coal India Ltd",
+     "Persistent Systems Limited",
      "",
-     5.72
+     5.36
     ],
     [
      "Indegene Limited",
      "",
-     4.86
-    ],
-    [
-     "LG Electronics India Limited",
-     "",
-     3.91
-    ],
-    [
-     "Axis Bank Limited",
-     "",
-     2.95
+     4.47
     ],
     [
      "Info Edge (India) Ltd",
      "",
-     2.83
+     3.93
     ],
     [
-     "Glaxosmithkline Pharmaceuticals Ltd",
+     "National Stock Exchange of India Limited",
      "",
-     2.79
+     3.86
     ],
     [
-     "Multi Commodity Exchange of India Ltd.",
+     "LG Electronics India Limited",
      "",
-     2.73
+     3.49
     ]
    ],
    "top_debt": [
@@ -2705,11 +2705,17 @@
    "unhedged_long": 5.99,
    "unhedged_short": 6.99,
    "unhedged_count": 6,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "unhedged_note": "In October 2026 the factsheet states average equity deployment (long + short) about 93%, average unhedged long exposure about 90%, average short exposure about 3%, average net exposure about 87%. Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "qsif Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "quant Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.qsif.com/statutory-disclosures"
+   "source_url": "https://www.qsif.com/statutory-disclosures",
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   }
   },
   "SIF-7": {
    "allocation": [
@@ -2734,57 +2740,42 @@
      9.51
     ]
    ],
-   "net_assets_cr": 662.65,
+   "net_assets_cr": 843,
    "top_equity": [
     [
-     "ESDS Software Solution Limited",
+     "Bharti Airtel Limited",
      "",
-     12.74
+     9.34
+    ],
+    [
+     "Indus Towers Limited",
+     "",
+     8.38
+    ],
+    [
+     "ITC Limited",
+     "",
+     6.77
+    ],
+    [
+     "Jio Platforms Limited",
+     "",
+     6.38
     ],
     [
      "IRB InvIT Fund (InvIT)",
      "InvIT",
-     6.92
+     5.24
     ],
     [
-     "Gujarat Themis Biosyn Ltd",
+     "ESDS Software Solution Limited",
      "",
-     3.36
-    ],
-    [
-     "Indegene Limited",
-     "",
-     3.2
+     3.86
     ],
     [
      "Moneyview Limited",
      "",
-     2.68
-    ],
-    [
-     "Welspun Enterprises Limited",
-     "",
-     2.34
-    ],
-    [
-     "ICICI Prudential AMC Ltd",
-     "",
-     2.13
-    ],
-    [
-     "Caliber Mining and Logistics Limited",
-     "",
-     1.89
-    ],
-    [
-     "India Grid Trust (InvIT)",
-     "InvIT",
-     1.74
-    ],
-    [
-     "Glaxosmithkline Pharmaceuticals Ltd",
-     "",
-     1.68
+     3.12
     ]
    ],
    "top_debt": [
@@ -2883,11 +2874,17 @@
    "unhedged_long": 6.06,
    "unhedged_short": 2.2,
    "unhedged_count": 5,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "unhedged_note": "In October 2026 the factsheet states average equity deployment (long + short) about 58%, average unhedged long exposure about 57%, average short exposure about 1%, average net exposure about 56%. Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "qsif Hybrid Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "quant Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.qsif.com/statutory-disclosures"
+   "source_url": "https://www.qsif.com/statutory-disclosures",
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   }
   },
   "SIF-25": {
    "allocation": [
@@ -2904,55 +2901,55 @@
      33
     ]
    ],
-   "net_assets_cr": 1110.08,
+   "net_assets_cr": 1264,
    "top_equity": [
     [
      "Indus Towers Limited",
      "",
-     9.21
+     9.14
     ],
     [
-     "Gujarat Themis Biosyn Ltd",
+     "Persistent Systems Limited",
      "",
-     5.24
+     8.96
     ],
     [
-     "National Stock Exchange of India Limited",
+     "Jio Platforms Limited",
+     "",
+     5.69
+    ],
+    [
+     "Bharti Airtel Limited",
      "",
      4.89
     ],
     [
+     "Gujarat Themis Biosyn Ltd",
+     "",
+     4.31
+    ],
+    [
+     "Sona Blw Precision Forgings Limited",
+     "",
+     4.11
+    ],
+    [
      "Zydus Lifesciences Limited",
      "",
-     4.34
+     4.08
+    ],
+    [
+     "Colgate-Palmolive (India) Ltd",
+     "",
+     3.57
     ],
     [
      "LG Electronics India Limited",
      "",
-     4.14
-    ],
-    [
-     "Piramal Finance Ltd",
-     "",
-     3.97
-    ],
-    [
-     "Glaxosmithkline Pharmaceuticals Ltd",
-     "",
-     3.94
+     3.51
     ],
     [
      "Indegene Limited",
-     "",
-     3.89
-    ],
-    [
-     "Aequs Ltd",
-     "",
-     3.89
-    ],
-    [
-     "Sona BLW Precision Forgings Limited",
      "",
      3.4
     ]
@@ -3040,11 +3037,17 @@
    "unhedged_long": 14.41,
    "unhedged_short": 7.11,
    "unhedged_count": 7,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "unhedged_note": "In October 2026 the factsheet states average equity deployment (long + short) about 94%, average unhedged long exposure about 89%, average short exposure about 5%, average net exposure about 84%. Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "qsif Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "quant Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.qsif.com/statutory-disclosures"
+   "source_url": "https://www.qsif.com/statutory-disclosures",
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   }
   },
   "SIF-93": {
    "allocation": [
@@ -3061,57 +3064,47 @@
      64.1
     ]
    ],
-   "net_assets_cr": 909.48,
+   "net_assets_cr": 1099,
    "top_equity": [
     [
-     "ESDS Software Solution Limited",
+     "Indus Towers Limited",
      "",
-     9.29
+     8.74
     ],
     [
-     "Glenmark Pharmaceuticals Ltd",
+     "ITC Limited",
      "",
-     4.24
+     8.69
     ],
     [
-     "Gujarat Themis Biosyn Ltd",
+     "Jio Platforms Limited",
      "",
-     3.2
+     5.99
     ],
     [
-     "Aequs Ltd",
+     "LIC Housing Finance Ltd",
      "",
-     2.98
+     4.68
     ],
     [
      "LG Electronics India Limited",
      "",
-     2.37
+     3.89
     ],
     [
-     "ICICI Bank Limited",
+     "Bharti Airtel Limited",
      "",
-     1.47
+     3.84
     ],
     [
-     "Adani Power Limited",
+     "Glenmark Pharmaceuticals Ltd",
      "",
-     1.42
+     3.45
     ],
     [
-     "INDO-MIM Limited",
+     "ESDS Software Solution Limited",
      "",
-     1.41
-    ],
-    [
-     "Indegene Limited",
-     "",
-     1.32
-    ],
-    [
-     "ICICI Prudential AMC Ltd",
-     "",
-     1.32
+     2.95
     ]
    ],
    "top_debt": [
@@ -3197,11 +3190,17 @@
    "unhedged_long": 5.06,
    "unhedged_short": 4.5,
    "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "unhedged_note": "In October 2026 the factsheet states average equity deployment (long + short) about 59%, average unhedged long exposure about 57%, average short exposure about 2%, average net exposure about 55%. Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "qsif Active Asset Allocator Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "quant Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.qsif.com/statutory-disclosures"
+   "source_url": "https://www.qsif.com/statutory-disclosures",
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   }
   },
   "SIF-117": {
    "allocation": [
@@ -3218,57 +3217,57 @@
      29.72
     ]
    ],
-   "net_assets_cr": 62.09,
+   "net_assets_cr": 72,
    "top_equity": [
-    [
-     "Indus Towers Limited",
-     "",
-     9.33
-    ],
     [
      "Zydus Lifesciences Limited",
      "",
-     8.76
+     9.56
+    ],
+    [
+     "Jio Platforms Limited",
+     "",
+     9.48
     ],
     [
      "Divi's Laboratories Limited",
      "",
-     7.18
+     9.35
+    ],
+    [
+     "ITC Limited",
+     "",
+     9.35
     ],
     [
      "Bharti Airtel Limited",
      "",
-     6.78
+     9.3
     ],
     [
-     "Gujarat Themis Biosyn Ltd",
+     "Indus Towers Limited",
      "",
-     5.81
+     9.17
     ],
     [
-     "Sun Pharmaceutical Industries Limited",
+     "Aurobindo Pharma Limited",
      "",
-     5.68
+     6.28
     ],
     [
      "Glenmark Pharmaceuticals Ltd",
      "",
-     5.61
+     4.77
     ],
     [
-     "Lupin Limited",
+     "Gujarat Themis Biosyn Ltd",
      "",
-     5.28
+     4.69
     ],
     [
-     "Biocon Ltd",
+     "Indegene Limited",
      "",
-     4.89
-    ],
-    [
-     "Mphasis Ltd",
-     "",
-     3.13
+     1.58
     ]
    ],
    "top_debt": [
@@ -3359,11 +3358,17 @@
    "unhedged_long": 9.96,
    "unhedged_short": 0,
    "unhedged_count": 2,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
+   "unhedged_note": "In October 2026 the factsheet states average equity deployment (long + short) about 90%, average unhedged long exposure about 72%, average short exposure about 0%, average net exposure about 72%. Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "qsif Sector Rotation Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "quant Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.qsif.com/statutory-disclosures"
+   "source_url": "https://www.qsif.com/statutory-disclosures",
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   }
   },
   "SIF-138": {
    "allocation": [
