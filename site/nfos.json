@@ -8,12 +8,9 @@
    "open": "2026-11-13",
    "close": "2026-11-27",
    "sources": [
-    "H-SIF ISID",
-    "HDFC Mutual Fund H-SIF site",
-    "SEBI filings (Mutual Funds draft)"
+    "HDFC Mutual Fund H-SIF site"
    ],
    "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page.",
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
    "amfi": false,
    "first_seen": "2026-10-30"
   },
@@ -92,6 +89,21 @@
    "note": "Upcoming soon: SEBI nod for the Fokkus SIF platform reported 22 Sep 2026; no scheme or NFO dates announced yet.",
    "amfi": false,
    "first_seen": "2026-10-30"
+  },
+  {
+   "name": "H-SIF Equity Ex-Top 100 Long-Short Fund",
+   "amc": "HDFC Mutual Fund",
+   "strategy": "Equity Ex-Top 100 Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)",
+    "H-SIF ISID"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
+   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced.",
+   "amfi": false,
+   "first_seen": "2026-11-06"
   },
   {
    "name": "Numa SIF Equity Long-Short Fund",
