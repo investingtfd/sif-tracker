@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T19:36:41.808Z",
+ "updated_at": "2026-11-06T11:59:35.927Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -855,166 +855,166 @@
    "allocation": [
     [
      "eq",
-     23.9
+     26.09
     ],
     [
      "fi",
-     50.24
+     50.35
     ],
     [
      "reit",
-     11.73
+     9.48
     ],
     [
      "invit",
-     14.13
+     14.08
     ]
    ],
-   "net_assets_cr": 1504,
+   "net_assets_cr": 1780.56,
    "top_equity": [
+    [
+     "Capital Infra Trust InvIT",
+     "InvIT",
+     4.35
+    ],
     [
      "Cube Highway Trust",
      "InvIT",
-     4.65
+     3.82
     ],
     [
      "Mindspace Business Parks REIT",
      "REIT",
-     3.71
+     3.03
     ],
     [
      "IRB InvIT Fund",
      "InvIT",
-     3.71
+     3.02
     ],
     [
      "Knowledge Realty Trust",
      "REIT",
-     3.6
+     2.9
     ],
     [
      "ICICI Bank Limited",
      "Banks",
-     3.01
+     2.85
     ],
     [
      "Embassy Office Parks REIT",
      "REIT",
-     2.64
+     2.1
     ],
     [
-     "Capital Infra Trust InvIT",
-     "InvIT",
-     2.3
+     "Bharat Electronics Limited",
+     "Aerospace & Defense",
+     1.83
     ],
     [
-     "Indus Towers Limited",
-     "Telecom - Services",
-     1.79
+     "Reliance Industries Limited",
+     "Petroleum Products",
+     1.69
     ],
     [
-     "Bagmane Prime Office REIT",
-     "REIT",
-     1.77
-    ],
-    [
-     "Raajmarg Infra Investment Trust",
-     "InvIT",
-     1.77
+     "Steel Authority of India Limited",
+     "Ferrous Metals",
+     1.57
     ]
    ],
    "top_debt": [
     [
      "GMR Airports Limited",
      "CRISIL AA-",
-     4.7
+     3.99
     ],
     [
      "Incred Financial Services Ltd",
      "CRISIL AA-",
-     3.92
-    ],
-    [
-     "TRIUMPH COMPOSITES PVT LTD",
-     "IND AA-",
-     3.36
+     3.35
     ],
     [
      "NABARD",
      "CRISIL AAA",
-     3.32
+     2.79
+    ],
+    [
+     "TRIUMPH COMPOSITES PVT LTD",
+     "IND AA-",
+     2.77
     ],
     [
      "Liquid Gold Series 24",
      "CRISIL A(SO)",
-     3.29
+     2.76
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 23.9,
-   "equity_net_pct": 23.9,
-   "holdings_count": 90,
-   "turnover_ratio": 1.31,
-   "derivative_gross_exposure_cr": 359.46,
+   "equity_gross_pct": 26.09,
+   "equity_net_pct": 26.09,
+   "holdings_count": 91,
+   "turnover_ratio": 1.56,
+   "derivative_gross_exposure_cr": 464.55,
    "derivative_basis": "futures",
    "risk_band": 2,
    "benchmark_risk_band": null,
    "sectors": [
     [
      "Banks",
-     8.09
+     8.01
     ],
     [
      "Telecom - Services",
-     2.58
-    ],
-    [
-     "Petroleum Products",
-     1.95
+     2.56
     ],
     [
      "Ferrous Metals",
-     1.64
+     2.4
     ],
     [
-     "Automobiles",
-     1.61
+     "Petroleum Products",
+     2.05
+    ],
+    [
+     "Aerospace & Defense",
+     1.83
     ],
     [
      "Other sectors",
-     8.03
+     9.24
     ]
    ],
    "split": [
     [
      "Fixed income",
-     50.25
+     50.35
     ],
     [
      "Arbitrage (hedged equity)",
-     23.9
+     26.09
     ],
     [
      "InvITs",
-     14.13
+     14.08
     ],
     [
      "REITs",
-     11.72
+     9.48
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (23.9%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (26.1%), before futures and options hedges",
    "name": "RedHex Hybrid Long-Short Fund",
    "source": "HSBC Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.assetmanagement.hsbc.co.in/en/redhex-sif/investor-resources/information-library",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "unhedged": [],
    "unhedged_long": 0,
    "unhedged_short": 0,
    "unhedged_count": 0,
-   "unhedged_note": "No unhedged derivative positions as on 30 Sep 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets.",
+   "unhedged_note": "No unhedged derivative positions as on 31 Oct 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets.",
    "unhedged_zero_since": "2026-09-30",
-   "split_source": "RedHex factsheet as on 30 Sep 2026 (AMC's own classification): debt 50.27%, equity arbitrage 23.88%, REITs 11.72%, InvITs 14.13%. REITs and InvITs are shown separately"
+   "split_source": "HSBC monthly portfolio as on 31 Oct 2026. Fixed income includes 6.48% in HSBC Money Market Fund units. REITs and InvITs are shown separately"
   },
   "SIF-105": {
    "allocation": [
