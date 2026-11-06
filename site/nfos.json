@@ -8,9 +8,12 @@
    "open": "2026-11-13",
    "close": "2026-11-27",
    "sources": [
-    "HDFC Mutual Fund H-SIF site"
+    "H-SIF ISID",
+    "HDFC Mutual Fund H-SIF site",
+    "SEBI filings (Mutual Funds draft)"
    ],
    "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page.",
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
    "amfi": false,
    "first_seen": "2026-10-30"
   },
