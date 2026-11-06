@@ -1,5 +1,66 @@
 # SIF Tracker daily run log
 
+## 2026-11-06 12:00 Lisbon time (catch-up)
+Result: 1 fund updated. facts.json committed and verified (34 funds, no risk band lost, no "Mutual fund units" line left).
+
+**Updates found and made**
+
+- RedHex Hybrid Long-Short (SIF-128): HSBC monthly portfolio workbook as on 31 Oct 2026 (published since this morning's run), size Rs 1,780.56 cr (was 1,504), 91 holdings. Split: Fixed income 50.35 (includes 6.48 in HSBC Money Market Fund units), Arbitrage 26.09, InvITs 14.08, REITs 9.48. No unhedged positions (HSBC prints non-hedging futures and options as nil). Risk band kept at 2 (October factsheet not out yet).
+
+**Updates available but not made, or only partly made**
+
+- RedHex key details: the October factsheet is not out (newest is September), so Step 3h was not written for SIF-128. Will retry automatically next run.
+- DynaSIF (360 ONE): Cloudflare "Attention Required" page, not checked. Will retry next run.
+- Arthaya SIF-114 (Union MF): unionmf.com navigation denied. Needs Ashish.
+- Magnum SIF-13, SIF-157 (SBI): page opened but the portfolio links did not render, so not read. Will retry next run.
+
+### Data completeness
+Up to date: 7 of 37 SIF funds (19%) have data as on 31 Oct 2026
+of which 1 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+Not yet up to date: 30 funds on 30 Sep 2026 plus 3 not in tracker (SIF-169 Titanium Active Asset Allocator, SIF-174 MSIF Equity Long-Short, SIF-177 Summit Active Asset Allocator, all with no first portfolio out yet). For every other AMC no October workbook or factsheet was found in this pass.
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | DynaSIF SIF-55, 87, 143 (360 ONE) | Cloudflare "Attention Required" (403) | Will retry automatically next run |
+| 2 | Page would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 3 | Links not shown | Magnum SIF-13, SIF-157 (SBI) | sbimf.com opened but no .xlsx links appeared after 4 s | Will retry automatically next run |
+| 4 | Key details not written | RedHex SIF-128 | October factsheet not published yet | Will retry automatically next run |
+
+### AMC by AMC (catch-up pass)
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva (Edelweiss) | 3 | SIF-11 31 Oct (F), others 30 Sep | 🟧 50% (avg) | yes | Sep (month list ends at Sep) | not re-checked | nothing new | none |
+| RedHex (HSBC) | 1 | 31 Oct | 🟩 100% | yes | 31 Oct 2026 | Sep 2026 | loaded from Excel | 0% -> 100% |
+| WSIF (Wealth Co) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | none | nothing new | none |
+| Titanium (Tata) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Platinum (Mirae) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | not opened | nothing new | none |
+| Sapphire (Franklin) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | not opened | nothing new | none |
+| DynaSIF (360 ONE) | 3 | 30 Sep | 🟥 0% | blocked | not checked | not checked | skipped: Cloudflare | none |
+| Summit (Invesco) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | not opened | nothing new | none |
+| Prism (Jio BlackRock) | 1 | 30 Sep | 🟥 0% | yes | none for Oct | not opened | nothing new | none |
+| Diviniti (ITI) | 1 | 30 Sep | 🟥 0% | yes | Sep | not opened | nothing new | none |
+| Magnum (SBI) | 2 | 30 Sep | 🟥 0% | yes, no links | not read | not read | skipped | none |
+| iSIF (ICICI Pru) | 4 | 30 Sep | 🟥 0% | yes | Sep zip | not opened | nothing new | none |
+| Apex (Aditya Birla) | 3 | 30 Sep | 🟥 0% | yes | 30 Sep | not opened | nothing new | none |
+| Arudha (Bandhan) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep 2026 file | nothing new | none |
+| Infinity (Kotak) | 1 | 30 Sep | 🟥 0% | yes | IHLSsept.xlsx | not opened | nothing new | none |
+| Arthaya (Union MF) | 1 | 30 Sep | 🟥 0% | blocked | not checked | not checked | skipped: navigation denied | none |
+| other AMCs: unchanged since the earlier run today (qsif not re-opened, already at target month for the funds loaded) | | | | | | | | |
+
+Industry AUM (AMFI): not checked in this pass
+Strategy-split check (Step 3g): not run, no other new data
+Key-details check (Step 3h): none written; RedHex waiting for its October factsheet
+
+### Funds changed
+
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band | Unhedged long/short | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-128 RedHex Hybrid Long-Short | HSBC Excel | 2026-09-30 -> 2026-10-31 | 1,504 -> 1,780.56 | 2 -> 2 | 0/0 -> 0/0 | split, holdings, top holdings and debt refreshed; HSBC Money Market Fund units moved to Fixed income; no-unhedged note updated (zero since 30 Sep) |
+
 ## 2026-11-06 Lisbon time
 Result: nothing changed. facts.json not committed (no AMC had a newer file than what is loaded).
 
