@@ -151,6 +151,19 @@
    ],
    "url": "https://www.edelweissmf.com/altivasif",
    "note": "Upcoming soon: draft ISID filed with SEBI on 6 Oct 2026 by Edelweiss AMC (Altiva SIF). Risk band 3 (Moderately High); benchmark Nifty 50 TRI (50%) + Nifty Short Duration Debt Index (35%) + Gold (7.5%) + Silver (7.5%); Rs 10 per unit. NFO dates not yet announced."
+  },
+  {
+   "name": "H-SIF Equity Ex-Top 100 Long-Short Fund",
+   "amc": "HDFC Mutual Fund",
+   "strategy": "Equity Ex-Top 100 Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)",
+    "H-SIF ISID"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
+   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced."
   }
  ]
 }
