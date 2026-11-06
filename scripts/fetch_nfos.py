@@ -74,6 +74,8 @@ def amfi_names():
 def key(name):
     w = [x for x in re.sub(r"[^a-z0-9 ]", " ", name.lower()).split()
          if x not in ("fund", "sif", "long", "short", "longshort", "hybrid", "equity")]
+    if w and len(w[0]) <= 2 and re.search(r"\bequity\b", name.lower()) and not re.search(r"\bhybrid\b", name.lower()):
+        return w[0] + " equity"  # H-SIF Equity ... must not collide with H-SIF Hybrid ...
     return w[0] if w else name.lower()
 
 
