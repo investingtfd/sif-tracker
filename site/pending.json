@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-06",
+ "checked_at": "2026-11-07",
  "items": [
   {
    "name": "Eminence Hybrid Long-Short Fund",
@@ -12,7 +12,7 @@
     "Cafemutual"
    ],
    "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   },
   {
    "name": "Select Equity Ex-Top 100 Long-Short Fund",
@@ -24,7 +24,7 @@
     "Sundaram Mutual Fund site"
    ],
    "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-07"
   }
  ]
 }
