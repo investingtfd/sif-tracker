@@ -1,0 +1,150 @@
+
+(function(){
+if(window.__tfdV19)return;window.__tfdV19=1;
+var RAW='https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/';
+var LG=null,FACTS=null,NF=null,PD=null,lbIdx=0,fND=false,timer=0;
+var OLD={'quant-clean-mark.png':'Quant','aditya-birla-sun-life-clean-mark.png':'Aditya Birla Sun Life','tata.svg':'Tata','edelweiss-clean-mark.png':'Edelweiss','sbi-symbol.svg':'SBI','360-one.svg':'360 ONE','bandhan-mark.png':'Bandhan','franklin-templeton-clean-mark.png':'Franklin Templeton','icici-prudential-mark.png':'ICICI Prudential','iti-clean-mark.png':'ITI','kotak.svg':'Kotak','mirae-asset-clean-mark.png':'Mirae Asset','wealth-company-mark.svg':'The Wealth Company','union-clean-mark.png':'Union'};
+function esc(t){return String(t==null?'':t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function jget(f){return fetch(RAW+f+'?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).catch(function(){return null})}
+function fd(iso){if(!iso)return'';var d=new Date(iso+'T00:00:00Z');return d.toLocaleDateString('en-GB',{day:'numeric',month:'short',timeZone:'UTC'})}
+function logoUrl(key){if(!LG||!key)return'';var f=LG.amcs[key];if(!f)return'';return /^https?:/.test(f)?f:LG.base+f}
+function amcKey(txt){if(!LG)return'';var t=String(txt||'').toLowerCase();var ks=Object.keys(LG.aliases).sort(function(a,b){return b.length-a.length});for(var i=0;i<ks.length;i++){var k=ks[i].replace(/[.*+?^$()|[\]\\]/g,function(c){return'\\'+c});if(new RegExp('(^|[^a-z0-9])'+k).test(t))return LG.aliases[ks[i]]}return''}
+function tile(key,fb){var ini=(key||fb||'').split(/\s+/).map(function(w){return w.charAt(0)}).join('').slice(0,2).toUpperCase();var u=logoUrl(key);return '<span class="logotile" data-i="'+esc(ini)+'">'+(u?'<img decoding="async" src="'+esc(u)+'" alt="'+esc(key)+' logo" loading="lazy" onerror="this.remove()">':'')+'</span>'}
+function shortName(n){return String(n||'').replace(/\s+Long[\s-]*Short(\s+Fund)?$/i,'').replace(/\s+Fund$/i,'')}
+function css(){if(document.getElementById('tfdV19css'))return;var s=document.createElement('style');s.id='tfdV19css';s.textContent=
+'#tfdNfo{background:#fff;border:none;border-radius:28px;padding:10px 0 18px}'
++'#tfdNfo .tn-h{padding:22px 34px 0;display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}'
++'#tfdNfo .tn-chk{font-size:13px;color:#6E6E73;opacity:1}'
++'#tfdNfo .tn-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:0;margin-top:8px}'
++'#tfdNfo .tn2{padding:26px 22px;text-align:center;min-width:0;box-sizing:border-box;flex:0 0 33.3333%}#tfdNfo .tn2:not(:nth-child(3n+1)){border-left:1px solid #E8E8ED}'
++'#tfdNfo .tn2 .k{font:600 12px Manrope,system-ui,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:#6E6E73}'
++'#tfdNfo .tn2 .v{font:700 28px/1.15 Manrope,system-ui,sans-serif;letter-spacing:-.03em;margin:8px 0 10px;color:var(--ink)}'
++'#tfdNfo .tn2 .v.o{color:var(--good,#1A7F4B)}#tfdNfo .tn2 .v.s{color:#1c5fb0}'
++'#tfdNfo .tn2 .kl{display:flex;align-items:center;justify-content:center;gap:14px;min-width:0;margin-top:6px;text-align:left}'
++'#tfdNfo .tn2 .kl .logotile{width:52px;height:52px;flex:0 0 52px;border-radius:12px}'
++'#tfdNfo .tn2 .kl .kt{min-width:0}#tfdNfo .tn2 .kl b{display:block;font-size:17px;line-height:1.25;color:var(--ink)}'
++'#tfdNfo .tn2 .kl .am{font:500 15px/1.25 var(--font-body);color:var(--ink-soft);margin-top:3px}'
++'#tfdNfo .tn2 .nt{font-size:13px;color:var(--ink-soft);margin-top:12px}'
++'#tfdNfo .tn-f{font-size:12.5px;color:#6E6E73;opacity:1;padding:6px 34px 0}'
++'@media(max-width:900px){#tfdNfo .tn2{flex-basis:100%}#tfdNfo .tn2+.tn2{border-left:none;border-top:1px solid #E8E8ED}}'
++'#tfdSearch{margin:6px 0 14px}#tfdSearch .fxq-w{display:block!important;position:relative;width:100%!important;max-width:760px;margin:0 auto}'
++'#tfdSearch input#fxQ{display:block;width:100%!important;max-width:none!important;box-sizing:border-box;font-size:17px;padding:15px 46px 15px 50px!important;border:1.5px solid #0D6B54;border-radius:999px;background:#fff url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27 fill=%27none%27 stroke=%27%230D6B54%27 stroke-width=%272.2%27 stroke-linecap=%27round%27%3E%3Ccircle cx=%2711%27 cy=%2711%27 r=%277%27/%3E%3Cpath d=%27M20 20l-3.5-3.5%27/%3E%3C/svg%3E") no-repeat 18px center/22px;box-shadow:0 2px 10px rgba(13,107,84,.10)}'
++'#tfdSearch input#fxQ:focus{outline:none;box-shadow:0 0 0 3px rgba(13,107,84,.22)}#tfdSearch .fxq-x{right:16px}'
++'#tfdLbTabs{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:16px 0 18px}#tfdLbTabs .pill{cursor:pointer}'
++'#lbGrid.tfd-tg{display:block!important;max-width:760px;margin:0 auto}#lbGrid.tfd-tg>div{display:none!important}#lbGrid.tfd-tg>div.on{display:block!important}'
++'.tfd-nd{display:inline-block;margin-left:8px;font:600 11px/1 Manrope,system-ui,sans-serif;letter-spacing:.02em;color:#0a6b4a;background:rgba(13,107,84,.12);border-radius:999px;padding:4px 8px;white-space:nowrap;vertical-align:middle}'+'#tfdNav{display:flex;align-items:stretch;justify-content:space-between;gap:10px;margin:2px 0 14px}#tfdNav .nv{display:flex;flex-direction:column;justify-content:center;min-width:0;max-width:34%;padding:9px 16px;border:1px solid var(--border,#E3DFD3);border-radius:14px;background:#fff;color:var(--ink,#1c1c1c);text-decoration:none;font-size:14px}#tfdNav .nv small{font-weight:700;color:#0D6B54;font-size:12.5px;letter-spacing:.02em}#tfdNav .nv span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink-soft,#6E6E73);margin-top:2px}#tfdNav .next{text-align:right}#tfdNav .nv:hover{border-color:#0D6B54}#tfdNav .nv.off{opacity:.35;pointer-events:none}#tfdNav .home{flex:0 0 auto;align-items:center;justify-content:center;font-weight:700;color:#fff;background:#0D6B54;border-color:#0D6B54}@media(max-width:700px){#tfdNav .nv span{display:none}#tfdNav .nv{max-width:none;flex:1;padding:10px}}'
++'tr.tfd-hide2{display:none!important}';
+document.head.appendChild(s)}
+function nfo(){var d=document.getElementById('tfdNfo');if(!d||!NF||!LG||!NF.items)return;var sig='v24:'+(NF.checked_at||'')+':'+NF.items.length;if(d.getAttribute('data-v19')===sig)return;
+var today=new Date().toISOString().slice(0,10);var items=NF.items.filter(function(n){return!n.close||n.close>=today});if(!items.length)return;
+d.setAttribute('data-v19',sig);
+if(!document.getElementById('tfdNfoCss4')){var st=document.createElement('style');st.id='tfdNfoCss4';st.textContent=
+'#tfdNfo .tn-h{flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:8px}#tfdNfo .tn-h h2{margin:0;text-align:center}#tfdNfo .tn-hr{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap}'
++'#tfdNfo .tn-wrap{position:relative}#tfdNfo .tn-b{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:48px;height:48px;border-radius:50%;border:1px solid #D2D2D7;background:rgba(255,255,255,.96);box-shadow:0 6px 18px rgba(0,0,0,.16);color:var(--ink,#1d1d1f);font-size:28px;line-height:1;padding:0 0 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:opacity .2s,transform .15s}#tfdNfo .tn-b:hover{transform:translateY(-50%) scale(1.07)}#tfdNfo .tn-b:disabled{opacity:0;pointer-events:none}#tfdNfo .tn-pv{left:14px}#tfdNfo .tn-nx{right:14px}#tfdNfo .tn-ar{display:none}#tfdNfo .tn-ar button{width:34px;height:34px;border-radius:50%;border:1px solid #D2D2D7;background:#fff;color:var(--ink,#1d1d1f);font-size:18px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}#tfdNfo .tn-ar button:disabled{opacity:.35;cursor:default}'
++'#tfdNfo .tn-trk{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-left:34px;padding:16px 34px 12px;scrollbar-width:none;-webkit-overflow-scrolling:touch}#tfdNfo .tn-trk::-webkit-scrollbar{display:none}'
++'#tfdNfo .tn4{flex:0 0 300px;scroll-snap-align:start;box-sizing:border-box;border:1px solid #E8E8ED;border-radius:22px;padding:18px;background:#fff;display:flex;flex-direction:column;gap:14px;min-height:214px;text-align:left;box-shadow:0 1px 2px rgba(0,0,0,.03)}'
++'#tfdNfo .tn4.op{border-color:#BFE3CF;background:linear-gradient(180deg,#F1FAF5,#fff 70%)}'
++'#tfdNfo .tn4 .tp{display:flex;align-items:center;gap:8px}'
++'#tfdNfo .tn4 .pl{display:inline-flex;align-items:center;gap:6px;font:700 11px Manrope,system-ui,sans-serif;letter-spacing:.07em;text-transform:uppercase;padding:5px 10px;border-radius:999px;background:#EEF2F8;color:#1c5fb0;white-space:nowrap}'
++'#tfdNfo .tn4.op .pl{background:#DDF3E7;color:#1A7F4B}#tfdNfo .tn4.op .pl:before{content:"";width:6px;height:6px;border-radius:50%;background:#1A7F4B;animation:tnp 1.6s ease-in-out infinite}#tfdNfo .tn4 .pl.gr{background:#F1F1F4;color:#6E6E73}'
++'@keyframes tnp{0%,100%{opacity:1}50%{opacity:.25}}'
++'#tfdNfo .tn4 .mid{display:flex;align-items:center;gap:13px;min-width:0}#tfdNfo .tn4 .mid .logotile{width:52px;height:52px;flex:0 0 52px;border-radius:14px;border:1px solid #EEEEF2;background:#fff}'
++'#tfdNfo .logotile:has(img)::before,#tfdNfo .logotile:has(img)::after{content:none!important;display:none!important}#tfdNfo .tn4 .logotile img{background:#fff}'
++'#tfdNfo .tn4 .mid b{display:block;font-size:16.5px;line-height:1.25;color:var(--ink,#1d1d1f)}#tfdNfo .tn4 .mid span{display:block;font-size:13px;color:#6E6E73;margin-top:2px}'
++'#tfdNfo .tn4 .bt{margin-top:auto}#tfdNfo .tn4 .dt{font:700 20px/1.2 Manrope,system-ui,sans-serif;letter-spacing:-.02em;color:var(--ink,#1d1d1f)}#tfdNfo .tn4 .dt.mu{font:600 15px Manrope,system-ui,sans-serif;letter-spacing:0;color:#4a4a50}'
++'#tfdNfo .tn4 .sb{font-size:12.5px;color:#6E6E73;margin-top:4px}'
++'#tfdNfo .tn4 .pg{height:5px;border-radius:3px;background:#E3EFE8;margin-top:9px;overflow:hidden}#tfdNfo .tn4 .pg i{display:block;height:100%;background:#1A7F4B;border-radius:3px}'
++'#tfdNfo .tn4 .rm{display:flex;align-items:center;justify-content:space-between;gap:10px;border-top:1px solid #EEEEF2;padding-top:11px;font-size:12px;color:#6E6E73}'
++'#tfdNfo .tn4 .mt{display:flex;align-items:center;gap:3px}#tfdNfo .tn4 .mt i{width:16px;height:6px;border-radius:3px;background:#E6E6EB}'
++'#tfdNfo .tn4 .mt i.f1{background:#4DB37A}#tfdNfo .tn4 .mt i.f2{background:#8CC152}#tfdNfo .tn4 .mt i.f3{background:#F2B33D}#tfdNfo .tn4 .mt i.f4{background:#F0803C}#tfdNfo .tn4 .mt i.f5{background:#D64541}'
++'#tfdNfo .tn-dots{display:flex;justify-content:center;gap:7px;padding:2px 0 6px}#tfdNfo .tn-dots i{width:7px;height:7px;border-radius:50%;background:#D2D2D7;cursor:pointer;transition:all .2s}#tfdNfo .tn-dots i.on{background:#1A7F4B;width:20px;border-radius:4px}'
++'@media(max-width:900px){#tfdNfo .tn-trk{padding-left:16px;padding-right:16px;scroll-padding-left:16px}#tfdNfo .tn4{flex-basis:82%}#tfdNfo .tn-b{width:38px;height:38px;font-size:22px}#tfdNfo .tn-pv{left:4px}#tfdNfo .tn-nx{right:4px}}';document.head.appendChild(st)}
+function risk(n){var m=/Risk band\s*(\d)/i.exec(n.note||'');return m?+m[1]:0}
+function ntx(n){var chk=n.amfi===true?'Listed on AMFI':n.amfi===false?'Not on AMFI yet':'';return [n.note,chk].filter(Boolean).join(' · ')}
+function dd(a,b){return Math.round((Date.parse(b)-Date.parse(a))/864e5)}
+function rank(n){return n.open&&n.close?(n.open<=today?0:1):2}
+items=items.slice().sort(function(a,b){var r=rank(a)-rank(b);if(r)return r;return String(a.open||'9').localeCompare(String(b.open||'9'))});
+var cards=items.map(function(n){
+ var dated=n.open&&n.close,open=dated&&n.open<=today;
+ var key=amcKey((n.amc||'')+' '+(n.name||''));var amc=String(n.amc||'AMC to verify');var amcS=amc.replace(/\s*Mutual Fund\s*$/i,'');var r=risk(n);
+ var pl,bt;
+ if(open){var left=dd(today,n.close);pl='Open now';var tot=Math.max(1,dd(n.open,n.close)),pc=Math.min(100,Math.max(4,Math.round((tot-left)/tot*100)));
+  bt='<div class="dt">'+esc(fd(n.open)+' – '+fd(n.close))+'</div><div class="sb">'+(left<=0?'Closes today':left===1?'Closes tomorrow':left+' days left')+'</div><div class="pg"><i style="width:'+pc+'%"></i></div>'}
+ else if(dated){var to=dd(today,n.open);pl='Opens '+fd(n.open);bt='<div class="dt">'+esc(fd(n.open)+' – '+fd(n.close))+'</div><div class="sb">Opens in '+to+' day'+(to===1?'':'s')+'</div>'}
+ else{var fm=/filed with SEBI on (\d+ \w+)/i.exec(n.note||'');pl='Announced';bt='<div class="dt mu">Dates to be announced</div><div class="sb">'+(fm?'SEBI draft filed '+esc(fm[1]):'Awaiting NFO dates')+'</div>'}
+ var meter='';if(r){meter='<div class="rm"><span>Risk band '+r+' of 5</span><span class="mt">'+[1,2,3,4,5].map(function(i){return '<i'+(i<=r?' class="f'+r+'"':'')+'></i>'}).join('')+'</span></div>'}
+ else meter='<div class="rm"><span>'+(n.strategy?esc(n.strategy):'Specialised Investment Fund')+'</span></div>';
+ return '<div class="tn4'+(open?' op':'')+'" title="'+esc(ntx(n))+'"><div class="tp"><span class="pl'+(dated?'':' gr')+'">'+esc(pl)+'</span></div><div class="mid">'+tile(key,amcS)+'<div><b>'+esc(shortName(n.name))+'</b><span>'+esc(amcS)+(n.strategy&&r?' · '+esc(n.strategy):'')+'</span></div></div><div class="bt">'+bt+'</div>'+meter+'</div>'}).join('');
+d.innerHTML='<div class="tn-h"><h2>Open and upcoming launches</h2><div class="tn-hr"><span class="tn-chk">Checked '+esc(NF.checked_at||'')+' · '+items.length+' launches</span></div></div><div class="tn-wrap"><button type="button" class="tn-b tn-pv" aria-label="Previous">&#8249;</button><div class="tn-trk">'+cards+'</div><button type="button" class="tn-b tn-nx" aria-label="Next">&#8250;</button></div><div class="tn-dots">'+items.map(function(_,i){return '<i data-i="'+i+'"></i>'}).join('')+'</div>'
+ +'<div class="tn-f">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Swipe or use the arrows to browse. Dates are checked daily against AMFI, SEBI filings and AMC websites. Confirm in the offer document before investing.</div>';
+var trk=d.querySelector('.tn-trk'),dots=d.querySelectorAll('.tn-dots i'),pv=d.querySelector('.tn-pv'),nx=d.querySelector('.tn-nx');
+function step(){var c=trk.querySelector('.tn4');return c?c.offsetWidth+14:300}
+function upd(){var i=Math.round(trk.scrollLeft/step());if(i>dots.length-1)i=dots.length-1;[].forEach.call(dots,function(x,k){x.className=k===i?'on':''});pv.disabled=trk.scrollLeft<4;nx.disabled=trk.scrollLeft+trk.clientWidth>=trk.scrollWidth-4}
+trk.addEventListener('scroll',function(){requestAnimationFrame(upd)});
+pv.onclick=function(){trk.scrollBy({left:-step(),behavior:'smooth'})};nx.onclick=function(){trk.scrollBy({left:step(),behavior:'smooth'})};
+[].forEach.call(dots,function(x){x.onclick=function(){trk.scrollTo({left:(+x.getAttribute('data-i'))*step(),behavior:'smooth'})}});upd()}
+function logos(){if(!LG)return;[].forEach.call(document.querySelectorAll('img[src*="sifprime.com/amc-logos/"]'),function(im){var f=im.getAttribute('src').split('/').pop();var key=OLD[f];var u=key&&logoUrl(key);if(u)im.src=u})}
+function fill(){if(!LG)return;[].forEach.call(document.querySelectorAll('.logotile'),function(tl){if(tl.querySelector('img')||tl.getAttribute('data-tf'))return;var c=tl.closest('.fundcell')||tl.parentElement;var tx=c?c.innerText:'';if(c&&c.parentElement&&tx.length<12)tx=c.parentElement.innerText;var key=amcKey((tx||'').slice(0,200));var u=logoUrl(key);if(!u)return;tl.setAttribute('data-tf','1');var im=document.createElement('img');im.decoding='async';im.alt=key+' logo';im.onerror=function(){im.remove()};im.src=u;tl.appendChild(im)})}
+function css2(){if(document.getElementById('tfdCss2'))return;var s=document.createElement('style');s.id='tfdCss2';s.textContent='.table-mini tbody tr td:first-child{position:relative}.table-mini tbody tr .fn::after{position:absolute;right:10px;top:14px;margin:0}.table-mini tbody tr .fn{padding-right:0}';document.head.appendChild(s)}
+function search(){var q=document.getElementById('fxQ');var pills=document.getElementById('catPillsBar');if(!q||!pills)return;var bar=document.getElementById('tfdSearch');if(bar&&bar.contains(q))return;if(!bar){bar=document.createElement('div');bar.id='tfdSearch';pills.parentNode.insertBefore(bar,pills)}var w=q.closest('.fxq-w')||q.parentNode;bar.appendChild(w);q.placeholder='Search all SIFs by name, AMC or category'}
+function lb(){var g=document.getElementById('lbGrid');if(!g||g.children.length<2)return;var kids=[].slice.call(g.children);
+ var labels=kids.map(function(k){var m=k.querySelector('.meta');var t=m?m.textContent.split('·')[0].trim():'';return /^all/i.test(t)?'All SIFs':t.toLowerCase().replace(/\b\w/g,function(c){return c.toUpperCase()}).replace('Ex-top','Ex-Top')});
+ var sig=labels.join('|');var bar=document.getElementById('tfdLbTabs');
+ if(!bar){bar=document.createElement('div');bar.id='tfdLbTabs';bar.className='pills';g.parentNode.insertBefore(bar,g);bar.addEventListener('click',function(e){var p=e.target.closest('.pill');if(!p)return;lbIdx=+p.getAttribute('data-i');lb()})}
+ if(bar.getAttribute('data-sig')!==sig){bar.setAttribute('data-sig',sig);bar.innerHTML=labels.map(function(l,i){return '<span class="pill" data-i="'+i+'">'+esc(l)+'</span>'}).join('');if(lbIdx>=kids.length)lbIdx=0}
+ g.classList.add('tfd-tg');[].forEach.call(bar.children,function(p,i){p.classList.toggle('active',i===lbIdx)});kids.forEach(function(k,i){k.classList.toggle('on',i===lbIdx)})}
+function noDeriv(f){return!!f&&!f.unhedged_pending&&!(f.unhedged_count>0)&&!((f.unhedged||[]).length>0)}
+function nd(){if(!FACTS||!FACTS.funds)return;var t=document.querySelector('#browsePanel table.table-mini tbody');if(!t)return;
+ [].forEach.call(t.querySelectorAll('tr[data-code]'),function(tr){var f=FACTS.funds[tr.getAttribute('data-code')];var yes=noDeriv(f);
+  var td=tr.querySelector('td');if(td&&yes&&!tr.querySelector('.tfd-nd')){var s=document.createElement('span');s.className='tfd-nd';s.textContent='No unhedged derivatives';s.title='As on '+(f.as_of||'')+' this fund has no unhedged derivative positions (any futures or options it holds are matched by shares)';td.appendChild(s)}
+  tr.classList.toggle('tfd-hide2',fND&&!yes)});
+ var w=document.querySelector('#cxCols .tfd-flt');if(w&&!document.getElementById('tfdND')){var l=document.createElement('label');l.innerHTML='<input type="checkbox" id="tfdND"> No unhedged derivatives';w.appendChild(l);l.querySelector('input').onchange=function(e){fND=e.target.checked;nd()}}
+ var n=document.getElementById('tfdUnote');if(n&&n.textContent.indexOf('No unhedged')<0)n.textContent+=' A green "No unhedged derivatives" tag means every futures or options position is matched by a share position, or the fund holds none.'}
+function hero(){var c=document.getElementById('hxCount'),a=document.getElementById('hxAmcs');if(!c||!a||!LG||!FACTS)return;var p=c.parentNode;var today=new Date().toISOString().slice(0,10);
+ var cur=+p.getAttribute('data-lf')||0;if(c.textContent!==p.getAttribute('data-tf')){cur=+c.textContent;p.setAttribute('data-lf',cur)}
+ var names={},keys={},live={};
+ Object.keys(FACTS.funds||{}).forEach(function(k){var k2=amcKey(FACTS.funds[k].name||'');if(k2)live[k2]=1});
+ var pipe=[];(PD&&PD.items||[]).forEach(function(n){pipe.push(n)});(NF&&NF.items||[]).forEach(function(n){if(!n.close||n.close>=today)pipe.push(n)});
+ pipe.forEach(function(n){var nk=String(n.name||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').replace(/\b(fund|sif|long|short|hybrid|equity)\b/g,'').trim();if(names[nk])return;names[nk]=1;var k2=amcKey((n.amc||'')+' '+(n.name||''))||String(n.amc||'').toLowerCase();if(!live[k2])keys[k2]=1});
+ var nf=Object.keys(names).length,na=Object.keys(keys).length,la=Object.keys(live).length;if(!nf||!cur)return;
+ var tf=String(cur+nf),ta=String(la+na);var line=' AMCs · '+cur+' live on AMFI + '+nf+' in pipeline';
+ if(c.textContent===tf&&a.textContent===ta&&a.nextSibling&&a.nextSibling.textContent===line)return;
+ c.textContent=tf;a.textContent=ta;p.setAttribute('data-tf',tf);if(a.nextSibling)a.nextSibling.textContent=line;
+ p.title=cur+' funds live on AMFI, '+nf+' launches awaiting first NAV; '+la+' AMCs live, '+na+' more in the pipeline'}
+function pend(){var t=document.querySelector('#browsePanel table.table-mini tbody');if(!t||!LG||!PD||!PD.items||!PD.items.length)return;
+ PD.items.forEach(function(n){var id='tfdP'+String(n.name).replace(/[^a-z0-9]/gi,'').toLowerCase();if(document.getElementById(id))return;
+  var amc=String(n.amc||'AMC to verify');var key=amcKey(amc+' '+n.name);var tr=document.createElement('tr');tr.id=id;tr.className='tfd-pend';
+  tr.innerHTML='<td class="fund"><div class="fundcell">'+tile(key,amc.replace(/\s*Mutual Fund\s*$/i,''))+'<div><div class="fn">'+esc(shortName(n.name))+'</div><div class="am">'+esc(amc)+'</div></div></div></td><td class="num" colspan="14" style="text-align:left;color:#6E6E73"><span class="tfd-nd" style="background:rgba(42,120,214,.12);color:#1c5fb0">NAV awaited</span> '+esc(n.status||'NFO closed, awaiting first NAV')+(n.close?' (closed '+fd(n.close)+')':'')+'. NAV and returns appear here once the fund is in the AMFI NAV file.</td>';
+  t.appendChild(tr)})}
+function tick(){try{css();css2();nfo();pend();hero();logos();fill();search();lb();nd();navbar()}catch(e){}}
+
+function navbar(){var m=location.hash.match(/^#fund\/([^/?]+)/);var old=document.getElementById('tfdNav');var back=document.getElementById('detBack');
+ if(!m||!back){if(old)old.remove();return}
+ var code=decodeURIComponent(m[1]);var rows=[].slice.call(document.querySelectorAll('#browsePanel table.table-mini tbody tr[data-code]'));
+ var vis=rows.filter(function(r){return!/tfd-hide/.test(r.className)&&r.style.display!=='none'});var list=vis.some(function(r){return r.getAttribute('data-code')===code})?vis:rows;
+ var i=list.findIndex(function(r){return r.getAttribute('data-code')===code});
+ function nm(r){var e=r&&r.querySelector('.fn');return e?e.textContent.trim():''}
+ var p=i>0?list[i-1]:null,n=i>=0&&i<list.length-1?list[i+1]:null;
+ var sig=code+'|'+(p?p.getAttribute('data-code'):'')+'|'+(n?n.getAttribute('data-code'):'');
+ if(old&&old.getAttribute('data-sig')===sig){back.style.display='none';return}
+ if(old)old.remove();back.style.display='none';
+ var d=document.createElement('div');d.id='tfdNav';d.setAttribute('data-sig',sig);
+ d.innerHTML='<a class="nv prev'+(p?'':' off')+'" href="'+(p?'#fund/'+esc(p.getAttribute('data-code')):'#')+'"><small>← Previous fund</small><span>'+esc(nm(p))+'</span></a><a class="nv home" href="/sif-tracker/">SIF Tracker home</a><a class="nv next'+(n?'':' off')+'" href="'+(n?'#fund/'+esc(n.getAttribute('data-code')):'#')+'"><small>Next fund →</small><span>'+esc(nm(n))+'</span></a>';
+ back.parentNode.insertBefore(d,back);
+ d.addEventListener('click',function(e){var a=e.target.closest('a');if(!a)return;if(a.classList.contains('off')){e.preventDefault();return}if(a.classList.contains('home')){e.preventDefault();location.href='/sif-tracker/';return}window.scrollTo(0,0)})}
+function sched(){clearTimeout(timer);timer=setTimeout(tick,150)}
+Promise.all([jget('logos.json'),jget('facts.json'),jget('nfos.json'),jget('pending.json')]).then(function(r){LG=r[0];FACTS=r[1];NF=r[2];PD=r[3];tick();new MutationObserver(sched).observe(document.body,{childList:true,subtree:true});setInterval(tick,3000)});
+})();
+
+;(function(){
+function fixAlt(){document.querySelectorAll('img').forEach(function(i){if(i.hasAttribute('alt')&&i.alt.trim()!=='')return;if(i.closest('.logotile'))return;if(i.classList.contains('neve-site-logo'))i.alt='Investing TFD';else if(i.classList.contains('site-icon'))i.alt='Investing TFD site icon'})}
+function fixCount(){fetch('https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var n=j&&j.schemes&&j.schemes.length;var el=document.getElementById('hxCount');if(n&&el&&el.textContent!==String(n))el.textContent=n}).catch(function(){})}
+fixAlt();setTimeout(fixAlt,1500);setTimeout(fixAlt,4000);fixCount();
+})();
+
+;(function(){
+var SLUG={};
+function sl(n){return String(n).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}
+function link(){document.querySelectorAll('tr[data-code]').forEach(function(tr){var fn=tr.querySelector('.fn');if(!fn||fn.querySelector('a.fl'))return;var s=SLUG[tr.getAttribute('data-code')];if(!s)return;var a=document.createElement('a');a.className='fl';a.href='/sif-tracker/'+s+'/';a.style.cssText='color:inherit;text-decoration:none';a.textContent=fn.textContent;a.addEventListener('click',function(e){if(e.ctrlKey||e.metaKey||e.shiftKey||e.button)return;e.preventDefault()});fn.textContent='';fn.appendChild(a)})}
+fetch('https://raw.githubusercontent.com/investingtfd/sif-tracker/main/site/facts.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var F=(j&&j.funds)||j||{};Object.keys(F).forEach(function(c){if(F[c]&&F[c].name)SLUG[c]=sl(F[c].name)});link();setInterval(link,3000)}).catch(function(){})
+})();

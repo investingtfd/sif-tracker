@@ -1,0 +1,611 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+WSIF
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.001;11-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8228;12-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8336;13-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8668;14-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8881;15-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8457;18-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8979;19-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8648;20-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8831;21-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.9373;22-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.0245;25-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.011;26-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.0347;27-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.9127;29-May-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8192;01-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8508;02-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8303;03-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8662;04-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8677;05-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.7496;08-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8423;09-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.8005;10-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.7604;11-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;9.9818;12-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.1752;15-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.2589;16-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.3526;17-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4229;18-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.3806;19-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4541;22-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.3867;23-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4932;24-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4465;25-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4218;29-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4136;30-Jun-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4512;01-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.549;02-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.545;03-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5848;06-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5714;07-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4089;08-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5089;09-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6483;10-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.752;13-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.674;14-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7139;15-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7332;16-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7617;17-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.716;20-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6817;21-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5745;22-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4974;23-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4989;24-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6198;27-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5902;28-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7001;29-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6931;30-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6814;31-Jul-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.8191;03-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7866;04-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.8324;05-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.8196;06-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7618;07-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7668;10-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7634;11-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7563;12-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7502;13-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7161;14-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7184;17-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6876;18-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6549;19-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7044;20-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.74;21-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7393;24-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7493;25-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.7356;26-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6837;27-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6732;28-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.6236;31-Aug-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5736;01-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5142;02-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5252;03-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5555;04-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.5188;07-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4862;08-Sep-2026
+SIF-108;WSIF Equity Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030106;;10.4233;09-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.9977;11-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.819;12-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8293;13-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8619;14-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8826;15-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8386;18-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8903;19-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8567;20-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8744;21-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.928;22-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.0134;25-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.9994;26-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.0225;27-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8996;29-May-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8045;01-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8356;02-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8146;03-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8499;04-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8508;05-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.7313;08-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.8233;09-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.7811;10-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.7405;11-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;9.9609;12-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.1522;15-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.2351;16-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.328;17-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3976;18-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3549;19-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4265;22-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3586;23-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4643;24-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4171;25-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3902;29-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3815;30-Jun-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4184;01-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5153;02-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5107;03-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5487;06-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5347;07-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3718;08-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4708;09-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6087;10-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7102;13-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6319;14-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.671;15-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6896;16-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7174;17-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.67;20-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6353;21-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5279;22-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4506;23-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4516;24-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5701;27-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5401;28-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6489;29-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6414;30-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6291;31-Jul-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7643;03-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7314;04-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7764;05-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.763;06-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.705;07-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7082;10-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.7043;11-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6966;12-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6899;13-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6554;14-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.656;17-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6248;18-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5916;19-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6403;20-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6751;21-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6726;24-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6819;25-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6678;26-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6156;27-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.6046;28-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5536;31-Aug-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.5033;01-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4438;02-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4541;03-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4836;04-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4454;07-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.4125;08-Sep-2026
+SIF-111;WSIF Equity Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030072;;10.3494;09-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.9977;11-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.819;12-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8293;13-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8619;14-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8826;15-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8386;18-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8903;19-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8567;20-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8744;21-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.928;22-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.0134;25-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.9994;26-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.0225;27-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8996;29-May-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8045;01-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8356;02-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8146;03-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8499;04-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8508;05-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.7313;08-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.8233;09-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.7811;10-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.7405;11-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;9.9609;12-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.1522;15-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.2351;16-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.328;17-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3976;18-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3549;19-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4265;22-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3586;23-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4643;24-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4171;25-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3902;29-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3815;30-Jun-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4184;01-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5153;02-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5107;03-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5487;06-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5347;07-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.3718;08-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4708;09-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6091;10-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7107;13-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6324;14-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6715;15-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6902;16-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.718;17-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6706;20-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6359;21-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5285;22-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4512;23-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4522;24-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5707;27-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5407;28-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6495;29-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.642;30-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6297;31-Jul-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7649;03-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.732;04-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.777;05-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7636;06-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7056;07-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7088;10-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.7049;11-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6972;12-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6905;13-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.656;14-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6566;17-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6254;18-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5922;19-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6409;20-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6757;21-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6732;24-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6825;25-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6684;26-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6162;27-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.6052;28-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5542;31-Aug-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.5039;01-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4443;02-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4547;03-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4842;04-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.446;07-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.4131;08-Sep-2026
+SIF-110;WSIF Equity Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030080;INF2F0030098;10.35;09-Sep-2026
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund )
+
+WSIF
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.9962;11-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8031;12-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8228;13-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8489;14-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8882;15-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8253;18-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8924;19-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8549;20-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8897;21-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.9293;22-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.0048;25-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.0069;26-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.0612;27-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.9472;29-May-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8462;01-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8503;02-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.837;03-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8728;04-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8731;05-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.7649;08-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8676;09-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.8558;10-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;9.7786;11-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.0247;12-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.2382;15-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.3188;16-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.3951;17-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.4686;18-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.4699;19-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5407;22-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5061;23-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5925;24-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5452;25-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.536;29-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5511;30-Jun-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5737;01-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6637;02-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6549;03-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6742;06-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6585;07-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5194;08-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6048;09-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7228;10-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7932;13-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.729;14-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8067;15-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8032;16-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7797;17-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7524;20-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7435;21-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6489;22-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5753;23-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.5741;24-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6939;27-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.6491;28-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7539;29-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.785;30-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7778;31-Jul-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9532;03-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9393;04-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9884;05-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9637;06-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8867;07-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9025;10-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8991;11-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.9086;12-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8982;13-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8676;14-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8454;17-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8069;18-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7684;19-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8135;20-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8756;21-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.887;24-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8988;25-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.925;26-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8941;27-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.872;28-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.856;31-Aug-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.8074;01-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7517;02-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7641;03-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7897;04-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7513;07-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.7173;08-Sep-2026
+SIF-107;WSIF Equity Ex-Top 100 Long-Short Fund - Direct Growth;Direct Plan;Growth;INF2F0030049;;10.676;09-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.9962;11-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.803;12-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8227;13-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8488;14-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8881;15-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8253;18-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8924;19-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8548;20-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8896;21-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.9292;22-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.0047;25-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.0068;26-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.0611;27-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.9471;29-May-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8461;01-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8502;02-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8369;03-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8726;04-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8729;05-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.7648;08-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8674;09-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.8556;10-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;9.7784;11-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.0082;12-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.2213;15-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.3017;16-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.378;17-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.4513;18-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.4526;19-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5233;22-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.4887;23-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.575;24-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5277;25-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5185;29-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5337;30-Jun-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5562;01-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.646;02-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6373;03-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6566;06-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6409;07-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.502;08-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5873;09-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7051;10-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7754;13-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7112;14-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7888;15-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7795;16-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.756;17-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7288;20-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7199;21-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6255;22-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5521;23-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.5508;24-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6704;27-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6257;28-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7303;29-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7614;30-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7542;31-Jul-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.9291;03-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.9152;04-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.9643;05-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.9397;06-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8628;07-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8786;10-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8752;11-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8846;12-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8743;13-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8437;14-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8216;17-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7831;18-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7447;19-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7897;20-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8517;21-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8631;24-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8748;25-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.901;26-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8701;27-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8481;28-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.8321;31-Aug-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7837;01-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.728;02-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7404;03-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.766;04-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.7276;07-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6937;08-Sep-2026
+SIF-104;WSIF Equity Ex-Top 100 Long-Short Fund - Direct IDCW;Direct Plan;IDCW;INF2F0030056;INF2F0030064;10.6526;09-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.9929;11-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.7992;12-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8184;13-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.844;14-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8827;15-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8182;18-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8847;19-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8467;20-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8809;21-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.92;22-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.9937;25-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.9952;26-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.0489;27-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.934;29-May-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8315;01-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.835;02-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8212;03-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8564;04-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8561;05-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.7466;08-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8485;09-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.8361;10-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.7585;11-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;9.9873;12-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.1983;15-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.278;16-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.3535;17-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4261;18-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4268;19-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4956;22-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4605;23-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.546;24-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4983;25-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4868;29-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5013;30-Jun-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5232;01-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6121;02-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6028;03-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6203;06-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6041;07-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.4652;08-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5495;09-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6663;10-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7346;13-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6701;14-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7468;15-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7361;16-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7121;17-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6832;20-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6738;21-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5792;22-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5055;23-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5037;24-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.621;27-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5759;28-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6794;29-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7097;30-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.702;31-Jul-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8743;03-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8599;04-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.9081;05-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.883;06-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8059;07-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8198;10-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8159;11-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8247;12-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8138;13-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7828;14-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.759;17-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7202;18-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6814;19-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7256;20-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7866;21-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7961;24-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8072;25-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8326;26-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.8013;27-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7789;28-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7612;31-Aug-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.7124;01-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6566;02-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6683;03-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6931;04-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.6533;07-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.619;08-Sep-2026
+SIF-105;WSIF Equity Ex-Top 100 Long-Short Fund - Regular Growth;Regular Plan;Growth;INF2F0030015;;10.5775;09-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.9929;11-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.7992;12-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8184;13-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.844;14-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8827;15-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8182;18-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8847;19-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8467;20-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8809;21-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.92;22-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.9937;25-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.9952;26-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.0489;27-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.934;29-May-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8315;01-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.835;02-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8212;03-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8564;04-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8561;05-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.7466;08-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8485;09-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.8361;10-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.7585;11-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;9.9873;12-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.1983;15-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.278;16-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.3535;17-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4261;18-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4268;19-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4956;22-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4605;23-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.546;24-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4983;25-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4868;29-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5013;30-Jun-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5232;01-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6121;02-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6028;03-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6203;06-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6041;07-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.4652;08-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5495;09-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6663;10-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7346;13-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6701;14-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7468;15-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.737;16-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.713;17-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6841;20-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6747;21-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5801;22-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5064;23-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5046;24-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6219;27-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5767;28-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6803;29-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7106;30-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7029;31-Jul-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8752;03-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8608;04-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.909;05-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8839;06-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8068;07-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8207;10-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8168;11-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8256;12-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8147;13-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7837;14-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7599;17-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7211;18-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6823;19-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7265;20-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7875;21-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.797;24-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8081;25-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8335;26-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.8022;27-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7798;28-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7621;31-Aug-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.7133;01-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6575;02-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6692;03-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.694;04-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6542;07-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.6199;08-Sep-2026
+SIF-106;WSIF Equity Ex-Top 100 Long-Short Fund - Regular IDCW;Regular Plan;IDCW;INF2F0030023;INF2F0030031;10.5784;09-Sep-2026

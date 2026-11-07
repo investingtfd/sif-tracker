@@ -1,0 +1,1449 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+Titanium SIF
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0389;20-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0470;21-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0578;22-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.1077;25-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0872;26-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0966;27-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0201;29-May-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9633;01-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9816;02-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9604;03-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9734;04-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9535;05-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.8587;08-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.9263;09-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.8901;10-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;9.8540;11-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.0282;12-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.1480;15-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2079;16-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2255;17-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2763;18-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2505;19-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2808;22-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2189;23-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2458;24-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2356;25-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.1698;29-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.1484;30-Jun-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2103;01-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2812;02-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2908;03-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3519;06-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3566;07-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2137;08-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2760;09-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3725;10-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3750;13-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3324;14-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3599;15-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3251;16-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3777;17-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3764;20-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3895;21-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3260;22-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2842;23-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.2618;24-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3500;27-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.3442;28-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.4049;29-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.4551;30-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.4908;31-Jul-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6238;03-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5781;04-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6027;05-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5948;06-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5973;07-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5995;10-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5861;11-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6007;12-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5875;13-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5910;14-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5946;17-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5898;18-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5722;19-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6244;20-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6321;21-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6412;24-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6580;25-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6393;26-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5700;27-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6762;28-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.6423;31-Aug-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5962;01-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5563;02-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5844;03-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5738;04-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.5243;07-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.4964;08-Sep-2026
+SIF-99;Titanium Equity Long-Short Fund Direct Growth;Direct Plan;Growth Option;INF277K30104;;10.4431;09-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;0.0000;26-May-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;0.0000;08-Jun-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9954;18-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9788;19-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0280;20-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0354;21-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0439;24-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0598;25-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0422;26-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9768;27-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0770;28-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0450;31-Aug-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;10.0015;01-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9638;02-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9904;03-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9803;04-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9336;07-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.9073;08-Sep-2026
+SIF-100;Titanium Equity Long-Short Fund Direct IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30120;;9.8570;09-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;0.0000;26-May-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;0.0000;08-Jun-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9954;18-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9788;19-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0280;20-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0354;21-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0439;24-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0598;25-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0422;26-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9768;27-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0770;28-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0450;31-Aug-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;10.0015;01-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9638;02-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9904;03-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9803;04-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9336;07-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.9073;08-Sep-2026
+SIF-103;Titanium Equity Long-Short Fund Direct IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30112;9.8570;09-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0349;20-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0424;21-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0527;22-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1010;25-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0800;26-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0888;27-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0114;29-May-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9531;01-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9711;02-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9494;03-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9619;04-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9415;05-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.8456;08-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.9126;09-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.8759;10-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;9.8394;11-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.0128;12-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1309;15-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1902;16-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2071;17-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2573;18-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2311;19-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2597;22-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1974;23-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2237;24-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2130;25-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1453;29-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1234;30-Jun-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1846;01-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2548;02-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2638;03-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3232;06-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3274;07-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.1844;08-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2459;09-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3416;10-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3425;13-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2995;14-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3264;15-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2911;16-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3430;17-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3401;20-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3527;21-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2888;22-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2467;23-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.2238;24-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3101;27-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3038;28-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3638;29-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.4132;30-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.4482;31-Jul-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5791;03-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5330;04-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5569;05-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5485;06-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5504;07-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5510;10-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5371;11-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5511;12-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5375;13-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5404;14-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5424;17-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5370;18-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5190;19-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5703;20-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5775;21-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5848;24-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.6010;25-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5819;26-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5125;27-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.6175;28-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5821;31-Aug-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5358;01-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.4955;02-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5230;03-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.5119;04-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.4610;07-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.4328;08-Sep-2026
+SIF-102;Titanium Equity Long-Short Fund Regular Growth;Regular Plan;Growth Option;INF277K30070;;10.3793;09-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0349;20-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0424;21-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0527;22-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1010;25-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0800;26-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0888;27-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0114;29-May-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9531;01-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9711;02-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9494;03-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9619;04-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9415;05-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.8456;08-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.9126;09-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.8759;10-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;9.8394;11-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.0128;12-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1309;15-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1902;16-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2071;17-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2573;18-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2311;19-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2597;22-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1974;23-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2237;24-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2130;25-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1453;29-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1234;30-Jun-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1846;01-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2548;02-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2638;03-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3232;06-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3274;07-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.1844;08-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2459;09-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3416;10-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3425;13-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2995;14-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3264;15-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2911;16-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3430;17-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3401;20-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3527;21-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2888;22-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2467;23-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.2238;24-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3101;27-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3038;28-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3638;29-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.4132;30-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.4482;31-Jul-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5791;03-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5330;04-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5569;05-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5485;06-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5504;07-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5510;10-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5371;11-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5511;12-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5375;13-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5404;14-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5424;17-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5370;18-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5190;19-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5703;20-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5775;21-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5848;24-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.6010;25-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5819;26-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5125;27-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.6175;28-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5821;31-Aug-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5358;01-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.4955;02-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5230;03-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.5119;04-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.4610;07-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.4328;08-Sep-2026
+SIF-98;Titanium Equity Long-Short Fund Regular IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30096;;10.3793;09-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0349;20-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0424;21-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0527;22-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1010;25-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0800;26-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0888;27-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0114;29-May-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9531;01-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9711;02-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9494;03-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9619;04-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9415;05-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.8456;08-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.9126;09-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.8759;10-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;9.8394;11-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.0128;12-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1309;15-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1902;16-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2071;17-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2573;18-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2311;19-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2597;22-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1974;23-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2237;24-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2130;25-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1453;29-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1234;30-Jun-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1846;01-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2548;02-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2638;03-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3232;06-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3274;07-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.1844;08-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2459;09-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3416;10-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3425;13-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2995;14-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3264;15-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2911;16-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3430;17-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3401;20-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3527;21-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2888;22-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2467;23-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.2238;24-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3101;27-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3038;28-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3638;29-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.4132;30-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.4482;31-Jul-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5791;03-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5330;04-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5569;05-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5485;06-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5504;07-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5510;10-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5371;11-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5511;12-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5375;13-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5404;14-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5424;17-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5370;18-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5190;19-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5703;20-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5775;21-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5848;24-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.6010;25-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5819;26-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5125;27-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.6175;28-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5821;31-Aug-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5358;01-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.4955;02-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5230;03-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.5119;04-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.4610;07-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.4328;08-Sep-2026
+SIF-101;Titanium Equity Long-Short Fund Regular IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30088;10.3793;09-Sep-2026
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )
+
+Titanium SIF
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0029;17-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0013;18-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0212;19-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0332;22-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0403;23-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0340;24-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0320;26-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0279;29-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0297;30-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0668;31-Dec-2025
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0643;01-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0987;02-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1036;05-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1112;06-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1093;07-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0446;08-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0086;09-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0263;12-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0291;13-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0457;14-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0495;16-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0145;19-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9395;20-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9126;21-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9296;22-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8527;23-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8856;27-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9409;28-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9702;29-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9637;30-Jan-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9359;02-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0602;03-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1022;04-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0823;05-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0961;06-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1285;09-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1576;10-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1667;11-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1469;12-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0760;13-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1173;16-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1378;17-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1583;18-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1002;19-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1285;20-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1625;23-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1419;24-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1576;25-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1701;26-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1052;27-Feb-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0279;02-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9253;04-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9700;05-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9065;06-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8043;09-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8769;10-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8115;11-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.7545;12-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6332;13-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6697;16-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.7216;17-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.7837;18-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6106;19-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6245;20-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.4448;23-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.5452;24-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6670;25-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.5417;27-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.4100;30-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.4106;31-Mar-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.5111;01-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.5246;02-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.5813;06-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.6077;07-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8251;08-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8012;09-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8828;10-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8626;13-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9618;15-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9613;16-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9820;17-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9863;20-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0235;21-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0119;22-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9773;23-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9283;24-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0041;27-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9831;28-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9833;29-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9291;30-Apr-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9722;04-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9574;05-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0520;06-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0709;07-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0368;08-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9737;11-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8853;12-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9032;13-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9766;14-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9450;15-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9233;18-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9343;19-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9524;20-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9680;21-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9919;22-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0521;25-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0478;26-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0435;27-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9842;29-May-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9348;01-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9424;02-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9335;03-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9380;04-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9366;05-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8858;08-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9355;09-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.9106;10-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;9.8951;11-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0084;12-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.0966;15-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1262;16-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1492;17-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1838;18-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1645;19-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1994;22-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1526;23-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1863;24-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1923;25-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1723;29-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1609;30-Jun-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1862;01-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2337;02-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2318;03-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2748;06-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2720;07-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1613;08-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1924;09-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2449;10-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2357;13-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1981;14-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2140;15-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2388;16-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2627;17-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2583;20-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2570;21-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2099;22-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1765;23-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1637;24-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2003;27-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.1762;28-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2230;29-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2347;30-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2354;31-Jul-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3402;03-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3060;04-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3334;05-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3101;06-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2965;07-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2963;10-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2814;11-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2866;12-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2852;13-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2870;14-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2728;17-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2477;18-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2166;19-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2518;20-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2630;21-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2715;24-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2970;25-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2829;26-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2438;27-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3394;28-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.3074;31-Aug-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2775;01-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2580;02-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2796;03-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2819;04-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2615;07-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2414;08-Sep-2026
+SIF-32;Titanium Hybrid Long-Short Fund Direct Plan Growth;Direct Plan;Growth Option;INF277K30047;;10.2133;09-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0029;17-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0013;18-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0212;19-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0332;22-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0403;23-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0340;24-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0320;26-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0279;29-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0297;30-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0668;31-Dec-2025
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0643;01-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0987;02-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1036;05-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1112;06-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1093;07-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0446;08-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0086;09-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0263;12-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0291;13-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0457;14-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0495;16-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0145;19-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9395;20-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9126;21-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9296;22-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8527;23-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8856;27-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9409;28-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9702;29-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9637;30-Jan-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9359;02-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0602;03-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1022;04-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0823;05-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0961;06-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1285;09-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1576;10-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1667;11-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1469;12-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0760;13-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1173;16-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1378;17-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1583;18-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1002;19-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1285;20-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1625;23-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1419;24-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1576;25-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1701;26-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1052;27-Feb-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0279;02-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9253;04-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9700;05-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9065;06-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8043;09-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8769;10-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8115;11-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.7545;12-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6332;13-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6697;16-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.7216;17-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.7837;18-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6106;19-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6245;20-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.4448;23-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.5452;24-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6670;25-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.5417;27-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.4100;30-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.4106;31-Mar-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.5111;01-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.5246;02-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.5813;06-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.6077;07-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8251;08-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8012;09-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8828;10-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8626;13-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9618;15-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9613;16-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9820;17-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9863;20-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0235;21-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0119;22-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9773;23-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9283;24-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0041;27-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9831;28-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9833;29-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9291;30-Apr-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9722;04-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9574;05-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0520;06-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0709;07-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0368;08-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9737;11-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8853;12-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9032;13-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9766;14-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9450;15-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9233;18-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9343;19-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9524;20-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9680;21-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9919;22-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0521;25-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0478;26-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0435;27-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9842;29-May-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9348;01-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9424;02-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9335;03-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9380;04-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9366;05-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8858;08-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9355;09-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.9106;10-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;9.8951;11-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0084;12-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.0966;15-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1262;16-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1492;17-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1838;18-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1645;19-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1994;22-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1526;23-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1863;24-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1923;25-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1723;29-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1609;30-Jun-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1862;01-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2337;02-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2318;03-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2748;06-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2720;07-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1613;08-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1924;09-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2449;10-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2357;13-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1981;14-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2140;15-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2388;16-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2627;17-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2583;20-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2570;21-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2099;22-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1765;23-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1637;24-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2003;27-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.1762;28-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2230;29-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2347;30-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2354;31-Jul-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3402;03-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3060;04-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3334;05-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3101;06-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2965;07-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2963;10-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2814;11-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2866;12-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2852;13-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2870;14-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2728;17-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2477;18-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2166;19-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2518;20-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2630;21-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2715;24-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2970;25-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2829;26-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2438;27-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3394;28-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.3074;31-Aug-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2775;01-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2580;02-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2796;03-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2819;04-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2615;07-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2414;08-Sep-2026
+SIF-31;Titanium Hybrid Long-Short Fund Direct Plan IDCW Payout;Direct Plan;IDCW Payout Option;INF277K30062;;10.2133;09-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0029;17-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0013;18-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0212;19-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0332;22-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0403;23-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0340;24-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0320;26-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0279;29-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0297;30-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0668;31-Dec-2025
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0643;01-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0987;02-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1036;05-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1112;06-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1093;07-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0446;08-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0086;09-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0263;12-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0291;13-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0457;14-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0495;16-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0145;19-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9395;20-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9126;21-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9296;22-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8527;23-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8856;27-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9409;28-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9702;29-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9637;30-Jan-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9359;02-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0602;03-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1022;04-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0823;05-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0961;06-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1285;09-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1576;10-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1667;11-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1469;12-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0760;13-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1173;16-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1378;17-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1583;18-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1002;19-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1285;20-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1625;23-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1419;24-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1576;25-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1701;26-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1052;27-Feb-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0279;02-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9253;04-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9700;05-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9065;06-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8043;09-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8769;10-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8115;11-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.7545;12-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6332;13-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6697;16-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.7216;17-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.7837;18-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6106;19-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6245;20-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.4448;23-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.5452;24-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6670;25-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.5417;27-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.4100;30-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.4106;31-Mar-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.5111;01-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.5246;02-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.5813;06-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.6077;07-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8251;08-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8012;09-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8828;10-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8626;13-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9618;15-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9613;16-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9820;17-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9863;20-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0235;21-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0119;22-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9773;23-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9283;24-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0041;27-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9831;28-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9833;29-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9291;30-Apr-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9722;04-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9574;05-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0520;06-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0709;07-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0368;08-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9737;11-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8853;12-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9032;13-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9766;14-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9450;15-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9233;18-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9343;19-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9524;20-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9680;21-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9919;22-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0521;25-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0478;26-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0435;27-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9842;29-May-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9348;01-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9424;02-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9335;03-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9380;04-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9366;05-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8858;08-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9355;09-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.9106;10-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;9.8951;11-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0084;12-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.0966;15-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1262;16-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1492;17-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1838;18-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1645;19-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1994;22-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1526;23-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1863;24-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1923;25-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1723;29-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1609;30-Jun-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1862;01-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2337;02-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2318;03-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2748;06-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2720;07-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1613;08-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1924;09-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2449;10-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2357;13-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1981;14-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2140;15-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2388;16-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2627;17-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2583;20-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2570;21-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2099;22-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1765;23-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1637;24-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2003;27-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.1762;28-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2230;29-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2347;30-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2354;31-Jul-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3402;03-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3060;04-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3334;05-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3101;06-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2965;07-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2963;10-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2814;11-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2866;12-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2852;13-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2870;14-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2728;17-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2477;18-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2166;19-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2518;20-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2630;21-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2715;24-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2970;25-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2829;26-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2438;27-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3394;28-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.3074;31-Aug-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2775;01-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2580;02-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2796;03-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2819;04-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2615;07-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2414;08-Sep-2026
+SIF-28;Titanium Hybrid Long-Short Fund Direct Plan IDCW Reinvestment;Direct Plan;IDCW Reinvestment Option;;INF277K30054;10.2133;09-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0002;17-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9981;18-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0175;19-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0281;22-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0347;23-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0279;24-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0243;26-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0188;29-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0201;30-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0566;31-Dec-2025
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0535;01-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0874;02-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0908;05-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0979;06-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0955;07-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0304;08-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9941;09-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0102;12-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0126;13-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0287;14-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0315;16-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9951;19-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9198;20-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8924;21-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9089;22-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8316;23-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8625;27-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9172;28-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9459;29-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9391;30-Jan-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9102;02-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0336;03-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0750;04-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0548;05-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0679;06-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0988;09-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1273;10-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1360;11-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1156;12-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0445;13-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0842;16-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1041;17-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1240;18-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0657;19-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0934;20-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1257;23-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1048;24-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1199;25-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1319;26-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0668;27-Feb-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9882;02-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8851;04-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9291;05-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8654;06-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7622;09-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8340;10-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7683;11-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7112;12-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.5900;13-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.6249;16-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.6760;17-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7374;18-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.5646;19-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.5780;20-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.3977;23-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.4972;24-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.6179;25-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.4923;27-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.3599;30-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.3600;31-Mar-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.4595;01-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.4725;02-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.5270;06-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.5528;07-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7684;08-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7442;09-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8249;10-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8033;13-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9010;15-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8999;16-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9200;17-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9228;20-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9593;21-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9473;22-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9124;23-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8632;24-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9370;27-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9157;28-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9155;29-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8611;30-Apr-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9020;04-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8868;05-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9802;06-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9985;07-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9641;08-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9000;11-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8121;12-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8293;13-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9017;14-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8699;15-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8469;18-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8573;19-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8748;20-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8898;21-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9130;22-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9713;25-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9665;26-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9618;27-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9019;29-May-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8515;01-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8585;02-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8492;03-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8532;04-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8514;05-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.7995;08-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8483;09-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8224;10-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.8066;11-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;9.9184;12-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0043;15-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0332;16-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0555;17-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0892;18-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0697;19-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1028;22-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0558;23-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0887;24-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0942;25-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0725;29-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0606;30-Jun-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0852;01-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1317;02-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1293;03-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1704;06-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1672;07-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0571;08-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0874;09-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1388;10-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1282;13-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0905;14-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1057;15-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1298;16-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1529;17-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1470;20-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1452;21-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0982;22-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0647;23-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0515;24-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0862;27-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0619;28-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1077;29-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1187;30-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1189;31-Jul-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.2211;03-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1867;04-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.2133;05-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1898;06-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1758;07-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1741;10-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1589;11-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1635;12-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1617;13-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1630;14-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1474;17-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1221;18-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0909;19-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1251;20-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1357;21-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1426;24-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1673;25-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1529;26-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1138;27-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.2077;28-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1746;31-Aug-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1446;01-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1248;02-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1457;03-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1474;04-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1258;07-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.1054;08-Sep-2026
+SIF-29;Titanium Hybrid Long-Short Fund Regular Plan Growth;Regular Plan;Growth Option;INF277K30013;;10.0772;09-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0002;17-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9981;18-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0175;19-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0281;22-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0347;23-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0279;24-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0243;26-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0188;29-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0201;30-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0566;31-Dec-2025
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0535;01-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0874;02-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0908;05-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0979;06-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0955;07-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0304;08-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9941;09-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0102;12-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0126;13-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0287;14-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0315;16-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9951;19-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9198;20-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8924;21-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9089;22-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8316;23-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8625;27-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9172;28-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9459;29-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9391;30-Jan-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9102;02-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0336;03-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0750;04-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0548;05-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0679;06-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0988;09-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1273;10-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1360;11-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1156;12-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0445;13-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0842;16-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1041;17-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1240;18-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0657;19-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0934;20-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1257;23-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1048;24-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1199;25-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1319;26-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0668;27-Feb-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9882;02-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8851;04-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9291;05-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8654;06-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7622;09-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8340;10-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7683;11-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7112;12-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.5900;13-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.6249;16-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.6760;17-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7374;18-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.5646;19-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.5780;20-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.3977;23-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.4972;24-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.6179;25-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.4923;27-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.3599;30-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.3600;31-Mar-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.4595;01-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.4725;02-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.5270;06-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.5528;07-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7684;08-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7442;09-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8249;10-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8033;13-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9010;15-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8999;16-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9200;17-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9228;20-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9593;21-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9473;22-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9124;23-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8632;24-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9370;27-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9157;28-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9155;29-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8611;30-Apr-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9020;04-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8868;05-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9802;06-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9985;07-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9641;08-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9000;11-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8121;12-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8293;13-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9017;14-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8699;15-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8469;18-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8573;19-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8748;20-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8898;21-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9130;22-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9713;25-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9665;26-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9618;27-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9019;29-May-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8515;01-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8585;02-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8492;03-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8532;04-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8514;05-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.7995;08-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8483;09-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8224;10-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.8066;11-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;9.9184;12-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0043;15-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0332;16-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0555;17-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0892;18-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0697;19-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1028;22-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0558;23-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0887;24-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0942;25-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0725;29-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0606;30-Jun-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0852;01-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1317;02-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1293;03-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1704;06-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1672;07-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0571;08-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0874;09-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1388;10-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1282;13-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0905;14-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1057;15-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1298;16-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1529;17-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1470;20-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1452;21-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0982;22-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0647;23-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0515;24-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0862;27-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0619;28-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1077;29-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1187;30-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1189;31-Jul-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.2211;03-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1867;04-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.2133;05-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1898;06-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1758;07-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1741;10-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1589;11-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1635;12-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1617;13-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1630;14-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1474;17-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1221;18-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0909;19-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1251;20-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1357;21-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1426;24-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1673;25-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1529;26-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1138;27-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.2077;28-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1746;31-Aug-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1446;01-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1248;02-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1457;03-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1474;04-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1258;07-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.1054;08-Sep-2026
+SIF-30;Titanium Hybrid Long-Short Fund Regular Plan IDCW Payout;Regular Plan;IDCW Payout Option;INF277K30039;;10.0772;09-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0002;17-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9981;18-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0175;19-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0281;22-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0347;23-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0279;24-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0243;26-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0188;29-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0201;30-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0566;31-Dec-2025
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0535;01-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0874;02-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0908;05-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0979;06-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0955;07-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0304;08-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9941;09-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0102;12-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0126;13-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0287;14-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0315;16-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9951;19-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9198;20-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8924;21-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9089;22-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8316;23-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8625;27-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9172;28-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9459;29-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9391;30-Jan-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9102;02-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0336;03-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0750;04-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0548;05-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0679;06-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0988;09-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1273;10-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1360;11-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1156;12-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0445;13-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0842;16-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1041;17-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1240;18-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0657;19-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0934;20-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1257;23-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1048;24-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1199;25-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1319;26-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0668;27-Feb-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9882;02-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8851;04-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9291;05-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8654;06-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7622;09-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8340;10-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7683;11-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7112;12-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.5900;13-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.6249;16-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.6760;17-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7374;18-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.5646;19-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.5780;20-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.3977;23-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.4972;24-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.6179;25-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.4923;27-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.3599;30-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.3600;31-Mar-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.4595;01-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.4725;02-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.5270;06-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.5528;07-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7684;08-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7442;09-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8249;10-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8033;13-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9010;15-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8999;16-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9200;17-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9228;20-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9593;21-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9473;22-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9124;23-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8632;24-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9370;27-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9157;28-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9155;29-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8611;30-Apr-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9020;04-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8868;05-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9802;06-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9985;07-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9641;08-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9000;11-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8121;12-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8293;13-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9017;14-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8699;15-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8469;18-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8573;19-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8748;20-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8898;21-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9130;22-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9713;25-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9665;26-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9618;27-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9019;29-May-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8515;01-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8585;02-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8492;03-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8532;04-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8514;05-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.7995;08-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8483;09-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8224;10-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.8066;11-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;9.9184;12-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0043;15-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0332;16-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0555;17-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0892;18-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0697;19-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1028;22-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0558;23-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0887;24-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0942;25-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0725;29-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0606;30-Jun-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0852;01-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1317;02-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1293;03-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1704;06-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1672;07-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0571;08-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0874;09-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1388;10-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1282;13-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0905;14-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1057;15-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1298;16-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1529;17-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1470;20-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1452;21-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0982;22-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0647;23-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0515;24-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0862;27-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0619;28-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1077;29-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1187;30-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1189;31-Jul-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.2211;03-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1867;04-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.2133;05-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1898;06-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1758;07-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1741;10-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1589;11-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1635;12-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1617;13-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1630;14-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1474;17-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1221;18-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0909;19-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1251;20-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1357;21-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1426;24-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1673;25-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1529;26-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1138;27-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.2077;28-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1746;31-Aug-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1446;01-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1248;02-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1457;03-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1474;04-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1258;07-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.1054;08-Sep-2026
+SIF-27;Titanium Hybrid Long-Short Fund Regular Plan IDCW Reinvestment;Regular Plan;IDCW Reinvestment Option;;INF277K30021;10.0772;09-Sep-2026

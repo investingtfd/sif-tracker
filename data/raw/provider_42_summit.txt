@@ -1,0 +1,142 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+SUMMIT SIF
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;9.98;24-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.03000000;27-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.05000000;28-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.08000000;29-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.20000000;30-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.23000000;31-Jul-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.30000000;03-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.28000000;04-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.32000000;05-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.34;06-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.31;07-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.32;10-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.32;11-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.32;12-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.33;13-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.32;14-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.43;17-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.50;18-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.52;19-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.57;20-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.56;21-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.54;24-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.61;25-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.65;26-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.63;27-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.65;28-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.60;31-Aug-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.54;01-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.51;02-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.58;03-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.60;04-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.54;07-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.51;08-Sep-2026
+SIF-149;Summit Equity Long-Short Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K30048;;10.45;09-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;9.98;24-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.03000000;27-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.05000000;28-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.08000000;29-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.20000000;30-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.23000000;31-Jul-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.30000000;03-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.28000000;04-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.32000000;05-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.34;06-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.31;07-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.32;10-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.32;11-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.32;12-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.33;13-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.32;14-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.43;17-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.50;18-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.52;19-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.57;20-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.56;21-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.54;24-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.61;25-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.65;26-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.63;27-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.65;28-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.60;31-Aug-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.54;01-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.51;02-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.58;03-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.60;04-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.54;07-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.51;08-Sep-2026
+SIF-151;Summit Equity Long-Short Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K30055;INF205K30063;10.45;09-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;9.98;24-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.03000000;27-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.05000000;28-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.07000000;29-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.20000000;30-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.23000000;31-Jul-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.30000000;03-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.27000000;04-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.31000000;05-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.33;06-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.30;07-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.31;10-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.31;11-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.31;12-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.32;13-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.31;14-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.42;17-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.48;18-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.51;19-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.55;20-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.54;21-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.53;24-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.59;25-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.64;26-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.61;27-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.63;28-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.58;31-Aug-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.52;01-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.49;02-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.56;03-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.57;04-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.51;07-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.49;08-Sep-2026
+SIF-150;Summit Equity Long-Short Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K30014;;10.42;09-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;9.98;24-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.03000000;27-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.05000000;28-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.07000000;29-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.20000000;30-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.23000000;31-Jul-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.30000000;03-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.27000000;04-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.31000000;05-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.33;06-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.30;07-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.31;10-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.31;11-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.31;12-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.32;13-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.31;14-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.42;17-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.48;18-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.51;19-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.55;20-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.54;21-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.53;24-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.59;25-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.64;26-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.61;27-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.63;28-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.58;31-Aug-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.52;01-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.49;02-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.56;03-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.57;04-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.51;07-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.49;08-Sep-2026
+SIF-152;Summit Equity Long-Short Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K30022;INF205K30030;10.42;09-Sep-2026
+</content>

@@ -1,0 +1,80 @@
+name: Daily SIF NAV fetch and publish
+
+on:
+  schedule:
+    # 23:30 UTC = 5:00 AM IST — safely after AMFI's ~11pm IST NAV publish
+    - cron: '30 23 * * *'
+    # Catch-up refreshes for late-published NAVs (Active Asset Allocator funds often appear after the first run):
+    # 03:30 UTC = 9:00 AM IST and 07:30 UTC = 1:00 PM IST. They commit only if data changed.
+    - cron: '30 3 * * *'
+    - cron: '30 7 * * *'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab to test
+  push:
+    branches: [main]  # also publish immediately whenever files are uploaded/edited on GitHub
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest NAV and rebuild history
+        run: python3 scripts/fetch_daily.py
+
+      - name: Rebuild site data.json
+        run: python3 scripts/build_site_data.py
+
+      - name: Fetch monthly category AUM (best-effort)
+        continue-on-error: true  # AMFI publishes this once a month; a miss here must never block the daily NAV publish
+        run: |
+          pip install --quiet pandas lxml xlrd
+          python3 scripts/fetch_monthly_aum.py
+
+      - name: Fetch benchmark indices (best-effort)
+        continue-on-error: true  # index data is a nice-to-have; never block the NAV publish
+        run: python3 scripts/fetch_indices.py
+
+      - name: Fetch open and upcoming SIF launches (best-effort)
+        continue-on-error: true  # reads SIFPrime and data/nfos_manual.json; a miss keeps the previous list
+        run: python3 scripts/fetch_nfos.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "sif-dashboard-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.csv site/data.json
+          [ -f site/aum.json ] && git add site/aum.json || true
+          [ -f site/indices.json ] && git add site/indices.json || true
+          [ -f site/nfos.json ] && git add site/nfos.json || true
+          [ -f site/pending.json ] && git add site/pending.json || true
+          git diff --staged --quiet || git commit -m "Daily SIF NAV update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Upload site folder for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

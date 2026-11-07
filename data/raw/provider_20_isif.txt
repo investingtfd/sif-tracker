@@ -1,0 +1,877 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+iSIF SIF
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.00;08-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.01;09-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.00;10-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.00;11-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.02;12-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.04;15-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.11;16-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.15;17-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.20;18-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.21;19-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.25;22-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.18;23-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.22;24-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.23;25-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.17;29-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.18;30-Jun-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.24;01-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.30;02-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.27;03-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.36;06-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.34;07-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.16;08-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.22;09-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.34;10-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.34;13-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.28;14-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.41;15-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.40;16-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.41;17-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.41;20-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.42;21-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.35;22-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.31;23-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.28;24-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.34;27-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.28;28-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.34;29-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.37;30-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.49;31-Jul-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.61;03-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.58;04-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.64;05-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.67;06-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.68;07-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.71;10-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.72;11-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.76;12-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.77;13-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.79;14-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.85;17-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.88;18-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.83;19-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.88;20-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.91;21-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.92;24-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.93;25-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.94;26-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.91;27-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.91;28-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.92;31-Aug-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.84;01-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.77;02-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.82;03-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.86;04-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.81;07-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.84;08-Sep-2026
+SIF-127;iSIF Equity Long-Short Fund - Direct Plan - Growth;;;INF109K30083;;10.85;09-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.00;08-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.00;09-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.00;10-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;9.99;11-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.02;12-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.04;15-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.10;16-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.15;17-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.20;18-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.20;19-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.25;22-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.18;23-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.21;24-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.23;25-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.16;29-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.17;30-Jun-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.23;01-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.29;02-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.26;03-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.34;06-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.33;07-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.14;08-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.21;09-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.33;10-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.32;13-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.26;14-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.39;15-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.38;16-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.40;17-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.39;20-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.40;21-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.33;22-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.29;23-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.26;24-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.32;27-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.25;28-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.32;29-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.35;30-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.47;31-Jul-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.58;03-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.56;04-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.62;05-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.64;06-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.65;07-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.68;10-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.69;11-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.73;12-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.74;13-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.76;14-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.82;17-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.85;18-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.80;19-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.85;20-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.88;21-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.88;24-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.89;25-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.90;26-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.87;27-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.87;28-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.88;31-Aug-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.80;01-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.73;02-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.78;03-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.82;04-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.77;07-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.79;08-Sep-2026
+SIF-126;iSIF Equity Long-Short Fund - Growth;;;INF109K30075;;10.80;09-Sep-2026
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund )
+
+iSIF SIF
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.99;05-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.99;06-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.05;09-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.06;10-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.07;11-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.02;12-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.96;13-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.97;16-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.01;17-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.02;18-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.94;19-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.96;20-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.98;23-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.9;24-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.95;25-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.97;26-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.87;27-Feb-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.73;02-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.61;04-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.69;05-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.60;06-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.47;09-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.56;10-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.47;11-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.42;12-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.28;13-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.29;16-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.33;17-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.45;18-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.24;19-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.27;20-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.04;23-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.19;24-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.34;25-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.20;27-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.02;30-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.02;31-Mar-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.18;01-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.20;02-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.28;06-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.31;07-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.57;08-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.54;09-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.64;10-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.61;13-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.76;15-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.81;16-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.89;17-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.89;20-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.95;21-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.95;22-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.89;23-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.80;24-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;27-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.86;28-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;29-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.82;30-Apr-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.87;04-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;05-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.00;06-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.06;07-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.06;08-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.98;11-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.81;12-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.87;13-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.94;14-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.95;15-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;18-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.93;19-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.94;20-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.96;21-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.99;22-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.04;25-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.05;26-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.06;27-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.95;29-May-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;01-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.89;02-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.86;03-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.88;04-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.87;05-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.79;08-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.86;09-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.82;10-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.76;11-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;9.92;12-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.01;15-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.07;16-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.10;17-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.12;18-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.13;19-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.18;22-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.14;23-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.17;24-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.14;25-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.07;29-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.09;30-Jun-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.12;01-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.18;02-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.20;03-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.23;06-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.25;07-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.15;08-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.23;09-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.31;10-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.30;13-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.29;14-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.33;15-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.32;16-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.32;17-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.34;20-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.37;21-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.28;22-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.25;23-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.23;24-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.32;27-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.31;28-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.40;29-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.38;30-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.40;31-Jul-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.52;03-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.45;04-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.48;05-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.44;06-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.44;07-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;10-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;11-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;12-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.48;13-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;14-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.50;17-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.48;18-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;19-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.50;20-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.50;21-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.50;24-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.52;25-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.52;26-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.50;27-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.49;28-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.46;31-Aug-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.44;01-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.40;02-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.46;03-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.47;04-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.42;07-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.42;08-Sep-2026
+SIF-33;iSIF Equity Ex-Top 100 Long-Short Fund - Direct Plan - Growth;;;INF109K30042;;10.38;09-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.99;05-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.99;06-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.04;09-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.05;10-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.06;11-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.02;12-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.95;13-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.97;16-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.00;17-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.02;18-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.93;19-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.95;20-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.97;23-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.89;24-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.94;25-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.96;26-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.86;27-Feb-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.72;02-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.60;04-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.67;05-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.59;06-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.46;09-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.54;10-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.46;11-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.40;12-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.27;13-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.27;16-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.32;17-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.43;18-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.22;19-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.25;20-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.02;23-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.18;24-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.33;25-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.18;27-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.00;30-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.00;31-Mar-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.16;01-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.18;02-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.26;06-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.28;07-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.55;08-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.52;09-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.62;10-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.58;13-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.74;15-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.78;16-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.86;17-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.86;20-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.92;21-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.92;22-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.86;23-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.77;24-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.85;27-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.83;28-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.85;29-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.79;30-Apr-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.84;04-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.84;05-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.97;06-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.02;07-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.02;08-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.94;11-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.78;12-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.83;13-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.90;14-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.91;15-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.84;18-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.89;19-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.90;20-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.92;21-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.94;22-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.99;25-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.00;26-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.01;27-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.90;29-May-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.83;01-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.84;02-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.82;03-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.84;04-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.82;05-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.74;08-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.82;09-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.77;10-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.72;11-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.86;12-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;9.96;15-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.01;16-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.04;17-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.07;18-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.08;19-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.12;22-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.09;23-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.11;24-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.08;25-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.01;29-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.03;30-Jun-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.06;01-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.12;02-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.14;03-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.17;06-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.19;07-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.08;08-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.16;09-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.24;10-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.24;13-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.22;14-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.26;15-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.25;16-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.25;17-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.27;20-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.30;21-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.21;22-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.18;23-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.17;24-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.25;27-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.24;28-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.33;29-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.31;30-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.32;31-Jul-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.44;03-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.38;04-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.41;05-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.37;06-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.37;07-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.39;10-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.39;11-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.39;12-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.40;13-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.39;14-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.42;17-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.40;18-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.39;19-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.42;20-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.42;21-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.42;24-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.43;25-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.44;26-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.42;27-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.41;28-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.37;31-Aug-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.36;01-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.31;02-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.38;03-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.38;04-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.33;07-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.33;08-Sep-2026
+SIF-34;iSIF Equity Ex-Top 100 Long-Short Fund - Growth;;;INF109K30034;;10.29;09-Sep-2026
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )
+
+iSIF SIF
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;9.9972;08-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0098;09-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0019;10-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;9.9984;11-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0259;12-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0402;15-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0501;16-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0616;17-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0714;18-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0649;19-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0862;22-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0712;23-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0882;24-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1170;25-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0980;29-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.0839;30-Jun-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1262;01-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1603;02-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1792;03-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2158;06-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2211;07-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1415;08-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1623;09-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2061;10-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1998;13-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.1996;14-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2050;15-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2080;16-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2428;17-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2449;20-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2542;21-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2322;22-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2296;23-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2206;24-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2562;27-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2288;28-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2547;29-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.2753;30-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3162;31-Jul-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3653;03-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3611;04-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3735;05-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3696;06-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4006;07-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4139;10-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4386;11-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4458;12-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4447;13-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4425;14-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4353;17-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4350;18-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4408;19-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4573;20-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4702;21-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4701;24-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4851;25-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4666;26-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4559;27-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4748;28-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4524;31-Aug-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4448;01-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4091;02-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4259;03-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4412;04-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4292;07-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.4128;08-Sep-2026
+SIF-125;iSIF Active Asset Allocator Long-Short Fund - Direct Plan - Growth;;;INF109K30067;;10.3895;09-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;9.9960;08-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0082;09-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0000;10-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;9.9961;11-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0231;12-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0363;15-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0458;16-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0569;17-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0663;18-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0595;19-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0795;22-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0641;23-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0808;24-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1091;25-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0886;29-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.0741;30-Jun-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1160;01-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1496;02-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1682;03-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2036;06-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2084;07-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1285;08-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1489;09-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1922;10-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1848;13-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1842;14-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1892;15-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.1918;16-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2261;17-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2270;20-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2360;21-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2136;22-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2106;23-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2012;24-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2355;27-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2079;28-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2333;29-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2535;30-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.2938;31-Jul-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3416;03-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3370;04-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3490;05-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3447;06-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3752;07-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3873;10-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4116;11-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4183;12-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4168;13-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4142;14-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4059;17-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4052;18-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4105;19-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4266;20-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4391;21-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4377;24-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4523;25-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4334;26-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4224;27-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4408;28-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4173;31-Aug-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4092;01-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3733;02-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3896;03-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.4045;04-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3913;07-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3746;08-Sep-2026
+SIF-124;iSIF Active Asset Allocator Long-Short Fund - Growth;;;INF109K30059;;10.3509;09-Sep-2026
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )
+
+iSIF SIF
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0179;05-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0054;06-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0690;09-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1151;10-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1375;11-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1232;12-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0653;13-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0738;16-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0924;17-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1037;18-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0018;19-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0226;20-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0442;23-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9775;24-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0275;25-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0249;26-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9585;27-Feb-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8495;02-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7529;04-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8315;05-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7451;06-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.6143;09-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7216;10-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.6146;11-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.5322;12-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.3738;13-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.4448;16-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.5121;17-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.6160;18-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.4037;19-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.4339;20-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.2346;23-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.3801;24-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.5203;25-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.3636;27-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.2301;30-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.2304;31-Mar-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.3867;01-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.3745;02-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.4754;06-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.4903;07-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8044;08-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7654;09-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8800;10-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8193;13-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9634;15-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9784;16-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0429;17-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0693;20-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1313;21-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1075;22-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0070;23-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9380;24-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9972;27-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9504;28-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9781;29-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9185;30-Apr-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9586;04-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9501;05-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0500;06-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0875;07-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.0566;08-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9394;11-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7941;12-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7925;13-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8308;14-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8322;15-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7745;18-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8169;19-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8470;20-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8687;21-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9069;22-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9914;25-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9830;26-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9904;27-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9206;29-May-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8594;01-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8757;02-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8403;03-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8778;04-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8793;05-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7765;08-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8550;09-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.8130;10-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.7695;11-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;9.9580;12-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1060;15-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1307;16-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1659;17-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1998;18-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1782;19-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2259;22-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.1579;23-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2052;24-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2560;25-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2053;29-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2186;30-Jun-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2896;01-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3545;02-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3403;03-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3943;06-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3866;07-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2160;08-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2573;09-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3331;10-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3357;13-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2514;14-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3192;15-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3097;16-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3732;17-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3400;20-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3585;21-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2895;22-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2494;23-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.2234;24-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3101;27-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3192;28-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.3934;29-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.4664;30-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.5476;31-Jul-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6740;03-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6524;04-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6969;05-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7136;06-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7266;07-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7497;10-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7360;11-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7322;12-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7438;13-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7183;14-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7421;17-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7365;18-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7347;19-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7626;20-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7561;21-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7538;24-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7791;25-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7762;26-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7381;27-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7359;28-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.7675;31-Aug-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6765;01-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6236;02-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6439;03-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6614;04-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6192;07-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.6076;08-Sep-2026
+SIF-36;iSIF Hybrid Long-Short Fund - Direct Plan - Growth;;;INF109K30026;;10.5776;09-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0175;05-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0046;06-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0670;09-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1128;10-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1348;11-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1201;12-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0618;13-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0692;16-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0873;17-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0983;18-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9960;19-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0164;20-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0369;23-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9698;24-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0194;25-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0165;26-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9497;27-Feb-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8397;02-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7424;04-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8206;05-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7338;06-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.6020;09-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7088;10-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.6016;11-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.5189;12-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3604;13-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.4302;16-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.4971;17-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.6004;18-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3882;19-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.4179;20-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.2179;23-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3627;24-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.5023;25-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3452;27-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.2110;30-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.2109;31-Mar-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3664;01-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.3539;02-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.4531;06-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.4674;07-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7803;08-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7411;09-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8550;10-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7933;13-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9361;15-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9507;16-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0147;17-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0398;20-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1012;21-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0771;22-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9764;23-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9072;24-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9650;27-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9180;28-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9452;29-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8854;30-Apr-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9237;04-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9149;05-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0140;06-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0509;07-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0198;08-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9018;11-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7566;12-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7547;13-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7924;14-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7934;15-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7347;18-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7766;19-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8062;20-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8274;21-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8650;22-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9479;25-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9392;26-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9461;27-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8758;29-May-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8138;01-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8296;02-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7939;03-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8308;04-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8319;05-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7285;08-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.8062;09-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7640;10-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.7203;11-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;9.9074;12-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0535;15-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.0776;16-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1122;17-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1456;18-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1237;19-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1700;22-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1019;23-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1486;24-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1988;25-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1468;29-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1596;30-Jun-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2299;01-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2940;02-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2795;03-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.3320;06-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.3239;07-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1540;08-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1946;09-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2696;10-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2710;13-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1869;14-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2538;15-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2440;16-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.3067;17-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2726;20-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2905;21-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2216;22-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1813;23-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.1551;24-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2401;27-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.2487;28-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.3220;29-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.3941;30-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.4744;31-Jul-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5987;03-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5769;04-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6207;05-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6369;06-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6494;07-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6712;10-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6572;11-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6530;12-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6641;13-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6384;14-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6609;17-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6550;18-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6528;19-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6801;20-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6733;21-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6699;24-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6946;25-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6913;26-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6531;27-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6505;28-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.6807;31-Aug-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5900;01-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5372;02-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5570;03-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5739;04-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5310;07-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.5191;08-Sep-2026
+SIF-35;iSIF Hybrid Long-Short Fund - Growth;;;INF109K30018;;10.4890;09-Sep-2026

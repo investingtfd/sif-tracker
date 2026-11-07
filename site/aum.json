@@ -1,0 +1,43 @@
+{
+  "source_url": "https://portal.amfiindia.com/spages/sif_amsep2026repo.xls",
+  "report_month": "sep2026",
+  "as_of": "2026-09-30",
+  "fetched_at": "2026-11-07T10:30:17.953670Z",
+  "categories": {
+    "Equity Long-Short": {
+      "net_aum_cr": 4216.05928379,
+      "avg_aum_cr": 3707.62034171,
+      "schemes": 12.0
+    },
+    "Equity Ex-Top 100 Long-Short": {
+      "net_aum_cr": 7595.34847229,
+      "avg_aum_cr": 7094.2950564,
+      "schemes": 7.0
+    },
+    "Sector Rotation Long-Short": {
+      "net_aum_cr": 62.4003908,
+      "avg_aum_cr": 54.3862477,
+      "schemes": 1.0
+    },
+    "Active Asset Allocator Long-Short": {
+      "net_aum_cr": 2456.23022972,
+      "avg_aum_cr": 2141.51671152,
+      "schemes": 3.0
+    },
+    "Hybrid Long-Short": {
+      "net_aum_cr": 23956.89761276,
+      "avg_aum_cr": 22022.92522371,
+      "schemes": 11.0
+    }
+  },
+  "grand_total": {
+    "net_aum_cr": 38286.93598936,
+    "avg_aum_cr": 35020.743581040006,
+    "schemes": 34.0
+  },
+  "prev": {
+    "report_month": "aug2026",
+    "as_of": "2026-08-31",
+    "net_aum_cr": 31175.427308309998
+  }
+}

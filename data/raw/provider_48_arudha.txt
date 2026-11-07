@@ -1,0 +1,1223 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Oriented Investment Strategies - Equity Long-Short Fund )
+
+Arudha SIF
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;9.826;30-Mar-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;9.827;31-Mar-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;9.890;01-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;9.902;02-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;9.959;06-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.008;07-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.151;08-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.133;09-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.17;10-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.158;13-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.253;15-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.247;16-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.271;17-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.284;20-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.315;21-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.242;22-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.197;23-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.12;24-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.196;27-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.176;28-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.191;29-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.163;30-Apr-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.202;04-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.214;05-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.31;06-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.315;07-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.283;08-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.209;11-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.083;12-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.065;13-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.12;14-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.116;15-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.08;18-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.129;19-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.134;20-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.13;21-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.128;22-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.194;25-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.172;26-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.162;27-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.077;29-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.077;31-May-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.03;01-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.03;02-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.01;03-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.037;04-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.045;05-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.016;08-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.048;09-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.04;10-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.026;11-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.113;12-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.189;15-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.235;16-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.268;17-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.294;18-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.284;19-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.325;22-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.269;23-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.314;24-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.32;25-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.275;29-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.294;30-Jun-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.34;01-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.417;02-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.438;03-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.468;06-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.473;07-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.323;08-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.407;09-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.473;10-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.502;13-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.465;14-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.474;15-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.467;16-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.52;17-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.528;20-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.526;21-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.47;22-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.41;23-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.391;24-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.496;27-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.485;28-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.552;29-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.553;30-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.542;31-Jul-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.637;03-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.601;04-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.62;05-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.606;06-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.599;07-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.597;10-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.604;11-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.62;12-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.613;13-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.591;14-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.6;17-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.585;18-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.575;19-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.625;20-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.629;21-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.615;24-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.635;25-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.621;26-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.579;27-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.58;28-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.58;31-Aug-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.556;01-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.488;02-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.529;03-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.518;04-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.492;07-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.491;08-Sep-2026
+SIF-61;Arudha Equity Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30523;;10.438;09-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.945;23-Jun-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.988;24-Jun-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.994;25-Jun-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.948;29-Jun-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.967;30-Jun-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.011;01-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.084;02-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.105;03-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.132;06-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.137;07-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;9.992;08-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.073;09-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.136;10-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.162;13-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.126;14-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.135;15-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.127;16-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.179;17-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.185;20-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.182;21-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.128;22-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.07;23-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.05;24-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.151;27-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.14;28-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.204;29-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.204;30-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.194;31-Jul-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.284;03-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.249;04-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.267;05-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.253;06-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.246;07-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.242;10-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.249;11-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.264;12-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.256;13-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.235;14-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.242;17-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.228;18-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.218;19-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.265;20-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.269;21-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.254;24-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.273;25-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.259;26-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.218;27-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.218;28-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.217;31-Aug-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.194;01-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.127;02-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.166;03-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.156;04-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.128;07-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.127;08-Sep-2026
+SIF-75;Arudha Equity Long-Short Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194K30424;INF194K30507;10.075;09-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.824;30-Mar-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.824;31-Mar-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.886;01-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.899;02-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.954;06-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.002;07-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.145;08-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.127;09-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.163;10-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.15;13-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.244;15-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.238;16-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.261;17-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.273;20-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.303;21-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.23;22-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.185;23-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.108;24-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.183;27-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.162;28-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.176;29-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.147;30-Apr-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.185;04-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.196;05-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.292;06-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.297;07-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.264;08-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.19;11-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.063;12-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.044;13-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.099;14-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.095;15-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.057;18-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.106;19-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.111;20-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.106;21-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.104;22-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.169;25-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.146;26-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.136;27-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.049;29-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.049;31-May-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.002;01-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.001;02-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.981;03-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.007;04-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.015;05-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.985;08-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.016;09-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.008;10-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;9.993;11-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.08;12-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.155;15-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.2;16-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.232;17-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.258;18-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.248;19-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.287;22-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.231;23-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.275;24-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.281;25-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.234;29-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.253;30-Jun-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.298;01-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.374;02-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.395;03-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.423;06-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.428;07-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.278;08-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.362;09-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.427;10-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.454;13-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.417;14-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.426;15-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.418;16-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.471;17-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.477;20-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.475;21-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.419;22-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.359;23-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.339;24-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.442;27-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.431;28-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.497;29-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.497;30-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.487;31-Jul-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.58;03-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.544;04-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.561;05-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.547;06-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.54;07-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.536;10-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.543;11-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.558;12-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.551;13-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.529;14-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.536;17-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.522;18-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.511;19-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.56;20-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.564;21-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.549;24-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.568;25-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.554;26-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.511;27-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.512;28-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.51;31-Aug-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.486;01-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.418;02-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.458;03-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.448;04-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.419;07-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.418;08-Sep-2026
+SIF-62;Arudha Equity Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30358;;10.365;09-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.036;10-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.023;13-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.115;15-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.109;16-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.132;17-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.144;20-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.174;21-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.101;22-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.057;23-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.981;24-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.055;27-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.034;28-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.048;29-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.02;30-Apr-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.057;04-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.068;05-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.163;06-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.167;07-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.135;08-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.062;11-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.936;12-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.918;13-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.973;14-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.968;15-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.931;18-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.979;19-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.984;20-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.979;21-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.977;22-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.041;25-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.019;26-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.008;27-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.923;29-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.923;31-May-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.876;01-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.876;02-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.856;03-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.882;04-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.889;05-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.86;08-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.89;09-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.882;10-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.868;11-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;9.953;12-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.027;15-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.072;16-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.104;17-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.129;18-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.119;19-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.158;22-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.103;23-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.146;24-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.152;25-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.105;29-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.124;30-Jun-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.169;01-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.244;02-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.264;03-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.292;06-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.297;07-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.149;08-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.232;09-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.296;10-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.323;13-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.286;14-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.295;15-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.287;16-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.339;17-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.346;20-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.343;21-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.288;22-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.229;23-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.209;24-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.311;27-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.3;28-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.365;29-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.365;30-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.355;31-Jul-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.447;03-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.411;04-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.429;05-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.415;06-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.407;07-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.404;10-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.411;11-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.426;12-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.418;13-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.397;14-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.404;17-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.389;18-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.379;19-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.427;20-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.431;21-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.416;24-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.435;25-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.421;26-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.379;27-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.38;28-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.378;31-Aug-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.355;01-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.287;02-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.327;03-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.316;04-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.288;07-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.287;08-Sep-2026
+SIF-69;Arudha Equity Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30390;INF194K30473;10.234;09-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.824;30-Mar-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.824;31-Mar-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.886;01-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.899;02-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.954;06-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.002;07-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.145;08-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.127;09-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.163;10-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.15;13-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.244;15-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.238;16-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.261;17-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.273;20-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.303;21-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.23;22-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.185;23-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.108;24-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.183;27-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.162;28-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.176;29-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.147;30-Apr-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.185;04-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.196;05-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.292;06-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.297;07-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.264;08-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.19;11-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.063;12-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.044;13-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.099;14-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.095;15-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.057;18-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.106;19-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.111;20-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.106;21-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.104;22-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.169;25-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.146;26-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.136;27-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.049;29-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.049;31-May-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.002;01-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.001;02-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.981;03-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.007;04-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.015;05-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.985;08-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.016;09-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.008;10-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;9.993;11-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.08;12-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.155;15-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.2;16-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.232;17-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.258;18-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.248;19-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.287;22-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.231;23-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.275;24-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.281;25-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.234;29-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.253;30-Jun-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.298;01-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.374;02-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.395;03-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.423;06-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.428;07-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.278;08-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.362;09-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.427;10-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.454;13-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.417;14-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.426;15-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.418;16-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.471;17-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.477;20-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.475;21-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.419;22-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.359;23-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.339;24-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.442;27-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.431;28-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.497;29-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.497;30-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.487;31-Jul-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.58;03-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.544;04-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.561;05-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.547;06-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.54;07-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.536;10-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.543;11-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.558;12-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.551;13-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.529;14-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.536;17-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.522;18-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.511;19-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.56;20-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.564;21-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.549;24-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.568;25-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.554;26-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.511;27-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.512;28-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.51;31-Aug-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.486;01-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.418;02-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.458;03-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.448;04-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.419;07-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.418;08-Sep-2026
+SIF-71;Arudha Equity Long-Short Fund-Regular Plan-Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K30408;INF194K30481;10.365;09-Sep-2026
+
+Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )
+
+Arudha SIF
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.016;08-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.021;09-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.033;10-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.033;13-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.05;15-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.052;16-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.052;17-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.06;20-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.058;21-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.057;22-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.051;23-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.042;24-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.048;27-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.043;28-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.04;29-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.037;30-Apr-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.045;04-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.046;05-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.053;06-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.062;07-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.065;08-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.064;11-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.062;12-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.06;13-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.063;14-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.062;15-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.056;18-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.059;19-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.054;20-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.05;21-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.049;22-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.058;25-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.059;26-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.061;27-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.056;29-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.058;31-May-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.073;01-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.071;02-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.073;03-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.08;04-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.1;05-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.124;08-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.13;09-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.144;10-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.14;11-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.142;12-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.153;15-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.158;16-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.16;17-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.167;18-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.168;19-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.177;22-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.182;23-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.188;24-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.203;25-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.212;29-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.219;30-Jun-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.228;01-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.235;02-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.238;03-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.246;06-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.246;07-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.229;08-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.232;09-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.242;10-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.24;13-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.232;14-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.233;15-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.239;16-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.243;17-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.237;20-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.246;21-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.245;22-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.243;23-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.243;24-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.259;27-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.26;28-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.259;29-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.26;30-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.265;31-Jul-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.296;03-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.291;04-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.287;05-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.284;06-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.29;07-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.297;10-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.297;11-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.3;12-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.301;13-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.302;14-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.288;17-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.29;18-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.297;19-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.282;20-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.287;21-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.293;24-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.291;25-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.289;27-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.289;28-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.286;31-Aug-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.306;01-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.297;02-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.31;03-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.302;04-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.317;07-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.318;08-Sep-2026
+SIF-51;Arudha Hybrid Long-Short Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K30259;INF194K30333;10.317;09-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.034;04-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.042;05-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.040;06-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.037;09-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.039;10-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.044;11-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.052;12-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.060;13-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.060;16-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.066;17-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.063;18-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.064;20-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.071;23-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.070;24-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.076;25-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.078;26-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.078;27-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.079;28-Feb-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.083;02-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.077;04-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.081;05-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.086;06-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.076;09-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.077;10-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.091;11-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.079;12-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.081;13-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.080;16-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.08;17-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.088;18-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.087;20-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.08;23-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.076;24-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.08;25-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.083;27-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.090;30-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.091;31-Mar-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.087;02-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.083;06-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.092;07-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.108;08-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.113;09-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.125;10-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.126;13-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.143;15-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.145;16-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.144;17-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.153;20-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.151;21-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.15;22-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.143;23-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.135;24-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.14;27-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.135;28-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.133;29-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.129;30-Apr-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.138;04-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.139;05-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.146;06-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.155;07-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.158;08-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.157;11-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.155;12-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.153;13-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.156;14-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.155;15-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.149;18-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.151;19-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.147;20-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.143;21-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.141;22-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.151;25-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.152;26-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.154;27-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.149;29-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.151;31-May-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.166;01-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.164;02-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.166;03-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.173;04-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.193;05-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.217;08-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.224;09-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.238;10-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.234;11-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.235;12-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.247;15-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.252;16-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.254;17-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.261;18-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.262;19-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.272;22-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.276;23-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.283;24-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.298;25-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.307;29-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.313;30-Jun-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.323;01-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.33;02-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.333;03-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.341;06-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.341;07-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.324;08-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.327;09-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.337;10-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.335;13-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.327;14-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.328;15-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.334;16-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.338;17-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.332;20-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.341;21-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.34;22-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.338;23-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.339;24-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.354;27-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.356;28-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.355;29-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.356;30-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.361;31-Jul-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.392;03-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.387;04-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.383;05-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.38;06-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.386;07-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.393;10-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.393;11-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.396;12-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.397;13-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.398;14-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.384;17-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.386;18-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.393;19-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.378;20-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.383;21-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.389;24-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.387;25-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.385;27-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.385;28-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.382;31-Aug-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.402;01-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.393;02-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.406;03-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.398;04-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.414;07-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.414;08-Sep-2026
+SIF-54;Arudha Hybrid Long-Short Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K30184;;10.413;09-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.034;04-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.041;05-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.040;06-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.037;09-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.038;10-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.044;11-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.052;12-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.060;13-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.060;16-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.065;17-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.062;18-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.064;20-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.071;23-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.069;24-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.076;25-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.077;26-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.078;27-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.079;28-Feb-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.082;02-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.076;04-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.081;05-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.085;06-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.076;09-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.077;10-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.090;11-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.078;12-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.081;13-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.079;16-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.079;17-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.088;18-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.086;20-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.079;23-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.075;24-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.079;25-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.082;27-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.090;30-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.091;31-Mar-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.087;02-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.082;06-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.091;07-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.107;08-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.112;09-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.124;10-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.125;13-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.142;15-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.144;16-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.143;17-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.152;20-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.15;21-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.149;22-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.142;23-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.134;24-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.139;27-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.134;28-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.132;29-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.128;30-Apr-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.137;04-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.138;05-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.144;06-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.154;07-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.156;08-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.155;11-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.154;12-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.152;13-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.155;14-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.154;15-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.147;18-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.15;19-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.146;20-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.142;21-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.14;22-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.15;25-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.151;26-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.152;27-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.148;29-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.15;31-May-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.164;01-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.162;02-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.164;03-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.171;04-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.192;05-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.216;08-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.222;09-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.236;10-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.232;11-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.234;12-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.245;15-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.25;16-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.252;17-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.259;18-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.26;19-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.27;22-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.275;23-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.281;24-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.296;25-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.305;29-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.312;30-Jun-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.321;01-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.328;02-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.331;03-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.339;06-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.34;07-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.322;08-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.325;09-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.335;10-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.333;13-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.325;14-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.326;15-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.332;16-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.336;17-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.33;20-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.339;21-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.338;22-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.336;23-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.336;24-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.352;27-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.354;28-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.352;29-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.354;30-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.359;31-Jul-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.39;03-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.385;04-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.38;05-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.378;06-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.384;07-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.391;10-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.391;11-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.394;12-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.395;13-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.395;14-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.382;17-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.384;18-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.391;19-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.376;20-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.381;21-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.386;24-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.385;25-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.383;27-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.383;28-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.38;31-Aug-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.399;01-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.39;02-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.404;03-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.396;04-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.411;07-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.412;08-Sep-2026
+SIF-48;Arudha Hybrid Long-Short Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K30242;INF194K30325;10.411;09-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.007;19-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;9.992;20-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;9.996;21-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.002;24-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10;25-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;9.998;27-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;9.998;28-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;9.994;31-Aug-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.013;01-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.004;02-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.017;03-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.01;04-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.024;07-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.024;08-Sep-2026
+SIF-43;Arudha Hybrid Long-Short Fund-Regular Plan-Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K30044;INF194K30127;10.023;09-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.033;04-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.040;05-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.039;06-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.035;09-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.037;10-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.042;11-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.050;12-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.058;13-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.058;16-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.063;17-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.060;18-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.061;20-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.068;23-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.066;24-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.072;25-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.074;26-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.074;27-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.075;28-Feb-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.079;02-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.072;04-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.077;05-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.081;06-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.071;09-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.072;10-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.086;11-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.073;12-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.076;13-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.074;16-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.074;17-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.082;18-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.081;20-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.073;23-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.069;24-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.073;25-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.075;27-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.082;30-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.083;31-Mar-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.079;02-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.073;06-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.082;07-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.098;08-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.104;09-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.115;10-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.115;13-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.132;15-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.134;16-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.133;17-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.142;20-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.14;21-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.138;22-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.132;23-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.123;24-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.128;27-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.123;28-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.121;29-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.117;30-Apr-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.125;04-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.126;05-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.133;06-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.142;07-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.144;08-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.143;11-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.141;12-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.139;13-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.142;14-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.141;15-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.134;18-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.137;19-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.132;20-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.128;21-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.126;22-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.136;25-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.136;26-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.138;27-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.133;29-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.135;31-May-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.149;01-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.147;02-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.149;03-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.156;04-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.176;05-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.2;08-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.206;09-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.22;10-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.216;11-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.217;12-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.228;15-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.233;16-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.235;17-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.242;18-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.243;19-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.252;22-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.257;23-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.263;24-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.278;25-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.286;29-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.293;30-Jun-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.302;01-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.309;02-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.312;03-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.32;06-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.32;07-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.302;08-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.305;09-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.315;10-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.313;13-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.305;14-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.305;15-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.311;16-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.316;17-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.309;20-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.318;21-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.317;22-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.315;23-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.315;24-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.331;27-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.332;28-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.33;29-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.332;30-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.337;31-Jul-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.367;03-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.362;04-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.357;05-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.355;06-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.361;07-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.368;10-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.367;11-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.37;12-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.371;13-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.372;14-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.357;17-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.36;18-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.367;19-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.351;20-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.356;21-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.361;24-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.36;25-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.357;27-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.357;28-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.354;31-Aug-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.373;01-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.364;02-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.377;03-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.369;04-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.384;07-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.385;08-Sep-2026
+SIF-40;Arudha Hybrid Long-Short Fund-Regular Plan-Growth;Regular Plan;Growth;INF194K30010;;10.384;09-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.033;04-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.040;05-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.039;06-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.035;09-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.037;10-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.042;11-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.050;12-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.058;13-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.058;16-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.063;17-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.060;18-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.061;20-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.068;23-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.066;24-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.072;25-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.074;26-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.074;27-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.075;28-Feb-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.079;02-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.072;04-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.077;05-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.081;06-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.071;09-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.072;10-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.086;11-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.073;12-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.076;13-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.074;16-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.074;17-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.082;18-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.081;20-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.073;23-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.069;24-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.073;25-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.075;27-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.083;30-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.083;31-Mar-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.079;02-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.073;06-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.082;07-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.098;08-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.104;09-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.115;10-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.115;13-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.132;15-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.134;16-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.133;17-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.142;20-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.14;21-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.138;22-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.132;23-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.123;24-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.128;27-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.123;28-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.121;29-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.117;30-Apr-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.125;04-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.126;05-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.133;06-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.142;07-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.144;08-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.143;11-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.141;12-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.139;13-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.142;14-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.141;15-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.134;18-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.137;19-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.132;20-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.128;21-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.126;22-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.136;25-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.136;26-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.138;27-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.133;29-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.135;31-May-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.149;01-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.147;02-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.149;03-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.156;04-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.176;05-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.2;08-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.206;09-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.22;10-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.216;11-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.217;12-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.228;15-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.233;16-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.235;17-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.242;18-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.243;19-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.252;22-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.257;23-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.263;24-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.278;25-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.286;29-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.293;30-Jun-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.302;01-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.309;02-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.312;03-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.32;06-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.32;07-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.302;08-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.305;09-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.315;10-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.313;13-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.305;14-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.305;15-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.311;16-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.316;17-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.309;20-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.318;21-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.317;22-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.315;23-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.315;24-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.331;27-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.332;28-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.33;29-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.332;30-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.337;31-Jul-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.367;03-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.362;04-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.357;05-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.355;06-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.361;07-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.368;10-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.367;11-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.37;12-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.371;13-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.372;14-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.357;17-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.36;18-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.367;19-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.351;20-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.356;21-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.361;24-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.36;25-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.357;27-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.357;28-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.354;31-Aug-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.373;01-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.364;02-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.377;03-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.369;04-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.384;07-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.385;08-Sep-2026
+SIF-44;Arudha Hybrid Long-Short Fund-Regular Plan-Monthly IDCW;Regular Plan;Monthly IDCW;INF194K30051;INF194K30135;10.384;09-Sep-2026
