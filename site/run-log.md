@@ -1,5 +1,62 @@
 # SIF Tracker daily run log
 
+## 2026-11-07 08:35 Lisbon time
+Result: nothing changed. facts.json not committed (no AMC had a file newer than what is loaded).
+
+**Updates found and made**
+
+None
+
+**Updates available but not made, or only partly made**
+
+- qsif (SIF-3, 7, 25, 93, 117): qsif.com would not open in the browser pane (navigation denied, tried 3 times), so the November Excel could not be checked. These five funds stay on their 31 Oct factsheet data. Will retry next run.
+- DynaSIF (360 ONE, SIF-55, 87, 143): Cloudflare "Attention Required" (403), not checked. Will retry next run.
+- Arthaya SIF-114 (Union MF): unionmf.com navigation denied. Needs Ashish.
+- Altiva SIF-122, SIF-161: Edelweiss month list still ends at Sep (no October Excel). Will retry next run.
+- RedHex key details (SIF-128): October factsheet not out (newest is September). Will retry next run.
+
+### Data completeness
+Up to date: 7 of 37 SIF funds (19%) have data as on 31 Oct 2026
+of which 1 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+Not yet up to date: 30 funds on 30 Sep 2026 plus 3 not in tracker (SIF-169 Titanium Active Asset Allocator, SIF-174 MSIF Equity Long-Short, SIF-177 Summit Active Asset Allocator, all with no first portfolio out yet).
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page would not open | qsif SIF-3, 7, 25, 93, 117 | qsif.com navigation denied in the browser pane (3 tries) | Will retry automatically next run |
+| 2 | Page blocked | DynaSIF SIF-55, 87, 143 (360 ONE) | Cloudflare "Attention Required" (403) | Will retry automatically next run |
+| 3 | Page would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 4 | Key details not written | RedHex SIF-128 | October factsheet not published yet | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel found | Newest factsheet found | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva (Edelweiss) | 3 | SIF-11 31 Oct (F), others 30 Sep | 🟧 50% (avg) | yes | Sep | Oct (Hybrid only, from earlier run) | nothing new | none |
+| RedHex (HSBC) | 1 | 31 Oct | 🟩 100% | yes | 31 Oct 2026 (loaded) | Sep 2026 | nothing new | none |
+| WSIF (Wealth Co) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | none exists | nothing new | none |
+| Titanium (Tata) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Platinum (Mirae) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | "Oct 2026" file = 30 Sep data | nothing new | none |
+| Sapphire (Franklin) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | not opened | nothing new | none |
+| DynaSIF (360 ONE) | 3 | 30 Sep | 🟥 0% | blocked | not checked | not checked | skipped: Cloudflare | none |
+| Summit (Invesco) | 1 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep | nothing new | none |
+| qsif | 5 | 31 Oct (F) | 🟧 50% | blocked | not checked | not checked | skipped: navigation denied | none |
+| Prism (Jio BlackRock) | 1 | 30 Sep | 🟥 0% | yes | none for Oct | none for Oct | nothing new | none |
+| Diviniti (ITI) | 1 | 30 Sep | 🟥 0% | yes | Sep | Sep | nothing new | none |
+| Magnum (SBI) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep | nothing new | none |
+| iSIF (ICICI Pru) | 4 | 30 Sep | 🟥 0% | yes | Sep zip | not opened | nothing new | none |
+| Apex (Aditya Birla) | 3 | 30 Sep | 🟥 0% | yes | 30 Sep | "Oct 2026" file = 30 Sep data | nothing new | none |
+| Arudha (Bandhan) | 2 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep 2026 | nothing new | none |
+| Infinity (Kotak) | 1 | 30 Sep | 🟥 0% | yes | IHLSsept.xlsx (30 Sep) | Sep | nothing new | none |
+| Arthaya (Union MF) | 1 | 30 Sep | 🟥 0% | blocked | not checked | not checked | skipped: navigation denied | none |
+
+Industry AUM (AMFI): not checked in this pass
+Strategy-split check (Step 3g): not run, no new data
+Key-details check (Step 3h): none written; RedHex waiting for its October factsheet
+Factsheet display check (Step 3i): not re-run, no commit today
+
 ## 2026-11-06 12:00 Lisbon time (catch-up)
 Result: 1 fund updated. facts.json committed and verified (34 funds, no risk band lost, no "Mutual fund units" line left).
 
