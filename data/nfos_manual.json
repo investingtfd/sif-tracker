@@ -164,6 +164,54 @@
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
    "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced."
+  },
+  {
+   "name": "MSIF Hybrid Long-Short Fund",
+   "amc": "Mahindra Manulife Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/aug-2026/msif-hybrid-long-short-fund_104069.html",
+   "note": "Upcoming soon: SEBI draft filed 28 Aug 2026 by Mahindra Manulife Mutual Fund (MSIF). No NFO dates announced yet; launch not confirmed."
+  },
+  {
+   "name": "Platinum Sectoral Debt Long-Short Fund",
+   "amc": "Mirae Asset Mutual Fund",
+   "strategy": "Sectoral Debt Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jul-2026/platinum-sectoral-debt-long-short-fund_103027.html",
+   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed."
+  },
+  {
+   "name": "Infinity Equity Long-Short Fund",
+   "amc": "Kotak Mutual Fund",
+   "strategy": "Equity Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
+   "note": "Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed."
+  },
+  {
+   "name": "Infinity Active Asset Allocator Long-Short Fund",
+   "amc": "Kotak Mutual Fund",
+   "strategy": "Active Asset Allocator Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-active-asset-allocator-long-short-fund_102355.html",
+   "note": "Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed."
   }
  ]
 }
