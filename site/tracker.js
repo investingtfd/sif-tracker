@@ -79,8 +79,8 @@ d.innerHTML='<div class="tn-h"><h2>Open and upcoming launches</h2><div class="tn
  +'<div class="tn-f">Minimum investment is ₹10 lakh per PAN for SIFs unless a fund states otherwise. Swipe or use the arrows to browse. Dates are checked daily against AMFI, SEBI filings and AMC websites. Confirm in the offer document before investing.</div>';
 var trk=d.querySelector('.tn-trk'),dots=d.querySelectorAll('.tn-dots i'),pv=d.querySelector('.tn-pv'),nx=d.querySelector('.tn-nx');
 function step(){var c=trk.querySelector('.tn4');return c?c.offsetWidth+14:300}
-function upd(){var i=Math.round(trk.scrollLeft/step());if(i>dots.length-1)i=dots.length-1;[].forEach.call(dots,function(x,k){x.className=k===i?'on':''});pv.disabled=trk.scrollLeft<4;nx.disabled=trk.scrollLeft+trk.clientWidth>=trk.scrollWidth-4}
-trk.addEventListener('scroll',function(){requestAnimationFrame(upd)});
+function upd(){var st=step(),n=Math.max(1,Math.min(dots.length,Math.round((trk.scrollWidth-trk.clientWidth)/st)+1)),i=Math.round(trk.scrollLeft/st);if(trk.scrollLeft+trk.clientWidth>=trk.scrollWidth-4)i=n-1;if(i>n-1)i=n-1;[].forEach.call(dots,function(x,k){x.className=k===i?'on':'';x.style.display=k<n?'':'none'});pv.disabled=trk.scrollLeft<4;nx.disabled=trk.scrollLeft+trk.clientWidth>=trk.scrollWidth-4}
+trk.addEventListener('scroll',function(){requestAnimationFrame(upd)});window.addEventListener('resize',function(){requestAnimationFrame(upd)});
 pv.onclick=function(){trk.scrollBy({left:-step(),behavior:'smooth'})};nx.onclick=function(){trk.scrollBy({left:step(),behavior:'smooth'})};
 [].forEach.call(dots,function(x){x.onclick=function(){trk.scrollTo({left:(+x.getAttribute('data-i'))*step(),behavior:'smooth'})}});upd()}
 function logos(){if(!LG)return;[].forEach.call(document.querySelectorAll('img[src*="sifprime.com/amc-logos/"]'),function(im){var f=im.getAttribute('src').split('/').pop();var key=OLD[f];var u=key&&logoUrl(key);if(u)im.src=u})}
