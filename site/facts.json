@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T11:59:35.927Z",
+ "updated_at": "2026-11-08T09:30:29.508Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5745,156 +5745,147 @@
   },
   "SIF-156": {
    "name": "Apex Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "allocation": [
     [
      "fi",
-     56.89
+     47.49
     ],
     [
      "eq",
-     42.88
-    ],
-    [
-     "reit",
-     0.23
+     52.51
     ],
     [
      "fut",
-     -37.21
+     -26.66
     ],
     [
      "opt",
-     -1
+     -0.61
     ]
    ],
-   "net_assets_cr": 250.38,
+   "net_assets_cr": 278.88,
    "top_equity": [
+    [
+     "Sagility Ltd.",
+     "IT - Services",
+     7.11
+    ],
+    [
+     "Swiggy Ltd.",
+     "Retailing",
+     3.51
+    ],
     [
      "One 97 Communications Ltd.",
      "Financial Technology (Fintech)",
-     2.43
+     2.12
     ],
     [
-     "Honasa Consumer Ltd.",
-     "Personal Products",
-     2.24
-    ],
-    [
-     "ICICI Prudential Life Insurance Company Ltd.",
-     "Insurance",
-     1.97
-    ],
-    [
-     "Aditya Infotech Ltd.",
-     "Industrial Manufacturing",
-     1.54
-    ],
-    [
-     "Coforge Ltd.",
-     "IT - Software",
-     1.49
-    ],
-    [
-     "Info Edge (India) Ltd.",
-     "Retailing",
-     1.47
+     "TD Power Systems Ltd.",
+     "Electrical Equipment",
+     2.1
     ],
     [
      "Indian Bank",
      "Banks",
-     1.45
+     2.02
     ],
     [
-     "FSN E-Commerce Ventures Ltd.",
+     "Godrej Properties Ltd.",
+     "Realty",
+     1.9
+    ],
+    [
+     "Honasa Consumer Ltd.",
+     "Personal Products",
+     1.59
+    ],
+    [
+     "IDFC First Bank Ltd.",
+     "Banks",
+     1.44
+    ],
+    [
+     "Info Edge (India) Ltd.",
      "Retailing",
-     1.4
+     1.29
     ],
     [
-     "GE Vernova T&D India Ltd.",
+     "Siemens Energy India Ltd.",
      "Electrical Equipment",
-     1.36
-    ],
-    [
-     "Computer Age Management Services Ltd.",
-     "Capital Markets",
-     1.33
+     1.23
     ]
    ],
    "top_debt": [
     [
+     "91 DAY T-BILL 31.12.26",
+     "Sovereign",
+     5.33
+    ],
+    [
      "91 DAY T-BILL 10.12.26",
      "Sovereign",
-     4.94
-    ],
-    [
-     "182 DAY T-BILL 08.10.26",
-     "Sovereign",
-     3.99
-    ],
-    [
-     "91 DAY T-BILL 08.10.26",
-     "Sovereign",
-     3.99
+     4.46
     ],
     [
      "364 DAY T-BILL 06.11.26",
      "Sovereign",
-     3.97
+     3.58
     ],
     [
-     "91 DAY T-BILL 22.10.26",
+     "364 DAY T-BILL 03.12.26",
      "Sovereign",
-     1.99
+     3.57
+    ],
+    [
+     "182 DAY T-BILL 14.01.27",
+     "Sovereign",
+     3.54
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 42.88,
-   "equity_net_pct": 4.67,
-   "holdings_count": 75,
+   "equity_gross_pct": 52.51,
+   "equity_net_pct": 25.24,
+   "holdings_count": 81,
    "nav_regular_growth": 9.93,
    "benchmark": "NIFTY 500 TRI",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
    "split": [
     [
-     "Fixed income",
-     56.89
-    ],
-    [
      "Equity",
-     42.88
+     52.51
     ],
     [
-     "REITs",
-     0.23
+     "Fixed income",
+     47.49
     ]
    ],
-   "split_source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "sectors": [
     [
+     "IT - Services",
+     7.11
+    ],
+    [
      "Retailing",
-     4.68
-    ],
-    [
-     "Finance",
-     3.64
-    ],
-    [
-     "Insurance",
-     3.36
-    ],
-    [
-     "Banks",
-     3.15
+     6.51
     ],
     [
      "Electrical Equipment",
-     2.95
+     4.75
+    ],
+    [
+     "Banks",
+     3.56
+    ],
+    [
+     "Realty",
+     3.42
     ],
     [
      "Other sectors",
-     25.34
+     27.17
     ]
    ],
    "sector_note": "Share of the fund held in stocks (42.9%), before futures and options hedges",
@@ -5903,209 +5894,215 @@
     [
      "Central Depository Services (I) Ltd. (futures)",
      "",
-     -3.09
+     -2.34
     ],
     [
      "RBL Bank Ltd. (futures)",
      "",
-     -1.97
+     -1.92
     ],
     [
-     "UNO Minda Ltd. (futures)",
+     "ICICI Life Insurance Ltd. (futures)",
      "",
-     -1.59
+     1.91
     ],
     [
-     "Bharat Dynamics Ltd. (futures)",
+     "Bharat Forge Ltd. (futures)",
      "",
-     -1.5
+     -1.86
     ],
     [
-     "Waaree Energies Ltd. (futures)",
+     "KPIT Technologies Ltd. (futures)",
      "",
-     -1.46
+     -1.64
     ]
    ],
-   "unhedged_long": 0,
-   "unhedged_short": 37.21,
-   "unhedged_count": 42,
-   "derivative_gross_exposure_cr": 95.67,
+   "unhedged_long": 4.63,
+   "unhedged_short": 31.29,
+   "unhedged_count": 37,
+   "derivative_gross_exposure_cr": 101.87,
    "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
    "derivative_basis": "futures",
-   "risk_band": 3
+   "risk_band": 3,
+   "turnover_ratio": null
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "allocation": [
     [
      "fi",
-     37.95
+     20.39
     ],
     [
      "eq",
-     62.05
+     79.61
     ],
     [
      "fut",
-     -16.65
+     7.22
     ],
     [
      "opt",
-     -0.73
+     -0.44
     ]
    ],
-   "net_assets_cr": 125.31,
+   "net_assets_cr": 149.65,
    "top_equity": [
+    [
+     "HDFC Bank Ltd.",
+     "Banks",
+     4.07
+    ],
     [
      "ICICI Bank Ltd.",
      "Banks",
-     4.06
+     3.92
+    ],
+    [
+     "Sagility Ltd.",
+     "IT - Services",
+     3.31
     ],
     [
      "Reliance Industries Ltd.",
      "Petroleum Products",
-     3.41
+     2.8
     ],
     [
-     "Bharti Airtel Ltd.",
-     "Telecom - Services",
-     2.33
-    ],
-    [
-     "Adani Enterprises Ltd.",
-     "Metals & Minerals Trading",
-     2.15
+     "ITC Ltd.",
+     "Diversified FMCG",
+     2.45
     ],
     [
      "Grasim Industries Ltd.",
      "Cement & Cement Products",
-     2.14
+     2.24
+    ],
+    [
+     "TD Power Systems Ltd.",
+     "Electrical Equipment",
+     1.96
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     1.88
+    ],
+    [
+     "Adani Energy Solutions Ltd.",
+     "Power",
+     1.83
     ],
     [
      "NTPC Ltd.",
      "Power",
-     2.12
-    ],
-    [
-     "Aditya Infotech Ltd.",
-     "Industrial Manufacturing",
-     1.91
-    ],
-    [
-     "Info Edge (India) Ltd.",
-     "Retailing",
-     1.87
-    ],
-    [
-     "Honasa Consumer Ltd.",
-     "Personal Products",
-     1.84
-    ],
-    [
-     "Nestle India Ltd.",
-     "Food Products",
-     1.83
+     1.74
     ]
    ],
    "top_debt": [
     [
-     "91 DAY T-BILL 22.10.26",
-     "Sovereign",
-     3.98
-    ],
-    [
      "182 DAY T-BILL 05.11.26",
      "Sovereign",
-     3.97
+     3.34
     ],
     [
      "91 DAY T-BILL 10.12.26",
      "Sovereign",
-     3.95
+     3.32
+    ],
+    [
+     "91 DAY T-BILL 17.12.26",
+     "Sovereign",
+     3.32
+    ],
+    [
+     "364 DAY T-BILL 25.12.26",
+     "Sovereign",
+     3.31
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 62.05,
-   "equity_net_pct": 44.67,
-   "holdings_count": 63,
-   "nav_regular_growth": 9.8,
+   "equity_gross_pct": 79.61,
+   "equity_net_pct": 86.39,
+   "holdings_count": 87,
+   "nav_regular_growth": 9.87,
    "benchmark": "NIFTY 500 TRI",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
    "split": [
     [
      "Equity",
-     62.05
+     79.61
     ],
     [
      "Fixed income",
-     37.95
+     20.39
     ]
    ],
-   "split_source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "sectors": [
     [
      "Banks",
-     10.98
-    ],
-    [
-     "Automobiles",
-     5.06
+     14.38
     ],
     [
      "Finance",
-     4.74
+     5.57
     ],
     [
-     "Retailing",
-     4.68
+     "Power",
+     4.02
     ],
     [
-     "Petroleum Products",
-     3.41
+     "IT - Services",
+     3.31
+    ],
+    [
+     "Automobiles",
+     3.26
     ],
     [
      "Other sectors",
-     33.18
+     49.07
     ]
    ],
    "sector_note": "Share of the fund held in stocks (62.0%), before futures and options hedges",
    "net_shorts": [],
    "unhedged": [
     [
-     "UNO Minda Ltd. (futures)",
+     "Info Edge (India) Ltd. (futures)",
      "",
-     -1.54
+     1.53
     ],
     [
-     "JSW Energy Ltd. (futures)",
+     "FSN E-Commerce Ventures Ltd. (futures)",
      "",
-     -1.31
+     1.18
     ],
     [
-     "Central Depository Services (I) Ltd. (futures)",
+     "ICICI Life Insurance Ltd. (futures)",
      "",
-     -1.21
+     0.89
     ],
     [
-     "Angel One Ltd. (futures)",
-     "",
-     -1.1
+     "Sagility Ltd. (futures)",
+     "IT - Services",
+     0.84
     ],
     [
-     "Siemens Ltd. (futures)",
+     "360 ONE WAM Ltd. (futures)",
      "",
-     -1.04
+     0.66
     ]
    ],
-   "unhedged_long": 1.26,
-   "unhedged_short": 17.91,
-   "unhedged_count": 26,
-   "derivative_gross_exposure_cr": 24.95,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
+   "unhedged_long": 7.22,
+   "unhedged_short": 0,
+   "unhedged_count": 10,
+   "derivative_gross_exposure_cr": 11.46,
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "derivative_basis": "futures",
-   "risk_band": 2
+   "risk_band": 2,
+   "turnover_ratio": null
   },
   "SIF-40": {
    "allocation": [
