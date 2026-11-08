@@ -1,5 +1,89 @@
 # SIF Tracker daily run log
 
+## 2026-11-08 09:30 Lisbon time
+Result: 2 funds updated (Apex SIF-154, SIF-156). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+
+- Apex Equity SIF-154: Excel, 31 Oct 2026, Rs 149.65 cr.
+- Apex Equity Ex-Top 100 SIF-156: Excel, 31 Oct 2026, Rs 278.88 cr.
+
+**Updates available but not made, or only partly made**
+
+- Apex Hybrid SIF-80: 31 Oct workbook is out (Rs 614.86 cr, up from 353.87) but the split moved a lot (unhedged equity 27.8%, was 5.5%); the AMC-style split (Step 3f) needs the October factsheet. Left as 30 Sep. Will retry next run.
+- Magnum SIF-13 and SIF-157 (SBI): 31 Oct workbook is out. SIF-13 hedged only 0.52% via futures, so the arbitrage and covered-call split cannot be read from the file; SIF-157 holds SBI Gold ETF 2.81% (not debt or equity) and its options card cannot be read by the adapter. Left as 30 Sep. Will retry next run.
+- Prism SIF-138: 31 Oct workbook is out (Rs 616.59 cr, 206 holdings). Strategy split (collar, merger arbitrage) comes from the October factsheet commentary, not out yet. Left as 30 Sep. Will retry next run.
+- Key details (Step 3h) for the two Apex funds are not refreshed: the October factsheet is not out; old blocks kept.
+
+### Data completeness
+Up to date: 9 of 37 SIF funds (24%) have data as on 31 Oct 2026
+of which 3 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-80 | Apex | 30 Sep 2026 | Excel out, needs hand review of split |
+| SIF-13, SIF-157 | SBI Magnum | 30 Sep 2026 | Excel out, needs hand review |
+| SIF-138 | Prism | 30 Sep 2026 | Excel out, factsheet commentary not out |
+| SIF-122, SIF-161 | Altiva | 30 Sep 2026 | AMC has not published October Excel yet |
+| SIF-105, SIF-111 | WSIF | 30 Sep 2026 | Excel published every two months |
+| SIF-102, SIF-29 | Titanium | 30 Sep 2026 | AMC has not published yet |
+| SIF-136 | Platinum | 30 Sep 2026 | AMC has not published yet |
+| SIF-96 | Sapphire | 30 Sep 2026 | AMC has not published yet |
+| SIF-150 | Summit | 30 Sep 2026 | AMC has not published yet |
+| SIF-21 | Diviniti | 30 Sep 2026 | AMC has not published yet |
+| SIF-34, 35, 124, 126 | iSIF | 30 Sep 2026 | AMC has not published yet |
+| SIF-40, SIF-62 | Arudha | 30 Sep 2026 | AMC has not published yet |
+| SIF-146 | Kotak | 30 Sep 2026 | AMC has not published yet |
+| SIF-55, 87, 143 | DynaSIF | 30 Sep 2026 | Cloudflare block, not checked |
+| SIF-114 | Arthaya | 30 Sep 2026 | unionmf.com would not open |
+| SIF-3, 7, 25, 93, 117 | qsif | factsheet 31 Oct | qsif.com would not open, November Excel not checked (they count as up to date via factsheet) |
+| SIF-169, 174, 177 | Titanium, MSIF, Summit | not in tracker yet | new funds, first portfolio not out yet |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page would not open | qsif (5 funds) | qsif.com navigation denied in the browser pane | Will retry automatically next run |
+| 2 | Page blocked | DynaSIF / 360 ONE (3 funds) | Cloudflare "Attention Required" 403 | Will retry automatically next run |
+| 3 | Page would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+| 4 | Not loaded | Apex SIF-80 | split needs October factsheet | Will retry automatically next run |
+| 5 | Not loaded | SBI SIF-13, SIF-157 | classification and options card need hand review | Will retry automatically next run |
+| 6 | Not loaded | Prism SIF-138 | October factsheet commentary not out | Will retry automatically next run |
+| 7 | HSBC, AMFI AUM, sweeps | RedHex, aum.json, Step 3c-3h sweeps | not re-checked this run (RedHex already on 31 Oct; time spent on loaders) | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 3 | 31 Oct (SIF-11 FS), 30 Sep | 🟧 | yes | Sep | not checked | nothing new | none |
+| RedHex / HSBC | 1 | 31 Oct | 🟩 | not re-opened, already at target month | 31 Oct | n/a | nothing new | none |
+| WSIF | 2 | 30 Sep | 🟥 | yes | 30 Sep | none | nothing new | none |
+| Titanium / Tata | 2 | 30 Sep | 🟥 | yes (API) | 30 Sep | 30 Sep | nothing new | none |
+| Platinum / Mirae | 1 | 30 Sep | 🟥 | yes | 30 Sep | not checked | nothing new | none |
+| Sapphire / Franklin | 1 | 30 Sep | 🟥 | yes | 30 Sep | not checked | nothing new | none |
+| DynaSIF / 360 ONE | 3 | 30 Sep | 🟥 | blocked | unknown | unknown | skipped: Cloudflare | none |
+| Summit / Invesco | 1 | 30 Sep | 🟥 | yes | 30 Sep | not checked | nothing new | none |
+| qsif | 5 | 31 Oct (FS) | 🟧 | blocked | unknown | 31 Oct | skipped: page denied | none |
+| Prism / Jio | 1 | 30 Sep | 🟥 | yes | 31 Oct (found) | not checked | skipped: needs factsheet commentary | none |
+| Diviniti / ITI | 1 | 30 Sep | 🟥 | yes | 30 Sep | not checked | nothing new | none |
+| Magnum / SBI | 2 | 30 Sep | 🟥 | yes | 31 Oct (found) | not checked | skipped: hand review | none |
+| iSIF / ICICI | 4 | 30 Sep | 🟥 | yes | 30 Sep | not checked | nothing new | none |
+| Apex / Aditya Birla | 3 | 31 Oct (2 funds), 30 Sep | 🟧 | yes | 31 Oct | not checked | loaded SIF-154, SIF-156 from Excel; SIF-80 skipped | 🟥 0% -> 🟧 67% |
+| Arudha / Bandhan | 2 | 30 Sep | 🟥 | yes | 30 Sep | up to Jun listed | nothing new | none |
+| Infinity / Kotak | 1 | 30 Sep | 🟥 | yes | 30 Sep (IHLSsept.xlsx) | not checked | nothing new | none |
+| Arthaya / Union MF | 1 | 30 Sep | 🟥 | blocked | unknown | unknown | skipped: page denied | none |
+
+Industry AUM (AMFI): not checked this run
+Strategy-split check (Step 3g): not run this run
+Key-details check (Step 3h): not run for the two Apex funds (October factsheet not out); no backfill this run
+
+### Funds changed
+
+| Fund | Source | as_of | Size (Rs cr) | Risk band | Unhedged long/short | Other |
+|---|---|---|---|---|---|---|
+| SIF-154 Apex Equity | Excel | 2026-09-30 -> 2026-10-31 | 125.31 -> 149.65 | 2 -> 2 | 1.26/17.91 -> 7.22/0 | split now Equity 79.61 / Fixed income 20.39 |
+| SIF-156 Apex Equity Ex-Top 100 | Excel | 2026-09-30 -> 2026-10-31 | 250.38 -> 278.88 | 3 -> 3 | 0/37.21 -> 4.63/31.29 | split now Equity 52.51 / Fixed income 47.49 |
+
 ## 2026-11-07 08:35 Lisbon time
 Result: nothing changed. facts.json not committed (no AMC had a file newer than what is loaded).
 
