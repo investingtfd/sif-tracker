@@ -106,6 +106,20 @@
    "first_seen": "2026-11-06"
   },
   {
+   "name": "Infinity Equity Long-Short Fund",
+   "amc": "Kotak Mutual Fund",
+   "strategy": "Equity Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
+   "note": "Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
+   "amfi": false,
+   "first_seen": "2026-11-08"
+  },
+  {
    "name": "Numa SIF Equity Long-Short Fund",
    "amc": "Nuvama Mutual Fund",
    "strategy": "Equity Long-Short",
@@ -119,6 +133,20 @@
    "note": "Upcoming soon: draft ISID filed with SEBI on 2 Nov 2026 by Nuvama Asset Management Ltd (Numa SIF by Nuvama Mutual Fund). Risk band 5 (Very High); benchmark NIFTY 500 TRI, also risk band 5; Rs 10 per unit. NFO dates not yet announced.",
    "amfi": false,
    "first_seen": "2026-11-04"
+  },
+  {
+   "name": "Platinum Sectoral Debt Long-Short Fund",
+   "amc": "Mirae Asset Mutual Fund",
+   "strategy": "Sectoral Debt Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jul-2026/platinum-sectoral-debt-long-short-fund_103027.html",
+   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed.",
+   "amfi": false,
+   "first_seen": "2026-11-08"
   },
   {
    "name": "iSIF Sector Rotation Long-Short Fund",
