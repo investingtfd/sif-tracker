@@ -76,7 +76,14 @@ def key(name):
          if x not in ("fund", "sif", "long", "short", "longshort", "hybrid", "equity")]
     if w and len(w[0]) <= 2 and re.search(r"\bequity\b", name.lower()) and not re.search(r"\bhybrid\b", name.lower()):
         return w[0] + " equity"  # H-SIF Equity ... must not collide with H-SIF Hybrid ...
-    return w[0] if w else name.lower()
+    base = w[0] if w else name.lower()
+    nl = name.lower()
+    # Different strategies of one brand (Infinity Equity vs Infinity Active Asset Allocator, MSIF Equity vs MSIF Hybrid)
+    # must not merge into one launch and hide each other.
+    for q, tag in (("active asset allocator", "aaa"), ("hybrid", "hybrid"), ("sector rotation", "rotation"), ("sectoral debt", "debt")):
+        if q in nl:
+            return base + " " + tag
+    return base
 
 
 STOP = {"fund", "sif", "long", "short", "longshort", "plan", "growth", "regular", "direct", "option",
