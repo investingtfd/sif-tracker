@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T08:28:01.223Z",
+ "updated_at": "2026-11-09T08:39:31.037Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -4248,16 +4248,12 @@
    ],
    "split": [
     [
-     "Collar strategy",
-     30.8
-    ],
-    [
      "Fixed income",
-     46.87
+     54.45
     ],
     [
-     "Merger arbitrage",
-     9.8
+     "Equity strategies",
+     34.52
     ],
     [
      "REITs",
@@ -4266,10 +4262,6 @@
     [
      "InvITs",
      5.25
-    ],
-    [
-     "Special situations",
-     1.5
     ]
    ],
    "sector_note": "Share of the fund held in stocks (35.0%), before futures and options hedges",
@@ -4303,7 +4295,7 @@
    "as_of": "2026-10-31",
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
-   "split_source": "Prism SIF monthly portfolio, 31 Oct 2026. Collar strategy, Merger arbitrage and Special situations are carried at the 30 Sep 2026 factsheet proportions because the October factsheet commentary is not out yet; Fixed income (including cash) is the balance",
+   "split_source": "Prism SIF monthly portfolio, 31 Oct 2026. Fixed income, REITs and InvITs are from the portfolio. Equity strategies is all the stock the fund holds net of options premium; it is not split into collar, merger arbitrage and special situations because Prism's October factsheet is not out yet. The split follows once it is",
    "exposure": {
     "items": [
      [
@@ -4318,7 +4310,7 @@
      ]
     ],
     "net": 1.5,
-    "note": "Almost all the stock held sits inside collars (puts bought, calls sold) or merger-arbitrage trades, so price moves largely cancel. Open equity is only the small Special situations bucket. REITs and InvITs not counted."
+    "note": "Almost all stock held sits inside collars or merger-arbitrage trades, so price moves largely cancel. Net figure is Prism's September estimate; October follows with the factsheet. REITs and InvITs not counted."
    }
   },
   "SIF-21": {
@@ -7123,6 +7115,7 @@
   "InvITs": "Infrastructure investment trusts: exposure taken at the fund manager's discretion alongside the core strategies.",
   "Gold ETF": "Units of an exchange-traded fund that holds physical gold. Gold is neither equity nor debt, so it is shown on its own line.",
   "Collar strategy": "Shares the fund holds that are protected by a put option it buys, with the cost offset by a call option it sells. This keeps both gains and losses within a narrow band, so the stock is held for a defined return rather than for open market risk.",
-  "Merger arbitrage": "Buying the shares of a company that is being taken over and, where the deal is paid in the buyer's shares, selling the buyer's shares through futures. The fund earns the gap between the offer and the market price, which depends on the deal completing rather than on the market's direction."
+  "Merger arbitrage": "Buying the shares of a company that is being taken over and, where the deal is paid in the buyer's shares, selling the buyer's shares through futures. The fund earns the gap between the offer and the market price, which depends on the deal completing rather than on the market's direction.",
+  "Equity strategies": "All the shares the fund holds, which are mostly protected or paired with derivatives (collars, merger arbitrage and similar). The AMC's own split of this part is shown once its monthly factsheet is out."
  }
 }
