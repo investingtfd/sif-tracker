@@ -1,5 +1,38 @@
 # SIF Tracker daily run log
 
+## 2026-11-09 08:55 Lisbon time
+Result: nothing changed. facts.json not committed.
+
+**Updates found and made**
+
+None
+
+**Updates available but not made, or only partly made**
+
+- Apex Hybrid SIF-80: 31 Oct workbook out (Rs 614.86 cr) but still needs the October factsheet for the AMC-style split. Left as 30 Sep. Will retry next run.
+- SBI Magnum SIF-13 and SIF-157, Prism SIF-138: 31 Oct workbooks out, split needs hand review / factsheet commentary (as in the 8 Nov entry). Not re-checked today.
+
+### Data completeness
+Up to date: 9 of 37 SIF funds (24%) have data as on 31 Oct 2026 (unchanged from the 8 Nov run). Not re-counted in detail today.
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Limited run | AMCs not re-opened | Only the AMCs with automatic loaders were checked today | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Page opened | Newest Excel found | Action |
+|---|---|---|---|---|---|
+| iSIF (ICICI) | 34, 35, 124, 126 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
+| Arudha | 40, 62 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
+| Kotak | 146 | 30 Sep 2026 | yes | 30 Sep 2026 (IHLSsept.xlsx) | nothing new |
+| Apex | 80, 154, 156 | 154/156 31 Oct, 80 30 Sep | yes | 31 Oct 2026 | nothing new (SIF-80 pending review) |
+| Titanium (Tata) | 29, 102 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
+| All other AMCs | | | not re-opened today | | unchanged since the 8 Nov run |
+
+
 ## 2026-11-08 09:30 Lisbon time
 Result: 2 funds updated (Apex SIF-154, SIF-156). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
 
