@@ -14,7 +14,7 @@ Result: 4 funds updated (Apex SIF-80, SBI SIF-13 and SIF-157, Prism SIF-138). fa
 
 - Apex SIF-80: the workbook does not total the covered-call and collar share, so Arbitrage and covered calls shows only the futures-hedged 9.24% and Special situations 27.81% includes covered-call stock. Will be refined from the October factsheet when it is out.
 - Prism SIF-138: collar, merger arbitrage and special situations are carried at the 30 Sep proportions (October factsheet commentary not out); fixed income is the balance.
-- SBI SIF-157: options card cannot be read by the adapter; the 30 Sep unhedged card is kept and shown as updating. SBI Gold ETF 2.81% is shown as its own "Gold ETF" line.
+- SBI SIF-157: unhedged card re-read by hand later on 9 Nov (see Fix below). SBI Gold ETF 2.81% is shown as its own "Gold ETF" line.
 - Key details (Step 3h) for these four funds still carry the September blocks; October factsheets are not out for Apex, Prism or SBI (SBI latest factsheet is September).
 
 ### Data completeness
@@ -43,7 +43,7 @@ of which 7 from the full Excel portfolio and 6 from the factsheet only (full por
 | # | What failed | AMC / fund | Why | Resolution (proposed) |
 |---|---|---|---|---|
 | 1 | Site would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
-| 2 | Options card not readable | SBI SIF-157 | Adapter cannot read the AMC's options rows | Will retry automatically next run (30 Sep card kept, shown as updating) |
+| 2 | Options card not readable | SBI SIF-157 | Adapter warning only; the workbook has no options (all Nil) | Fixed in this run: card written by hand from the workbook: six long stock futures, 11.18% long, 0 short, matching SBI's own total |
 | 3 | Split partly estimated | Apex SIF-80, Prism SIF-138 | Strategy buckets not stated in the Excel | Will retry automatically next run (October factsheets) |
 | 4 | Key details not refreshed | Apex, SBI, Prism | October factsheets not out | Will retry automatically next run |
 | 5 | Step 3h backfill and Step 3i factsheet display check not done | factsheet-only funds | Run limited to workbook sweep | Will retry automatically next run |
@@ -63,7 +63,7 @@ of which 7 from the full Excel portfolio and 6 from the factsheet only (full por
 | qsif | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | yes | 30 Sep | Oct file | nothing new | none |
 | Prism / Jio BlackRock | 138 | 31 Oct | 🟩 100% | yes | 31 Oct | not out | loaded from Excel | 0% -> 100% |
 | Diviniti / ITI | 21 | 30 Sep | 🟥 0% | yes | Sep 2026 | not checked | nothing new | none |
-| Magnum / SBI | 13, 157 | 31 Oct | 🟩 100% | yes | 31 Oct | Sep | loaded from Excel | 0% -> 100% |
+| Magnum / SBI | 13, 157 | 31 Oct | 🟩 100% | yes | 31 Oct | Sep | loaded from Excel (SIF-157 card read by hand) | 0% -> 100% |
 | iSIF / ICICI | 34, 35, 124, 126 | 30 Sep | 🟥 0% | yes | Sep 2026 | not checked | nothing new | none |
 | Apex / Aditya Birla | 80, 154, 156 | 31 Oct | 🟩 100% | yes | 31 Oct | not out | SIF-80 loaded from Excel | 67% -> 100% |
 | Arudha / Bandhan | 40, 62 | 30 Sep | 🟥 0% | yes | 30 Sep | not checked | nothing new | none |
@@ -81,7 +81,7 @@ Factsheet display check (Step 3i): not run today.
 |---|---|---|---|---|---|---|
 | SIF-80 Apex Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 353.87 -> 614.86 | 1 -> 1 | recomputed (long 0.47, short 0) | AMC-style split applied, exposure card updated, Gold none |
 | SIF-13 Magnum Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 3981.67 -> 3994.80 | 1 -> 1 | 0/0 -> 0/0 | AMC strategy split (Arbitrage and covered calls) kept |
-| SIF-157 Magnum Ex-Top 100 | Excel | 2026-09-30 -> 2026-10-31 | 1598.35 -> 1689.62 | 5 -> 5 | frozen (19.44 long) | Gold ETF 2.81% shown as its own line; new "Gold ETF" definition |
+| SIF-157 Magnum Ex-Top 100 | Excel | 2026-09-30 -> 2026-10-31 | 1598.35 -> 1689.62 | 5 -> 5 | 19.44/0 -> 11.18/0 (six long futures, hand-read) | Gold ETF 2.81% shown as its own line; new "Gold ETF" definition |
 | SIF-138 Prism Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 458.54 -> 616.59 | 1 -> 1 | 0/9.98 -> 0/9.18 | split carried at Sep proportions, REITs and InvITs separate |
 
 

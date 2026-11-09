@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T08:08:13.261Z",
+ "updated_at": "2026-11-09T08:22:32.985Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -4815,35 +4815,45 @@
    ],
    "unhedged": [
     [
-     "Nifty Index (futures)",
-     "Index",
-     8.88
-    ],
-    [
-     "Bank Nifty Index (futures)",
-     "Index",
-     5.16
-    ],
-    [
      "HDFC Bank Ltd. (futures)",
      "Banks",
-     3.49
+     2.48
+    ],
+    [
+     "Varun Beverages Ltd. (futures)",
+     "Beverages",
+     2.21
+    ],
+    [
+     "Bank of India (futures)",
+     "Banks",
+     2.05
+    ],
+    [
+     "Angel One Ltd. (futures)",
+     "Capital Markets",
+     2.02
     ],
     [
      "Container Corporation of India Ltd. (futures)",
      "Transport Services",
-     1.91
+     1.65
+    ],
+    [
+     "Navin Fluorine International Ltd. (futures)",
+     "Chemicals & Petrochemicals",
+     0.77
     ]
    ],
-   "unhedged_long": 19.44,
+   "unhedged_long": 11.18,
    "unhedged_short": 0,
-   "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
-   "unhedged_pending": true,
+   "unhedged_count": 6,
+   "unhedged_note": "Six long stock futures, all classed by the AMC as non-hedging (total 11.18% of net assets, matching the AMC's own figure). The AMC reports no hedging futures and no options of any kind as on 31 Oct 2026, so there are no shorts, puts or calls.",
    "name": "Magnum Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-10-31",
    "source": "SBI Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.sbimf.com/magnumsif-portfolios"
+   "source_url": "https://www.sbimf.com/magnumsif-portfolios",
+   "unhedged_source": "SBI Magnum SIF portfolio workbook, 31 Oct 2026"
   },
   "SIF-34": {
    "allocation": [
