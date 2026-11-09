@@ -6,8 +6,8 @@
   var MON = ['January','February','March','April','May','June','July','August','September','October','November','December'];
   function e(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
   function slugify(n){return n.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}
-  function D(iso){var p=iso.split('-');return Date.UTC(+p[0],+p[1]-1,+p[2])}
-  function fd(iso,short){var p=iso.split('-');var m=MON[+p[1]-1];return (+p[2])+' '+(short?m.slice(0,3):m)+' '+p[0]}
+  function D(iso){if(!iso)return NaN;var p=iso.split('-');return Date.UTC(+p[0],+p[1]-1,+p[2])}
+  function fd(iso,short){if(!iso)return '';var p=iso.split('-');var m=MON[+p[1]-1];return (+p[2])+' '+(short?m.slice(0,3):m)+' '+p[0]}
   function pct(x,nd,sign){nd=nd==null?2:nd;var s=x.toFixed(nd)+'%';return (sign===false||x<0)?s:'+'+s}
   function num(x,nd){return x.toLocaleString('en-US',{minimumFractionDigits:nd,maximumFractionDigits:nd})}
   function catLabel(c){c=c.replace('Open Ended Schemes','').replace('Interval Fund Schemes','');var m=c.match(/-\s*(.*?)\s*\)/);var s=m?m[1]:c;return s.replace('Long-Short Fund','').replace('Long Short Fund','').replace(/^[\s-]+|[\s-]+$/g,'')}
