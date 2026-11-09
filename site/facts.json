@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T08:22:32.985Z",
+ "updated_at": "2026-11-09T08:28:01.223Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -4213,7 +4213,7 @@
     ]
    ],
    "equity_gross_pct": 35.03,
-   "equity_net_pct": 23.78,
+   "equity_net_pct": 1.5,
    "holdings_count": 206,
    "turnover_ratio": 1.95,
    "derivative_gross_exposure_cr": 66.2,
@@ -4303,7 +4303,23 @@
    "as_of": "2026-10-31",
    "source": "Jio BlackRock Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.jioblackrockamc.com/prismsif/statutory-disclosure/disclosures/monthly-portfolio-disclosure",
-   "split_source": "Prism SIF monthly portfolio, 31 Oct 2026. Collar strategy, Merger arbitrage and Special situations are carried at the 30 Sep 2026 factsheet proportions because the October factsheet commentary is not out yet; Fixed income (including cash) is the balance"
+   "split_source": "Prism SIF monthly portfolio, 31 Oct 2026. Collar strategy, Merger arbitrage and Special situations are carried at the 30 Sep 2026 factsheet proportions because the October factsheet commentary is not out yet; Fixed income (including cash) is the balance",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      35.03,
+      "eq"
+     ],
+     [
+      "Hedged by collars and merger-arbitrage positions",
+      -33.53,
+      "hd"
+     ]
+    ],
+    "net": 1.5,
+    "note": "Almost all the stock held sits inside collars (puts bought, calls sold) or merger-arbitrage trades, so price moves largely cancel. Open equity is only the small Special situations bucket. REITs and InvITs not counted."
+   }
   },
   "SIF-21": {
    "allocation": [
@@ -7105,6 +7121,8 @@
   "Other derivative strategies": "Derivative strategies: long-short equities, straddles, strangles, put-call parity and similar.",
   "REITs": "Real estate investment trusts: exposure taken at the fund manager's discretion alongside the core strategies.",
   "InvITs": "Infrastructure investment trusts: exposure taken at the fund manager's discretion alongside the core strategies.",
-  "Gold ETF": "Units of an exchange-traded fund that holds physical gold. Gold is neither equity nor debt, so it is shown on its own line."
+  "Gold ETF": "Units of an exchange-traded fund that holds physical gold. Gold is neither equity nor debt, so it is shown on its own line.",
+  "Collar strategy": "Shares the fund holds that are protected by a put option it buys, with the cost offset by a call option it sells. This keeps both gains and losses within a narrow band, so the stock is held for a defined return rather than for open market risk.",
+  "Merger arbitrage": "Buying the shares of a company that is being taken over and, where the deal is paid in the buyer's shares, selling the buyer's shares through futures. The fund earns the gap between the offer and the market price, which depends on the deal completing rather than on the market's direction."
  }
 }
