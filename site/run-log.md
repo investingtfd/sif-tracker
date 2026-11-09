@@ -1,5 +1,37 @@
 # SIF Tracker daily run log
 
+## 2026-11-09 12:58 Lisbon time (catch-up)
+Result: 4 funds updated (iSIF SIF-34, SIF-35, SIF-124, SIF-126). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+
+- iSIF Equity Ex-Top 100 SIF-34: Excel, 31 Oct 2026, Rs 2,650.34 cr. No unhedged positions.
+- iSIF Hybrid SIF-35: Excel, 31 Oct 2026, Rs 1,667.06 cr. Unhedged long 1.54, short 0.
+- iSIF Active Asset Allocator SIF-124: Excel, 31 Oct 2026, Rs 1,236.78 cr. Unhedged long 6.42, short 3.91 (includes a gold spread, noted on the card).
+- iSIF Equity SIF-126: Excel, 31 Oct 2026, Rs 910.24 cr. Unhedged long 1.24, short 0.
+
+**Updates available but not made, or only partly made**
+
+- iSIF key details (Step 3h) still carry the earlier blocks; October iSIF factsheet not read in this pass. Will retry on the next full run.
+- Other AMCs with funds below 31 Oct were not re-opened in this catch-up pass (only iSIF, Arudha and Kotak); the next firing will cover them.
+
+### Data completeness
+Up to date: 17 of 37 SIF funds (46%) have data as on 31 Oct 2026
+of which 11 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+### AMC by AMC (catch-up: AMCs checked)
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| iSIF (ICICI Pru) | 4 | 31 Oct 2026 | 🟩 100% | yes | 31 Oct 2026 | not read | loaded from Excel | 0% -> 100% |
+| Arudha | 2 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | none seen | nothing new | none |
+| Kotak | 1 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 (IHLSsept.xlsx) | Sep 2026 | nothing new | none |
+
+other AMCs: unchanged since the earlier run today
+
+Hedge review (Step 3d) agreed with the loader on all four (long within 0.5, short not above loader).
+
+
 ## 2026-11-09 10:30 Lisbon time (full sweep)
 Result: 4 funds updated (Apex SIF-80, SBI SIF-13 and SIF-157, Prism SIF-138). facts.json committed together with this log (34 entries, no risk band lost, no "Mutual fund units" or "REITs and InvITs" line).
 
