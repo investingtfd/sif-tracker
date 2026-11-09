@@ -1,36 +1,89 @@
 # SIF Tracker daily run log
 
-## 2026-11-09 08:55 Lisbon time
-Result: nothing changed. facts.json not committed.
+## 2026-11-09 10:30 Lisbon time (full sweep)
+Result: 4 funds updated (Apex SIF-80, SBI SIF-13 and SIF-157, Prism SIF-138). facts.json committed together with this log (34 entries, no risk band lost, no "Mutual fund units" or "REITs and InvITs" line).
 
 **Updates found and made**
 
-None
+- Apex Hybrid SIF-80: Excel, 31 Oct 2026, Rs 614.86 cr (was 353.87). Loaded as asked; AMC-style split applied.
+- Magnum Hybrid SIF-13 (SBI): Excel, 31 Oct 2026, Rs 3,994.80 cr.
+- Magnum Equity Ex-Top 100 SIF-157 (SBI): Excel, 31 Oct 2026, Rs 1,689.62 cr.
+- Prism Hybrid SIF-138: Excel, 31 Oct 2026, Rs 616.59 cr, 206 holdings.
 
 **Updates available but not made, or only partly made**
 
-- Apex Hybrid SIF-80: 31 Oct workbook out (Rs 614.86 cr) but still needs the October factsheet for the AMC-style split. Left as 30 Sep. Will retry next run.
-- SBI Magnum SIF-13 and SIF-157, Prism SIF-138: 31 Oct workbooks out, split needs hand review / factsheet commentary (as in the 8 Nov entry). Not re-checked today.
+- Apex SIF-80: the workbook does not total the covered-call and collar share, so Arbitrage and covered calls shows only the futures-hedged 9.24% and Special situations 27.81% includes covered-call stock. Will be refined from the October factsheet when it is out.
+- Prism SIF-138: collar, merger arbitrage and special situations are carried at the 30 Sep proportions (October factsheet commentary not out); fixed income is the balance.
+- SBI SIF-157: options card cannot be read by the adapter; the 30 Sep unhedged card is kept and shown as updating. SBI Gold ETF 2.81% is shown as its own "Gold ETF" line.
+- Key details (Step 3h) for these four funds still carry the September blocks; October factsheets are not out for Apex, Prism or SBI (SBI latest factsheet is September).
 
 ### Data completeness
-Up to date: 9 of 37 SIF funds (24%) have data as on 31 Oct 2026 (unchanged from the 8 Nov run). Not re-counted in detail today.
+Up to date: 13 of 37 SIF funds (35%) have data as on 31 Oct 2026
+of which 7 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-122, SIF-161 | Altiva | 30 Sep 2026 | Oct Excel and factsheet not out (Altiva Oct factsheet covers the Hybrid only) |
+| SIF-105, SIF-111 | WSIF | 30 Sep 2026 | Excel published every two months (Sep newest) |
+| SIF-102, SIF-29 | Titanium | 30 Sep 2026 | AMC has not published yet |
+| SIF-136 | Platinum | 30 Sep 2026 | AMC has not published yet |
+| SIF-96 | Sapphire | 30 Sep 2026 | AMC has not published yet |
+| SIF-150 | Summit | 30 Sep 2026 | AMC has not published yet |
+| SIF-21 | Diviniti | 30 Sep 2026 | AMC has not published yet |
+| SIF-34, 35, 124, 126 | iSIF | 30 Sep 2026 | AMC has not published yet |
+| SIF-40, SIF-62 | Arudha | 30 Sep 2026 | AMC has not published yet |
+| SIF-146 | Kotak | 30 Sep 2026 | AMC has not published yet |
+| SIF-55, 87, 143 | DynaSIF | 30 Sep 2026 | Excel every two months; Oct factsheet not out |
+| SIF-114 | Arthaya | 30 Sep 2026 | unionmf.com would not open |
+| SIF-3, 7, 25, 93, 117 | qsif | factsheet 31 Oct | counted as up to date via factsheet; Excel is every two months (Sep newest, Nov not out) |
+| SIF-169, 174, 177 | Titanium, MSIF, Summit | not in tracker yet | new funds, first portfolio not out yet |
 
 ### Fails and fixes
 
 | # | What failed | AMC / fund | Why | Resolution (proposed) |
 |---|---|---|---|---|
-| 1 | Limited run | AMCs not re-opened | Only the AMCs with automatic loaders were checked today | Will retry automatically next run |
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Options card not readable | SBI SIF-157 | Adapter cannot read the AMC's options rows | Will retry automatically next run (30 Sep card kept, shown as updating) |
+| 3 | Split partly estimated | Apex SIF-80, Prism SIF-138 | Strategy buckets not stated in the Excel | Will retry automatically next run (October factsheets) |
+| 4 | Key details not refreshed | Apex, SBI, Prism | October factsheets not out | Will retry automatically next run |
+| 5 | Step 3h backfill and Step 3i factsheet display check not done | factsheet-only funds | Run limited to workbook sweep | Will retry automatically next run |
 
 ### AMC by AMC
 
-| AMC | Funds | Data as on | Page opened | Newest Excel found | Action |
-|---|---|---|---|---|---|
-| iSIF (ICICI) | 34, 35, 124, 126 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
-| Arudha | 40, 62 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
-| Kotak | 146 | 30 Sep 2026 | yes | 30 Sep 2026 (IHLSsept.xlsx) | nothing new |
-| Apex | 80, 154, 156 | 154/156 31 Oct, 80 30 Sep | yes | 31 Oct 2026 | nothing new (SIF-80 pending review) |
-| Titanium (Tata) | 29, 102 | 30 Sep 2026 | yes | 30 Sep 2026 | nothing new |
-| All other AMCs | | | not re-opened today | | unchanged since the 8 Nov run |
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva / Edelweiss | 11, 122, 161 | 11: 31 Oct; others 30 Sep | 🟧 50% | yes | Sep 2026 | Oct 2026 (Hybrid only) | nothing new | none |
+| RedHex / HSBC | 128 | 31 Oct | 🟩 100% | not re-opened, already at target month | 31 Oct | - | nothing new | none |
+| WSIF | 105, 111 | 30 Sep | 🟥 0% | yes | 30 Sep | none | nothing new | none |
+| Titanium / Tata | 29, 102 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep | nothing new | none |
+| Platinum / Mirae | 136 | 30 Sep | 🟥 0% | yes | 30 Sep | "Oct" file (30 Sep data) | nothing new | none |
+| Sapphire / Franklin | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | not checked | nothing new | none |
+| DynaSIF / 360 ONE | 55, 87, 143 | 30 Sep | 🟥 0% | yes | Sep 2026 | 30 Sep | nothing new | none |
+| Summit / Invesco | 150 | 30 Sep | 🟥 0% | yes | 30 Sep | Sep | nothing new | none |
+| qsif | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | yes | 30 Sep | Oct file | nothing new | none |
+| Prism / Jio BlackRock | 138 | 31 Oct | 🟩 100% | yes | 31 Oct | not out | loaded from Excel | 0% -> 100% |
+| Diviniti / ITI | 21 | 30 Sep | 🟥 0% | yes | Sep 2026 | not checked | nothing new | none |
+| Magnum / SBI | 13, 157 | 31 Oct | 🟩 100% | yes | 31 Oct | Sep | loaded from Excel | 0% -> 100% |
+| iSIF / ICICI | 34, 35, 124, 126 | 30 Sep | 🟥 0% | yes | Sep 2026 | not checked | nothing new | none |
+| Apex / Aditya Birla | 80, 154, 156 | 31 Oct | 🟩 100% | yes | 31 Oct | not out | SIF-80 loaded from Excel | 67% -> 100% |
+| Arudha / Bandhan | 40, 62 | 30 Sep | 🟥 0% | yes | 30 Sep | not checked | nothing new | none |
+| Infinity / Kotak | 146 | 30 Sep | 🟥 0% | yes | 30 Sep (IHLSsept.xlsx) | not checked | nothing new | none |
+| Arthaya / Union MF | 114 | 30 Sep | 🟥 0% | blocked | - | - | skipped: site would not open | none |
+
+Industry AUM (AMFI): not checked this run.
+Strategy-split check (Step 3g): not run this sweep except Apex SIF-80 and Prism SIF-138 as described above.
+Key-details check (Step 3h): none written today; the four funds loaded keep their September blocks; funds still waiting for a factsheet: Apex, SBI, Prism.
+Factsheet display check (Step 3i): not run today.
+
+### Funds changed
+
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band | Unhedged long/short before -> after | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-80 Apex Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 353.87 -> 614.86 | 1 -> 1 | recomputed (long 0.47, short 0) | AMC-style split applied, exposure card updated, Gold none |
+| SIF-13 Magnum Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 3981.67 -> 3994.80 | 1 -> 1 | 0/0 -> 0/0 | AMC strategy split (Arbitrage and covered calls) kept |
+| SIF-157 Magnum Ex-Top 100 | Excel | 2026-09-30 -> 2026-10-31 | 1598.35 -> 1689.62 | 5 -> 5 | frozen (19.44 long) | Gold ETF 2.81% shown as its own line; new "Gold ETF" definition |
+| SIF-138 Prism Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 458.54 -> 616.59 | 1 -> 1 | 0/9.98 -> 0/9.18 | split carried at Sep proportions, REITs and InvITs separate |
+
 
 
 ## 2026-11-08 09:30 Lisbon time
