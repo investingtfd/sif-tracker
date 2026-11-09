@@ -2,19 +2,6 @@
  "checked_at": "2026-11-09",
  "items": [
   {
-   "name": "Eminence Hybrid Long-Short Fund",
-   "amc": "AlphaGrep Mutual Fund",
-   "strategy": "Hybrid Long-Short",
-   "open": "2026-10-14",
-   "close": "2026-10-28",
-   "sources": [
-    "5paisa",
-    "Cafemutual"
-   ],
-   "status": "NFO closed, awaiting first NAV",
-   "first_seen": "2026-11-09"
-  },
-  {
    "name": "Select Equity Ex-Top 100 Long-Short Fund",
    "amc": "Sundaram Mutual Fund",
    "strategy": "Equity Ex-Top 100 Long-Short",
