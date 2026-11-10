@@ -1,6 +1,6 @@
 Ashish Jain | ARN-294841 | AMFI Registered Mutual Fund & SIF Distributor, Delhi NCR
 
-📊 SIF daily sheet. NAV as on 6 Nov 2026: 25 of 37 SIFs up on the day. Best: Arthaya Equity +1.7%. Weakest: Magnum Ex-Top 100 −1.1%.
+📊 SIF daily sheet. NAV as on 9 Nov 2026: 36 of 38 SIFs up on the day. Best: Altiva Ex-Top 100 +1.0%. Weakest: Arudha Hybrid 0.0%.
 
 ▪️ 1D, 1W, 1M, 3M, 6M and since start
 ▪️ Risk-adjusted (Sharpe) rank and SD (volatility) within each strategy
