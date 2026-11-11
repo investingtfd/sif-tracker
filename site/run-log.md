@@ -1,5 +1,104 @@
 # SIF Tracker daily run log
 
+## 2026-11-11 14:30 Lisbon time (full sweep, partial)
+Result: 5 funds updated to 31 Oct 2026 (Altiva SIF-122 and SIF-161 and SIF-11 workbook, Summit SIF-150, Diviniti SIF-21, Platinum SIF-136; SIF-11 already on Oct from its factsheet, now on the Excel). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
+
+**Updates found and made**
+
+- Altiva Equity Ex-Top 100 SIF-122: Excel, 31 Oct 2026, Rs 1,580.51 cr. No derivatives. Key details written from the October fund note.
+- Altiva Equity SIF-161: Excel, 31 Oct 2026, Rs 508.47 cr. Unhedged long 13.20 (Nifty and Bank Nifty futures, Ather, Premier), read by hand; AMC prints 13.21. Key details, AMC-style split (net equity 87, derivatives and other strategies 11, cash 2) and strategy overview written from the October fund note.
+- Altiva Hybrid SIF-11: Excel, 31 Oct 2026, Rs 12,221.34 cr. Size, holdings count, turnover and derivative exposure refreshed; AMC-style split, unhedged card and key details kept (October fund note).
+- Summit Equity SIF-150: Excel, 31 Oct 2026, Rs 417.08 cr. No derivatives.
+- Diviniti Equity SIF-21: Excel, 31 Oct 2026, Rs 224.70 cr. Unhedged long 2.50 (AMC 2.49%).
+- Platinum Hybrid SIF-136: Excel, 31 Oct 2026, Rs 399.07 cr. Unhedged long 4.00 (AMC 4.00%). Split now Equity strategies 37.51, Fixed income 31.83, Arbitrage 30.66 (workbook only, L14).
+
+**Updates available but not made, or only partly made**
+
+- Summit Active Asset Allocator (new fund SIF-177): workbook 31 Oct is out (Rs 204.78 cr, 4 holdings); not added because the 9.77% mutual fund units were not identified. Will retry next run.
+- Platinum SIF-136: October factsheet not read; AMC strategy split (collar, special situations) pending.
+- Key details (Step 3h) still missing for the funds on October without scheme_details (iSIF x4, Apex x3, Prism, SBI x2, HSBC, Summit, Diviniti, Platinum); only 2 of the 4 permitted backfills were done this run (SIF-122, SIF-161).
+- Kotak SIF-146: reader stopped ("REIT rows add to 12.66 but the heading says 5.26"); still on 30 Sep.
+- Arthaya SIF-114: Union MF page not opened this run.
+- Factsheets for Franklin, 360 ONE, Tata, WSIF were not out (checked); Franklin/Tata/Mirae/Invesco/ITI factsheet PDFs were not read this run.
+
+### Data completeness
+Up to date: 22 of 38 SIF funds (58%) have data as on 31 Oct 2026
+of which 17 from the full Excel portfolio and 5 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF | 30 Sep 2026 | AMC has not published yet (newest file is 30 Sep) |
+| SIF-29, SIF-102 | Titanium (Tata) | 30 Sep 2026 | AMC has not published yet |
+| SIF-55, SIF-87, SIF-143 | DynaSIF (360 ONE) | 30 Sep 2026 | Excel every two months; Oct factsheet not out |
+| SIF-96 | Sapphire (Franklin) | 30 Sep 2026 | AMC has not published yet |
+| SIF-40, SIF-62 | Arudha | 30 Sep 2026 | AMC has not published yet (newest monthly file 30 Sep) |
+| SIF-146 | Infinity (Kotak) | 30 Sep 2026 | run failed (factsheet reader check) |
+| SIF-114 | Arthaya (Union) | 30 Sep 2026 | page not opened this run |
+| SIF-169 Titanium Active Asset Allocator | Tata | not in tracker yet | new fund, first portfolio not out yet |
+| SIF-174 MSIF Equity Long-Short | unknown AMC | not in tracker yet | new fund, no data found this run |
+| SIF-177 Summit Active Asset Allocator | Invesco | not in tracker yet | workbook out, units not identified; retry |
+| SIF-183 Eminence Hybrid Long Short | unknown AMC | not in tracker yet | new AMC, site not readable yet |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Kotak loader | Infinity SIF-146 | Factsheet REIT check failed (12.66 vs 5.26) | Will retry automatically next run |
+| 2 | New fund not added | Summit SIF-177 | Mutual fund units (9.77%) not identified | Will retry automatically next run |
+| 3 | AMC not opened | Arthaya SIF-114 | Not tried this run | Will retry automatically next run |
+| 4 | New funds without AMC | SIF-174, SIF-183 | AMC sites not yet identified | Will retry automatically next run |
+| 5 | Key details backfill incomplete | many funds | Only 2 backfills done | Will retry automatically next run |
+| 6 | Run not a complete sweep | HSBC, Apex, SBI, iSIF, quant, Prism | Already on 31 Oct, not re-opened; Step 3e/3g sweeps and Step 3i display check not done | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Altiva (Edelweiss) | 3 | 31 Oct 2026 | 🟩 100% | yes | 31 Oct | 31 Oct | loaded from Excel | 50% -> 100% |
+| RedHex (HSBC) | 1 | 31 Oct 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| WSIF | 2 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep | none | nothing new | none |
+| Titanium (Tata) | 2 | 30 Sep 2026 | 🟥 0% | yes (API) | 30 Sep | 30 Sep | nothing new | none |
+| Platinum (Mirae) | 1 | 31 Oct 2026 | 🟩 100% | yes | 31 Oct | not read | loaded from Excel | 0% -> 100% |
+| Sapphire (Franklin) | 1 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep | not checked | nothing new | none |
+| DynaSIF (360 ONE) | 3 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep (every 2 months) | 30 Sep | nothing new | none |
+| Summit (Invesco) | 1 (+1 new) | 31 Oct 2026 | 🟩 100% | yes | 31 Oct | not read | loaded from Excel | 0% -> 100% |
+| qsif (quant) | 5 | 31 Oct 2026 | 🟧 50% | not re-opened, already at target month | - | - | nothing new | none |
+| Prism (Jio) | 1 | 31 Oct 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Diviniti (ITI) | 1 | 31 Oct 2026 | 🟩 100% | yes | 31 Oct | not found | loaded from Excel | 0% -> 100% |
+| Magnum (SBI) | 2 | 31 Oct 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| iSIF (ICICI Pru) | 4 | 31 Oct 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Apex (ABSL) | 3 | 31 Oct 2026 | 🟩 100% | not re-opened, already at target month | - | - | nothing new | none |
+| Arudha (Bandhan) | 2 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep | none found | nothing new | none |
+| Infinity (Kotak) | 1 | 30 Sep 2026 | 🟥 0% | yes | not loaded | not loaded | skipped: loader error | none |
+| Arthaya (Union) | 1 | 30 Sep 2026 | 🟥 0% | not opened | - | - | skipped: not tried | none |
+
+Industry AUM (AMFI): not checked this run.
+Strategy-split check (Step 3g): Altiva Equity SIF-161 states net equity / derivatives and other strategy / cash in its note; adopted. Altiva Ex-Top 100 states no bucket split. Others not checked.
+Key-details check (Step 3h): written SIF-122, SIF-161; SIF-11 kept; 2 further backfills not done; funds waiting: see above.
+
+### Funds changed
+
+| Fund | Source | as_of before -> after | Size (Rs cr) | Risk band | Unhedged long/short | Other |
+|---|---|---|---|---|---|---|
+| SIF-122 | Excel | 30 Sep -> 31 Oct | 1,534.97 -> 1,580.51 | 5 -> 5 | 0/0 -> 0/0 | no-derivatives note, key details written |
+| SIF-161 | Excel | 30 Sep -> 31 Oct | 376.64 -> 508.47 | 3 -> 3 (band not re-read from the image) | 6.66/0 -> 13.20/0 | AMC strategy split applied, key details and strategy overview written |
+| SIF-11 | Excel | 31 Oct (factsheet) -> 31 Oct (Excel) | 12,248 -> 12,221.34 | 1 -> 1 | kept | factsheet-only flags removed |
+| SIF-150 | Excel | 30 Sep -> 31 Oct | 375.61 -> 417.08 | 5 -> 5 | 0/0 -> 0/0 | no-derivatives note |
+| SIF-21 | Excel | 30 Sep -> 31 Oct | 246.02 -> 224.70 | 5 -> 5 | 12.35/0 -> 2.50/0 | none |
+| SIF-136 | Excel | 30 Sep -> 31 Oct | 385.37 -> 399.07 | 1 -> 1 | 3.11/0 -> 4.00/0 | split relabelled (Equity strategies) |
+
+### Report card (current vs previous)
+
+| | Previous (9 Nov) | Now (11 Nov) |
+|---|---|---|
+| Funds up to date (31 Oct) | 17 of 37 (46%) | 22 of 38 (58%) |
+| From full Excel | 11 | 17 |
+| From factsheet only | 6 | 5 |
+| Funds behind (30 Sep) | 20 | 12 |
+| Funds missing from tracker | 2 | 4 (feed now has 38) |
+| Funds with key details | 5 | 7 (SIF-122, SIF-161 added) |
+
+
 ## 2026-11-09 12:58 Lisbon time (catch-up)
 Result: 4 funds updated (iSIF SIF-34, SIF-35, SIF-124, SIF-126). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
 
