@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T12:39:16.639Z",
+ "updated_at": "2026-11-11T12:48:10.156Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -7262,8 +7262,9 @@
    "source": "Invesco Mutual Fund monthly portfolio disclosure",
    "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
    "unhedged_zero_since": "2026-10-31",
-   "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. The fund launched on 30 Oct 2026 and is fully in cash-like debt (TREPS, a CD and an Invesco liquid fund) while it builds its portfolio.",
-   "split_source": "Fund launched 30 Oct 2026. Fixed income includes TREPS, a certificate of deposit and units of Invesco India Liquid Fund (9.77%), net receivables."
+   "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. The fund launched on 30 Oct 2026 and is still being deployed from the NFO proceeds, so the October portfolio is not representative of how it will be run. It is currently in TREPS, a certificate of deposit and an Invesco liquid fund.",
+   "split_source": "Still being deployed from the NFO proceeds (launched 30 Oct 2026). Fund launched 30 Oct 2026. Fixed income includes TREPS, a certificate of deposit and units of Invesco India Liquid Fund (9.77%), net receivables.",
+   "caveat": "The fund launched on 30 Oct 2026 and is still being deployed from the NFO proceeds, so the October portfolio is not representative of how it will be run."
   }
  },
  "split_definitions": {
