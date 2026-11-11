@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T11:56:26.730Z",
+ "updated_at": "2026-11-11T12:25:01.975Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -28,7 +28,7 @@
      2.34
     ]
    ],
-   "net_assets_cr": 12248,
+   "net_assets_cr": 12221.34,
    "top_equity": [
     [
      "RBL Bank Ltd.",
@@ -162,9 +162,9 @@
    ],
    "equity_gross_pct": 43.84,
    "equity_net_pct": 3,
-   "holdings_count": 299,
-   "turnover_ratio": 3.31,
-   "derivative_gross_exposure_cr": 425.6,
+   "holdings_count": 482,
+   "turnover_ratio": 3.24,
+   "derivative_gross_exposure_cr": 1094.17,
    "derivative_basis": "unhedged",
    "risk_band": 1,
    "benchmark_risk_band": 2,
@@ -259,7 +259,6 @@
    "top_equity_basis": "unhedged",
    "factcheck": "2026-10-14: written options netted with futures and holdings at notional; top holdings and derivative tile unhedged only",
    "split_source": "As on 31 Oct 2026 · AMC's own classification (Altiva October fund note). Top positions are net of futures and options.",
-   "factsheet_only": true,
    "scheme_details": {
     "as_on": "2026-10-30",
     "source": "Altiva Hybrid Long-Short Fund October 2026 fund note",
@@ -517,120 +516,116 @@
       "note": "Exposure stayed at about 5% of the fund."
      }
     ]
-   },
-   "stale_sections": {
-    "unhedged": "30 Sep 2026",
-    "sectors": "30 Sep 2026"
    }
   },
   "SIF-122": {
    "allocation": [
     [
      "eq",
-     98.67
+     99.25
     ],
     [
      "fi",
-     1.33
+     0.75
     ]
    ],
-   "net_assets_cr": 1534.97,
+   "net_assets_cr": 1580.51,
    "top_equity": [
-    [
-     "360 ONE WAM Ltd.",
-     "Capital Markets",
-     3.93
-    ],
-    [
-     "JSW Infrastructure Ltd.",
-     "Transport Infrastructure",
-     3.89
-    ],
     [
      "Bharti Hexacom Ltd.",
      "Telecom - Services",
-     3.77
-    ],
-    [
-     "Radico Khaitan Ltd.",
-     "Beverages",
-     3.68
-    ],
-    [
-     "Akums Drugs & Pharmaceuticals Ltd.",
-     "Pharmaceuticals & Biotechnology",
-     3.45
-    ],
-    [
-     "SPR Auto Technologies Ltd.",
-     "Auto Components",
-     3.34
-    ],
-    [
-     "Bharat Dynamics Ltd.",
-     "Aerospace & Defense",
-     3.1
-    ],
-    [
-     "Shadowfax Technologies Ltd.",
-     "Transport Services",
-     3.08
+     4.44
     ],
     [
      "Emmvee Photovoltaic Power Ltd.",
      "Electrical Equipment",
-     3.05
+     3.66
+    ],
+    [
+     "JSW Infrastructure Ltd.",
+     "Transport Infrastructure",
+     3.53
+    ],
+    [
+     "Radico Khaitan Ltd.",
+     "Beverages",
+     3.53
+    ],
+    [
+     "Akums Drugs & Pharmaceuticals Ltd.",
+     "Pharmaceuticals & Biotechnology",
+     3.48
     ],
     [
      "Coforge Ltd.",
      "IT - Software",
-     2.87
+     3.44
+    ],
+    [
+     "SPR Auto Technologies Ltd.",
+     "Auto Components",
+     3.21
+    ],
+    [
+     "Shadowfax Technologies Ltd.",
+     "Transport Services",
+     3.07
+    ],
+    [
+     "PG Electroplast Ltd.",
+     "Consumer Durables",
+     2.95
+    ],
+    [
+     "Aditya Birla Sun Life Amc Ltd.",
+     "Capital Markets",
+     2.93
     ]
    ],
    "top_debt": [],
    "top_shorts": [],
-   "equity_gross_pct": 98.67,
-   "equity_net_pct": 98.67,
-   "holdings_count": 45,
-   "turnover_ratio": 0.11,
+   "equity_gross_pct": 99.25,
+   "equity_net_pct": 99.25,
+   "holdings_count": 48,
+   "turnover_ratio": 0.23,
    "derivative_gross_exposure_cr": 0,
    "derivative_basis": "amc",
    "risk_band": 5,
    "benchmark_risk_band": 3,
    "sectors": [
     [
-     "Auto Components",
-     10.42
+     "Banks",
+     12.5
     ],
     [
-     "Banks",
-     10.3
+     "Auto Components",
+     10.11
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     9.53
+     9.56
     ],
     [
-     "Capital Markets",
-     8.95
+     "Electrical Equipment",
+     7.97
     ],
     [
-     "Finance",
-     5.25
+     "Consumer Durables",
+     6.04
     ],
     [
      "Other sectors",
-     54.21
+     53.07
     ]
    ],
    "split": [
     [
      "Equity",
-     98.67
+     99.25
     ],
     [
      "Fixed income",
-     1.33
+     0.75
     ]
    ],
    "unhedged": [],
@@ -638,218 +633,260 @@
    "unhedged_short": 0,
    "unhedged_count": 0,
    "name": "Altiva Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
-   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions.",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. Altiva Equity Ex-Top 100 has not used unhedged derivatives since Sep 2026 (2 months running).",
+   "unhedged_zero_since": "2026-09-30",
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "plans": "Direct, Regular | Growth, IDCW",
+    "strategy_type": "Open-ended",
+    "exit_load": "If the units are redeemed/switched out on or before 90 days from the date of allotment – 0.50% of the applicable NAV. If redeemed/switched out after 90 days – Nil",
+    "exit_load_short": "0.50% if sold within 90 days, nil after",
+    "min_sip_stp_swp": "Rs 1,000 and in multiples of Re 1 thereafter (subject to the minimum investment of Rs 10 lakh across all Altiva strategies)",
+    "min_sip_short": "₹1,000",
+    "min_accredited": "Rs 1,00,000 and in multiples of Re 1 thereafter",
+    "min_application_short": "₹10 lakh across Altiva strategies",
+    "frequency": "Daily",
+    "features": "Lump sum, SIP, SWP, STP",
+    "source": "Altiva Equity Ex-Top 100 Long-Short Fund October 2026 fund note",
+    "inception_date": "2026-06-08",
+    "benchmark": "Nifty 500 TRI",
+    "benchmark_short": "Nifty 500 TRI",
+    "nav_regular": 9.8882,
+    "ber_regular_pct": 1.81,
+    "min_application": "INR 10 lakh",
+    "fund_managers": [
+     {
+      "name": "Nikhil Gada",
+      "role": "Equity",
+      "experience_years": 14,
+      "since": "2026-06-08"
+     },
+     {
+      "name": "Trideep Bhattacharya",
+      "role": "Equity",
+      "experience_years": 25,
+      "since": "2026-06-08"
+     },
+     {
+      "name": "Ashish Sood",
+      "role": "Assistant fund manager",
+      "since": "2026-08-03"
+     },
+     {
+      "name": "Amit Vora",
+      "role": "Overseas",
+      "experience_years": 16,
+      "since": "2026-06-08"
+     }
+    ],
+    "benchmark_risk_band": 3
+   }
   },
   "SIF-136": {
    "allocation": [
     [
      "eq",
-     65.11
+     68.17
     ],
     [
      "fi",
-     34.89
+     31.83
     ],
     [
      "fut",
-     -20.77
+     -26.74
     ]
    ],
-   "net_assets_cr": 385.37,
+   "net_assets_cr": 399.07,
    "top_equity": [
     [
      "ICICI Bank Ltd.",
      "Banks",
-     3.89
-    ],
-    [
-     "HDFC Bank Ltd.",
-     "Banks",
-     3.13
+     3.97
     ],
     [
      "Reliance Industries Ltd.",
      "Petroleum Products",
-     3.03
-    ],
-    [
-     "Tata Steel Ltd.",
-     "Ferrous Metals",
-     2.87
-    ],
-    [
-     "Tech Mahindra Ltd.",
-     "IT - Software",
-     2.47
+     3.6
     ],
     [
      "Bajaj Finance Ltd.",
      "Finance",
-     2.33
+     3.46
     ],
     [
-     "Ultratech Cement Ltd.",
-     "Cement & Cement Products",
-     1.92
+     "HDFC Bank Ltd.",
+     "Banks",
+     2.96
     ],
     [
-     "Maruti Suzuki India Ltd.",
-     "Automobiles",
-     1.91
+     "Tata Steel Ltd.",
+     "Ferrous Metals",
+     2.52
+    ],
+    [
+     "Adani Ports and Special Economic Zone Ltd.",
+     "Transport Infrastructure",
+     2.16
+    ],
+    [
+     "Tata Consumer Products Ltd.",
+     "Agricultural Food & other Products",
+     2.15
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     2.11
     ],
     [
      "State Bank of India",
      "Banks",
-     1.9
+     2.04
     ],
     [
-     "Shriram Finance Ltd.",
-     "Finance",
-     1.89
+     "ITC Ltd.",
+     "Diversified FMCG",
+     2.03
     ]
    ],
    "top_debt": [
     [
      "6.36% Government of India (MD 16/02/2031)",
      "Sovereign",
-     6.36
+     6.07
     ],
     [
      "7.35% Bharti Telecom Ltd. (MD 15/10/2027)",
      "CRISIL AAA",
-     3.86
+     3.71
     ],
     [
      "8.60% Muthoot Finance Ltd. (MD 02/03/2028)",
      "CRISIL AA+",
-     2.59
+     2.49
     ],
     [
      "364 Days Treasury Bills (MD 17/12/2026)",
      "Sovereign",
-     2.57
+     2.49
     ],
     [
-     "7.83% Small Industries Development Bank of India (MD 24/11/2028)",
+     "7.60% Poonawalla Fincorp Ltd. (MD 28/05/2027)",
      "CRISIL AAA",
-     1.3
+     1.24
     ]
    ],
    "top_shorts": [
     [
-     "Reliance Industries Ltd.",
-     "",
-     -3.05
-    ],
-    [
      "Bajaj Finance Ltd.",
      "",
-     -2.35
+     -2.22
     ],
     [
      "ICICI Bank Ltd.",
      "",
-     -2.1
+     -2.13
     ],
     [
-     "Axis Bank Ltd.",
+     "Tata Steel Ltd.",
+     "",
+     -2.02
+    ],
+    [
+     "Maruti Suzuki India Ltd.",
+     "",
+     -1.78
+    ],
+    [
+     "Cipla Ltd.",
      "",
      -1.75
-    ],
-    [
-     "Sun Pharmaceutical Industries Ltd.",
-     "",
-     -1.73
     ]
    ],
-   "equity_gross_pct": 65.11,
-   "equity_net_pct": 44.34,
-   "holdings_count": 114,
-   "turnover_ratio": 2.77,
-   "derivative_gross_exposure_cr": 104.05,
+   "equity_gross_pct": 68.17,
+   "equity_net_pct": 41.43,
+   "holdings_count": 128,
+   "turnover_ratio": 3.3,
+   "derivative_gross_exposure_cr": 138.6,
    "derivative_basis": "futures",
    "risk_band": 1,
    "benchmark_risk_band": 2,
    "sectors": [
     [
      "Banks",
-     11.2
+     11.35
     ],
     [
      "Finance",
-     5.5
+     5.93
     ],
     [
      "Automobiles",
-     5.32
-    ],
-    [
-     "Ferrous Metals",
-     4.76
+     5.61
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     4.13
+     4.57
+    ],
+    [
+     "Ferrous Metals",
+     4.33
     ],
     [
      "Other sectors",
-     34.2
+     36.39
     ]
    ],
    "split": [
     [
-     "Collar strategy",
-     39.09
+     "Equity strategies",
+     37.51
     ],
     [
      "Fixed income",
-     34.89
+     31.83
     ],
     [
      "Arbitrage (hedged equity)",
-     23.76
-    ],
-    [
-     "Special situations",
-     2.26
+     30.66
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (65.1%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (68.2%), before futures and options hedges",
    "unhedged": [
     [
      "Bank Nifty Index (futures)",
      "",
-     1.71
+     1.65
+    ],
+    [
+     "Nifty Index (futures)",
+     "",
+     1.05
+    ],
+    [
+     "Eternal Ltd. (futures)",
+     "Retailing",
+     1.04
     ],
     [
      "Hindalco Industries Ltd. (futures)",
      "Non - Ferrous Metals",
-     0.81
-    ],
-    [
-     "SBI Life Insurance Co. Ltd. (futures)",
-     "Insurance",
-     0.43
-    ],
-    [
-     "BSE Ltd. (futures)",
-     "",
-     0.16
+     0.25
     ]
    ],
-   "unhedged_long": 3.11,
+   "unhedged_long": 4,
    "unhedged_short": 0,
    "unhedged_count": 4,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Bought put options on stocks the fund holds (29 positions) are protection and are left out.",
+   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Bought put options on stocks the fund holds (27 positions) are protection and are left out.",
    "name": "Platinum Hybrid Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "Mirae Asset Mutual Fund monthly portfolio disclosure",
    "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio",
-   "split_source": "Platinum SIF factsheet as on 30 Sep 2026 (AMC's own classification). Collar strategy is stock held with options protection (bought puts, calls written), not open equity. Special situations is tactical plays. Fixed income includes cash and derivative margin"
+   "split_source": "Platinum SIF monthly portfolio as on 31 Oct 2026. Equity strategies is all equity not netted by futures (collar, special situations and other strategies); the AMC strategy split is not carried forward from an earlier month until the October factsheet is read."
   },
   "SIF-128": {
    "allocation": [
@@ -1290,71 +1327,71 @@
    "allocation": [
     [
      "eq",
-     93.51
+     95.72
     ],
     [
      "fi",
-     6.49
+     4.28
     ]
    ],
-   "net_assets_cr": 375.61,
+   "net_assets_cr": 417.08,
    "top_equity": [
     [
      "ICICI Bank Limited",
      "Banks",
-     6.12
+     6.51
     ],
     [
      "Bharti Airtel Limited",
      "Telecom - Services",
-     3.9
+     4.06
     ],
     [
-     "Indo-MIM Limited",
-     "Industrial Manufacturing",
-     3.48
-    ],
-    [
-     "InterGlobe Aviation Limited",
-     "Transport Services",
-     3.42
+     "Manipal Health Enterprises Ltd",
+     "Healthcare Services",
+     3.37
     ],
     [
      "Eternal Limited",
      "Retailing",
-     3.41
-    ],
-    [
-     "Abbott India Limited",
-     "Pharmaceuticals & Biotechnology",
-     2.97
-    ],
-    [
-     "Cholamandalam Investment and Finance Company Limited",
-     "Finance",
-     2.76
-    ],
-    [
-     "Indian Bank",
-     "Banks",
-     2.48
-    ],
-    [
-     "Larsen & Toubro Limited",
-     "Construction",
-     2.43
+     3.3
     ],
     [
      "Coforge Limited",
      "IT - Software",
-     2.41
+     3.1
+    ],
+    [
+     "InterGlobe Aviation Limited",
+     "Transport Services",
+     3.01
+    ],
+    [
+     "Indo-MIM Limited",
+     "Industrial Manufacturing",
+     2.96
+    ],
+    [
+     "Abbott India Limited",
+     "Pharmaceuticals & Biotechnology",
+     2.95
+    ],
+    [
+     "Indian Bank",
+     "Banks",
+     2.91
+    ],
+    [
+     "Larsen & Toubro Limited",
+     "Construction",
+     2.51
     ]
    ],
    "top_debt": [],
    "top_shorts": [],
-   "equity_gross_pct": 93.51,
-   "equity_net_pct": 93.51,
-   "holdings_count": 54,
+   "equity_gross_pct": 95.72,
+   "equity_net_pct": 95.72,
+   "holdings_count": 56,
    "turnover_ratio": null,
    "derivative_gross_exposure_cr": 0,
    "derivative_basis": "none",
@@ -1363,37 +1400,37 @@
    "sectors": [
     [
      "Banks",
-     12.94
+     13.94
     ],
     [
      "Capital Markets",
-     10.33
+     10.39
+    ],
+    [
+     "IT - Software",
+     7.42
     ],
     [
      "Industrial Manufacturing",
-     6.7
-    ],
-    [
-     "Realty",
-     5.62
+     5.82
     ],
     [
      "Retailing",
-     5.51
+     5.71
     ],
     [
      "Other sectors",
-     52.41
+     52.44
     ]
    ],
    "split": [
     [
      "Equity",
-     93.51
+     95.72
     ],
     [
      "Fixed income",
-     6.49
+     4.28
     ]
    ],
    "unhedged": [],
@@ -1401,10 +1438,10 @@
    "unhedged_short": 0,
    "unhedged_count": 0,
    "name": "Summit Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "Invesco Mutual Fund monthly portfolio disclosure",
    "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
-   "unhedged_note": "No derivatives used: as on 30 Sep 2026 the fund holds no futures or options, so there are no unhedged derivative positions.",
+   "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. Summit Equity has not used unhedged derivatives since Sep 2026 (2 months running).",
    "unhedged_zero_since": "2026-09-30"
   },
   "SIF-29": {
@@ -4317,186 +4354,141 @@
    "allocation": [
     [
      "eq",
-     72.93
+     86.17
     ],
     [
      "fi",
-     27.07
+     13.83
     ],
     [
      "fut",
-     -1.84
+     2.5
     ]
    ],
-   "net_assets_cr": 246.02,
+   "net_assets_cr": 224.7,
    "top_equity": [
-    [
-     "Reliance Industries Limited",
-     "Petroleum Products",
-     9.39
-    ],
     [
      "ICICI Bank Limited",
      "Banks",
-     8.31
+     9.62
+    ],
+    [
+     "Reliance Industries Limited",
+     "Petroleum Products",
+     8.2
     ],
     [
      "HDFC Bank Limited",
      "Banks",
-     8.1
+     7.49
     ],
     [
      "Bharti Airtel Limited",
      "Telecom - Services",
-     4.12
+     6.28
     ],
     [
      "State Bank of India",
      "Banks",
-     4.01
+     4.4
     ],
     [
      "Axis Bank Limited",
      "Banks",
-     2.54
+     3.83
     ],
     [
-     "HDFC Life Insurance Company Limited",
-     "Insurance",
-     2.46
+     "Kotak Mahindra Bank Limited",
+     "Banks",
+     2.11
+    ],
+    [
+     "BSE Limited",
+     "Capital Markets",
+     2.06
+    ],
+    [
+     "Tata Consultancy Services Limited",
+     "IT - Software",
+     1.91
     ],
     [
      "Mahindra & Mahindra Limited",
      "Automobiles",
-     2.13
-    ],
-    [
-     "Cartrade Tech Limited",
-     "Retailing",
-     2.13
-    ],
-    [
-     "Bajaj Finance Limited",
-     "Finance",
-     2.1
+     1.85
     ]
    ],
    "top_debt": [
     [
      "91 Days Tbill (MD 24/12/2026)",
      "Sovereign",
-     4.01
+     4.41
     ]
    ],
-   "top_shorts": [
-    [
-     "HDFC Bank Limited",
-     "",
-     -3.06
-    ],
-    [
-     "Reliance Industries Limited",
-     "",
-     -3.05
-    ],
-    [
-     "ICICI Bank Limited",
-     "",
-     -2.87
-    ],
-    [
-     "State Bank of India",
-     "",
-     -1.56
-    ],
-    [
-     "Axis Bank Limited",
-     "",
-     -1.56
-    ]
-   ],
-   "equity_gross_pct": 72.93,
-   "equity_net_pct": 71.09,
-   "holdings_count": 72,
+   "top_shorts": [],
+   "equity_gross_pct": 86.17,
+   "equity_net_pct": 88.67,
+   "holdings_count": 60,
    "turnover_ratio": null,
-   "derivative_gross_exposure_cr": 65.35,
+   "derivative_gross_exposure_cr": 5.61,
    "derivative_basis": "futures",
    "risk_band": 5,
    "benchmark_risk_band": 5,
    "sectors": [
     [
      "Banks",
-     24.34
+     29.41
     ],
     [
      "Petroleum Products",
-     9.39
+     8.2
+    ],
+    [
+     "IT - Software",
+     7.98
     ],
     [
      "Telecom - Services",
-     4.12
+     6.37
     ],
     [
-     "Insurance",
-     3.02
-    ],
-    [
-     "Retailing",
-     2.9
+     "Healthcare Services",
+     5.28
     ],
     [
      "Other sectors",
-     29.15
+     28.93
     ]
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     58.73
+     "Equity",
+     86.17
     ],
     [
      "Fixed income",
-     27.07
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     14.2
+     13.83
     ]
    ],
-   "sector_note": "Share of the fund held in stocks (72.9%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (86.17%), before futures and options hedges",
    "unhedged": [
-    [
-     "Larsen & Toubro Limited (futures)",
-     "Construction",
-     3.27
-    ],
     [
      "Eternal Limited (futures)",
      "Retailing",
-     1.29
+     1.6
     ],
     [
-     "Maruti Suzuki India Limited (futures)",
-     "Automobiles",
-     1.29
-    ],
-    [
-     "Multi Commodity Exchange of India Limited (futures)",
-     "Capital Markets",
-     1.25
-    ],
-    [
-     "Bosch Limited (futures)",
-     "Auto Components",
-     1.11
+     "Larsen & Toubro Limited (futures)",
+     "Construction",
+     0.9
     ]
    ],
-   "unhedged_long": 12.35,
+   "unhedged_long": 2.5,
    "unhedged_short": 0,
-   "unhedged_count": 11,
+   "unhedged_count": 2,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "Diviniti Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "ITI Mutual Fund monthly portfolio disclosure",
    "source_url": "https://sif.itiamc.com/Disclosure?category=PORTFOLIO%20DISCLOSURES"
   },
@@ -6836,148 +6828,248 @@
    "allocation": [
     [
      "eq",
-     50.93
+     84.49
     ],
     [
      "fut",
-     6.66
+     13.21
+    ],
+    [
+     "opt",
+     -0.13
     ],
     [
      "fi",
-     49.07
+     15.64
     ]
    ],
-   "net_assets_cr": 376.64,
+   "net_assets_cr": 508.47,
    "top_equity": [
     [
      "ICICI Bank Ltd.",
      "Banks",
-     4.95
+     6.95
     ],
     [
      "HDFC Bank Ltd.",
      "Banks",
-     4.93
+     6.91
     ],
     [
      "Reliance Industries Ltd.",
      "Petroleum Products",
-     3.98
-    ],
-    [
-     "Larsen & Toubro Ltd.",
-     "Construction",
-     2.66
+     5.61
     ],
     [
      "Bharti Airtel Ltd.",
      "Telecom - Services",
-     2.65
+     4.23
+    ],
+    [
+     "Larsen & Toubro Ltd.",
+     "Construction",
+     3.62
     ],
     [
      "State Bank of India",
      "Banks",
-     1.98
+     2.69
     ],
     [
      "Infosys Ltd.",
      "IT - Software",
-     1.65
-    ],
-    [
-     "Bajaj Finance Ltd.",
-     "Finance",
-     1.65
-    ],
-    [
-     "Mahindra & Mahindra Ltd.",
-     "Automobiles",
-     1.65
+     2.57
     ],
     [
      "Axis Bank Ltd.",
      "Banks",
-     1.65
+     2.24
+    ],
+    [
+     "Bajaj Finance Ltd.",
+     "Finance",
+     2.18
+    ],
+    [
+     "Mahindra & Mahindra Ltd.",
+     "Automobiles",
+     2.1
     ]
    ],
    "top_debt": [
     [
      "364 DAY T-BILL 03.12.26",
      "Sovereign",
-     2.63
+     1.96
     ],
     [
      "364 DAY T-BILL 10.12.26",
      "Sovereign",
-     2.63
+     1.95
     ],
     [
      "364 DAY T-BILL 25.12.26",
      "Sovereign",
-     2.62
+     1.95
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 50.93,
-   "equity_net_pct": 57.59,
-   "holdings_count": 71,
-   "turnover_ratio": 0,
-   "derivative_gross_exposure_cr": 0,
-   "derivative_basis": "unhedged",
+   "equity_gross_pct": 84.49,
+   "equity_net_pct": 97.57,
+   "holdings_count": 151,
+   "turnover_ratio": 0.12,
+   "derivative_gross_exposure_cr": 67.18,
+   "derivative_basis": "futures",
    "risk_band": 3,
    "benchmark_risk_band": 3,
    "sectors": [
     [
      "Banks",
-     15.17
-    ],
-    [
-     "Petroleum Products",
-     4.31
+     22.89
     ],
     [
      "IT - Software",
-     3.97
-    ],
-    [
-     "Automobiles",
-     3.47
+     6.91
     ],
     [
      "Telecom - Services",
-     2.81
+     6.59
+    ],
+    [
+     "Petroleum Products",
+     5.95
+    ],
+    [
+     "Finance",
+     4.01
     ],
     [
      "Other sectors",
-     21.2
+     38.15
     ]
    ],
    "split": [
     [
-     "Equity",
-     50.93
+     "Net equity (incl. long futures)",
+     87
     ],
     [
-     "Fixed income",
-     49.07
+     "Derivatives and other strategies",
+     11
+    ],
+    [
+     "Cash and others",
+     2
     ]
    ],
    "name": "Altiva Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "Edelweiss Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.edelweissmf.com/altivasif/statutory/portfolio-of-schemes",
    "unhedged": [
     [
-     "Nifty Index (futures)",
+     "Nifty Index Future (23 Nov 2026)",
      "Index",
-     6.66
+     9.27
+    ],
+    [
+     "Bank Nifty Index Future (23 Nov 2026)",
+     "Index",
+     3.23
+    ],
+    [
+     "Ather Energy Ltd. (futures)",
+     "Automobiles",
+     0.45
+    ],
+    [
+     "Premier Energies Ltd (futures)",
+     "Electrical Equipment",
+     0.25
     ]
    ],
-   "unhedged_long": 6.66,
+   "unhedged_long": 13.2,
    "unhedged_short": 0,
-   "unhedged_count": 1,
-   "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets. Altiva's workbook lists this long Nifty futures position under 'other than hedging' and reports no options.",
-   "unhedged_source": "Altiva portfolio workbook, September 2026, reviewed against the AMC's hedging sections"
+   "unhedged_count": 4,
+   "unhedged_note": "Long futures the fund is not using to hedge a holding, as % of net assets (the AMC prints 13.21% of net assets for futures other than hedging). Not counted: index and share call options written (premium value below 0.1% of net assets each), which the AMC reports separately.",
+   "unhedged_source": "Edelweiss portfolio workbook, October 2026, read by hand",
+   "sector_note": "Share of the fund held in stocks (84.5%), before futures and options hedges",
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "plans": "Direct, Regular | Growth, IDCW",
+    "strategy_type": "Open-ended",
+    "exit_load": "If the units are redeemed/switched out on or before 90 days from the date of allotment – 0.50% of the applicable NAV. If redeemed/switched out after 90 days – Nil",
+    "exit_load_short": "0.50% if sold within 90 days, nil after",
+    "min_sip_stp_swp": "Rs 1,000 and in multiples of Re 1 thereafter (subject to the minimum investment of Rs 10 lakh across all Altiva strategies)",
+    "min_sip_short": "₹1,000",
+    "min_accredited": "Rs 1,00,000 and in multiples of Re 1 thereafter",
+    "min_application_short": "₹10 lakh across Altiva strategies",
+    "frequency": "Daily",
+    "features": "Lump sum, SIP, SWP, STP",
+    "source": "Altiva Equity Long-Short Fund October 2026 fund note",
+    "inception_date": "2026-09-30",
+    "benchmark": "NIFTY 100 TRI",
+    "benchmark_short": "NIFTY 100 TRI",
+    "nav_regular": 10.0932,
+    "ber_regular_pct": 2.1,
+    "min_application": "INR 10 lakh. Existing Altiva SIF investors who have met the minimum threshold may invest ₹1,000 and in multiples of ₹1 thereafter.",
+    "fund_managers": [
+     {
+      "name": "Bhavesh Jain",
+      "role": "Equity",
+      "experience_years": 18,
+      "since": "2026-09-30"
+     },
+     {
+      "name": "Bharat Lahoti",
+      "role": "Equity",
+      "experience_years": 20,
+      "since": "2026-09-30"
+     },
+     {
+      "name": "Amit Vora",
+      "role": "Overseas",
+      "experience_years": 16,
+      "since": "2026-09-30"
+     }
+    ],
+    "benchmark_risk_band": 3
+   },
+   "split_source": "As on 31 Oct 2026 · AMC's own classification (Altiva Equity Long-Short Fund note, Portfolio summary). Net equity includes about 12.5% through index futures; derivatives and other strategy is covered calls (about 11%).",
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Altiva Equity Long-Short Fund October 2026 fund note",
+    "tagline": "A diversified large-cap oriented portfolio, constructed to seek returns above the Nifty 100 index, with an overlay of income-oriented derivative strategies.",
+    "buckets": [
+     {
+      "name": "Net equity",
+      "group": "Core strategy",
+      "match": [
+       "Net equity (incl. long futures)"
+      ],
+      "text": "A large-cap oriented portfolio (about 80% large cap, 20% mid and small cap over the long term) aiming to beat the Nifty 100.",
+      "note": "About 87% net equity in October, including about 12.5% through index futures; about 81% large caps, 8% mid caps and 11% small caps."
+     },
+     {
+      "name": "Derivatives and other strategy",
+      "group": "Overlay",
+      "match": [
+       "Derivatives and other strategies"
+      ],
+      "text": "Income-oriented derivative strategies such as covered calls, straddles and strangles.",
+      "note": "About 11% deployed through covered call strategies in October."
+     },
+     {
+      "name": "Cash and others",
+      "group": "Overlay",
+      "match": [
+       "Cash and others"
+      ],
+      "text": "Cash and cash equivalents.",
+      "note": "About 2% of the fund."
+     }
+    ]
+   }
   },
   "SIF-114": {
    "name": "Arthaya Equity Long-Short Fund",
