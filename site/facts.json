@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T12:25:01.975Z",
+ "updated_at": "2026-11-11T12:39:16.639Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6578,8 +6578,8 @@
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
-   "as_of": "2026-09-30",
-   "net_assets_cr": 2994.62,
+   "as_of": "2026-10-31",
+   "net_assets_cr": 3841.14,
    "allocation": [
     [
      "fi",
@@ -6609,76 +6609,76 @@
    "split": [
     [
      "Arbitrage and covered calls",
-     30.09
+     28.07
     ],
     [
      "Fixed income",
-     59.87
+     62.71
     ],
     [
      "REITs",
-     3.18
+     2.85
     ],
     [
      "InvITs",
-     1.43
+     2.41
     ],
     [
      "Special situations",
-     5.43
+     3.99
     ]
    ],
-   "split_source": "Holdings, fund size and asset split from the monthly portfolio workbook (IHLSsept.xlsx). Arbitrage and covered calls = stocks hedged with short futures (12.64% of net assets, workbook) plus stocks held in the covered-call book (17.45%, from the monthly factsheet, as the workbook does not total it). Fixed income includes debt, money market, TREPS, cash and units of Kotak Liquid Direct Growth (1.19%). Special situations is the unhedged equity part (IPO, OFS, QIP and similar)",
+   "split_source": "Kotak SIF factsheet as on 31 Oct 2026 (AMC's own classification). Arbitrage and covered calls = arbitrage plus the covered call book. Fixed income includes debt, Kotak Liquid units, TREPS and net current assets. Special situations is the unhedged equity part (IPO, OFS, QIP and similar). Holdings count, sectors and unhedged card follow the portfolio workbook (latest: Sep 2026).",
    "top_equity": [
     [
-     "ICICI Bank Ltd.",
-     "Banks",
-     3.05
+     "Persistent Systems Limited",
+     "",
+     5.53
     ],
     [
-     "Ultratech Cement Ltd.",
-     "Cement and Cement Products",
-     2.05
-    ],
-    [
-     "Biocon Ltd.",
-     "Pharmaceuticals and Biotechnology",
-     1.75
-    ],
-    [
-     "Gland Pharma Limited",
-     "Pharmaceuticals and Biotechnology",
-     1.71
-    ],
-    [
-     "Swiggy Ltd",
-     "Retailing",
-     1.67
+     "ITC Ltd.",
+     "",
+     2.51
     ],
     [
      "Embassy Office Parks REIT",
      "REIT",
-     1.67
+     1.62
     ],
     [
-     "Steel Authority of India Ltd.",
-     "Ferrous Metals",
-     1.52
+     "Ultratech Cement Ltd.",
+     "",
+     1.61
     ],
     [
-     "Brookfield REIT",
+     "Brookfield India Real Estate Trust",
      "REIT",
-     1.51
+     1.23
+    ],
+    [
+     "Capital Infra Trust Invit",
+     "InvIT",
+     1.23
     ],
     [
      "Cube Highway Trust",
      "InvIT",
-     1.43
+     1.18
+    ],
+    [
+     "Steel Authority of India Ltd.",
+     "",
+     1.05
+    ],
+    [
+     "Adani Port and Special Economic Zone Ltd.",
+     "",
+     1.04
     ],
     [
      "Bharti Airtel Ltd",
-     "Telecom - Services",
-     1.11
+     "",
+     0.97
     ]
    ],
    "top_debt": [
@@ -6767,7 +6767,7 @@
    "derivative_gross_exposure_cr": 112.9,
    "derivative_basis": "unhedged",
    "turnover_ratio": 1.59,
-   "nav_regular_growth": 10.34,
+   "nav_regular_growth": 10.365,
    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
    "risk_band": 1,
    "benchmark_risk_band": 2,
@@ -6803,7 +6803,7 @@
    "unhedged_count": 16,
    "unhedged_note": "Futures and options the fund is not using to hedge a holding, as % of net assets, at full market exposure. A call written against a holding or a long future is treated as covering it; written puts count as long. Futures and options on the same name are netted.",
    "unhedged_source": "portfolio workbook IHLSsept.xlsx",
-   "source": "Kotak Mutual Fund monthly portfolio disclosure",
+   "source": "Kotak Mahindra Mutual Fund monthly factsheet",
    "source_url": "https://www.kotakmf.com/sif/forms-and-downloads",
    "sector_note": "Share of the fund held in stocks (35.5%), before futures and options hedges",
    "factcheck": "2026-10-19: holdings, size and asset split loaded from the portfolio workbook IHLSsept.xlsx; unhedged card and derivative tile kept from the 2026-10-14 hand review (written options netted with futures and holdings at notional)",
@@ -6822,6 +6822,12 @@
     ],
     "net": 9.89,
     "note": "Most equity held sits in the arbitrage and covered-call book (30% of the fund), where each stock is hedged by a future or a call written. Open equity risk is about 9.9%, including Special situations (5.4%). REITs and InvITs are not counted here."
+   },
+   "factsheet_only": true,
+   "unhedged_pending": true,
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
    }
   },
   "SIF-161": {
@@ -7204,6 +7210,60 @@
    "unhedged_note": "Unhedged derivative positions: available soon.",
    "source": "Union Mutual Fund portfolio disclosure via SIFPrime and SIF360",
    "source_url": "https://sifprime.com/sifs/arthaya-equity-long-short"
+  },
+  "SIF-177": {
+   "allocation": [
+    [
+     "fi",
+     100
+    ]
+   ],
+   "net_assets_cr": 204.78,
+   "top_equity": [],
+   "top_debt": [
+    [
+     "Small Industries Dev Bank of India 2026 CD",
+     "CRISIL A1+",
+     8.78
+    ],
+    [
+     "Triparty Repo",
+     "TREPS",
+     80.97
+    ],
+    [
+     "Invesco India Liquid Fund - Direct Plan - Growth",
+     "Liquid fund units",
+     9.77
+    ]
+   ],
+   "top_shorts": [],
+   "equity_gross_pct": 0,
+   "equity_net_pct": 0,
+   "holdings_count": 4,
+   "turnover_ratio": null,
+   "derivative_gross_exposure_cr": 0,
+   "derivative_basis": "none",
+   "risk_band": null,
+   "benchmark_risk_band": null,
+   "sectors": [],
+   "split": [
+    [
+     "Fixed income",
+     100
+    ]
+   ],
+   "unhedged": [],
+   "unhedged_count": 0,
+   "unhedged_long": 0,
+   "unhedged_short": 0,
+   "name": "Summit Active Asset Allocator Long-Short Fund",
+   "as_of": "2026-10-31",
+   "source": "Invesco Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
+   "unhedged_zero_since": "2026-10-31",
+   "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. The fund launched on 30 Oct 2026 and is fully in cash-like debt (TREPS, a CD and an Invesco liquid fund) while it builds its portfolio.",
+   "split_source": "Fund launched 30 Oct 2026. Fixed income includes TREPS, a certificate of deposit and units of Invesco India Liquid Fund (9.77%), net receivables."
   }
  },
  "split_definitions": {
