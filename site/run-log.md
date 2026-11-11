@@ -94,9 +94,9 @@ Key-details check (Step 3h): written SIF-122, SIF-161; SIF-11 kept; 2 further ba
 | Funds up to date (31 Oct) | 17 of 37 (46%) | 22 of 38 (58%) |
 | From full Excel | 11 | 17 |
 | From factsheet only | 6 | 5 |
-| Funds behind (30 Sep) | 20 | 12 |
+| Funds behind (30 Sep) | 18 | 12 |
 | Funds missing from tracker | 2 | 4 (feed now has 38) |
-| Funds with key details | 5 | 7 (SIF-122, SIF-161 added) |
+| Funds with key details | 6 | 8 (SIF-122, SIF-161 added) |
 
 
 ## 2026-11-09 12:58 Lisbon time (catch-up)
