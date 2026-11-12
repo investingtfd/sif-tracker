@@ -1,5 +1,5 @@
 {
-  "generated_at_data_date": "2026-11-11",
+  "generated_at_data_date": "2026-11-12",
   "categories": [
     "Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )",
     "Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )",
@@ -6238,15 +6238,19 @@
         {
           "date": "2026-11-11",
           "nav": 913.9399
+        },
+        {
+          "date": "2026-11-12",
+          "nav": 917.0621
         }
       ],
-      "latest_date": "2026-11-11",
-      "latest_nav": 913.9399,
-      "change_since_first_pct": -8.68,
-      "change_1d_pct": 0.76,
-      "return_1m_pct": 5.98,
-      "return_3m_pct": -3.17,
-      "return_annualised_pct": -9.21
+      "latest_date": "2026-11-12",
+      "latest_nav": 917.0621,
+      "change_since_first_pct": -8.37,
+      "change_1d_pct": 0.34,
+      "return_1m_pct": 5.38,
+      "return_3m_pct": -2.29,
+      "return_annualised_pct": -8.86
     },
     {
       "scheme_code": "SIF-29",

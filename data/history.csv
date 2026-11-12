@@ -18138,8 +18138,8 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-11-11,SIF-181,Eminence Hybrid Long Short Fund,Eminence SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Growth,10.0203,INF2VOA30011,
 2026-11-11,SIF-183,Eminence Hybrid Long Short Fund,Eminence SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Growth,10.0177,INF2VOA30045,
 2026-11-11,SIF-186,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,GROWTH,10.0409,INF903J30032,
-2026-11-11,SIF-188,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW PAYOUT,10.0392,INF903J30057,
-2026-11-11,SIF-189,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW PAYOUT,10.0409,INF903J30024,
+2026-11-11,SIF-188,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW,10.0392,INF903J30057,INF903J30040
+2026-11-11,SIF-189,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW,10.0409,INF903J30024,INF903J30016
 2026-11-11,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,926.9275,INF00XX30043,
 2026-11-11,SIF-190,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,GROWTH,10.0392,INF903J30065,
 2026-11-11,SIF-2,qsif Equity Long-Short Fund,qsif SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,11.4803,INF966L30035,INF966L30043
@@ -18200,3 +18200,7 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-11-11,SIF-97,Sapphire Equity Long-Short SIF,Sapphire SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW,1020.4281,INF090I30030,INF090I30022
 2026-11-11,SIF-98,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Payout Option,10.7187,INF277K30096,
 2026-11-11,SIF-99,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,10.8199,INF277K30104,
+2026-11-12,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,930.1313,INF00XX30043,
+2026-11-12,SIF-20,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,930.1313,INF00XX30050,INF00XX30068
+2026-11-12,SIF-21,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Growth Option,917.0621,INF00XX30019,
+2026-11-12,SIF-22,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Option,917.0621,INF00XX30027,INF00XX30035
