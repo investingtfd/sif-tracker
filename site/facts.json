@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T12:48:10.156Z",
+ "updated_at": "2026-11-12T07:16:32.499Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6342,239 +6342,209 @@
    "allocation": [
     [
      "eq",
-     75.93
+     75.25
     ],
     [
      "reit",
-     1.78
-    ],
-    [
-     "fut",
-     -7.06
+     1.62
     ],
     [
      "fi",
-     22.23
+     23.1
+    ],
+    [
+     "fut",
+     -6.25
     ]
    ],
-   "net_assets_cr": 133.38,
+   "net_assets_cr": 139.37,
    "top_equity": [
     [
      "ICICI Bank Ltd",
      "Banks",
-     4.42
+     4.88
     ],
     [
      "HDFC Bank Ltd.",
      "Banks",
-     4
+     4.28
     ],
     [
      "Bharti Airtel Ltd.",
      "Telecom - Services",
-     3.46
+     3.72
     ],
     [
      "Mahindra and Mahindra Ltd",
      "Automobiles",
-     3.06
+     2.82
+    ],
+    [
+     "Info Edge India Ltd",
+     "Retailing",
+     2.4
     ],
     [
      "Cipla Ltd.",
      "Pharmaceuticals & Biotechnology",
-     2.41
+     2.36
+    ],
+    [
+     "HD Fire Protect Ltd",
+     "Industrial Manufacturing",
+     2.33
     ],
     [
      "TVS Holdings Ltd",
-     "Finance",
-     2.09
-    ],
-    [
-     "Shriram Finance Ltd.",
      "Finance",
      2.02
     ],
     [
      "Ipca Laboratories Limited",
      "Pharmaceuticals & Biotechnology",
-     2.02
+     1.94
     ],
     [
-     "Bajaj Holdings & Investment Ltd",
-     "Finance",
-     2.01
-    ],
-    [
-     "State Bank of India",
-     "Banks",
-     1.99
+     "Sagility India Ltd.",
+     "IT - Services",
+     1.92
     ]
    ],
    "top_debt": [
     [
      "182 DAYS T-BILL - 17/12/2026",
      "Sovereign",
-     3.71
+     3.56
     ],
     [
      "364 DAYS T-BILL - 10/12/2026",
      "Sovereign",
-     1.48
+     1.43
     ],
     [
      "6.68% GSEC BONDS- 07/07/2040",
      "Sovereign",
-     0.71
+     0.67
     ],
     [
      "6% NCPRS TVS Holding Ltd",
      "",
-     0.1
-    ],
-    [
-     "CALL L&T Finance Ltd. 27/10/2026 305",
-     "",
-     0
+     0.09
     ]
    ],
    "top_shorts": [
     [
-     "NIFTY 27/10/2026",
+     "NIFTY 23/11/2026",
      "",
-     -2.88
+     -2.8
     ],
     [
-     "Hindustan Petroleum Corporation Ltd. 27/10/2026",
+     "Hindustan Petroleum Corporation Ltd. 23/11/2026",
      "",
-     -0.75
+     -0.7
     ],
     [
-     "InterGlobe Aviation Ltd. 27/10/2026",
+     "InterGlobe Aviation Ltd. 23/11/2026",
      "",
-     -0.62
+     -0.58
     ],
     [
-     "Page Industries Ltd. 27/10/2026",
+     "Page Industries Ltd. 23/11/2026",
      "",
-     -0.61
+     -0.55
     ],
     [
-     "Avenue Supermarts Ltd. 27/10/2026",
+     "United Spirits Ltd. 23/11/2026",
      "",
-     -0.6
+     -0.54
     ]
    ],
-   "equity_gross_pct": 75.93,
-   "equity_net_pct": 68.87,
-   "holdings_count": 71,
+   "equity_gross_pct": 75.25,
+   "equity_net_pct": 69,
+   "holdings_count": 66,
    "turnover_ratio": null,
-   "derivative_gross_exposure_cr": 11.86,
+   "derivative_gross_exposure_cr": 10.73,
    "derivative_basis": "futures",
    "risk_band": 5,
    "benchmark_risk_band": 5,
    "sectors": [
     [
      "Banks",
-     13.67
+     14.28
     ],
     [
      "Finance",
-     9.32
-    ],
-    [
-     "Capital Markets",
-     5.84
+     6.88
     ],
     [
      "Pharmaceuticals & Biotechnology",
-     5.53
+     6.84
     ],
     [
      "Telecom - Services",
-     5.12
+     5.33
+    ],
+    [
+     "Capital Markets",
+     4.05
     ],
     [
      "Other sectors",
-     36.45
+     37.87
     ]
    ],
    "split": [
     [
      "Equity",
-     75.93
+     75.25
     ],
     [
      "Fixed income",
-     22.23
+     23.1
     ],
     [
      "REITs",
-     1.78
+     1.62
     ]
    ],
    "unhedged": [
     [
+     "NIFTY (futures)",
+     "",
+     -2.8
+    ],
+    [
      "Indian Oil Corporation Ltd. (futures)",
      "",
-     0.78
+     0.72
     ],
     [
      "Hindustan Petroleum Corporation Ltd. (futures)",
      "",
-     -0.75
+     -0.7
     ],
     [
      "InterGlobe Aviation Ltd. (futures)",
      "",
-     -0.62
+     -0.58
     ],
     [
      "Page Industries Ltd. (futures)",
      "",
-     -0.61
-    ],
-    [
-     "Avenue Supermarts Ltd. (futures)",
-     "",
-     -0.6
-    ],
-    [
-     "Trent Ltd. (futures)",
-     "",
-     -0.58
-    ],
-    [
-     "United Spirits Ltd. (futures)",
-     "",
-     -0.57
-    ],
-    [
-     "Voltas Limited (futures)",
-     "",
-     -0.54
-    ],
-    [
-     "Ambuja Cements Ltd. (futures)",
-     "",
-     -0.47
-    ],
-    [
-     "JSW Energy Ltd. (futures)",
-     "",
-     -0.36
+     -0.55
     ]
    ],
    "unhedged_count": 10,
-   "unhedged_long": 0.78,
-   "unhedged_short": 5.1,
-   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: short futures on 9 stocks it does not hold and a long Indian Oil future. Arudha lists these under hedging, but its team confirmed in a webinar they are not hedge positions, so they are shown as unhedged. Not counted: the NIFTY short (2.9%), which offsets part of the fund's roughly 78% equity book, and calls written on L&T Finance, MCX and Hindustan Zinc, which it holds (covered calls, with puts bought on the same stocks).",
+   "unhedged_long": 0.72,
+   "unhedged_short": 6.98,
+   "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: short futures on 8 stocks it does not hold (Ambuja Cements, InterGlobe, Page, HPCL, Voltas, Siemens, United Spirits, Avenue Supermarts), a short NIFTY future (2.80%) and a long Indian Oil future. Arudha (Bandhan Mutual Fund) acknowledged that its September 2026 disclosure had listed these as hedging in error, revised that file, and classes them as non-hedging in October; the card now follows the AMC. Its own non-hedging total is -6.25% net, in line with the card (6.98% short less 0.72% long). Not counted: calls written on DLF and Indus Towers, which it holds (covered calls).",
    "name": "Arudha Equity Long-Short Fund",
-   "as_of": "2026-09-30",
+   "as_of": "2026-10-31",
    "source": "Bandhan Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
    "benchmark": "NIFTY 500 TRI",
    "nav_regular_growth": 10.51,
-   "unhedged_source": "Arudha portfolio workbook, 30 Sep 2026, reviewed: Arudha team confirmed its futures listed as hedging are not hedges"
+   "unhedged_source": "Arudha portfolio workbook, 31 Oct 2026 (as supplied by Bandhan Mutual Fund; futures classed as non-hedging by the AMC)"
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
