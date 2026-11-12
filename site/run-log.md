@@ -1,5 +1,63 @@
 # SIF Tracker daily run log
 
+## 2026-11-12 11:58 Lisbon time (full sweep, partial: 360 ONE, quant and Arthaya blocked)
+Result: nothing changed. facts.json not committed (no newer data found).
+
+**Updates found and made**
+
+None
+
+**Updates available but not made, or only partly made**
+
+- 360 ONE (SIF-55, 87, 143): site returns Cloudflare "Attention Required" (403); not read.
+- quant (SIF-3, 7, 25, 93, 117): browser pane refused qsif.com; November workbook (if out) not checked.
+- Arthaya SIF-114: browser pane refused unionmf.com.
+- Kotak SIF-146: loader still fails on the October factsheet (REIT table); entry stays on the 31 Oct factsheet load. October workbook is not out yet (newest is IHLSsept.xlsx, 30 Sep).
+- Step 3e/3g/3h/3i sweeps and backfills not run this pass.
+
+### Data completeness
+Up to date: 24 of 39 SIF funds (62%) have data as on 31 Oct 2026
+of which 18 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF | 30 Sep 2026 | AMC has not published yet (newest Excel 30 Sep, published every two months) |
+| SIF-29, SIF-102 | Titanium (Tata) | 30 Sep 2026 | AMC has not published yet (Excel and factsheet 30 Sep) |
+| SIF-55, SIF-87, SIF-143 | DynaSIF (360 ONE) | 30 Sep 2026 | page blocked by Cloudflare |
+| SIF-96 | Sapphire (Franklin) | 30 Sep 2026 | AMC has not published yet (Excel and factsheet 30 Sep) |
+| SIF-40 | Arudha | 30 Sep 2026 | AMC has not published yet (Excel 30 Sep, factsheet Sep) |
+| SIF-114 | Arthaya (Union) | 30 Sep 2026 | site would not open in the browser pane |
+| SIF-169, SIF-174, SIF-183, SIF-190 | Titanium (Tata) and others in NAV feed | not in tracker yet | new funds, first portfolio not out / AMC site not identified |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | DynaSIF 360 ONE | Cloudflare "Attention Required" (403) | Will retry automatically next run |
+| 2 | Site would not open | quant SIF-3/7/25/93/117 | browser pane refused qsif.com | Will retry automatically next run |
+| 3 | Site would not open | Arthaya SIF-114 (Union MF) | browser pane refused unionmf.com | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 4 | Loader error | Kotak SIF-146 | factsheet REIT rows add to 12.66, heading says 5.26 | Will retry automatically next run (loader needs a fix for the October summary table) |
+| 5 | Four NAV-feed funds have no entry | SIF-169, 174, 183, 190 | first portfolios not out or AMC not identified | Will retry automatically next run |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| WSIF | 105, 111 | 30 Sep | 🟥 0% | yes | 30 Sep | none | nothing new | none |
+| Titanium (Tata) | 29, 102 | 30 Sep | 🟥 0% | yes (API) | 30 Sep | 30 Sep | nothing new | none |
+| DynaSIF (360 ONE) | 55, 87, 143 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: Cloudflare | none |
+| Sapphire (Franklin) | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Arudha | 40, 62 | 30 Sep / 31 Oct | 🟧 50% | yes | 30 Sep | Sep | nothing new | none |
+| Infinity (Kotak) | 146 | 31 Oct | 🟧 50% | yes | 30 Sep | Oct (loaded) | skipped: loader error, Oct Excel not out | none |
+| Arthaya (Union) | 114 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: site refused | none |
+| quant | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | blocked | unknown | Oct (loaded) | skipped: site refused | none |
+| Others (Altiva, HSBC, Summit, ITI, Mirae, Prism, SBI, iSIF, Apex) | rest | 31 Oct | 🟩 100% | not re-opened, already at target month | | | nothing new | none |
+
+Industry AUM (AMFI): as on 2026-10-31
+Strategy-split check (Step 3g): not done this pass.
+Key-details check (Step 3h): not done this pass.
+Factsheet display check (Step 3i): not done this pass.
+
 ## 2026-11-12 07:56 Lisbon time (partial sweep)
 Result: nothing changed. facts.json not committed (no newer data found).
 
