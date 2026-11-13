@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:40:43.090Z",
+ "updated_at": "2026-11-13T10:55:13.801Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6727,7 +6727,7 @@
      10.05
     ],
     [
-     "Others",
+     "Cash and others",
      8.59
     ],
     [
@@ -6747,7 +6747,7 @@
      2.41
     ]
    ],
-   "split_source": "Kotak Infinity SIF factsheet as on 31 Oct 2026 (AMC's own classification, as printed). Fixed income is the AMC's Debt Instruments (debt, money market, PSU bonds and debt fund units). Others is triparty repo and net current assets less the short futures of the covered-call and relative value books. Special situations is directional equity (IPO, OFS, QIP and block trades). Other derivative strategies is relative value trades. Holdings count, sectors and unhedged card follow the portfolio workbook (latest: Sep 2026).",
+   "split_source": "Kotak Infinity SIF factsheet as on 31 Oct 2026 (AMC's own classification, as printed). Fixed income is the AMC's Debt Instruments (debt, money market, PSU bonds and debt fund units). Cash and others is triparty repo and net current assets less the short futures of the covered-call and relative value books. Special situations is directional equity (IPO, OFS, QIP and block trades). Other derivative strategies is relative value trades. Holdings count, sectors and unhedged card follow the portfolio workbook (latest: Sep 2026).",
    "top_equity": [
     [
      "Persistent Systems Limited",
@@ -7534,6 +7534,7 @@
   "Merger arbitrage": "Buying the shares of a company that is being taken over and, where the deal is paid in the buyer's shares, selling the buyer's shares through futures. The fund earns the gap between the offer and the market price, which depends on the deal completing rather than on the market's direction.",
   "Equity strategies": "All the shares the fund holds, which are mostly protected or paired with derivatives (collars, merger arbitrage and similar). The AMC's own split of this part is shown once its monthly factsheet is out.",
   "Arbitrage": "Stocks held and hedged with futures, locking in a low-risk spread.",
-  "Covered calls": "Stock held by the fund on which call options are sold to earn premium income; the stock covers the call."
+  "Covered calls": "Stock held by the fund on which call options are sold to earn premium income; the stock covers the call.",
+  "Cash and others": "Cash and overnight lending (repo), less the short futures that offset covered-call and relative-value positions. Mostly cash-like."
  }
 }

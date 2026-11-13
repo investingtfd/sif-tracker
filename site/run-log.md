@@ -1,5 +1,17 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 16:30 Lisbon time (catch-up: WordPress page, Ashish authorised)
+Result: tracker page edited (WordPress page 896) and facts.json committed.
+
+**Updates found and made**
+
+- WordPress SIF Tracker page: added "?" help text for Covered calls, Arbitrage, Cash and others, Others, Relative value trades and Debt profile; added a Debt profile block (credit-rating pie plus yield, modified duration and average maturity) to the Portfolio snapshot for any fund with credit_quality or debt_quants in facts.json. Edit made at Ashish's request on 13 Nov 2026; the previous page content is in the WordPress revision history.
+- Infinity SIF-146: "Others" renamed "Cash and others".
+
+**Updates available but not made, or only partly made**
+
+None new.
+
 ## 2026-11-13 11:30 Lisbon time (catch-up: Infinity split follows the AMC's own printed buckets)
 Result: 1 fund updated (Infinity SIF-146 split). facts.json committed.
 
