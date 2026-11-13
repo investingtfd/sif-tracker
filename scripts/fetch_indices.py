@@ -19,6 +19,7 @@ IST = timezone(timedelta(hours=5, minutes=30))
 # key -> (display name, subtitle, Yahoo symbol candidates in order of preference)
 INDICES = {
     "nifty50": ("NIFTY 50", "Large-cap index", ["^NSEI"]),
+    "nifty100": ("NIFTY 100", "Top 100 large-cap index", ["^CNX100"]),
     "nifty500": ("NIFTY 500", "Broad market index", ["^CRSLDX"]),
     "midsmall400": ("NIFTY MidSmallcap 400", "Mid & small-cap index", ["NIFTY_MIDSML_400.NS", "^NIFMDSML400"]),
 }
