@@ -1,5 +1,16 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 11:30 Lisbon time (catch-up: Infinity split follows the AMC's own printed buckets)
+Result: 1 fund updated (Infinity SIF-146 split). facts.json committed.
+
+**Updates found and made**
+
+- Infinity SIF-146: split now shows the AMC's own allocation table as printed (Fixed income 45.25, Covered calls 23.22, Arbitrage 10.05, Others 8.59, Special situations 3.99, Other derivative strategies 3.65, REITs 2.85, InvITs 2.41; adds to 100.01). Replaces the earlier netted split (Fixed income 62.71, Arbitrage and covered calls 28.07) at Ashish's request; this overrides the Step 3f layout for SIF-146 only. Strategy overview buckets re-mapped to the same lines.
+
+**Updates available but not made, or only partly made**
+
+None new.
+
 ## 2026-11-13 11:05 Lisbon time (catch-up: Kotak October factsheet supplied by Ashish)
 Result: 1 fund updated (Infinity SIF-146). facts.json committed.
 

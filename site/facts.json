@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:35:30.825Z",
+ "updated_at": "2026-11-13T10:40:43.090Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6715,12 +6715,28 @@
    ],
    "split": [
     [
-     "Arbitrage and covered calls",
-     28.07
+     "Fixed income",
+     45.25
     ],
     [
-     "Fixed income",
-     62.71
+     "Covered calls",
+     23.22
+    ],
+    [
+     "Arbitrage",
+     10.05
+    ],
+    [
+     "Others",
+     8.59
+    ],
+    [
+     "Special situations",
+     3.99
+    ],
+    [
+     "Other derivative strategies",
+     3.65
     ],
     [
      "REITs",
@@ -6729,13 +6745,9 @@
     [
      "InvITs",
      2.41
-    ],
-    [
-     "Special situations",
-     3.99
     ]
    ],
-   "split_source": "Kotak SIF factsheet as on 31 Oct 2026 (AMC's own classification). Arbitrage and covered calls = arbitrage plus the covered call book. Fixed income includes debt, Kotak Liquid units, TREPS and net current assets. Special situations is the unhedged equity part (IPO, OFS, QIP and similar). Holdings count, sectors and unhedged card follow the portfolio workbook (latest: Sep 2026).",
+   "split_source": "Kotak Infinity SIF factsheet as on 31 Oct 2026 (AMC's own classification, as printed). Fixed income is the AMC's Debt Instruments (debt, money market, PSU bonds and debt fund units). Others is triparty repo and net current assets less the short futures of the covered-call and relative value books. Special situations is directional equity (IPO, OFS, QIP and block trades). Other derivative strategies is relative value trades. Holdings count, sectors and unhedged card follow the portfolio workbook (latest: Sep 2026).",
    "top_equity": [
     [
      "Persistent Systems Limited",
@@ -7006,13 +7018,22 @@
     "tagline": "A blend of capital appreciation and income generation through equity and debt instruments, including limited short exposure in equity and debt through derivatives.",
     "buckets": [
      {
-      "name": "Arbitrage and covered calls",
+      "name": "Arbitrage",
       "group": "Equity strategies",
       "match": [
-       "Arbitrage and covered calls"
+       "Arbitrage"
       ],
-      "text": "Equity arbitrage (stock held against a future) and covered calls written on stocks held.",
-      "note": "Arbitrage 10.05% and covered calls 23.22% in October (28.07% after netting the short futures of the covered-call book)."
+      "text": "Stock held in cash and sold in futures at the same time, so price risk is hedged.",
+      "note": "10.05% in October; the fund describes it as a low double-digit allocation."
+     },
+     {
+      "name": "Covered calls",
+      "group": "Equity strategies",
+      "match": [
+       "Covered calls"
+      ],
+      "text": "Calls written on stocks the fund holds, to earn premium income.",
+      "note": "23.22% in October; gains were marginally positive despite sharp corrections of 10-15% in several underlying stocks."
      },
      {
       "name": "Debt instruments",
@@ -7020,8 +7041,26 @@
       "match": [
        "Fixed income"
       ],
-      "text": "Debt, money market instruments and cash equivalents.",
-      "note": "Debt 45.25% plus triparty repo and net current assets; rated debt is about 60% AAA, 18% sovereign."
+      "text": "Debt, money market instruments and debt fund units.",
+      "note": "45.25% in October: PSU bonds 18.94%, debentures and bonds 13.56%, money market 11.82%. Rated debt is about 60% AAA, 18% sovereign."
+     },
+     {
+      "name": "Special situations",
+      "group": "Directional equity",
+      "match": [
+       "Special situations"
+      ],
+      "text": "Directional equity in IPOs, OFS, QIPs and block trades.",
+      "note": "3.99% in October; contributed positively to performance."
+     },
+     {
+      "name": "Relative value trades",
+      "group": "Derivatives",
+      "match": [
+       "Other derivative strategies"
+      ],
+      "text": "Long and short positions in related stocks, through futures and options.",
+      "note": "3.65% in October; it was marginally negative for performance."
      },
      {
       "name": "REITs",
@@ -7040,15 +7079,6 @@
       ],
       "text": "Infrastructure investment trust units.",
       "note": "2.41% in October (Capital Infra Trust, Cube Highway Trust)."
-     },
-     {
-      "name": "Special situations",
-      "group": "Directional equity",
-      "match": [
-       "Special situations"
-      ],
-      "text": "Directional equity in IPOs, OFS, QIPs and block trades.",
-      "note": "3.99% in October; relative value trades are a further 3.65% of derivatives, offset in the cash and others line."
      }
     ]
    }
@@ -7502,6 +7532,8 @@
   "Gold ETF": "Units of an exchange-traded fund that holds physical gold. Gold is neither equity nor debt, so it is shown on its own line.",
   "Collar strategy": "Shares the fund holds that are protected by a put option it buys, with the cost offset by a call option it sells. This keeps both gains and losses within a narrow band, so the stock is held for a defined return rather than for open market risk.",
   "Merger arbitrage": "Buying the shares of a company that is being taken over and, where the deal is paid in the buyer's shares, selling the buyer's shares through futures. The fund earns the gap between the offer and the market price, which depends on the deal completing rather than on the market's direction.",
-  "Equity strategies": "All the shares the fund holds, which are mostly protected or paired with derivatives (collars, merger arbitrage and similar). The AMC's own split of this part is shown once its monthly factsheet is out."
+  "Equity strategies": "All the shares the fund holds, which are mostly protected or paired with derivatives (collars, merger arbitrage and similar). The AMC's own split of this part is shown once its monthly factsheet is out.",
+  "Arbitrage": "Stocks held and hedged with futures, locking in a low-risk spread.",
+  "Covered calls": "Stock held by the fund on which call options are sold to earn premium income; the stock covers the call."
  }
 }
