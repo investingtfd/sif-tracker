@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:55:13.801Z",
+ "updated_at": "2026-11-13T11:00:21.429Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6992,7 +6992,7 @@
    },
    "credit_quality": {
     "as_on": "2026-10-31",
-    "basis": "Share of rated debt holdings, rebased to 100",
+    "basis": "Rated debt holdings (about 44% of the fund; excludes cash, repo and debt fund units), rebased to 100%",
     "items": [
      [
       "AAA",

@@ -1,5 +1,16 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 17:00 Lisbon time (catch-up: debt profile caption)
+Result: caption change only. facts.json committed; WordPress page 896 updated.
+
+**Updates found and made**
+
+- Debt profile caption now comes from each fund's credit_quality.basis; Infinity SIF-146 states that the rating mix covers rated debt only (about 44% of the fund, excluding cash, repo and debt fund units).
+
+**Updates available but not made, or only partly made**
+
+None new.
+
 ## 2026-11-13 16:30 Lisbon time (catch-up: WordPress page, Ashish authorised)
 Result: tracker page edited (WordPress page 896) and facts.json committed.
 
