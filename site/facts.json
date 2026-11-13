@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T08:25:10.901Z",
+ "updated_at": "2026-11-13T10:35:30.825Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6817,29 +6817,29 @@
    ],
    "top_shorts": [
     [
-     "ICICI Bank Ltd.",
+     "ITC Ltd.",
      "",
-     -2.67
+     -2.53
     ],
     [
-     "Biocon Ltd.",
+     "Persistent Systems Limited",
      "",
-     -1.59
+     -2.17
     ],
     [
-     "Steel Authority of India Ltd.",
+     "Steel Authority Of India Ltd.",
      "",
-     -1.49
+     -1.06
     ],
     [
      "Ultratech Cement Ltd.",
      "",
-     -1.27
+     -1.01
     ],
     [
-     "Swiggy Ltd",
+     "Torrent Pharmaceuticals Ltd.",
      "",
-     -1.07
+     -0.64
     ]
    ],
    "sectors": [
@@ -6869,11 +6869,11 @@
     ]
    ],
    "holdings_count": 181,
-   "equity_gross_pct": 35.52,
-   "equity_net_pct": 9.89,
+   "equity_gross_pct": 37.26,
+   "equity_net_pct": 3.99,
    "derivative_gross_exposure_cr": 112.9,
    "derivative_basis": "unhedged",
-   "turnover_ratio": 1.59,
+   "turnover_ratio": 1.9414,
    "nav_regular_growth": 10.365,
    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
    "risk_band": 1,
@@ -6918,23 +6918,139 @@
     "items": [
      [
       "Equity held",
-      35.52,
+      37.26,
       "eq"
      ],
      [
       "Hedged by arbitrage futures and covered calls",
-      -25.63,
+      -33.27,
       "hd"
      ]
     ],
-    "net": 9.89,
-    "note": "Most equity held sits in the arbitrage and covered-call book (30% of the fund), where each stock is hedged by a future or a call written. Open equity risk is about 9.9%, including Special situations (5.4%). REITs and InvITs are not counted here."
+    "net": 3.99,
+    "note": "Most equity sits in the arbitrage and covered-call books (33.3%), where each stock is hedged by a future or a written call. Open equity is about 4%, the Special situations book. REITs and InvITs not counted."
    },
    "factsheet_only": true,
    "unhedged_pending": true,
    "stale_sections": {
     "unhedged": "30 Sep 2026",
     "sectors": "30 Sep 2026"
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "Infinity Hybrid Long-Short Fund factsheet, October 2026 (Kotak)",
+    "inception_date": "2026-07-06",
+    "benchmark": "NIFTY 50 Hybrid Composite debt 50:50 Index",
+    "benchmark_short": "NIFTY 50 Hybrid Composite Debt 50:50",
+    "strategy_type": "Interval",
+    "plans": "Regular, Direct | Growth, IDCW",
+    "nav_regular": 10.365,
+    "ber_regular_pct": 1.61,
+    "exit_load": "Nil",
+    "exit_load_short": "Nil",
+    "min_application": "INR 10 lakh and in multiples of Re 1 thereafter (across all investment strategies offered by the Infinity SIF at the PAN level)",
+    "min_application_short": "₹10 lakh across Infinity strategies",
+    "min_sip_stp_swp": "SIP: INR 10,000 and in multiples of Re 1 thereafter",
+    "min_sip_short": "₹10,000",
+    "min_accredited": "INR 1 lakh and in multiples of Re 1 thereafter",
+    "frequency": "Subscription daily (business days); redemption twice a week, Monday and Wednesday",
+    "fund_managers": [
+     {
+      "name": "Kalpesh Jain",
+      "role": "Fund manager"
+     },
+     {
+      "name": "Hiten Shah",
+      "role": "Fund manager"
+     },
+     {
+      "name": "Abhishek Bisen",
+      "role": "Fund manager"
+     }
+    ],
+    "benchmark_risk_band": 2
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 7.403,
+    "modified_duration_yr": 1.0712,
+    "avg_maturity_yr": 1.3508,
+    "macaulay_duration_yr": 1.1529,
+    "note": "As stated in the factsheet"
+   },
+   "credit_quality": {
+    "as_on": "2026-10-31",
+    "basis": "Share of rated debt holdings, rebased to 100",
+    "items": [
+     [
+      "AAA",
+      60.13
+     ],
+     [
+      "SOV",
+      18.1
+     ],
+     [
+      "AA+",
+      13.18
+     ],
+     [
+      "A1+",
+      8.57
+     ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Infinity Hybrid Long-Short Fund factsheet, October 2026",
+    "tagline": "A blend of capital appreciation and income generation through equity and debt instruments, including limited short exposure in equity and debt through derivatives.",
+    "buckets": [
+     {
+      "name": "Arbitrage and covered calls",
+      "group": "Equity strategies",
+      "match": [
+       "Arbitrage and covered calls"
+      ],
+      "text": "Equity arbitrage (stock held against a future) and covered calls written on stocks held.",
+      "note": "Arbitrage 10.05% and covered calls 23.22% in October (28.07% after netting the short futures of the covered-call book)."
+     },
+     {
+      "name": "Debt instruments",
+      "group": "Fixed income",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt, money market instruments and cash equivalents.",
+      "note": "Debt 45.25% plus triparty repo and net current assets; rated debt is about 60% AAA, 18% sovereign."
+     },
+     {
+      "name": "REITs",
+      "group": "Trusts",
+      "match": [
+       "REITs"
+      ],
+      "text": "Real estate investment trust units.",
+      "note": "2.85% in October (Embassy Office Parks, Brookfield India)."
+     },
+     {
+      "name": "InvITs",
+      "group": "Trusts",
+      "match": [
+       "InvITs"
+      ],
+      "text": "Infrastructure investment trust units.",
+      "note": "2.41% in October (Capital Infra Trust, Cube Highway Trust)."
+     },
+     {
+      "name": "Special situations",
+      "group": "Directional equity",
+      "match": [
+       "Special situations"
+      ],
+      "text": "Directional equity in IPOs, OFS, QIPs and block trades.",
+      "note": "3.99% in October; relative value trades are a further 3.65% of derivatives, offset in the cash and others line."
+     }
+    ]
    }
   },
   "SIF-161": {

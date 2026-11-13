@@ -1,5 +1,19 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 11:05 Lisbon time (catch-up: Kotak October factsheet supplied by Ashish)
+Result: 1 fund updated (Infinity SIF-146). facts.json committed.
+
+**Updates found and made**
+
+- Infinity SIF-146: key details, debt quality (YTM 7.40%, modified duration 1.07 yrs), rating mix, strategy overview ("How it works") and exposure card written from the October factsheet (31 Oct 2026, size Rs 3,841.14 cr). Top shorts replaced with the October arbitrage futures; turnover 194.14%; equity gross 37.26%, open equity 3.99%.
+
+**Updates available but not made, or only partly made**
+
+- SIF-146 stays factsheet_only: holdings count, sectors, allocation and unhedged card are still from the 30 Sep workbook (October Excel not out). The factsheet states no average exposure figures ("no factsheet exposure figures").
+- top_debt (issuer list) is not in the factsheet; kept as it was.
+- No returns: fund started 6 July 2026, none published.
+- Split left unchanged: it already equals the AMC's classification after netting (arbitrage 10.05 + covered calls 23.22 - 5.20 short futures = 28.07; debt 45.25 + triparty and net current assets 17.46 = 62.71).
+
 ## 2026-11-13 10:15 Lisbon time (catch-up: key details)
 Result: 1 fund updated (strategy overview). facts.json committed.
 
