@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-12",
+ "checked_at": "2026-11-13",
  "items": [
   {
    "name": "H-SIF Hybrid Long-Short Fund",
@@ -8,7 +8,8 @@
    "open": "2026-11-13",
    "close": "2026-11-27",
    "sources": [
-    "HDFC Mutual Fund H-SIF site"
+    "HDFC Mutual Fund H-SIF site",
+    "SIFPrime"
    ],
    "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page.",
    "amfi": false,
