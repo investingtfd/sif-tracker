@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:00:21.429Z",
+ "updated_at": "2026-11-13T11:01:09.627Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -7179,7 +7179,7 @@
    "turnover_ratio": 0.12,
    "derivative_gross_exposure_cr": 67.18,
    "derivative_basis": "futures",
-   "risk_band": 3,
+   "risk_band": 5,
    "benchmark_risk_band": 3,
    "sectors": [
     [

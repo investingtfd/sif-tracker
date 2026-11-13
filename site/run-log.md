@@ -1,5 +1,16 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 17:20 Lisbon time (catch-up: risk band)
+Result: 1 fund updated (Altiva Equity SIF-161 risk band 3 -> 5, as stated by Ashish). facts.json committed.
+
+**Updates found and made**
+
+- Altiva Equity SIF-161: risk band raised from 3 to 5 at Ashish's instruction (not yet read from the AMC factsheet gauge; Step 3b will re-read it next run and any difference will be logged).
+
+**Updates available but not made, or only partly made**
+
+None new.
+
 ## 2026-11-13 17:00 Lisbon time (catch-up: debt profile caption)
 Result: caption change only. facts.json committed; WordPress page 896 updated.
 
