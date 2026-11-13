@@ -1,5 +1,16 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 18:10 Lisbon time (catch-up: standing rules updated, risk bands)
+Result: no fund data changed. factsheet-rules.md extended with rule L20 (risk bands read from both Excel and factsheet for every fund every run, with precedence, method and reporting).
+
+**Updates found and made**
+
+None (rules only)
+
+**Updates available but not made, or only partly made**
+
+None new.
+
 ## 2026-11-13 17:45 Lisbon time (catch-up: standing rules updated)
 Result: no fund data changed. factsheet-rules.md extended with rules L14-L19 (factsheet pass for every AMC, AMC-printed split, WordPress display edits, debt profile, SIF-161 risk band 5, technical notes).
 
