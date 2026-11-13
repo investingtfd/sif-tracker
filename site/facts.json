@@ -1051,7 +1051,119 @@
    "unhedged_count": 0,
    "unhedged_note": "No unhedged derivative positions as on 31 Oct 2026. The futures the fund holds are equity-arbitrage hedges against matching stock holdings, not directional bets.",
    "unhedged_zero_since": "2026-09-30",
-   "split_source": "HSBC monthly portfolio as on 31 Oct 2026. Fixed income includes 6.48% in HSBC Money Market Fund units. REITs and InvITs are shown separately"
+   "split_source": "HSBC monthly portfolio as on 31 Oct 2026. Fixed income includes 6.48% in HSBC Money Market Fund units. REITs and InvITs are shown separately",
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "RedHex SIF factsheet, data as on October 2026 (HSBC)",
+    "inception_date": "2026-06-19",
+    "benchmark": "Nifty 50 Hybrid composite Debt 50:50 Index",
+    "benchmark_short": "NIFTY 50 Hybrid Composite Debt 50:50",
+    "strategy_type": "Interval",
+    "plans": "Direct, Regular | Growth, IDCW",
+    "nav_regular": 10.2077,
+    "ber_regular_pct": 0.94,
+    "exit_load": "If the units are redeemed/switched out on or before 1 year from the date of allotment: 2.00%. After 1 year: Nil",
+    "exit_load_short": "2.00% if sold within 1 year, nil after",
+    "min_application": "Rs 10,00,000 and in multiples of Re 1 thereafter",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "Rs 1,000 minimum instalment (quarterly Rs 3,000), minimum 12 instalments subject to an aggregate of Rs 12,000; SIP is subject to a minimum investment of Rs 10 lakh across SIF strategies",
+    "min_sip_short": "₹1,000",
+    "min_accredited": "Rs 1,00,000 and in multiples of Re 1 thereafter",
+    "frequency": "Daily, weekly, monthly and quarterly SIP",
+    "fund_managers": [
+     {
+      "name": "Shriram Ramanathan",
+      "role": "Fund manager",
+      "experience_years": 25,
+      "since": "2026-06-19"
+     },
+     {
+      "name": "Praveen Ayathan",
+      "role": "Fund manager",
+      "experience_years": 33,
+      "since": "2026-06-19"
+     },
+     {
+      "name": "Venugopal Manghat",
+      "role": "Fund manager",
+      "experience_years": 32,
+      "since": "2026-06-19"
+     },
+     {
+      "name": "Mayank Chaturvedi",
+      "role": "Fund manager",
+      "experience_years": 5,
+      "since": "2026-06-19"
+     }
+    ]
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 10.28,
+    "modified_duration_yr": 1.4,
+    "avg_maturity_yr": 1.89,
+    "macaulay_duration_yr": 1.48,
+    "note": "Annualised portfolio yield 10.28%, as stated in the factsheet"
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "RedHex SIF factsheet, data as on October 2026",
+    "tagline": "A relatively stable, tax efficient portfolio: a core of equity arbitrage and fixed income that aims for steady returns, with credit opportunities for extra income.",
+    "buckets": [
+     {
+      "name": "Equity arbitrage",
+      "group": "Indicative range 25-35% of the fund",
+      "match": [
+       "Arbitrage (hedged equity)"
+      ],
+      "text": "Non-directional equity arbitrage, a core allocation that aims for stable returns.",
+      "note": "About 26% in October, raised during the month; annualised monthly roll 7.2%."
+     },
+     {
+      "name": "REITs",
+      "group": "Indicative range 0-10% of the fund",
+      "match": [
+       "REITs"
+      ],
+      "text": "Units of real estate investment trusts for income.",
+      "note": "About 9.5% in October, reduced after price moderation."
+     },
+     {
+      "name": "InvITs",
+      "group": "Indicative range 5-15% of the fund",
+      "match": [
+       "InvITs"
+      ],
+      "text": "Units of infrastructure investment trusts for income.",
+      "note": "Exposure to Capital Infra Trust InvIT was added in October."
+     },
+     {
+      "name": "Debt and liquidity",
+      "group": "Liquidity and alpha buckets",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "High-yielding NCDs, retail loan securitisation (PTCs) and a liquid fixed income sleeve.",
+      "note": "About 28.4% in higher-yielding debt (18.8% NCDs, 9.6% PTCs); AA rated about 20%, A rated about 9%."
+     }
+    ]
+   },
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      26.09,
+      "eq"
+     ],
+     [
+      "Hedged by arbitrage futures",
+      -26.09,
+      "hd"
+     ]
+    ],
+    "net": 0,
+    "note": "The equity is bought against matching futures (equity arbitrage), so open equity risk is nil. REITs and InvITs are not counted."
+   }
   },
   "SIF-105": {
    "allocation": [

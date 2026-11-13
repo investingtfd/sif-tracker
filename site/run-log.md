@@ -1,5 +1,75 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 09:40 Lisbon time (full sweep of AMCs below target, plus key-details pass)
+Result: 1 fund updated (key details only). facts.json committed.
+
+**Updates found and made**
+
+- RedHex SIF-128: key details, debt quality, strategy overview and exposure written from the October factsheet (data as on 31 Oct 2026, size Rs 1,780.56 cr).
+
+**Updates available but not made, or only partly made**
+
+- Platinum SIF-136: newest Mirae factsheet is still "October 2026" (30 Sep data); key details wait for the 31 Oct one.
+- Summit SIF-150: newest Invesco factsheet is September; key details wait for October.
+- Altiva SIF-122: already has key details from the October fund note; the note has no returns table or strategy buckets yet (fund launched 8 June 2026).
+- RedHex SIF-128: credit-quality mix and top-10 returns not written (factsheet gives rating mix only as links; no returns yet, fund under 6 months). Factsheet InvITs 9.6% differs from the workbook's 14.08%: split left as the workbook has it.
+- Arthaya SIF-114: browser pane refused unionmf.com.
+- Kotak SIF-146: not re-opened this pass.
+- About 20 other funds still have no key details; they follow at four per run, as each AMC's October factsheet appears.
+
+### Data completeness
+Up to date: 24 of 39 SIF funds (62%) have data as on 31 Oct 2026
+of which 18 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF | 30 Sep 2026 | AMC has not published yet (newest Excel 30 Sep) |
+| SIF-29, SIF-102 | Titanium (Tata) | 30 Sep 2026 | AMC has not published yet (Excel and factsheet 30 Sep) |
+| SIF-55, SIF-87, SIF-143 | DynaSIF (360 ONE) | 30 Sep 2026 | AMC has not published yet (Excel Sep, factsheet 30 Sep) |
+| SIF-96 | Sapphire (Franklin) | 30 Sep 2026 | AMC has not published yet (Excel 30 Sep) |
+| SIF-40 | Arudha | 30 Sep 2026 | AMC has not published yet (Excel and factsheet Sep) |
+| SIF-114 | Arthaya (Union) | 30 Sep 2026 | site would not open in the browser pane |
+| SIF-169, SIF-174, SIF-183, SIF-190 | NAV feed funds | not in tracker yet | new funds, first portfolio not out / AMC site not identified |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | browser pane refused unionmf.com | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+| 2 | Not re-checked | Kotak SIF-146 | loader error on October factsheet known from 12 Nov | Will retry automatically next run |
+| 3 | No entry | SIF-169, 174, 183, 190 | first portfolios not out or AMC not identified | Will retry automatically next run |
+| 4 | Key details waiting | Platinum SIF-136, Summit SIF-150 | October factsheet not out | Will retry automatically next run |
+| 5 | Mismatch | RedHex SIF-128 | factsheet InvITs 9.6% vs workbook 14.08% | Will retry automatically next run (compare with November data) |
+
+### AMC by AMC
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| WSIF | 105, 111 | 30 Sep | 🟥 0% | yes | 30 Sep | none | nothing new | none |
+| Titanium (Tata) | 29, 102 | 30 Sep | 🟥 0% | yes (API) | 30 Sep | 30 Sep | nothing new | none |
+| DynaSIF (360 ONE) | 55, 87, 143 | 30 Sep | 🟥 0% | yes | Sep | 30 Sep | nothing new | none |
+| Sapphire (Franklin) | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | not checked | nothing new | none |
+| Arudha | 40, 62 | 30 Sep / 31 Oct | 🟧 50% | yes | 30 Sep | Sep | nothing new | none |
+| Infinity (Kotak) | 146 | 31 Oct | 🟧 50% | not re-opened | not checked | Oct (loaded) | not re-checked | none |
+| Arthaya (Union) | 114 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: site refused | none |
+| quant | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | yes | 30 Sep (next Nov) | Oct (loaded) | nothing new | none |
+| Altiva | 11, 122, 161 | 31 Oct | 🟩 100% | yes (factsheets) | 31 Oct | 31 Oct | nothing new to load | none |
+| HSBC (RedHex) | 128 | 31 Oct | 🟩 100% | yes | 31 Oct | 31 Oct | key details from factsheet | key details added |
+| Platinum (Mirae) | 136 | 31 Oct | 🟩 100% | yes | 31 Oct | 30 Sep | nothing new | none |
+| Summit (Invesco) | 150, 177 | 31 Oct | 🟩 100% | yes (factsheets) | 31 Oct | Sep | nothing new | none |
+| Others (Prism, SBI, iSIF, Apex, ITI) | rest | 31 Oct | 🟩 100% | not re-opened, already at target month | | | nothing new | none |
+
+Industry AUM (AMFI): as on 2026-10-31
+Strategy-split check (Step 3g): not done this pass.
+Key-details check (Step 3h): written RedHex SIF-128; SIF-122 already complete; SIF-136 and SIF-150 waiting for their October factsheet; others not yet reached.
+Factsheet display check (Step 3i): not done this pass.
+
+### Funds changed
+
+| Fund | Source | as_of | Size | Risk band | Unhedged | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-128 RedHex Hybrid | Factsheet Oct 2026 | 2026-10-31 (unchanged) | 1,780.56 (unchanged) | 2 (unchanged) | unchanged | key details written/updated: scheme_details, debt_quants, strategy_overview, exposure |
+
 ## 2026-11-12 11:58 Lisbon time (full sweep, partial: 360 ONE, quant and Arthaya blocked)
 Result: nothing changed. facts.json not committed (no newer data found).
 
