@@ -58,7 +58,8 @@
    "sources": [
     "HDFC Mutual Fund H-SIF site"
    ],
-   "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page."
+   "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page. Risk band 2 (riskometer, per Ashish 13 Nov 2026).",
+   "risk_band": 2
   },
   {
    "name": "Endurance SIF",

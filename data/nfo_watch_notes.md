@@ -1,3 +1,5 @@
 # NFO watch notes
 
 - 2026-11-04: SEBI filings page (sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=3&smid=0), search "short fund" in the title box (type and press Enter), lists every SIF long-short draft SID filing, newest first. It is the earliest signal for new brands/funds (draft = upcoming soon, no dates). Each filing page embeds the SID PDF (iframe, sebi_data/attachdocs) with scheme details; the PDF is only reachable from the browser pane, not from the cloud shell. Added Numa SIF, iSIF Sector Rotation, Classif Hybrid, Altiva Active Asset Allocator from it.
+
+- 2026-11-13: SIFscan (sifscan.com/nfo) lists dates for announced SIFs (Kotak Infinity Equity 17 Nov-1 Dec, Edelweiss Altiva AAA 4 Dec-18 Dec) and pending-approval drafts like WSIF Hybrid (The Wealth Company) that SEBI "short fund" search did not show; always read SIFscan fully. Every source (SEBI, SIFPrime, SIF360, SIFscan, searches) must be read each run, never skip. siffund.com is a parked domain; AMFI pane navigation is denied. Angel One "Upcoming NFOs this week" pages may be 2025 archives: check the date.
