@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T07:16:32.499Z",
+ "updated_at": "2026-11-13T08:25:10.901Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -683,6 +683,31 @@
      }
     ],
     "benchmark_risk_band": 3
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Altiva Equity Ex-Top 100 Long-Short Fund October 2026 fund note",
+    "tagline": "High-conviction mid- and small-cap opportunities with strong earnings visibility, improving return profiles and attractive valuations, with room for short exposure through unhedged derivatives of up to 25%.",
+    "buckets": [
+     {
+      "name": "Ex-top 100 equity",
+      "group": "Core strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Predominantly equity and equity-related securities of ex-top 100 companies, built bottom-up with a quality bias towards profitable businesses.",
+      "note": "About 99% invested in October: roughly 71% small caps, 23% mid caps and 6% large caps; financial services (22%) and capital goods (13%) are the largest sectors."
+     },
+     {
+      "name": "Cash and TREPS",
+      "group": "Liquidity",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Cash equivalents held as TREPS.",
+      "note": "About 0.75% of the fund in October. No short positions were held."
+     }
+    ]
    }
   },
   "SIF-136": {

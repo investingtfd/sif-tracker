@@ -1,5 +1,16 @@
 # SIF Tracker daily run log
 
+## 2026-11-13 10:15 Lisbon time (catch-up: key details)
+Result: 1 fund updated (strategy overview). facts.json committed.
+
+**Updates found and made**
+
+- Altiva SIF-122: "How this fund works" written from the October fund note (objective, bottom-up mid/small-cap approach, short exposure limit 25%, market-cap and sector mix). The note publishes no named strategy buckets and no returns table, so two buckets only (equity, cash); returns still pending.
+
+**Updates available but not made, or only partly made**
+
+None new; see the 09:40 entry above.
+
 ## 2026-11-13 09:40 Lisbon time (full sweep of AMCs below target, plus key-details pass)
 Result: 1 fund updated (key details only). facts.json committed.
 
