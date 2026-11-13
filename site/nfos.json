@@ -16,6 +16,35 @@
    "first_seen": "2026-10-30"
   },
   {
+   "name": "Infinity Equity Long-Short Fund",
+   "amc": "Kotak Mutual Fund",
+   "strategy": "Equity Long-Short",
+   "open": "2026-11-17",
+   "close": "2026-12-01",
+   "sources": [
+    "SEBI filings (Mutual Funds draft)"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
+   "note": "NFO dates 17 Nov - 1 Dec 2026 per SIFscan; verify on Kotak SIF page. Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
+   "amfi": false,
+   "first_seen": "2026-11-08"
+  },
+  {
+   "name": "Altiva Active Asset Allocator Long-Short Fund",
+   "amc": "Edelweiss Mutual Fund",
+   "strategy": "Active Asset Allocator Long-Short",
+   "open": "2026-12-04",
+   "close": "2026-12-18",
+   "sources": [
+    "SEBI filings (Mutual Funds draft)",
+    "Altiva SIF ISID"
+   ],
+   "url": "https://www.edelweissmf.com/altivasif",
+   "note": "NFO dates 4 - 18 Dec 2026 per SIFscan; verify on Edelweiss page. Upcoming soon: draft ISID filed with SEBI on 6 Oct 2026 by Edelweiss AMC (Altiva SIF). Risk band 3 (Moderately High); benchmark Nifty 50 TRI (50%) + Nifty Short Duration Debt Index (35%) + Gold (7.5%) + Silver (7.5%); Rs 10 per unit. NFO dates not yet announced.",
+   "amfi": false,
+   "first_seen": "2026-11-04"
+  },
+  {
    "name": "Accelerate SIF",
    "amc": "Axis Mutual Fund",
    "strategy": "",
@@ -30,21 +59,6 @@
    "note": "Upcoming soon: Axis Mutual Fund's SIF platform (equity and hybrid strategies planned) is live on acceleratesif.com; NFO dates not yet published.",
    "amfi": false,
    "first_seen": "2026-10-30"
-  },
-  {
-   "name": "Altiva Active Asset Allocator Long-Short Fund",
-   "amc": "Edelweiss Mutual Fund",
-   "strategy": "Active Asset Allocator Long-Short",
-   "open": null,
-   "close": null,
-   "sources": [
-    "SEBI filings (Mutual Funds draft)",
-    "Altiva SIF ISID"
-   ],
-   "url": "https://www.edelweissmf.com/altivasif",
-   "note": "Upcoming soon: draft ISID filed with SEBI on 6 Oct 2026 by Edelweiss AMC (Altiva SIF). Risk band 3 (Moderately High); benchmark Nifty 50 TRI (50%) + Nifty Short Duration Debt Index (35%) + Gold (7.5%) + Silver (7.5%); Rs 10 per unit. NFO dates not yet announced.",
-   "amfi": false,
-   "first_seen": "2026-11-04"
   },
   {
    "name": "Classif Hybrid Long-Short Fund",
@@ -121,20 +135,6 @@
    "first_seen": "2026-11-08"
   },
   {
-   "name": "Infinity Equity Long-Short Fund",
-   "amc": "Kotak Mutual Fund",
-   "strategy": "Equity Long-Short",
-   "open": null,
-   "close": null,
-   "sources": [
-    "SEBI filings (Mutual Funds draft)"
-   ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
-   "note": "Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
-   "amfi": false,
-   "first_seen": "2026-11-08"
-  },
-  {
    "name": "MSIF Hybrid Long-Short Fund",
    "amc": "Mahindra Manulife Mutual Fund",
    "strategy": "Hybrid Long-Short",
@@ -176,6 +176,20 @@
    "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed.",
    "amfi": false,
    "first_seen": "2026-11-08"
+  },
+  {
+   "name": "WSIF Hybrid Long-Short Fund",
+   "amc": "The Wealth Company Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SIFscan"
+   ],
+   "url": "https://sifscan.com/nfo",
+   "note": "Upcoming soon: listed as pending approval on SIFscan (13 Nov 2026); NFO dates not yet published.",
+   "amfi": false,
+   "first_seen": "2026-11-13"
   },
   {
    "name": "iSIF Sector Rotation Long-Short Fund",
