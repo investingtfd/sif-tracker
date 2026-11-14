@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:01:09.627Z",
+ "updated_at": "2026-11-14T08:33:01.475Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -7518,6 +7518,182 @@
    "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. The fund launched on 30 Oct 2026 and is still being deployed from the NFO proceeds, so the October portfolio is not representative of how it will be run. It is currently in TREPS, a certificate of deposit and an Invesco liquid fund.",
    "split_source": "Still being deployed from the NFO proceeds (launched 30 Oct 2026). Fund launched 30 Oct 2026. Fixed income includes TREPS, a certificate of deposit and units of Invesco India Liquid Fund (9.77%), net receivables.",
    "caveat": "The fund launched on 30 Oct 2026 and is still being deployed from the NFO proceeds, so the October portfolio is not representative of how it will be run."
+  },
+  "SIF-174": {
+   "allocation": [
+    [
+     "eq",
+     34.97
+    ],
+    [
+     "fut",
+     -0.84
+    ],
+    [
+     "fi",
+     65.87
+    ]
+   ],
+   "net_assets_cr": 169.79,
+   "top_equity": [
+    [
+     "ICICI Bank Limited",
+     "Banks",
+     2.91
+    ],
+    [
+     "Reliance Industries Limited",
+     "Petroleum Products",
+     2.79
+    ],
+    [
+     "Kotak Mahindra Bank Ltd",
+     "Banks",
+     2
+    ],
+    [
+     "Tech Mahindra Limited",
+     "IT - Software",
+     1.95
+    ],
+    [
+     "HDFC Bank Limited",
+     "Banks",
+     1.94
+    ],
+    [
+     "Bharti Airtel Limited",
+     "Telecom - Services",
+     1.48
+    ],
+    [
+     "Torrent Pharmaceuticals Limited",
+     "Pharmaceuticals & Biotechnology",
+     1.46
+    ],
+    [
+     "Zydus Lifesciences Limited",
+     "Pharmaceuticals & Biotechnology",
+     1.03
+    ],
+    [
+     "Eternal Limited",
+     "Retailing",
+     1
+    ],
+    [
+     "DLF Limited",
+     "Realty",
+     0.99
+    ]
+   ],
+   "top_debt": [],
+   "top_shorts": [
+    [
+     "Britannia Industries Limited November 2026 Future",
+     "Food Products",
+     -0.27
+    ],
+    [
+     "Colgate Palmolive (India) Limited November 2026 Future",
+     "Personal Products",
+     -0.25
+    ],
+    [
+     "Shriram Finance Limited November 2026 Future",
+     "Finance",
+     -0.24
+    ],
+    [
+     "Ambuja Cements Limited November 2026 Future",
+     "Cement & Cement Products",
+     -0.07
+    ]
+   ],
+   "equity_gross_pct": 34.97,
+   "equity_net_pct": 34.13,
+   "holdings_count": 41,
+   "turnover_ratio": 0.01,
+   "derivative_gross_exposure_cr": 1.43,
+   "derivative_basis": "futures",
+   "risk_band": null,
+   "sectors": [
+    [
+     "Banks",
+     8.76
+    ],
+    [
+     "IT - Software",
+     3.37
+    ],
+    [
+     "Pharmaceuticals & Biotechnology",
+     2.98
+    ],
+    [
+     "Petroleum Products",
+     2.79
+    ],
+    [
+     "Consumer Durables",
+     2.26
+    ],
+    [
+     "Other sectors",
+     14.81
+    ]
+   ],
+   "split": [
+    [
+     "Fixed income",
+     65.03
+    ],
+    [
+     "Equity",
+     34.97
+    ]
+   ],
+   "unhedged": [
+    [
+     "Britannia Industries Limited (futures)",
+     "Food Products",
+     -0.27
+    ],
+    [
+     "Colgate Palmolive (India) Limited (futures)",
+     "Personal Products",
+     -0.25
+    ],
+    [
+     "Shriram Finance Limited (futures)",
+     "Finance",
+     -0.24
+    ],
+    [
+     "Ambuja Cements Limited (futures)",
+     "Cement & Cement Products",
+     -0.07
+    ]
+   ],
+   "unhedged_count": 4,
+   "unhedged_long": 0,
+   "unhedged_short": 0.83,
+   "name": "MSIF Equity Long-Short Fund",
+   "as_of": "2026-10-31",
+   "source": "Mahindra Manulife Mutual Fund monthly portfolio disclosure",
+   "source_url": "https://www.mahindramanulife.com/msif/downloads",
+   "split_source": "Mahindra Manulife monthly portfolio as on 31 Oct 2026. Fixed income includes cash and units of Mahindra Manulife Liquid Fund (8.85%), net of the short futures value. Fund allotted 22 Oct 2026, so this is its first, part-month portfolio",
+   "unhedged_note": "Short futures on stocks the fund does not hold, as % of net assets. Mahindra Manulife itself lists all four as non-hedging positions (total -0.83% of net assets). The fund uses no options.",
+   "unhedged_source": "MSIF portfolio workbook, October 2026",
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "MSIF Monthly Portfolio Statement as on 31 Oct 2026",
+    "inception_date": "2026-10-22",
+    "benchmark": "AMFI Tier I benchmark, i.e. Nifty 500 TRI",
+    "benchmark_short": "Nifty 500 TRI",
+    "strategy_type": "Open ended equity investment strategy investing in listed equity and equity related instruments including limited short exposure in equity through derivatives",
+    "nav_regular": 10.0364
+   }
   }
  },
  "split_definitions": {
