@@ -1,5 +1,26 @@
 # SIF Tracker daily run log
 
+## 2026-11-14 (later) Lisbon time (catch-up: new AMCs added)
+Result: 1 fund added, facts.json committed and verified (36 funds, no "Mutual fund units" line left).
+
+**Updates found and made**
+
+- SIF-174 MSIF Equity Long-Short Fund (Mahindra Manulife): new fund, loaded from the MSIF Monthly Portfolio Disclosure workbook as on 31 Oct 2026. Rs 169.79 cr, 41 holdings, split Fixed income 65.03 / Equity 34.97 (Liquid Fund units 8.85% counted as Fixed income), 4 short futures 0.83% of net assets on stocks not held (Mahindra's own non-hedging total is 0.83%). Fund allotted 22 Oct 2026. Risk band not read (workbook cells show #VALUE!; will read from the factsheet when out).
+
+**Updates available but not made, or only partly made**
+
+- SIF-183 Eminence (AlphaGrep, site eminencesif.ai) and SIF-190 Select (Sundaram, sundarammutual.com/selectsif): sites found and checked, only offer documents, no portfolio yet. Retry every run.
+- SIF-174: scheme_details beyond basics, returns, strategy overview and risk band wait for the factsheet.
+
+### AMC by AMC (new AMCs)
+| AMC | Funds | Data as on | Page opened | Newest Excel | Newest factsheet | Action |
+|---|---|---|---|---|---|---|
+| Mahindra Manulife | 174 | 31 Oct | yes (US-person tick done) | 31 Oct | none | loaded from Excel |
+| AlphaGrep | 183 | not in tracker yet | yes | none | none | nothing new |
+| Sundaram | 190 | not in tracker yet | yes | none | none | nothing new |
+
+Standing rules L21-L23 added to factsheet-rules.md (new AMCs and funds are set up automatically; US-person declaration ticked on every AMC; the three AMCs join the daily list).
+
 ## 2026-11-14 Lisbon time
 Result: nothing changed. facts.json not committed. PARTIAL sweep: only the AMCs with funds below the target month (31 Oct 2026) were opened; the factsheet pass, risk-band pass and Step 3h backfill for the other AMCs were not done in this run.
 
