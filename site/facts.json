@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:05:10.916Z",
+ "updated_at": "2026-11-16T16:22:28.725Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6181,7 +6181,11 @@
     ],
     [
      "Fixed income",
-     47.49
+     31.15
+    ],
+    [
+     "Cash and others",
+     16.34
     ]
    ],
    "sectors": [
@@ -6311,7 +6315,8 @@
      "Long exposure is concentrated in new-age technology, fintech, hospitals, industrials and NBFCs. Short positions and relative-value pair trades were used selectively where risk-reward or stock-specific views looked less favourable.",
      "The two Apex equity strategies are positioned differently on purpose: large caps look more attractive than parts of the mid- and small-cap universe, where valuations and stock-specific risks call for selectivity."
     ]
-   }
+   },
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (52.51%). Fixed income is RBI T-bills (31.15%). Cash and others is TREPS 25.80% less derivative margin 2.52% and net payables 6.93%. Short futures (31.29% on 33 stocks, not hedges of held stock) and long futures (4.63%) sit on top as exposure. Net equity is about 25% from the lists; the AMC states about 21%"
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -6424,7 +6429,11 @@
     ],
     [
      "Fixed income",
-     20.39
+     13.29
+    ],
+    [
+     "Cash and others",
+     7.1
     ]
    ],
    "sectors": [
@@ -6554,7 +6563,8 @@
      "Positioning is positive on private sector banks, industrials, FMCG, new-age technology and NBFCs, with no outright short positions at month end.",
      "Outlook: constructive on large-cap equities, selective in the broader market. Earnings delivery, valuations and stock-level dispersion are expected to be the key differentiators, with exposure managed dynamically across long and short positions, relative-value trades, special situations and derivatives."
     ]
-   }
+   },
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (79.61%). Fixed income is RBI T-bills (13.29%). Cash and others is TREPS 11.63% less derivative margin and net payables 4.53%. Futures sit on top as exposure: unhedged long 7.22%, no shorts. The factsheet's own list gives net equity of about 86%, while its commentary headline says about 74%"
   },
   "SIF-40": {
    "allocation": [
