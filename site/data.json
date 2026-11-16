@@ -11557,15 +11557,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.9194
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.9242
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.9194,
-      "change_since_first_pct": 8.98,
-      "change_1d_pct": -0.0,
-      "return_1m_pct": 1.7,
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.9242,
+      "change_since_first_pct": 9.02,
+      "change_1d_pct": 0.04,
+      "return_1m_pct": 1.59,
       "return_3m_pct": 2.71,
-      "return_annualised_pct": 14.75
+      "return_annualised_pct": 14.63
     },
     {
       "scheme_code": "SIF-87",
@@ -19739,15 +19743,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.49
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.52
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.49,
-      "change_since_first_pct": 4.8,
-      "change_1d_pct": -0.29,
-      "return_1m_pct": 6.07,
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.52,
+      "change_since_first_pct": 5.09,
+      "change_1d_pct": 0.29,
+      "return_1m_pct": 5.84,
       "return_3m_pct": null,
-      "return_annualised_pct": 26.39
+      "return_annualised_pct": 26.95
     },
     {
       "scheme_code": "SIF-156",
@@ -19956,15 +19964,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.03
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.06
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.03,
-      "change_since_first_pct": 0.2,
-      "change_1d_pct": 0.1,
-      "return_1m_pct": 0.4,
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.06,
+      "change_since_first_pct": 0.5,
+      "change_1d_pct": 0.3,
+      "return_1m_pct": 0.9,
       "return_3m_pct": null,
-      "return_annualised_pct": 1.0
+      "return_annualised_pct": 2.42
     },
     {
       "scheme_code": "SIF-157",
@@ -20575,12 +20587,16 @@
         {
           "date": "2026-11-13",
           "nav": 10.1667
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.132
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.1667,
-      "change_since_first_pct": 1.27,
-      "change_1d_pct": 0.13,
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.132,
+      "change_since_first_pct": 0.92,
+      "change_1d_pct": -0.34,
       "return_1m_pct": null,
       "return_3m_pct": null,
       "return_annualised_pct": null

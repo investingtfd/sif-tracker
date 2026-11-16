@@ -18494,7 +18494,15 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-11-16,SIF-141,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW Option,11.3681,INF579M30174,INF579M30182
 2026-11-16,SIF-143,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,GROWTH OPTION,11.28,INF579M30133,
 2026-11-16,SIF-144,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW Option,11.28,INF579M30141,INF579M30158
+2026-11-16,SIF-153,Apex Equity Long-Short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,GROWTH,10.56,INF209K30099,
+2026-11-16,SIF-154,Apex Equity Long-Short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,GROWTH,10.52,INF209K30107,
+2026-11-16,SIF-155,Apex Equity Ex-Top 100 Long-short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,GROWTH,10.1,INF209K30073,
+2026-11-16,SIF-156,Apex Equity Ex-Top 100 Long-short Fund,Apex SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,GROWTH,10.06,INF209K30081,
+2026-11-16,SIF-186,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,GROWTH,10.1364,INF903J30032,
+2026-11-16,SIF-188,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW,10.132,INF903J30057,INF903J30040
+2026-11-16,SIF-189,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW,10.1364,INF903J30024,INF903J30016
 2026-11-16,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,928.1711,INF00XX30043,
+2026-11-16,SIF-190,Select Equity Ex-Top 100 Long-Short Fund,Sundaram Mutual Fund,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,GROWTH,10.132,INF903J30065,
 2026-11-16,SIF-20,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,928.1711,INF00XX30050,INF00XX30068
 2026-11-16,SIF-21,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Growth Option,914.9829,INF00XX30019,
 2026-11-16,SIF-22,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Option,914.9829,INF00XX30027,INF00XX30035
@@ -18502,3 +18510,7 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-11-16,SIF-57,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,GROWTH OPTION,10.615,INF579M30042,
 2026-11-16,SIF-59,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Option,10.5,INF579M30026,INF579M30034
 2026-11-16,SIF-60,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,10.615,INF579M30059,INF579M30067
+2026-11-16,SIF-79,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,GROWTH,11.0057,INF209K30016,
+2026-11-16,SIF-80,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,GROWTH,10.9242,INF209K30040,
+2026-11-16,SIF-81,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,IDCW,10.9241,INF209K30057,INF209K30065
+2026-11-16,SIF-83,Apex Hybrid Long-Short Fund,Apex SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,IDCW,11.0055,INF209K30024,INF209K30032
