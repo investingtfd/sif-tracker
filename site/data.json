@@ -19546,15 +19546,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.95
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.93
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.95,
-      "change_since_first_pct": 9.72,
-      "change_1d_pct": -0.27,
-      "return_1m_pct": 7.25,
-      "return_3m_pct": 6.21,
-      "return_annualised_pct": 35.29
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.93,
+      "change_since_first_pct": 9.52,
+      "change_1d_pct": -0.18,
+      "return_1m_pct": 6.53,
+      "return_3m_pct": 4.89,
+      "return_annualised_pct": 33.46
     },
     {
       "scheme_code": "SIF-154",
