@@ -17745,15 +17745,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.222
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.254
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.222,
-      "change_since_first_pct": 2.21,
-      "change_1d_pct": -0.11,
-      "return_1m_pct": 2.13,
-      "return_3m_pct": 0.3,
-      "return_annualised_pct": 5.28
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.254,
+      "change_since_first_pct": 2.53,
+      "change_1d_pct": 0.31,
+      "return_1m_pct": 2.11,
+      "return_3m_pct": 0.69,
+      "return_annualised_pct": 5.94
     },
     {
       "scheme_code": "SIF-128",
