@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:22:28.725Z",
+ "updated_at": "2026-11-16T16:27:13.949Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5863,16 +5863,24 @@
    ],
    "split": [
     [
-     "Equity",
-     41.35
-    ],
-    [
      "Cash and others",
      30.6
     ],
     [
      "Fixed income",
      26.5
+    ],
+    [
+     "Covered calls",
+     24.92
+    ],
+    [
+     "Arbitrage",
+     9.24
+    ],
+    [
+     "Special situations",
+     7.19
     ],
     [
      "REITs",
@@ -5914,7 +5922,7 @@
    "name": "Apex Hybrid Long-Short Fund",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
-   "split_source": "Apex SIF factsheet as on 30 Oct 2026, the AMC's own portfolio summary. Equity is the AMC's equity and equity related line (41.35%); most of it is hedged, the AMC states net equity exposure of 7.90%. Fixed income is debt 20.72% plus Aditya Birla Sun Life Liquid Fund units 5.78%. Cash and others is TREPS and T-bills (30.60%)",
+   "split_source": "Apex SIF factsheet and monthly workbook, 30/31 Oct 2026, reconciled line by line. Equity is 41.35% in all. Arbitrage 9.24% is the stock hedged with short futures, as the workbook states. Covered calls 24.92% is the stock under written options (hedging through options in the workbook; the AMC does not print this total, so it is the equity the options cover). Special situations 7.19% is the rest of the equity: unhedged IPO, pre-IPO and block-trade stocks (about 2.9%) and the Nifty ETF (4.28%) added late in October. Fixed income is debt 20.72% plus liquid fund units 5.78%. Cash and others is TREPS and T-bills, less net payables",
    "exposure": {
     "items": [
      [
@@ -5929,7 +5937,7 @@
      ]
     ],
     "net": 7.9,
-    "note": "The AMC states net equity exposure of 7.90% in October. About 4.3% is a Nifty ETF added late in the month on the fund's contra-allocation signal; the rest of the open equity is special situations."
+    "note": "Arbitrage (9.2%) and covered calls (24.9%) are hedged equity. Open equity is about 7.9% as the AMC states: special situations and the Nifty ETF. REITs and InvITs not counted."
    },
    "scheme_details": {
     "as_on": "2026-10-31",
@@ -6006,13 +6014,31 @@
     "tagline": "Core allocation to arbitrage and fixed income gives stability, with equity exposure to provide growth and lower net equity risk.",
     "buckets": [
      {
-      "name": "Arbitrage, special situations and directional equity",
+      "name": "Arbitrage",
       "group": "Equity strategies",
       "match": [
-       "Equity"
+       "Arbitrage"
       ],
-      "text": "Cash-futures and covered-call arbitrage, options on stocks and index, IPOs, buy-backs and open offers, and a passive Nifty 50 basket.",
-      "note": "41.35% of the fund in October, but net equity exposure only 7.90%. The AMC says special situations were limited: selective IPOs and block trades, several hedged with futures. About 5% went into a Nifty ETF late in the month on the quantitative contra-allocation signal."
+      "text": "Stock held in cash and sold in futures at the same time, so price risk is hedged.",
+      "note": "9.24% in October: seven stocks hedged with short futures (UPL, Persistent, Patanjali Foods, Reliance, ICICI Bank, ITC, Sun Pharma)."
+     },
+     {
+      "name": "Covered calls",
+      "group": "Equity strategies",
+      "match": [
+       "Covered calls"
+      ],
+      "text": "Stock held and options written against it to earn premium and cushion falls.",
+      "note": "About 25% in October, across roughly 60 stocks that carry written options."
+     },
+     {
+      "name": "Special situations",
+      "group": "Directional equity",
+      "match": [
+       "Special situations"
+      ],
+      "text": "IPOs, buy-backs, open offers and block trades, plus a passive Nifty basket used as a return enhancer.",
+      "note": "7.19% in October, of which 4.28% is a Nifty ETF bought late in the month on the fund’s contra-allocation signal. Opportunities were thin; several block trades were hedged with futures."
      },
      {
       "name": "Fixed income",
@@ -6030,7 +6056,7 @@
        "Cash and others"
       ],
       "text": "TREPS and T-bills held as cash.",
-      "note": "30.60% in October: TREPS 24.60% and RBI T-bills 6.45%."
+      "note": "30.60% in October: TREPS 24.60% and RBI T-bills 6.45%, less small net payables."
      },
      {
       "name": "REITs",
@@ -6316,7 +6342,33 @@
      "The two Apex equity strategies are positioned differently on purpose: large caps look more attractive than parts of the mid- and small-cap universe, where valuations and stock-specific risks call for selectivity."
     ]
    },
-   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (52.51%). Fixed income is RBI T-bills (31.15%). Cash and others is TREPS 25.80% less derivative margin 2.52% and net payables 6.93%. Short futures (31.29% on 33 stocks, not hedges of held stock) and long futures (4.63%) sit on top as exposure. Net equity is about 25% from the lists; the AMC states about 21%"
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (52.51%). Fixed income is RBI T-bills (31.15%). Cash and others is TREPS 25.80% less derivative margin 2.52% and net payables 6.93%. Short futures (31.29% on 33 stocks, not hedges of held stock) and long futures (4.63%) sit on top as exposure. Net equity is about 25% from the lists; the AMC states about 21%",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      52.51,
+      "eq"
+     ],
+     [
+      "Unhedged long futures",
+      4.63,
+      "eq"
+     ],
+     [
+      "Short futures on stocks not held",
+      -31.29,
+      "sh"
+     ],
+     [
+      "Hedges against holdings",
+      -0.6,
+      "hd"
+     ]
+    ],
+    "net": 25.25,
+    "note": "Real long-short book: 33 short futures (31.3%) on stocks the fund does not hold, so they are directional shorts, not arbitrage. Apex states net equity of about 21%; the files add up to about 25%."
+   }
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -6564,7 +6616,28 @@
      "Outlook: constructive on large-cap equities, selective in the broader market. Earnings delivery, valuations and stock-level dispersion are expected to be the key differentiators, with exposure managed dynamically across long and short positions, relative-value trades, special situations and derivatives."
     ]
    },
-   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (79.61%). Fixed income is RBI T-bills (13.29%). Cash and others is TREPS 11.63% less derivative margin and net payables 4.53%. Futures sit on top as exposure: unhedged long 7.22%, no shorts. The factsheet's own list gives net equity of about 86%, while its commentary headline says about 74%"
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (79.61%). Fixed income is RBI T-bills (13.29%). Cash and others is TREPS 11.63% less derivative margin and net payables 4.53%. Futures sit on top as exposure: unhedged long 7.22%, no shorts. The factsheet's own list gives net equity of about 86%, while its commentary headline says about 74%",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      79.61,
+      "eq"
+     ],
+     [
+      "Unhedged long futures",
+      7.22,
+      "eq"
+     ],
+     [
+      "Hedges against holdings",
+      -0.41,
+      "hd"
+     ]
+    ],
+    "net": 86.39,
+    "note": "A long-only style book at month end: no short positions, long futures of 7.2% on top of 79.6% in stocks. Apex’s commentary quotes net equity of about 74%; the files add up to about 86%."
+   }
   },
   "SIF-40": {
    "allocation": [
