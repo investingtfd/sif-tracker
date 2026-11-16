@@ -1125,15 +1125,19 @@
         {
           "date": "2026-11-13",
           "nav": 11.3047
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 11.3323
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 11.3047,
-      "change_since_first_pct": 13.0,
-      "change_1d_pct": 0.12,
-      "return_1m_pct": 4.01,
-      "return_3m_pct": 2.5,
-      "return_annualised_pct": 11.76
+      "latest_date": "2026-11-16",
+      "latest_nav": 11.3323,
+      "change_since_first_pct": 13.27,
+      "change_1d_pct": 0.24,
+      "return_1m_pct": 4.13,
+      "return_3m_pct": 2.81,
+      "return_annualised_pct": 11.92
     },
     {
       "scheme_code": "SIF-7",
@@ -2194,15 +2198,19 @@
         {
           "date": "2026-11-13",
           "nav": 12.9801
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 12.9335
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 12.9801,
-      "change_since_first_pct": 29.59,
-      "change_1d_pct": 0.37,
-      "return_1m_pct": -0.12,
-      "return_3m_pct": 18.63,
-      "return_annualised_pct": 27.53
+      "latest_date": "2026-11-16",
+      "latest_nav": 12.9335,
+      "change_since_first_pct": 29.12,
+      "change_1d_pct": -0.36,
+      "return_1m_pct": 0.4,
+      "return_3m_pct": 18.28,
+      "return_annualised_pct": 26.87
     },
     {
       "scheme_code": "SIF-11",
@@ -5333,15 +5341,19 @@
         {
           "date": "2026-11-13",
           "nav": 11.7742
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 11.5863
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 11.7742,
-      "change_since_first_pct": 17.62,
-      "change_1d_pct": 0.16,
-      "return_1m_pct": 5.24,
-      "return_3m_pct": 3.56,
-      "return_annualised_pct": 17.62
+      "latest_date": "2026-11-16",
+      "latest_nav": 11.5863,
+      "change_since_first_pct": 15.74,
+      "change_1d_pct": -1.6,
+      "return_1m_pct": 4.11,
+      "return_3m_pct": 2.21,
+      "return_annualised_pct": 15.61
     },
     {
       "scheme_code": "SIF-21",
@@ -14927,15 +14939,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.7258
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.6543
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.7258,
-      "change_since_first_pct": 7.17,
-      "change_1d_pct": 0.06,
-      "return_1m_pct": 5.44,
-      "return_3m_pct": 5.31,
-      "return_annualised_pct": 15.17
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.6543,
+      "change_since_first_pct": 6.46,
+      "change_1d_pct": -0.67,
+      "return_1m_pct": 4.57,
+      "return_3m_pct": 4.92,
+      "return_annualised_pct": 13.37
     },
     {
       "scheme_code": "SIF-102",
@@ -18900,15 +18916,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.518
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.528
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.518,
-      "change_since_first_pct": 4.55,
-      "change_1d_pct": -0.02,
-      "return_1m_pct": 1.53,
-      "return_3m_pct": 2.51,
-      "return_annualised_pct": 13.65
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.528,
+      "change_since_first_pct": 4.65,
+      "change_1d_pct": 0.1,
+      "return_1m_pct": 1.61,
+      "return_3m_pct": 2.58,
+      "return_annualised_pct": 13.62
     },
     {
       "scheme_code": "SIF-138",
