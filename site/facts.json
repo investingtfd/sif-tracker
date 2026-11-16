@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:35:10.307Z",
+ "updated_at": "2026-11-16T16:41:03.411Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5093,7 +5093,7 @@
    ],
    "top_shorts": [],
    "equity_gross_pct": 81.37,
-   "equity_net_pct": 68.17,
+   "equity_net_pct": 72.3,
    "holdings_count": 116,
    "turnover_ratio": 1.83,
    "derivative_gross_exposure_cr": 406.02,
@@ -5126,12 +5126,8 @@
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     68.17
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     13.2
+     "Equity",
+     81.37
     ],
     [
      "Fixed income",
@@ -5152,7 +5148,117 @@
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
    "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_zero_since": "2026-09-30",
+   "split_source": "iSIF factsheet and monthly workbook, 31 Oct 2026. Equity is the AMC's equity shares line (81.37% gross, before options). Fixed income is T-bills 9.17% plus short-term debt and net current assets 9.46%. Written calls (-11.75%) and bought puts (+2.59%) are shown as exposure, not in the split",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      81.37,
+      "eq"
+     ],
+     [
+      "Hedged by written calls and bought puts",
+      -9.07,
+      "hd"
+     ]
+    ],
+    "net": 72.3,
+    "note": "Net equity of 72.3% is the AMC's own October figure: calls written (-11.75% of NAV) and puts bought (+2.59%) trim the 81.4% held. Mid caps are 44.5% and small caps 26.0% of NAV, large caps 10.8%."
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026 (ICICI Prudential, data as on 31 Oct 2026)",
+    "inception_date": "2026-02-04",
+    "benchmark": "Nifty 500 TRI",
+    "benchmark_short": "Nifty 500 TRI",
+    "strategy_type": "Open ended",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 9.74,
+    "ber_regular_pct": 1.69,
+    "exit_load": "1% of applicable NAV if the amount is redeemed or switched out within 1 month from allotment; nil after 1 month.",
+    "exit_load_short": "1% if sold within 1 month, nil after",
+    "min_application": "Rs. 10,00,000 and in multiples of Re. 1 thereafter; Rs. 10,000 for accredited investors",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "Daily SIP: Rs. 5,000; weekly, fortnightly or monthly SIP: Rs. 10,000 (minimum 6 instalments); quarterly SIP: Rs. 20,000 (minimum 4 instalments). SIP is open to an existing investor who has met the Rs. 10 lakh minimum.",
+    "min_sip_short": "₹5,000 daily; ₹10,000 monthly",
+    "fund_managers": [
+     {
+      "name": "Sankaran Naren",
+      "role": "Fund manager",
+      "experience_years": 36,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Manan Tijoriwala",
+      "role": "Fund manager",
+      "experience_years": 13,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Divya Jain",
+      "role": "Fund manager",
+      "experience_years": 10,
+      "since": "2026-02-04"
+     }
+    ],
+    "benchmark_risk_band": 3,
+    "frequency": "Redemption daily"
+   },
+   "performance": {
+    "as_on": "2026-10-31",
+    "benchmark": "Nifty 500 TRI",
+    "note": "Regular plan, growth. Simple annualised returns, as the strategy has completed 6 months but not 1 year. Absolute 6-month return -0.51%.",
+    "periods": [
+     {
+      "period": "6M",
+      "fund_pct": -1.02,
+      "benchmark_pct": -5.65
+     },
+     {
+      "period": "Since inception",
+      "fund_pct": -3.54,
+      "benchmark_pct": -8.49
+     }
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Equity Ex-Top 100 Long-Short Fund factsheet and fund note, October 2026",
+    "tagline": "A new investment flightpath beyond the Top 100 stocks: mid and small caps with limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Ex-Top 100 equity",
+      "group": "Core strategy (65-100% of the fund)",
+      "match": [
+       "Equity"
+      ],
+      "text": "Mid and small cap companies outside the top 100, chosen on valuations, earnings revisions, market trend and macro signals. Derivatives enhance returns and manage risk, with unhedged shorts of up to 25% of net assets.",
+      "note": "81.37% held in October (net 72.3% after options). Mid caps 44.5%, small caps 26.0%, large caps 10.8% of NAV. The AMC points to a call-writing overlay (-11.75%) and selective put protection (+2.59%). Top sectors: financial services 22.4%, consumer services 10.3%, capital goods 9.1%."
+     },
+     {
+      "name": "Other equity and debt",
+      "group": "Up to 35% of the fund",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Large caps, debt and money market instruments and debt fund units for relative stability and carry.",
+      "note": "18.63% in October: T-bills 9.17% and short-term debt with net current assets 9.46%."
+     }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026: market outlook and strategy pages",
+    "points": [
+     "The AMC held a mid and small cap bias in October: mid caps 44.5% and small caps 26.0% of NAV against large caps at 10.8%, with net equity of 72.3%.",
+     "Call writing (-11.75% of NAV) and selective put protection (+2.59%) are used for volatility compression, with unhedged shorts allowed up to 25%.",
+     "Indian equities were weak and volatile in October: Nifty 50 was flat while the Midcap 150 fell 3.6% and the Smallcap 250 fell 5.5%. IT (+6%) and PSU banks (+1%) led, FMCG (-4.8%), realty (-2.4%) and metals (-1.7%) lagged.",
+     "FPIs sold about US$4.0 bn in October while domestic institutions kept buying. Crude stayed high (Brent about US$124) and the rupee was weak at about 94.8 per US$.",
+     "The RBI raised the policy rate by 25 bps to 5.50%; the 10-year G-sec yield rose 21 bps to 7.39%. iSIF favours corporate bonds of 1 to 3 years for accrual and long-dated state government bonds, and sees higher yields as a chance to add duration.",
+     "Outlook: markets are likely to stay volatile near term (global uncertainty, crude, FPI selling, a heavy IPO pipeline). Equity valuations are in the neutral zone, so iSIF recommends staggered investing and, with volatility persisting, hybrid and asset allocation strategies."
+    ]
+   }
   },
   "SIF-35": {
    "allocation": [
@@ -5255,7 +5361,7 @@
    ],
    "top_shorts": [],
    "equity_gross_pct": 67.7,
-   "equity_net_pct": 62.82,
+   "equity_net_pct": 67,
    "holdings_count": 102,
    "turnover_ratio": null,
    "derivative_gross_exposure_cr": 166.61,
@@ -5288,12 +5394,8 @@
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     61.28
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     6.42
+     "Equity",
+     67.7
     ],
     [
      "Fixed income",
@@ -5324,7 +5426,157 @@
    "name": "iSIF Hybrid Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
-   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges"
+   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges",
+   "split_source": "iSIF factsheet and monthly workbook, 31 Oct 2026. Equity is the AMC's equity shares line (67.70% gross). Fixed income is debt holdings 29.91% (bonds, G-secs, T-bills, certificates of deposit, cash and TREPS) plus net current assets 2.39%. Futures and options are shown as exposure, not in the split",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      67.7,
+      "eq"
+     ],
+     [
+      "Hedged by futures and options",
+      -0.7,
+      "hd"
+     ]
+    ],
+    "net": 67,
+    "note": "Net equity of 67.0% is the AMC's own October figure, close to the 67.8% held: this fund stays near the top of its 65-75% equity range and hedges only lightly."
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026 (ICICI Prudential, data as on 31 Oct 2026)",
+    "inception_date": "2026-02-04",
+    "benchmark": "CRISIL Hybrid 50+50 Moderate Index",
+    "benchmark_short": "CRISIL Hybrid 50+50 Moderate",
+    "strategy_type": "Interval",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 10.1362,
+    "ber_regular_pct": 1.79,
+    "exit_load": "1% of applicable NAV if the amount is redeemed or switched out within 1 month from allotment; nil after 1 month.",
+    "exit_load_short": "1% if sold within 1 month, nil after",
+    "min_application": "Rs. 10,00,000 and in multiples of Re. 1 thereafter; Rs. 10,000 for accredited investors",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "Daily SIP: Rs. 5,000; weekly, fortnightly or monthly SIP: Rs. 10,000 (minimum 6 instalments); quarterly SIP: Rs. 20,000 (minimum 4 instalments). SIP is open to an existing investor who has met the Rs. 10 lakh minimum.",
+    "min_sip_short": "₹5,000 daily; ₹10,000 monthly",
+    "fund_managers": [
+     {
+      "name": "Rajat Chandak",
+      "role": "Fund manager",
+      "experience_years": 18,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Ayush Shah",
+      "role": "Fund manager",
+      "experience_years": 5,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Manish Banthia",
+      "role": "Fund manager",
+      "experience_years": 23,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Akhil Kakkar",
+      "role": "Fund manager",
+      "experience_years": 19,
+      "since": "2026-02-04"
+     },
+     {
+      "name": "Manali Thakur",
+      "role": "Fund manager",
+      "experience_years": 4,
+      "since": "2026-11-01"
+     }
+    ],
+    "benchmark_risk_band": 2
+   },
+   "performance": {
+    "as_on": "2026-10-31",
+    "benchmark": "CRISIL Hybrid 50+50 Moderate Index",
+    "note": "Regular plan, growth. Simple annualised returns, as the strategy has completed 6 months but not 1 year. Absolute 6-month return 2.54%.",
+    "periods": [
+     {
+      "period": "6M",
+      "fund_pct": 5.06,
+      "benchmark_pct": -1.83
+     },
+     {
+      "period": "Since inception",
+      "fund_pct": 1.85,
+      "benchmark_pct": -4.09
+     }
+    ]
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 7.69,
+    "modified_duration_yr": 2.62,
+    "avg_maturity_yr": 4.23,
+    "macaulay_duration_yr": 2.77,
+    "note": "As stated in the factsheet; annualised portfolio YTM"
+   },
+   "credit_quality": {
+    "as_on": "2026-10-31",
+    "basis": "Rating allocation for debt holdings as stated by the AMC (includes TREPS and current assets), % of debt",
+    "items": [
+     [
+      "AAA and equivalent",
+      21.58
+     ],
+     [
+      "AA and equivalent",
+      26.78
+     ],
+     [
+      "Sovereign",
+      25.32
+     ],
+     [
+      "TREPS and current assets",
+      26.32
+     ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Hybrid Long-Short Fund factsheet, October 2026",
+    "tagline": "Predominantly equity for long-term capital appreciation, with debt for regular income and equity and debt derivative strategies.",
+    "buckets": [
+     {
+      "name": "Equity and equity related",
+      "group": "Core strategy (65-75% of the fund)",
+      "match": [
+       "Equity"
+      ],
+      "text": "A bottom-up stock selection approach. Allocation is guided by valuation signals (price to book, earnings yield against bond yield), market trend, FII positioning and flows. Up to 25% can be unhedged short exposure.",
+      "note": "67.70% held in October (net 67.0%). Largest sectors: automobiles 12.4% (TVS Motor 6.5%), banks 11.0%, capital markets 4.3%, transport services 4.6%."
+     },
+     {
+      "name": "Debt and money market",
+      "group": "25-35% of the fund",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt, money market instruments and units of debt-oriented funds, with up to 25% unhedged short exposure through derivatives.",
+      "note": "32.30% in October: G-secs and state bonds 8.4%, corporate securities 13.65%, certificates of deposit 1.47%, cash, TREPS and net current assets 7.9%. Yield 7.69%, modified duration 2.62 years."
+     }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026: market outlook and strategy pages",
+    "points": [
+     "Equity was held at 67.8% in October with net equity of 67.0%, at the upper end of the 65-75% range. The debt book is yielding 7.69% with a modified duration of 2.62 years.",
+     "Indian equities were weak and volatile in October: Nifty 50 was flat while the Midcap 150 fell 3.6% and the Smallcap 250 fell 5.5%. IT (+6%) and PSU banks (+1%) led, FMCG (-4.8%), realty (-2.4%) and metals (-1.7%) lagged.",
+     "FPIs sold about US$4.0 bn in October while domestic institutions kept buying. Crude stayed high (Brent about US$124) and the rupee was weak at about 94.8 per US$.",
+     "The RBI raised the policy rate by 25 bps to 5.50%; the 10-year G-sec yield rose 21 bps to 7.39%. iSIF favours corporate bonds of 1 to 3 years for accrual and long-dated state government bonds, and sees higher yields as a chance to add duration.",
+     "Outlook: markets are likely to stay volatile near term (global uncertainty, crude, FPI selling, a heavy IPO pipeline). Equity valuations are in the neutral zone, so iSIF recommends staggered investing and, with volatility persisting, hybrid and asset allocation strategies."
+    ]
+   }
   },
   "SIF-124": {
    "allocation": [
@@ -5457,7 +5709,7 @@
     ]
    ],
    "equity_gross_pct": 45.99,
-   "equity_net_pct": 13.89,
+   "equity_net_pct": 25,
    "holdings_count": 166,
    "turnover_ratio": 1.72,
    "derivative_gross_exposure_cr": 851.78,
@@ -5490,20 +5742,16 @@
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     7.47
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     38.52
-    ],
-    [
      "Fixed income",
-     50.55
+     50.54
     ],
     [
-     "REITs and InvITs",
-     3.46
+     "Equity",
+     45.99
+    ],
+    [
+     "InvITs",
+     3.47
     ]
    ],
    "sector_note": "Share of the fund held in stocks (46.0%), before futures and options hedges",
@@ -5555,7 +5803,155 @@
    "name": "iSIF Active Asset Allocator Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
-   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges"
+   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges",
+   "split_source": "iSIF factsheet and monthly workbook, 31 Oct 2026, as the AMC prints it: equity 45.99%, debt 50.54% (T-bills 11.10%, G-secs 6.98%, corporate bonds 11.99%, certificates 0.80%, cash, TREPS and term deposits 17.93%, net current assets and other debt), InvITs 3.47%. Futures, options and gold and silver futures are shown as exposure, not in the split",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      45.99,
+      "eq"
+     ],
+     [
+      "Hedged by futures and options",
+      -20.99,
+      "hd"
+     ]
+    ],
+    "net": 25,
+    "note": "Net equity of 25.0% is the AMC's own October figure: stock futures sold and options written hedge more than half of the 46.1% equity held. Gold and silver futures add 2.9% of NAV."
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026 (ICICI Prudential, data as on 31 Oct 2026)",
+    "inception_date": "2026-06-05",
+    "benchmark": "50% Nifty 500 TRI + 40% Nifty Composite Debt Index + 7% Domestic Price of Gold + 3% Domestic Price of Silver",
+    "benchmark_short": "50% Nifty 500 + 40% Debt + 7% Gold + 3% Silver",
+    "strategy_type": "Interval",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 10.1728,
+    "ber_regular_pct": 1.59,
+    "exit_load": "1% of applicable NAV if the amount is redeemed or switched out within 1 month from allotment; nil after 1 month.",
+    "exit_load_short": "1% if sold within 1 month, nil after",
+    "min_application": "Rs. 10,00,000 and in multiples of Re. 1 thereafter; Rs. 10,000 for accredited investors",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "Daily SIP: Rs. 5,000; weekly, fortnightly or monthly SIP: Rs. 10,000 (minimum 6 instalments); quarterly SIP: Rs. 20,000 (minimum 4 instalments). SIP is open to an existing investor who has met the Rs. 10 lakh minimum.",
+    "min_sip_short": "₹5,000 daily; ₹10,000 monthly",
+    "fund_managers": [
+     {
+      "name": "Sharmila D'silva",
+      "role": "Fund manager",
+      "experience_years": 10,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Masoomi Jhurmarvala",
+      "role": "Fund manager",
+      "experience_years": 10,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Manish Banthia",
+      "role": "Fund manager",
+      "experience_years": 23,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Akhil Kakkar",
+      "role": "Fund manager",
+      "experience_years": 19,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Gaurav Chikane",
+      "role": "Fund manager",
+      "experience_years": 12,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Swapnil Sharma",
+      "role": "Fund manager",
+      "experience_years": 5,
+      "since": "2026-11-01"
+     }
+    ],
+    "benchmark_risk_band": 2
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 6.82,
+    "modified_duration_yr": 1.6,
+    "avg_maturity_yr": 2.32,
+    "macaulay_duration_yr": 1.7,
+    "note": "As stated in the factsheet; annualised portfolio YTM"
+   },
+   "credit_quality": {
+    "as_on": "2026-10-31",
+    "basis": "Rating allocation for debt holdings as stated by the AMC (includes TREPS and current assets), % of debt",
+    "items": [
+     [
+      "AAA and equivalent",
+      4.65
+     ],
+     [
+      "AA and equivalent",
+      13.98
+     ],
+     [
+      "Sovereign",
+      26.34
+     ],
+     [
+      "TREPS and current assets",
+      55.03
+     ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Active Asset Allocator Long-Short Fund factsheet, October 2026",
+    "tagline": "Dynamically invests across equity, debt, InvITs and commodity derivatives on a buy-low, sell-high philosophy, aiming for risk-adjusted returns.",
+    "buckets": [
+     {
+      "name": "Equity and equity related",
+      "group": "Equity model (35-80% of the fund)",
+      "match": [
+       "Equity"
+      ],
+      "text": "Equity level set by a model using rolling forward price to book and corporate profits as a share of GDP, with a bottom-up stock selection. Up to 25% unhedged short exposure.",
+      "note": "45.99% held in October but only 25.0% net: stock futures sold and options written hedge more than half. Largest holdings HDFC Bank 5.4% (hedged), LIC 4.5%."
+     },
+     {
+      "name": "Debt and money market",
+      "group": "Debt model",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and money market instruments and debt fund units, with duration and credit set by internal macro frameworks.",
+      "note": "50.54% in October: cash, call and TREPS 17.93%, T-bills 11.10%, corporate bonds 11.99%, G-secs 6.98%. Yield 6.82%, modified duration 1.60 years."
+     },
+     {
+      "name": "InvITs",
+      "group": "Others (0-20% of the fund)",
+      "match": [
+       "InvITs"
+      ],
+      "text": "Units issued by infrastructure investment trusts.",
+      "note": "3.47% in October (Capital Infra Trust, Indus Infra Trust, Cube Highways Trust, IRB InvIT, Raajmarg)."
+     }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026: market outlook and strategy pages",
+    "points": [
+     "Commodities can go up to 30% of NAV through exchange-traded commodity derivatives. In October gold and silver futures were 2.9% of NAV, and equity was 46.1% held with 25.0% net.",
+     "Indian equities were weak and volatile in October: Nifty 50 was flat while the Midcap 150 fell 3.6% and the Smallcap 250 fell 5.5%. IT (+6%) and PSU banks (+1%) led, FMCG (-4.8%), realty (-2.4%) and metals (-1.7%) lagged.",
+     "FPIs sold about US$4.0 bn in October while domestic institutions kept buying. Crude stayed high (Brent about US$124) and the rupee was weak at about 94.8 per US$.",
+     "The RBI raised the policy rate by 25 bps to 5.50%; the 10-year G-sec yield rose 21 bps to 7.39%. iSIF favours corporate bonds of 1 to 3 years for accrual and long-dated state government bonds, and sees higher yields as a chance to add duration.",
+     "Outlook: markets are likely to stay volatile near term (global uncertainty, crude, FPI selling, a heavy IPO pipeline). Equity valuations are in the neutral zone, so iSIF recommends staggered investing and, with volatility persisting, hybrid and asset allocation strategies."
+    ]
+   }
   },
   "SIF-126": {
    "allocation": [
@@ -5649,7 +6045,7 @@
     ]
    ],
    "equity_gross_pct": 85.34,
-   "equity_net_pct": 70.3,
+   "equity_net_pct": 81.4,
    "holdings_count": 130,
    "turnover_ratio": 1.29,
    "derivative_gross_exposure_cr": 190.13,
@@ -5682,12 +6078,8 @@
    ],
    "split": [
     [
-     "Equity (unhedged)",
-     69.06
-    ],
-    [
-     "Arbitrage (hedged equity)",
-     16.28
+     "Equity",
+     85.34
     ],
     [
      "Fixed income",
@@ -5713,7 +6105,98 @@
    "name": "iSIF Equity Long-Short Fund",
    "source": "ICICI Prudential Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.isif.icicipruamc.com/media-center/downloads",
-   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges"
+   "unhedged_source": "iSIF portfolio workbook, October 2026, reviewed for hedges",
+   "split_source": "iSIF factsheet and monthly workbook, 31 Oct 2026. Equity is the AMC's equity shares line (85.34% gross). Fixed income is T-bills 2.19% plus short-term debt and net current assets 12.46%. Stock futures and options are shown as exposure, not in the split",
+   "exposure": {
+    "items": [
+     [
+      "Equity held",
+      85.34,
+      "eq"
+     ],
+     [
+      "Hedged by options and futures",
+      -3.94,
+      "hd"
+     ]
+    ],
+    "net": 81.4,
+    "note": "Net equity of 81.4% is the AMC's own October figure, against 85.9% of equity held. Large caps 39.4% gross (34.5% net), mid caps 15.2%, small caps 30.7% of NAV."
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026 (ICICI Prudential, data as on 31 Oct 2026)",
+    "inception_date": "2026-06-05",
+    "benchmark": "Nifty 500 TRI",
+    "benchmark_short": "Nifty 500 TRI",
+    "strategy_type": "Open ended",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 10.27,
+    "ber_regular_pct": 1.94,
+    "exit_load": "1% of applicable NAV if the amount is redeemed or switched out within 1 month from allotment; nil after 1 month.",
+    "exit_load_short": "1% if sold within 1 month, nil after",
+    "min_application": "Rs. 10,00,000 and in multiples of Re. 1 thereafter; Rs. 10,000 for accredited investors",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "Daily SIP: Rs. 5,000; weekly, fortnightly or monthly SIP: Rs. 10,000 (minimum 6 instalments); quarterly SIP: Rs. 20,000 (minimum 4 instalments). SIP is open to an existing investor who has met the Rs. 10 lakh minimum.",
+    "min_sip_short": "₹5,000 daily; ₹10,000 monthly",
+    "fund_managers": [
+     {
+      "name": "Mittul Kalawadia",
+      "role": "Fund manager",
+      "experience_years": 20,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Nitya Mishra",
+      "role": "Fund manager",
+      "experience_years": 14,
+      "since": "2026-06-05"
+     },
+     {
+      "name": "Sri Sharma",
+      "role": "Fund manager",
+      "experience_years": 9,
+      "since": "2026-06-05"
+     }
+    ],
+    "benchmark_risk_band": 3
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Equity Long-Short Fund factsheet, October 2026",
+    "tagline": "A strategy that invests across market capitalisation, sectors and styles to capture opportunities, with limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity and equity related",
+      "group": "Core strategy (80-100% of the fund)",
+      "match": [
+       "Equity"
+      ],
+      "text": "About 650 companies under coverage, selected on business fundamentals, industry structure, management quality and earnings drivers at reasonable valuations. Up to 25% can be unhedged short exposure through derivatives.",
+      "note": "85.34% held in October (net 81.4%). Large caps 39.4%, mid caps 15.2%, small caps 30.7% gross. Top sectors: capital goods 18.5%, financial services 16.0%, healthcare 9.8%, power 9.6%, consumer services 7.8%."
+     },
+     {
+      "name": "Debt and money market",
+      "group": "Up to 20% of the fund",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt, money market instruments and units of debt-oriented funds.",
+      "note": "14.66% in October: T-bills 2.19% and short-term debt with net current assets 12.46%."
+     }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "iSIF Factsheet, October 2026: market outlook and strategy pages",
+    "points": [
+     "Equity held was 85.9% in October with net equity at 81.4%; the portfolio is large-cap anchored (39.4% gross) with 30.7% in small caps.",
+     "Indian equities were weak and volatile in October: Nifty 50 was flat while the Midcap 150 fell 3.6% and the Smallcap 250 fell 5.5%. IT (+6%) and PSU banks (+1%) led, FMCG (-4.8%), realty (-2.4%) and metals (-1.7%) lagged.",
+     "FPIs sold about US$4.0 bn in October while domestic institutions kept buying. Crude stayed high (Brent about US$124) and the rupee was weak at about 94.8 per US$.",
+     "The RBI raised the policy rate by 25 bps to 5.50%; the 10-year G-sec yield rose 21 bps to 7.39%. iSIF favours corporate bonds of 1 to 3 years for accrual and long-dated state government bonds, and sees higher yields as a chance to add duration.",
+     "Outlook: markets are likely to stay volatile near term (global uncertainty, crude, FPI selling, a heavy IPO pipeline). Equity valuations are in the neutral zone, so iSIF recommends staggered investing and, with volatility persisting, hybrid and asset allocation strategies."
+    ]
+   }
   },
   "SIF-80": {
    "allocation": [
