@@ -1,5 +1,5 @@
 {
-  "generated_at_data_date": "2026-11-13",
+  "generated_at_data_date": "2026-11-16",
   "categories": [
     "Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )",
     "Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )",
@@ -10259,15 +10259,19 @@
         {
           "date": "2026-11-13",
           "nav": 10.5442
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 10.5
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 10.5442,
-      "change_since_first_pct": 5.38,
-      "change_1d_pct": -0.16,
-      "return_1m_pct": 4.07,
-      "return_3m_pct": -1.89,
-      "return_annualised_pct": 7.66
+      "latest_date": "2026-11-16",
+      "latest_nav": 10.5,
+      "change_since_first_pct": 4.94,
+      "change_1d_pct": -0.42,
+      "return_1m_pct": 3.52,
+      "return_3m_pct": -2.2,
+      "return_annualised_pct": 6.94
     },
     {
       "scheme_code": "SIF-62",
@@ -18487,15 +18491,19 @@
         {
           "date": "2026-11-13",
           "nav": 11.4339
+        },
+        {
+          "date": "2026-11-16",
+          "nav": 11.28
         }
       ],
-      "latest_date": "2026-11-13",
-      "latest_nav": 11.4339,
-      "change_since_first_pct": 14.6,
-      "change_1d_pct": -0.04,
-      "return_1m_pct": 0.67,
-      "return_3m_pct": 5.75,
-      "return_annualised_pct": 43.76
+      "latest_date": "2026-11-16",
+      "latest_nav": 11.28,
+      "change_since_first_pct": 13.05,
+      "change_1d_pct": -1.35,
+      "return_1m_pct": 0.77,
+      "return_3m_pct": 4.19,
+      "return_annualised_pct": 37.7
     },
     {
       "scheme_code": "SIF-146",
