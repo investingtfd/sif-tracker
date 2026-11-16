@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T08:33:01.475Z",
+ "updated_at": "2026-11-16T16:03:44.528Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5827,8 +5827,8 @@
     ]
    ],
    "top_shorts": [],
-   "equity_gross_pct": 37.05,
-   "equity_net_pct": 27.64,
+   "equity_gross_pct": 41.35,
+   "equity_net_pct": 7.9,
    "holdings_count": 109,
    "turnover_ratio": null,
    "derivative_gross_exposure_cr": 61.42,
@@ -5863,24 +5863,24 @@
    ],
    "split": [
     [
-     "Arbitrage and covered calls",
-     9.24
+     "Equity",
+     41.35
+    ],
+    [
+     "Cash and others",
+     30.6
     ],
     [
      "Fixed income",
-     61.39
+     26.5
     ],
     [
      "REITs",
-     0.97
+     0.96
     ],
     [
      "InvITs",
      0.59
-    ],
-    [
-     "Special situations",
-     27.81
     ]
    ],
    "unhedged": [
@@ -5914,22 +5914,143 @@
    "name": "Apex Hybrid Long-Short Fund",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
-   "split_source": "Apex SIF monthly portfolio workbook, 31 Oct 2026 (net equity 27.64%). Arbitrage and covered calls is the futures-hedged equity in the workbook; the covered-call and collar share is not totalled in the file, so it sits in Special situations until the October factsheet is read. Special situations is the unhedged equity part",
+   "split_source": "Apex SIF factsheet as on 30 Oct 2026, the AMC's own portfolio summary. Equity is the AMC's equity and equity related line (41.35%); most of it is hedged, the AMC states net equity exposure of 7.90%. Fixed income is debt 20.72% plus Aditya Birla Sun Life Liquid Fund units 5.78%. Cash and others is TREPS and T-bills (30.60%)",
    "exposure": {
     "items": [
      [
       "Equity held",
-      37.05,
+      41.35,
       "eq"
      ],
      [
-      "Hedged by arbitrage futures",
-      -9.41,
+      "Hedged by arbitrage futures and covered calls",
+      -33.45,
       "hd"
      ]
     ],
-    "net": 27.64,
-    "note": "About 9% of the fund is equity hedged by futures. Roughly 28% is open equity (special situations, plus stock under covered calls or collars that the file does not total). REITs and InvITs not counted."
+    "net": 7.9,
+    "note": "The AMC states net equity exposure of 7.90% in October. About 4.3% is a Nifty ETF added late in the month on the fund's contra-allocation signal; the rest of the open equity is special situations."
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "Apex Hybrid Long-Short Fund factsheet, October 2026 (data as on 30 Oct 2026)",
+    "inception_date": "2026-03-25",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "benchmark_short": "NIFTY 50 Hybrid Composite Debt 50:50",
+    "strategy_type": "Interval",
+    "plans": "Regular, Direct | Growth, IDCW (Payout & Reinvestment)",
+    "nav_regular": 10.74,
+    "ber_regular_pct": 1.41,
+    "exit_load": "0.50% if units are redeemed/switched out on or before 90 days from the date of allotment; Nil if redeemed/switched out after 90 days.",
+    "exit_load_short": "0.50% if sold within 90 days, nil after",
+    "min_application": "Rs. 10 lakh and in multiples of Re. 1 thereafter, subject to the minimum investment threshold guidelines as per the SIF framework",
+    "min_application_short": "₹10 lakh",
+    "frequency": "Subscription daily; redemption twice a week (Monday and Wednesday)",
+    "fund_managers": [
+     {
+      "name": "Lovelish Solanki",
+      "role": "Fund manager",
+      "since": "2026-03-25"
+     },
+     {
+      "name": "Mohit Sharma",
+      "role": "Fund manager",
+      "since": "2026-03-25"
+     },
+     {
+      "name": "Rohit Karan",
+      "role": "Fund manager",
+      "since": "2026-04-02"
+     }
+    ],
+    "benchmark_risk_band": 2
+   },
+   "performance": {
+    "as_on": "2026-10-31",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index",
+    "note": "Regular plan, growth. Simple annualised returns, as stated by the AMC.",
+    "periods": [
+     {
+      "period": "6M",
+      "fund_pct": 13.73,
+      "benchmark_pct": -2.83
+     },
+     {
+      "period": "Since inception",
+      "fund_pct": 12.37,
+      "benchmark_pct": 0.17
+     }
+    ]
+   },
+   "debt_quants": {
+    "as_on": "2026-10-31",
+    "ytm_pct": 8.43,
+    "modified_duration_yr": 2.02,
+    "avg_maturity_yr": 2.37,
+    "macaulay_duration_yr": 2.19,
+    "note": "YTM excludes TREPs and T-bills"
+   },
+   "credit_quality": {
+    "as_on": "2026-10-31",
+    "basis": "Rated debt holdings (20.72% of the fund; excludes TREPS, T-bills and liquid fund units), rebased to 100%",
+    "items": [
+     [
+      "AAA",
+      100
+     ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Apex Hybrid Long-Short Fund factsheet, October 2026",
+    "tagline": "Core allocation to arbitrage and fixed income gives stability, with equity exposure to provide growth and lower net equity risk.",
+    "buckets": [
+     {
+      "name": "Arbitrage, special situations and directional equity",
+      "group": "Equity strategies",
+      "match": [
+       "Equity"
+      ],
+      "text": "Cash-futures and covered-call arbitrage, options on stocks and index, IPOs, buy-backs and open offers, and a passive Nifty 50 basket.",
+      "note": "41.35% of the fund in October, but net equity exposure only 7.90%. About 5% was put into a Nifty ETF late in the month on the quantitative contra-allocation signal."
+     },
+     {
+      "name": "Fixed income",
+      "group": "Fixed income",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Instruments not below AA, overall duration not more than 3 years.",
+      "note": "20.72% in AAA debt (REC, NABARD, TATA Capital, Bajaj Finance, PFC, SIDBI) plus 5.78% in a liquid fund. Duration kept conservative as bond yields rose."
+     },
+     {
+      "name": "Cash and current assets",
+      "group": "Fixed income",
+      "match": [
+       "Cash and others"
+      ],
+      "text": "TREPS and T-bills held as cash.",
+      "note": "30.60% in October: TREPS 24.60% and RBI T-bills 6.45%."
+     },
+     {
+      "name": "REITs",
+      "group": "Trusts",
+      "match": [
+       "REITs"
+      ],
+      "text": "Real estate investment trust units.",
+      "note": "0.96% in October."
+     },
+     {
+      "name": "InvITs",
+      "group": "Trusts",
+      "match": [
+       "InvITs"
+      ],
+      "text": "Infrastructure investment trust units.",
+      "note": "0.59% in October."
+     }
+    ]
    }
   },
   "SIF-156": {
@@ -6113,7 +6234,62 @@
    "unhedged_note": "Futures the fund is not using to hedge a holding, as % of net assets: long futures, and shorts on stocks it does not hold. The AMC classes these shorts as hedges for the portfolio; they are shown because the fund does not own the stocks.",
    "derivative_basis": "futures",
    "risk_band": 3,
-   "turnover_ratio": null
+   "turnover_ratio": null,
+   "benchmark_risk_band": 3,
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "Apex Equity Ex-Top 100 Long-Short Fund factsheet, October 2026 (data as on 30 Oct 2026)",
+    "inception_date": "2026-08-31",
+    "benchmark": "NIFTY 500 TRI",
+    "benchmark_short": "NIFTY 500 TRI",
+    "strategy_type": "Open ended",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 9.93,
+    "ber_regular_pct": 2.01,
+    "exit_load": "For redemption / switch-out of units on or before 90 days from the date of allotment: 0.50% of applicable NAV. After 90 days: Nil.",
+    "exit_load_short": "0.50% if sold within 90 days, nil after",
+    "min_application": "Rs. 10 lakh and in multiples of Re. 1 thereafter, subject to the minimum investment threshold guidelines as per the SIF framework",
+    "min_application_short": "₹10 lakh",
+    "frequency": "Subscription daily; redemption daily",
+    "fund_managers": [
+     {
+      "name": "Manish Gupta",
+      "role": "Fund manager",
+      "since": "2026-08-31"
+     },
+     {
+      "name": "Harshil Suvarnkar",
+      "role": "Fund manager",
+      "since": "2026-08-31"
+     }
+    ],
+    "benchmark_risk_band": 3
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Apex Equity Ex-Top 100 Long-Short Fund factsheet, October 2026",
+    "tagline": "Long-short strategy investing in equity of companies outside the top 100, including limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Long and short equity (ex-top 100)",
+      "group": "Equity strategies",
+      "match": [
+       "Equity"
+      ],
+      "text": "Long equity in companies outside the top 100 by market cap, with short positions and relative-value pair trades used selectively.",
+      "note": "Cautious on the broader mid-cap universe; net equity exposure raised from about 13% to 21% in October (about 21% at month end). Long exposure in new-age technology, fintech, hospitals, industrials and NBFCs."
+     },
+     {
+      "name": "Cash and T-bills",
+      "group": "Fixed income",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Money held in T-bills and TREPS while the fund manages equity exposure.",
+      "note": "The AMC lists RBI T-bills 31.15% and TREPS 25.80% as the other holdings in October."
+     }
+    ]
+   }
   },
   "SIF-154": {
    "name": "Apex Equity Long-Short Fund",
@@ -6291,7 +6467,62 @@
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "derivative_basis": "futures",
    "risk_band": 2,
-   "turnover_ratio": null
+   "turnover_ratio": null,
+   "benchmark_risk_band": 3,
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "Apex Equity Long-Short Fund factsheet, October 2026 (data as on 30 Oct 2026)",
+    "inception_date": "2026-08-31",
+    "benchmark": "NIFTY 500 TRI",
+    "benchmark_short": "NIFTY 500 TRI",
+    "strategy_type": "Open ended",
+    "plans": "Regular, Direct | Growth",
+    "nav_regular": 9.87,
+    "ber_regular_pct": 2.05,
+    "exit_load": "For redemption / switch-out of units on or before 90 days from the date of allotment: 0.50% of applicable NAV. After 90 days: Nil.",
+    "exit_load_short": "0.50% if sold within 90 days, nil after",
+    "min_application": "Rs. 10 lakh and in multiples of Re. 1 thereafter, subject to the minimum investment threshold guidelines as per the SIF framework",
+    "min_application_short": "₹10 lakh",
+    "frequency": "Subscription daily; redemption daily",
+    "fund_managers": [
+     {
+      "name": "Manish Gupta",
+      "role": "Fund manager",
+      "since": "2026-08-31"
+     },
+     {
+      "name": "Harshil Suvarnkar",
+      "role": "Fund manager",
+      "since": "2026-08-31"
+     }
+    ],
+    "benchmark_risk_band": 3
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Apex Equity Long-Short Fund factsheet, October 2026",
+    "tagline": "Long-short strategy investing in high-conviction equity opportunities while strategically managing downside risk.",
+    "buckets": [
+     {
+      "name": "Long equity",
+      "group": "Equity strategies",
+      "match": [
+       "Equity"
+      ],
+      "text": "A diversified portfolio of equity and equity-related instruments, with limited short exposure through derivatives.",
+      "note": "Net equity exposure raised from about 43% to 75% during October (about 74% at month end). Positive on private sector banks, industrials, FMCG, new-age technology and NBFCs; no outright short positions at month end."
+     },
+     {
+      "name": "Cash and T-bills",
+      "group": "Fixed income",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Money held in T-bills and TREPS while the fund manages equity exposure.",
+      "note": "The AMC lists RBI T-bills 13.29% and TREPS 11.63% as the other holdings in October."
+     }
+    ]
+   }
   },
   "SIF-40": {
    "allocation": [
