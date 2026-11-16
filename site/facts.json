@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:03:44.528Z",
+ "updated_at": "2026-11-16T16:05:10.916Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -6012,7 +6012,7 @@
        "Equity"
       ],
       "text": "Cash-futures and covered-call arbitrage, options on stocks and index, IPOs, buy-backs and open offers, and a passive Nifty 50 basket.",
-      "note": "41.35% of the fund in October, but net equity exposure only 7.90%. About 5% was put into a Nifty ETF late in the month on the quantitative contra-allocation signal."
+      "note": "41.35% of the fund in October, but net equity exposure only 7.90%. The AMC says special situations were limited: selective IPOs and block trades, several hedged with futures. About 5% went into a Nifty ETF late in the month on the quantitative contra-allocation signal."
      },
      {
       "name": "Fixed income",
@@ -6021,7 +6021,7 @@
        "Fixed income"
       ],
       "text": "Instruments not below AA, overall duration not more than 3 years.",
-      "note": "20.72% in AAA debt (REC, NABARD, TATA Capital, Bajaj Finance, PFC, SIDBI) plus 5.78% in a liquid fund. Duration kept conservative as bond yields rose."
+      "note": "20.72% in AAA debt (REC, NABARD, TATA Capital, Bajaj Finance, PFC, SIDBI) plus 5.78% in a liquid fund. Duration kept conservative after the RBI raised rates, which helped as yields rose."
      },
      {
       "name": "Cash and current assets",
@@ -6050,6 +6050,18 @@
       "text": "Infrastructure investment trust units.",
       "note": "0.59% in October."
      }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "Apex SIF factsheet, October 2026, Fund Manager Commentary",
+    "points": [
+     "October was a month of wide divergence: Nifty rose 1.91%, IT stocks gained about 17% while midcaps fell about 4%. The portfolio returned 0.32% for the month, with the focus on capital preservation.",
+     "Global uncertainty rose (higher crude, rising US Treasury yields) and the RBI raised policy rates. The fund kept a conservative duration in its fixed income book, which helped as bond yields rose.",
+     "Special situations were thin this month. The fund took part selectively in IPOs and block trades, hedging several block trades with futures at the same time to remove most market risk.",
+     "Annualised volatility stayed low at about 3.2%.",
+     "Late in the month the fund’s quantitative framework gave a rare contra-allocation signal, and about 5% of assets went into a Nifty ETF, modestly raising market participation.",
+     "Outlook: the fund will stay focused on preserving capital and controlled risk, and deploy selectively into IPOs, QIPs, block trades and other event-driven opportunities as they appear."
     ]
    }
   },
@@ -6289,6 +6301,16 @@
       "note": "The AMC lists RBI T-bills 31.15% and TREPS 25.80% as the other holdings in October."
      }
     ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "Apex SIF factsheet, October 2026, Fund Manager Commentary",
+    "points": [
+     "October stayed volatile for Indian equities outside large caps, with elevated valuations, uneven earnings and wide dispersion across sectors and stocks.",
+     "In the Equity Ex-Top 100 Long-Short Fund the team kept a more cautious stance on the broader mid-cap universe, raising net equity exposure from about 13% to 21%.",
+     "Long exposure is concentrated in new-age technology, fintech, hospitals, industrials and NBFCs. Short positions and relative-value pair trades were used selectively where risk-reward or stock-specific views looked less favourable.",
+     "The two Apex equity strategies are positioned differently on purpose: large caps look more attractive than parts of the mid- and small-cap universe, where valuations and stock-specific risks call for selectivity."
+    ]
    }
   },
   "SIF-154": {
@@ -6521,6 +6543,16 @@
       "text": "Money held in T-bills and TREPS while the fund manages equity exposure.",
       "note": "The AMC lists RBI T-bills 13.29% and TREPS 11.63% as the other holdings in October."
      }
+    ]
+   },
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "Apex SIF factsheet, October 2026, Fund Manager Commentary",
+    "points": [
+     "October stayed volatile for Indian equities, especially outside large caps, with elevated valuations, uneven earnings and wide dispersion across sectors and stocks. The correction created chances to add risk selectively.",
+     "In the Equity Long-Short Fund the team became progressively more constructive on large caps and raised net equity exposure from about 43% to 75% during the month.",
+     "Positioning is positive on private sector banks, industrials, FMCG, new-age technology and NBFCs, with no outright short positions at month end.",
+     "Outlook: constructive on large-cap equities, selective in the broader market. Earnings delivery, valuations and stock-level dispersion are expected to be the key differentiators, with exposure managed dynamically across long and short positions, relative-value trades, special situations and derivatives."
     ]
    }
   },
