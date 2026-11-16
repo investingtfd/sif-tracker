@@ -1,5 +1,60 @@
 # SIF Tracker daily run log
 
+## 2026-11-16 07:55 Lisbon time
+Result: nothing changed; facts.json not committed (no newer data found). PARTIAL sweep: only the AMCs with funds below 31 Oct 2026 and the two new-fund sites were opened; the factsheet pass (L14), risk-band pass (L20), Step 3h backfill and sweeps for the other AMCs were not done in this run.
+
+**Updates found and made**
+
+None
+
+**Updates available but not made, or only partly made**
+
+- None found. Every AMC below 31 Oct 2026 has published nothing newer than its loaded month.
+
+### Data completeness
+Up to date: 26 of 39 SIF funds (67%) have data as on 31 Oct 2026
+of which 20 from the full Excel portfolio and 6 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | The Wealth Company | 30 Sep 2026 | Excel published every two months; Nov file not out yet, no factsheet exists |
+| SIF-29, SIF-102 | Titanium / Tata | 30 Sep 2026 | AMC has not published October portfolio or factsheet yet (CMS API: newest is Sep) |
+| SIF-55, SIF-87, SIF-143 | DynaSIF / 360 ONE | 30 Sep 2026 | Page blocked (Cloudflare 403) |
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Excel published every two months; October not out yet; factsheet newest is Sep |
+| SIF-40 | Arudha Hybrid | 30 Sep 2026 | AMC has not published October file or factsheet yet (newest monthly file 30 Sep) |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | Site would not open in the browser pane |
+| SIF-169 | Titanium Active Asset Allocator | not in tracker yet | New fund, first portfolio not out yet |
+| SIF-183 | Eminence Hybrid Long Short (AlphaGrep) | not in tracker yet | New fund, no portfolio on disclosures page yet |
+| SIF-190 | Select Equity Ex-Top 100 Long-Short (Sundaram) | not in tracker yet | New fund, no portfolio found yet |
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | 360 ONE DynaSIF (SIF-55, 87, 143) | Cloudflare "Attention Required" 403 | Will retry automatically next run |
+| 2 | Site would not open | Arthaya / Union MF (SIF-114) | Navigation to unionmf.com failed in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 3 | New fund, no data | AlphaGrep SIF-183, Sundaram SIF-190, Titanium SIF-169 | First month-end portfolio expected for 30 Nov 2026 | Will retry automatically next run |
+| 4 | Not done in this run | Factsheet pass, risk bands, Step 3h backfill, sweeps (3c/3f/3g) for AMCs at 31 Oct | Run limited to AMCs below target | Will retry automatically next run |
+
+### AMC by AMC (AMCs checked in this run)
+
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Wealth Co | 105, 111 | 30 Sep | 🟥 0% | yes | 30 Sep | none exists | nothing new | none |
+| Tata / Titanium | 29, 102 | 30 Sep | 🟥 0% | yes (API) | 30 Sep | 30 Sep | nothing new | none |
+| 360 ONE | 55, 87, 143 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: Cloudflare | none |
+| Franklin | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Arudha | 40, 62 | 30 Sep / 31 Oct | 🟧 mixed | yes | 30 Sep (Hybrid) | Sep 2026 | nothing new | none |
+| Arthaya / Union | 114 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: would not open | none |
+| AlphaGrep | 183 | not in tracker yet | n/a | yes | none | none | nothing new | none |
+| Sundaram | 190 | not in tracker yet | n/a | yes | none | none | nothing new | none |
+| all other AMCs (at 31 Oct) | other funds | 31 Oct | 🟩 | not re-opened, already at target month | | | nothing new | none |
+
+Industry AUM (AMFI): as on 31 Oct 2026.
+Strategy-split check (Step 3g): not run.
+Key-details check (Step 3h): not run; no fund written.
+Risk-band check (L20): not run.
+
 ## 2026-11-15 08:50 Lisbon time
 Result: nothing changed; facts.json not committed (no newer data found).
 
