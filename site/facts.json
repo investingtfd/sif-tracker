@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T16:27:13.949Z",
+ "updated_at": "2026-11-16T16:35:10.307Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5863,12 +5863,8 @@
    ],
    "split": [
     [
-     "Cash and others",
-     30.6
-    ],
-    [
      "Fixed income",
-     26.5
+     57.1
     ],
     [
      "Covered calls",
@@ -5922,7 +5918,7 @@
    "name": "Apex Hybrid Long-Short Fund",
    "source": "Aditya Birla Sun Life Mutual Fund monthly portfolio disclosure",
    "source_url": "https://apexsif.adityabirlacapital.com/download-resource?tab=portfolio",
-   "split_source": "Apex SIF factsheet and monthly workbook, 30/31 Oct 2026, reconciled line by line. Equity is 41.35% in all. Arbitrage 9.24% is the stock hedged with short futures, as the workbook states. Covered calls 24.92% is the stock under written options (hedging through options in the workbook; the AMC does not print this total, so it is the equity the options cover). Special situations 7.19% is the rest of the equity: unhedged IPO, pre-IPO and block-trade stocks (about 2.9%) and the Nifty ETF (4.28%) added late in October. Fixed income is debt 20.72% plus liquid fund units 5.78%. Cash and others is TREPS and T-bills, less net payables",
+   "split_source": "Apex SIF factsheet and monthly workbook, 30/31 Oct 2026, reconciled line by line. Equity is 41.35% in all. Arbitrage 9.24% is the stock hedged with short futures, as the workbook states. Covered calls 24.92% is the stock under written options (the AMC does not print this total, so it is the equity the options cover). Special situations 7.19% is the rest of the equity: unhedged IPO, pre-IPO and block-trade stocks (about 2.9%) and the Nifty ETF (4.28%). Fixed income 57.10% is everything that earns interest: AAA debt 20.72%, liquid fund units 5.78%, TREPS 24.60% and RBI T-bills 6.45%, less small net payables (Apex's factsheet calls TREPS and T-bills cash)",
    "exposure": {
     "items": [
      [
@@ -6046,17 +6042,8 @@
       "match": [
        "Fixed income"
       ],
-      "text": "Instruments not below AA, overall duration not more than 3 years.",
-      "note": "20.72% in AAA debt (REC, NABARD, TATA Capital, Bajaj Finance, PFC, SIDBI) plus 5.78% in a liquid fund. Duration kept conservative after the RBI raised rates, which helped as yields rose."
-     },
-     {
-      "name": "Cash and current assets",
-      "group": "Fixed income",
-      "match": [
-       "Cash and others"
-      ],
-      "text": "TREPS and T-bills held as cash.",
-      "note": "30.60% in October: TREPS 24.60% and RBI T-bills 6.45%, less small net payables."
+      "text": "Debt, money market and cash-like instruments that earn interest: bonds not below AA with duration of at most 3 years, a liquid fund, TREPS and T-bills.",
+      "note": "57.10% in October: AAA debt 20.72% (REC, NABARD, TATA Capital, Bajaj Finance, PFC, SIDBI), liquid fund 5.78%, TREPS 24.60%, RBI T-bills 6.45%. Duration kept conservative after the RBI raised rates, which helped as yields rose."
      },
      {
       "name": "REITs",
@@ -6207,11 +6194,7 @@
     ],
     [
      "Fixed income",
-     31.15
-    ],
-    [
-     "Cash and others",
-     16.34
+     47.49
     ]
    ],
    "sectors": [
@@ -6342,7 +6325,7 @@
      "The two Apex equity strategies are positioned differently on purpose: large caps look more attractive than parts of the mid- and small-cap universe, where valuations and stock-specific risks call for selectivity."
     ]
    },
-   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (52.51%). Fixed income is RBI T-bills (31.15%). Cash and others is TREPS 25.80% less derivative margin 2.52% and net payables 6.93%. Short futures (31.29% on 33 stocks, not hedges of held stock) and long futures (4.63%) sit on top as exposure. Net equity is about 25% from the lists; the AMC states about 21%",
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (52.51%). Fixed income is RBI T-bills 31.15% and TREPS 25.80%, less derivative margin 2.52% and net payables 6.93%. Short futures (31.29% on 33 stocks, not hedges of held stock) and long futures (4.63%) sit on top as exposure. Net equity is about 25% from the lists; the AMC states about 21%",
    "exposure": {
     "items": [
      [
@@ -6481,11 +6464,7 @@
     ],
     [
      "Fixed income",
-     13.29
-    ],
-    [
-     "Cash and others",
-     7.1
+     20.39
     ]
    ],
    "sectors": [
@@ -6616,7 +6595,7 @@
      "Outlook: constructive on large-cap equities, selective in the broader market. Earnings delivery, valuations and stock-level dispersion are expected to be the key differentiators, with exposure managed dynamically across long and short positions, relative-value trades, special situations and derivatives."
     ]
    },
-   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (79.61%). Fixed income is RBI T-bills (13.29%). Cash and others is TREPS 11.63% less derivative margin and net payables 4.53%. Futures sit on top as exposure: unhedged long 7.22%, no shorts. The factsheet's own list gives net equity of about 86%, while its commentary headline says about 74%",
+   "split_source": "Apex monthly portfolio workbook, 31 Oct 2026, reconciled to the October factsheet. Equity is listed stocks (79.61%). Fixed income is RBI T-bills 13.29% and TREPS 11.63%, less derivative margin and net payables 4.53%, all of which earn interest or offset it. Futures sit on top as exposure: unhedged long 7.22%, no shorts. The factsheet's own list gives net equity of about 86%, while its commentary headline says about 74%",
    "exposure": {
     "items": [
      [
