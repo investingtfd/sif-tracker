@@ -9,8 +9,8 @@ A = TOOL / 'assets'; OUT = ROOT / 'site' / 'daily'; OUT.mkdir(parents=True, exis
 NM = TOOL / 'node_modules' / '@fontsource'; L = str(ROOT / 'site')
 d = json.load(open(ROOT / 'site' / 'data.json')); F = json.load(open(ROOT / 'site' / 'facts.json'))['funds']
 
-LOGO = {'SUMMIT SIF': 'logo-summit-sif.png', 'SUMMIT SIF': 'logo-summit-sif.png', 'Altiva SIF': 'logo-altiva-sif.svg', 'Magnum SIF': 'logo-magnum-sif.png', 'qsif SIF': 'logo-quant.png', 'iSIF SIF': 'logo-icici-prudential.png', 'Titanium SIF': 'logo-titanium-sif.webp', 'RedHex SIF': 'logo-hsbc.svg', 'Prism SIF': 'logo-jio-blackrock.svg', 'Platinum SIF': 'logo-platinum-sif.svg', 'Arudha SIF': 'logo-bandhan.png', 'Apex SIF': 'logo-apex-sif.jpg', 'Infinity SIF': 'logo-kotak.svg', 'Sapphire SIF': 'logo-sapphire-sif.png', 'Diviniti SIF': 'logo-iti.png', 'WSIF': 'logo-the-wealth-company.svg', 'DynaSIF SIF': 'logo-360-one.svg', 'Arthaya SIF': 'logo-union.png', 'Mahindra Manulife Mutual Fund': 'logo-mahindra-manulife.svg'}
-BRAND = {'Altiva SIF': 'Altiva', 'Magnum SIF': 'Magnum', 'qsif SIF': 'qsif', 'iSIF SIF': 'iSIF', 'Titanium SIF': 'Titanium', 'RedHex SIF': 'RedHex', 'Prism SIF': 'Prism', 'Platinum SIF': 'Platinum', 'Arudha SIF': 'Arudha', 'Apex SIF': 'Apex', 'Infinity SIF': 'Infinity', 'Sapphire SIF': 'Sapphire', 'Diviniti SIF': 'Diviniti', 'WSIF': 'WSIF', 'DynaSIF SIF': 'DynaSIF', 'Arthaya SIF': 'Arthaya', 'SUMMIT SIF': 'Summit', 'Mahindra Manulife Mutual Fund': 'MSIF'}
+LOGO = {'SUMMIT SIF': 'logo-summit-sif.png', 'SUMMIT SIF': 'logo-summit-sif.png', 'Altiva SIF': 'logo-altiva-sif.svg', 'Magnum SIF': 'logo-magnum-sif.png', 'qsif SIF': 'logo-quant.png', 'iSIF SIF': 'logo-icici-prudential.png', 'Titanium SIF': 'logo-titanium-sif.webp', 'RedHex SIF': 'logo-hsbc.svg', 'Prism SIF': 'logo-jio-blackrock.svg', 'Platinum SIF': 'logo-platinum-sif.svg', 'Arudha SIF': 'logo-bandhan.png', 'Apex SIF': 'logo-apex-sif.jpg', 'Infinity SIF': 'logo-kotak.svg', 'Sapphire SIF': 'logo-sapphire-sif.png', 'Diviniti SIF': 'logo-iti.png', 'WSIF': 'logo-the-wealth-company.svg', 'DynaSIF SIF': 'logo-360-one.svg', 'Arthaya SIF': 'logo-union.png', 'Mahindra Manulife Mutual Fund': 'logo-mahindra-manulife.svg', 'Sundaram Mutual Fund': 'logo-sundaram.png', 'Eminence SIF': 'logo-alphagrep.png'}
+BRAND = {'Altiva SIF': 'Altiva', 'Magnum SIF': 'Magnum', 'qsif SIF': 'qsif', 'iSIF SIF': 'iSIF', 'Titanium SIF': 'Titanium', 'RedHex SIF': 'RedHex', 'Prism SIF': 'Prism', 'Platinum SIF': 'Platinum', 'Arudha SIF': 'Arudha', 'Apex SIF': 'Apex', 'Infinity SIF': 'Infinity', 'Sapphire SIF': 'Sapphire', 'Diviniti SIF': 'Diviniti', 'WSIF': 'WSIF', 'DynaSIF SIF': 'DynaSIF', 'Arthaya SIF': 'Arthaya', 'SUMMIT SIF': 'Summit', 'Mahindra Manulife Mutual Fund': 'MSIF', 'Sundaram Mutual Fund': 'Sundaram', 'Eminence SIF': 'Eminence'}
 
 def cat(c):
     c = c.lower()
@@ -87,12 +87,12 @@ print(DATE, {k: len(v) for k, v in rows.items()}, 'up', up, 'down', dn, best['na
 
 IX = json.load(open(ROOT / 'site' / 'indices.json'))['indices']
 def ixrow(k):
-    sr = [(a, b) for a, b in IX[k]['series']]; last = datetime.date.fromisoformat(sr[-1][0]); r = {}
+    sr = [(a, b) for a, b in IX[k]['series'] if a <= asof.isoformat()]; last = datetime.date.fromisoformat(sr[-1][0]); r = {}
     f = lambda ref: (sr[-1][1] / ref[1] - 1) * 100
     r['1D'] = f(sr[-2]); ref = on_or_before(sr, (last - datetime.timedelta(days=7)).isoformat()); r['1W'] = f(ref)
     for kk, m in (('1M', 1), ('3M', 3), ('6M', 6)): r[kk] = f(on_or_before(sr, minus_months(last, m).isoformat()))
     r['nav'] = sr[-1][1]; r['name'] = IX[k]['name']; r['d'] = last; return r
-IXR = [ixrow('nifty50'), ixrow('nifty500')]
+IXR = [ixrow(k) for k in ('nifty100', 'midsmall400') if k in IX]  # Nifty 100 + MidSmallcap 400 (400 shows once its data is in indices.json)
 
 INK, PAPER, CARD, GRN, RED, MU, LINE = '#14221e', '#f6f2e8', '#ffffff', '#1f6f5c', '#b6452c', '#5a6a65', '#e4dcc6'
 def tint(v, col):
@@ -124,7 +124,7 @@ def age(r):
 COLS = [('INCEPTION', 78), ('RISK', 44), ('NAV ₹', 66), ('1D', 56), ('1W', 60), ('1M', 56), ('3M', 56), ('6M', 56), ('SINCE START', 72), ('ANNUAL-ISED', 78), ('SD %', 56), ('UNHEDGED %', 98), ('PORTFOLIO', 76), ('AUM ₹CR', 68)]
 HEAD = f"<div class='th'><div style='width:44px'>RANK</div><div style='width:52px'></div><div style='width:122px'>FUND</div>" + ''.join(f"<div class='hc' style='width:{w}px;{'color:#fff;background:'+GRN+';' if t=='1W' else ''}'>{t}</div>" for t, w in COLS) + "</div>"
 TITLE = {'Equity Ex-Top 100': 'Equity Ex-Top 100 Long-Short', 'Equity': 'Equity Long-Short', 'Sector Rotation': 'Sector Rotation Long-Short', 'Hybrid': 'Hybrid Long-Short', 'Active Asset Allocator': 'Active Asset Allocator Long-Short'}
-AMC = {'Altiva SIF': 'Edelweiss', 'Magnum SIF': 'SBI', 'qsif SIF': 'Quant', 'iSIF SIF': 'ICICI Pru', 'Titanium SIF': 'Tata', 'RedHex SIF': 'HSBC', 'Prism SIF': 'Jio BlackRock', 'Platinum SIF': 'Mirae Asset', 'Arudha SIF': 'Bandhan', 'Apex SIF': 'Aditya Birla SL', 'Infinity SIF': 'Kotak', 'Sapphire SIF': 'Franklin', 'Diviniti SIF': 'ITI', 'WSIF': 'Wealth Co.', 'DynaSIF SIF': '360 ONE', 'Arthaya SIF': 'Union', 'SUMMIT SIF': 'Invesco', 'Mahindra Manulife Mutual Fund': 'Mahindra Manulife'}
+AMC = {'Altiva SIF': 'Edelweiss', 'Magnum SIF': 'SBI', 'qsif SIF': 'Quant', 'iSIF SIF': 'ICICI Pru', 'Titanium SIF': 'Tata', 'RedHex SIF': 'HSBC', 'Prism SIF': 'Jio BlackRock', 'Platinum SIF': 'Mirae Asset', 'Arudha SIF': 'Bandhan', 'Apex SIF': 'Aditya Birla SL', 'Infinity SIF': 'Kotak', 'Sapphire SIF': 'Franklin', 'Diviniti SIF': 'ITI', 'WSIF': 'Wealth Co.', 'DynaSIF SIF': '360 ONE', 'Arthaya SIF': 'Union', 'SUMMIT SIF': 'Invesco', 'Mahindra Manulife Mutual Fund': 'Mahindra Manulife', 'Sundaram Mutual Fund': 'Sundaram AMC', 'Eminence SIF': 'AlphaGrep'}
 
 def rnk(r):
     n = r.get('rk')
@@ -159,7 +159,7 @@ for kind in ['Equity Ex-Top 100', 'Equity', 'Sector Rotation', 'Hybrid', 'Active
         body += f"<div class='row'>{rnk(r)}{lgo(r['prov'])}<div style='width:122px;line-height:1.1'><b>{brand}</b><div class='amc'>{AMC.get(r['prov'], '')}</div></div><div class='c' style='width:78px;color:{MU};font-size:13px'>{age(r)}</div>{rk(r['risk'])}<div class='c' style='width:66px'>{r['nav']:,.2f}</div>{d1(r)}{pc(r['1W'],60,True)}{pc(r['1M'],56)}{pc(r['3M'],56)}{pc(r['6M'],56)}{pc(r['SI'],72)}{pc(((1+r['SI']/100)**(365/r['days'])-1)*100 if (r['days']>=30 and r['SI'] is not None) else None,78)}{sdc(r)}{un(r)}<div class='c' style='width:76px;color:{MU};font-size:13px'>{pf(r)}</div><div class='c' style='width:68px'>{f"{r['aum']:,.0f}" if r['aum'] is not None else '–'}</div></div>"
 body += f"<div class='gh' style='background:#3b4a46'><span>Benchmark indices (price index, to {IXR[0]['d'].strftime('%d %b').lstrip('0')})</span><span class='gn'>for reference</span></div>"
 for x in IXR:
-    body += f"<div class='row'><div style='width:44px'></div><div style='width:52px'></div><div style='width:122px'><b>{x['name']}</b></div><div class='c' style='width:78px;color:{MU}'>–</div><div style='width:44px'></div><div class='c' style='width:66px'>{x['nav']:,.0f}</div>{pc(x['1D'],56)}{pc(x['1W'],60,True)}{pc(x['1M'],56)}{pc(x['3M'],56)}{pc(x['6M'],56)}<div class='c' style='width:72px;color:{MU}'>–</div><div style='width:78px'></div><div style='width:56px'></div><div style='width:98px'></div><div style='width:76px'></div><div style='width:68px'></div></div>"
+    body += f"<div class='row'><div style='width:44px'></div><div style='width:44px;height:26px;margin-right:8px;border-radius:6px;border:1px solid {LINE};background:#fff;display:flex;align-items:center;justify-content:center;padding:2px 4px'><img src='file://{L}/logo-nse.png' style='max-height:20px;max-width:36px;object-fit:contain'></div><div style='width:122px;line-height:1.1'><b>{x['name'].replace('NIFTY MidSmallcap 400','NIFTY 400')}</b>{"<div class='amc'>MidSmallcap</div>" if 'MidSmall' in x['name'] else ''}</div><div class='c' style='width:78px;color:{MU}'>–</div><div style='width:44px'></div><div class='c' style='width:66px'>{x['nav']:,.0f}</div>{pc(x['1D'],56)}{pc(x['1W'],60,True)}{pc(x['1M'],56)}{pc(x['3M'],56)}{pc(x['6M'],56)}<div class='c' style='width:72px;color:{MU}'>–</div><div style='width:78px'></div><div style='width:56px'></div><div style='width:98px'></div><div style='width:76px'></div><div style='width:68px'></div></div>"
 
 srt = sorted([r for r in allr if r['1D'] is not None], key=lambda r: -r['1D'])
 def chip(r, g):
