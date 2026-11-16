@@ -1,5 +1,26 @@
 # SIF Tracker daily run log
 
+## 2026-11-16 (later) Lisbon time (catch-up: Apex factsheet and fund manager commentary)
+Result: 3 funds updated (Apex SIF-80, SIF-154, SIF-156); facts.json committed and verified (36 funds, no "Mutual fund units" line).
+
+**Updates found and made**
+
+- SIF-80 Apex Hybrid, SIF-154 Apex Equity, SIF-156 Apex Equity Ex-Top 100: Apex October factsheet (data as on 30 Oct 2026) read. Written: key details (inception, benchmark, plans, NAV, base expense ratio, exit load, minimum, managers), risk bands (80 = 1 / benchmark 2; 154 = 2 / 3; 156 = 3 / 3, all confirmed from the factsheet), strategy overview, and the fund manager commentary (new field "commentary"). Hybrid also got returns (6M 13.73%, since inception 12.37% against 0.17% benchmark), debt quality (YTM 8.43%, duration 2.02 yrs, all rated debt AAA), and its split follows the AMC's own table: Equity 41.35, Cash and others 30.60, Fixed income 26.50 (debt 20.72 + liquid fund 5.78), REITs 0.96, InvITs 0.59; net equity 7.90%.
+
+**Updates available but not made, or only partly made**
+
+- Apex SIF-154 and SIF-156 split, exposure card and returns: the factsheet gives no allocation table or returns for them yet (launched 31 Aug 2026); AMC states net equity about 74% and 21%, which differs from the workbook's net figures, so exposure cards were not changed. Will retry next run.
+- Other AMCs below 31 Oct (Wealth Co, Tata, 360 ONE, Franklin, Arudha Hybrid, Arthaya): re-checked, nothing newer.
+
+### Fails and fixes
+
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Earlier runs loaded Apex from the Excel only | Apex SIF-80, 154, 156 | The factsheet pass (key details, commentary) was not done | Fixed in this run: factsheet read and written |
+| 2 | Site blocked | Arthaya (SIF-114), 360 ONE | Would not open / Cloudflare | Will retry automatically next run |
+
+Key-details check (Step 3h): written for SIF-80, 154, 156; commentary read and used for all three.
+
 ## 2026-11-16 07:55 Lisbon time
 Result: nothing changed; facts.json not committed (no newer data found). PARTIAL sweep: only the AMCs with funds below 31 Oct 2026 and the two new-fund sites were opened; the factsheet pass (L14), risk-band pass (L20), Step 3h backfill and sweeps for the other AMCs were not done in this run.
 
