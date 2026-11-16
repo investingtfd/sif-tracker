@@ -1,5 +1,46 @@
 # SIF Tracker daily run log
 
+## 2026-11-16 (deep dive) Lisbon time (catch-up: L24-L30 applied fund by fund)
+Result: facts.json committed three times (Prism SIF-138 full package; RedHex SIF-128 full package; Altiva commentary for SIF-11, 122, 161). Earlier today: Apex (80, 154, 156) and iSIF (34, 35, 124, 126) written in full; rules L24-L30 added; glossary entries for Fixed income and Special situations rewritten.
+
+**Changes made this session**
+- Apex Hybrid SIF-80: split rebuilt (Fixed income 57.1, Covered calls 24.92, Arbitrage 9.24, Special situations 7.19, REITs 0.96, InvITs 0.59); key details, performance, debt quality, commentary, exposure written.
+- Apex Equity SIF-154 and Ex-Top 100 SIF-156: key details, strategy notes, commentary, exposure; split Equity/Fixed income from the Excel, reconciled to the PDF; risk bands 2 and 3.
+- iSIF SIF-34, 35, 124, 126: key details, returns, debt quality, strategy notes, exposure, commentary, split on the AMC's own table.
+- Prism SIF-138: split now the AMC's own buckets (Fixed income 55.3 incl. TREPS, Collar strategies 24.9, Merger arbitrage 8.7, REITs 5.8, InvITs 5.3); key details, debt quants (YTM 8.53, mod. duration 1.61), credit quality, commentary; risk band set to 2 (was 1). Reconciled to the portfolio: NCDs 25.53, CP 7.24, T-bills 10.47, TREPS 9.54, margin 0.49, receivables 1.18, futures -10.74. The collar bucket is the AMC's 24.9 against 25.8 implied by the portfolio file; the difference sits in Fixed income.
+- RedHex SIF-128: split follows the AMC table (Fixed income 50.36, Arbitrage 26.07 [label changed from "Arbitrage (hedged equity)"], InvITs 14.08, REITs 9.49); key details (BER 0.94, NAV 10.2077, 2% exit load under 1 year), debt quants (yield 10.28, mod. duration 1.40), credit quality, strategy notes, commentary; risk band 2 confirmed.
+- Altiva SIF-11, 122, 161: commentary added (details already present).
+
+**Still open**
+- Platinum SIF-136, Magnum SIF-13 and 157, Invesco SIF-150: waiting for the October factsheet (only September out).
+- Titanium SIF-29, 102; DynaSIF SIF-55, 87, 143; Sapphire SIF-96; Arudha SIF-40; Wealth Co SIF-105, 111; Arthaya SIF-114: data still 30 Sep (AMCs have not published October); the September factsheet package (key details, strategy notes, commentary) is still not written for these.
+- Diviniti SIF-21: October file loaded but no SIF factsheet found on sif.itiamc.com (only product note, KIM, ISID and presentation).
+- Summit SIF-177, Arudha SIF-62, Mahindra SIF-174: factsheet not located this session (Mahindra downloads page loads its list dynamically).
+- Kotak SIF-146 done from the factsheet Ashish supplied on 13 Nov; quant funds at 5 of 6 (commentary missing).
+- The page does not yet display the new commentary field (needs a WordPress page edit, awaiting approval).
+
+### AMC report card (share of the six-part package: Oct data, key details, strategy notes, commentary, risk band, exposure)
+| AMC | Funds | Done | Status |
+|---|---|---|---|
+| Apex (ABSL) | 80, 154, 156 | 100% | 🟩 |
+| iSIF (ICICI Pru) | 34, 35, 124, 126 | 100% | 🟩 |
+| Prism (Jio BlackRock) | 138 | 100% | 🟩 |
+| RedHex (HSBC) | 128 | 100% | 🟩 |
+| Altiva (Edelweiss) | 11, 122, 161 | 89% | 🟩 |
+| Infinity (Kotak) | 146 | 83% | 🟩 |
+| qsif (quant) | 3, 7, 25, 93, 117 | 83% | 🟩 |
+| Platinum (Mirae) | 136 | 33% | 🟧 waiting for factsheet |
+| Magnum (SBI) | 13, 157 | 33% | 🟧 waiting for factsheet |
+| Diviniti (ITI) | 21 | 33% | 🟧 no factsheet found |
+| Summit | 150, 177 | 25% | 🟧 |
+| Arudha (Bandhan) | 40, 62 | 25% | 🟧 |
+| Wealth Co | 105, 111 | 17% | 🟥 data 30 Sep |
+| Titanium (Tata) | 29, 102 | 17% | 🟥 data 30 Sep |
+| DynaSIF (360 ONE) | 55, 87, 143 | 17% | 🟥 data 30 Sep, site blocked |
+| Sapphire (Franklin) | 96 | 17% | 🟥 data 30 Sep |
+| Arthaya (Union) | 114 | 17% | 🟥 data 30 Sep, site blocked |
+| MSIF (Mahindra) | 174 | 17% | 🟥 |
+
 ## 2026-11-16 (later) Lisbon time (catch-up: Apex factsheet and fund manager commentary)
 Result: 3 funds updated (Apex SIF-80, SIF-154, SIF-156); facts.json committed and verified (36 funds, no "Mutual fund units" line).
 
