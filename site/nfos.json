@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-16",
+ "checked_at": "2026-11-17",
  "items": [
   {
    "name": "H-SIF Hybrid Long-Short Fund",
@@ -17,16 +17,17 @@
   },
   {
    "name": "Infinity Equity Long-Short Fund",
-   "amc": "Kotak Mutual Fund",
+   "amc": "Kotak Mahindra Mutual Fund",
    "strategy": "Equity Long-Short",
    "open": "2026-11-17",
    "close": "2026-12-01",
    "sources": [
-    "SEBI filings (Mutual Funds draft)"
+    "SEBI filings (Mutual Funds draft)",
+    "SIFPrime"
    ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
    "note": "NFO dates 17 Nov - 1 Dec 2026 per SIFscan; verify on Kotak SIF page. SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
-   "amfi": false,
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
+   "amfi": true,
    "first_seen": "2026-11-08"
   },
   {
