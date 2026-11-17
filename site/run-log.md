@@ -1,5 +1,62 @@
 # SIF Tracker daily run log
 
+## 2026-11-17 19:55 Lisbon time (catch-up)
+Result: 3 funds updated (SIF-29, SIF-102 loaded from the Tata October factsheet; SIF-169 added as a new fund). facts.json committed and verified (37 funds, none lost).
+
+**Updates found and made**
+- SIF-29 Titanium Hybrid Long-Short: factsheet, 31 Oct 2026, Rs 522.2 cr (was 540.57 cr). Key details, 6M and since-inception returns, debt quality written.
+- SIF-102 Titanium Equity Long-Short: factsheet, 31 Oct 2026, Rs 341.0 cr (was 343.89 cr). Key details written.
+- SIF-169 Titanium Active Asset Allocator Long-Short (new fund): factsheet, 31 Oct 2026, Rs 340.4 cr; split from Tata's own portfolio summary (Fixed income 52.5, Covered calls 25, Cash future arbitrage 11.5, InvITs 10).
+
+**Updates available but not made, or only partly made**
+- Tata factsheet-only funds have no top 10 for SIF-169, no unhedged averages, no sector or holdings refresh; their 30 Sep cards are marked stale. Tata's October portfolio workbook is not out yet; it replaces the factsheet figures when published.
+
+### Data completeness
+Up to date: 32 of 39 SIF funds (82%) have data as on 31 Oct 2026
+of which 23 from the full Excel portfolio and 9 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF / Wealth Co | 30 Sep 2026 | Excel published every two months; newest is 30 Sep, no factsheet exists |
+| SIF-55, SIF-87, SIF-143 | DynaSIF / 360 ONE | 30 Sep 2026 | Page blocked (Cloudflare Attention Required) |
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Excel and factsheet newest are 30 Sep (checked 19:5x), October not out |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Newest monthly Excel is 30 Sep; no October file or factsheet |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com would not open in the browser pane |
+| SIF-183 Eminence Hybrid, SIF-190 Select Equity Ex-Top 100 | AMC not yet identified | not in tracker yet | In the NAV feed, no facts entry; not looked at in this catch-up |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | DynaSIF / 360 ONE | Cloudflare "Attention Required" (403) | Will retry automatically next run |
+| 2 | Site would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 3 | Risk band not read | Tata SIF-29, SIF-102, SIF-169 | Gauge is an image; the pane rendered it too slowly to read. SIF-29 and SIF-102 keep 5; SIF-169 has none yet | Will retry automatically next run |
+| 4 | No factsheet exposure figures | Tata SIF-29, SIF-102, SIF-169 | Tata prints month-end exposure only, no monthly averages; unhedged card shown as updating | Will retry automatically next run (the workbook replaces it) |
+| 5 | Monthly returns and strategy overview not written | Tata SIF-29, SIF-102, SIF-169 | Factsheet has no monthly returns table; no strategy buckets for SIF-29 and SIF-102 | Will retry automatically next run |
+| 6 | New split labels need help entries | SIF-169 | "Cash future arbitrage" and "Covered calls" may lack a "?" entry in WordPress page 896 | Needs Ashish: confirm labels are in the glossary, or sign in to wp-admin so the next run adds them |
+| 7 | New funds not added | SIF-183, SIF-190 | AMC and files not identified in this catch-up | Will retry automatically next full run |
+
+### AMC by AMC (catch-up: AMCs checked only)
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Titanium / Tata | SIF-29, 102, 169 | 31 Oct 2026 (factsheet) | 🟧 50% | yes (CMS API) | 30 Sep 2026 | 31 Oct 2026 | loaded from factsheet | 0% -> 50% |
+| WSIF / Wealth Co | SIF-105, 111 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | none exists | nothing new | none |
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 30 Sep 2026 | 🟥 0% | blocked | unknown | unknown | skipped: Cloudflare | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | 30 Sep 2026 | nothing new | none |
+| Arudha / Bandhan | SIF-40, 62 | SIF-40 30 Sep; SIF-62 31 Oct | 🟥 0% / loaded | yes | 30 Sep 2026 | none newer | nothing new | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟥 0% | blocked | unknown | unknown | skipped: site would not open | none |
+other AMCs: unchanged since the earlier run today
+
+Industry AUM (AMFI): not re-checked in this catch-up
+Strategy-split check (Step 3g): not run in this catch-up
+Key-details check (Step 3h): written for SIF-29, SIF-102, SIF-169 (Tata); no backfill in this catch-up
+
+### Funds changed
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band | Unhedged long/short | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-29 | Tata factsheet | 2026-09-30 -> 2026-10-31 | 540.57 -> 522.2 | 5 -> 5 | frozen (pending) | top 10, key details, performance, debt quality, stale_sections |
+| SIF-102 | Tata factsheet | 2026-09-30 -> 2026-10-31 | 343.89 -> 341.0 | 5 -> 5 | frozen (pending) | top 10, key details, stale_sections |
+| SIF-169 | Tata factsheet | new fund -> 2026-10-31 | none -> 340.4 | none | pending | new entry, split from AMC summary, key details, debt quality |
+
 ## 2026-11-17 08:45 Lisbon time
 Result: nothing changed; facts.json not committed.
 
