@@ -1,5 +1,50 @@
 # SIF Tracker daily run log
 
+## 2026-11-17 08:45 Lisbon time
+Result: nothing changed; facts.json not committed.
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+None found. No October files are out yet for the 10 funds still on 30 Sep.
+
+### Data completeness
+Up to date: 29 of 39 SIF funds (74%) have data as on 31 Oct 2026
+of which 24 from the full Excel portfolio and 5 from the factsheet only (SIF-117, 146, 25, 3, 7, 93 are factsheet-only; count approximate)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-102, SIF-29 | Titanium / Tata | 30 Sep 2026 | AMC has not published October (API newest is 30 Sep for both portfolio and factsheet) |
+| SIF-105, SIF-111 | WSIF / Wealth Co | 30 Sep 2026 | Excel published every two months; newest is 30 Sep, no factsheet exists |
+| SIF-55, SIF-87, SIF-143 | DynaSIF / 360 ONE | 30 Sep 2026 | Page blocked (Cloudflare Attention Required) |
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Page opened; no newer file found by the quick check, will recheck |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Downloads page lists factsheets and snapshots only up to September |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com would not open in the browser pane |
+| SIF-169, SIF-183, SIF-190 | various | not in tracker yet | In the NAV feed but no facts entry; not looked at in this short run |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Page blocked | 360 ONE, SIF-55/87/143 | Cloudflare "Attention Required" | Will retry automatically next run |
+| 2 | Site would not open | Arthaya, SIF-114 | unionmf.com navigation denied or failed | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+| 3 | Not checked | SIF-169, 183, 190 | Missing from facts.json | Will retry automatically next run |
+| 4 | Short run | All AMCs already at target month | Not re-opened, already at target month; sweeps (3c, 3f, 3g, 3h) not run | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Page opened | Action |
+|---|---|---|---|---|
+| Tata (Titanium) | 29, 102 | 30 Sep | yes (API) | nothing new |
+| Wealth Co | 105, 111 | 30 Sep | yes | nothing new (newest 30 Sep) |
+| 360 ONE | 55, 87, 143 | 30 Sep | blocked | skipped |
+| Franklin | 96 | 30 Sep | yes | nothing new found |
+| Arudha | 40 | 30 Sep | yes | nothing new |
+| Union (Arthaya) | 114 | 30 Sep | blocked | skipped |
+| other AMCs | | 31 Oct | not re-opened, already at target month | none |
+
+Industry AUM (AMFI): not checked in this run.
+
+
 ## 2026-11-16 (deep dive) Lisbon time (catch-up: L24-L30 applied fund by fund)
 Result: facts.json committed three times (Prism SIF-138 full package; RedHex SIF-128 full package; Altiva commentary for SIF-11, 122, 161). Earlier today: Apex (80, 154, 156) and iSIF (34, 35, 124, 126) written in full; rules L24-L30 added; glossary entries for Fixed income and Special situations rewritten.
 
