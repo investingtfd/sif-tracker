@@ -31,6 +31,21 @@
    "first_seen": "2026-11-08"
   },
   {
+   "name": "MSIF Hybrid Long-Short Fund",
+   "amc": "Mahindra Manulife Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": "2026-11-27",
+   "close": "2026-12-11",
+   "sources": [
+    "SEBI filings (Mutual Funds draft)",
+    "SIFscan"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/aug-2026/msif-hybrid-long-short-fund_104069.html",
+   "note": "NFO dates 27 Nov - 11 Dec 2026 per SIFscan; verify on Mahindra Manulife MSIF page. SEBI draft filed 28 Aug 2026 by Mahindra Manulife Mutual Fund (MSIF).",
+   "amfi": false,
+   "first_seen": "2026-11-08"
+  },
+  {
    "name": "Altiva Active Asset Allocator Long-Short Fund",
    "amc": "Edelweiss Mutual Fund",
    "strategy": "Active Asset Allocator Long-Short",
@@ -132,20 +147,6 @@
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-active-asset-allocator-long-short-fund_102355.html",
    "note": "Upcoming soon: SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
-   "amfi": false,
-   "first_seen": "2026-11-08"
-  },
-  {
-   "name": "MSIF Hybrid Long-Short Fund",
-   "amc": "Mahindra Manulife Mutual Fund",
-   "strategy": "Hybrid Long-Short",
-   "open": null,
-   "close": null,
-   "sources": [
-    "SEBI filings (Mutual Funds draft)"
-   ],
-   "url": "https://www.sebi.gov.in/filings/mutual-funds/aug-2026/msif-hybrid-long-short-fund_104069.html",
-   "note": "Upcoming soon: SEBI draft filed 28 Aug 2026 by Mahindra Manulife Mutual Fund (MSIF). No NFO dates announced yet; launch not confirmed.",
    "amfi": false,
    "first_seen": "2026-11-08"
   },
