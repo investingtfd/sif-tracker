@@ -92,7 +92,7 @@ def ixrow(k):
     r['1D'] = f(sr[-2]); ref = on_or_before(sr, (last - datetime.timedelta(days=7)).isoformat()); r['1W'] = f(ref)
     for kk, m in (('1M', 1), ('3M', 3), ('6M', 6)): r[kk] = f(on_or_before(sr, minus_months(last, m).isoformat()))
     r['nav'] = sr[-1][1]; r['name'] = IX[k]['name']; r['d'] = last; return r
-IXR = [ixrow(k) for k in ('nifty100', 'midsmall400') if k in IX]  # Nifty 100 + MidSmallcap 400 (400 shows once its data is in indices.json)
+IXR = [ixrow(k) for k in ('nifty100', 'nifty500') if k in IX]  # Nifty 100 + Nifty 500
 
 INK, PAPER, CARD, GRN, RED, MU, LINE = '#14221e', '#f6f2e8', '#ffffff', '#1f6f5c', '#b6452c', '#5a6a65', '#e4dcc6'
 def tint(v, col):
