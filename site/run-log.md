@@ -1,5 +1,64 @@
 # SIF Tracker daily run log
 
+## 2026-11-18 07:58 Lisbon time
+Result: 3 funds updated (SIF-55, SIF-87, SIF-143 from the DynaSIF October factsheet). facts.json committed and verified (37 funds, none lost, no risk band lost).
+
+**Updates found and made**
+- SIF-55 DynaSIF Equity Long-Short: factsheet, 31 Oct 2026, Rs 401.25 cr (was 403.87 cr), risk band 5. Top 10, key details, 6M and since-inception returns written.
+- SIF-87 DynaSIF Active Asset Allocator Long-Short: factsheet, 31 Oct 2026, Rs 428.22 cr (was 377.21 cr), risk band 2. Top positions (REITs and InvITs), key details, returns, debt quants (YTM 7.99%) written.
+- SIF-143 DynaSIF Equity Ex-Top 100 Long-Short: factsheet, 31 Oct 2026, Rs 401.07 cr (was 343.17 cr), risk band 5. Top 10, key details written.
+
+**Updates available but not made, or only partly made**
+- DynaSIF funds are factsheet-only: no holdings count, asset split, sectors or unhedged card for October (the 360 ONE Excel is published every two months; marked stale as on 30 Sep). The factsheet states no average exposures, so the unhedged card shows as updating. No monthly returns table or strategy buckets in the factsheet, so those were not written.
+- Infinity SIF-146: Kotak workbook loader stopped on a factsheet check ("reit rows add to 12.66 but the heading says 5.26"); entry left as it is (already on 31 Oct).
+- Step 3h factsheet pass for the other AMCs (Mirae, Invesco, ITI, SBI, Arudha SIF-62, Wealth Co, Franklin, Apex, iSIF, RedHex, quant) and the Step 3g/3e/3c sweeps were NOT run in this firing, only the AMCs below the target month and factsheet-only AMCs were checked.
+
+### Data completeness
+Up to date: 32 of 39 SIF funds (82%) have data as on 31 Oct 2026
+of which 20 from the full Excel portfolio and 12 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF / Wealth Co | 30 Sep 2026 | Excel published every two months, newest is 30 Sep; no factsheet exists |
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Excel and factsheet newest are 30 Sep; October not out |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Newest monthly Excel and factsheet are September; no October file |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com would not open in the browser pane |
+| SIF-183 Eminence Hybrid (Eminence SIF), SIF-190 Select Equity Ex-Top 100 (Sundaram) | Eminence / Sundaram | not in tracker yet | New funds, NAV only since 9 and 11 Nov 2026; first portfolio is as on 30 Nov |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | unionmf.com navigation denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Kotak workbook loader error | Infinity SIF-146 | Factsheet reader check failed (REIT rows 12.66 vs heading 5.26) | Will retry automatically next run |
+| 3 | No factsheet exposure figures | DynaSIF SIF-55, 87, 143 | Factsheet has no monthly average exposures; unhedged card shown as updating | Will retry automatically next run (the Excel replaces it) |
+| 4 | Ex-factsheet extras not written | DynaSIF SIF-55, 87, 143 | No monthly returns table, strategy buckets or TER base figure in the factsheet (TER total stored) | Will retry automatically next run |
+| 5 | Sweeps and factsheet pass not run | Other AMCs | This firing was limited to AMCs below the target month and factsheet-only AMCs | Will retry automatically next full run |
+| 6 | Industry AUM not checked | AMFI | Not checked in this firing | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| DynaSIF / 360 ONE | SIF-55, 87, 143 | 31 Oct 2026 (factsheet) | 🟧 50% | yes | Mar 2026 (only one listed) | 31 Oct 2026 | loaded from factsheet | 0% -> 50% |
+| WSIF / Wealth Co | SIF-105, 111 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | none exists | nothing new | none |
+| Sapphire / Franklin | SIF-96 | 30 Sep 2026 | 🟥 0% | yes | 30 Sep 2026 | 30 Sep 2026 | nothing new | none |
+| Arudha / Bandhan | SIF-40, 62 | SIF-40 30 Sep; SIF-62 31 Oct | 🟥 0% / loaded | yes | 30 Sep 2026 | 30 Sep 2026 | nothing new | none |
+| Arthaya / Union MF | SIF-114 | 30 Sep 2026 | 🟥 0% | blocked | unknown | unknown | skipped: site would not open | none |
+| Titanium / Tata | SIF-29, 102, 169 | 31 Oct 2026 (factsheet) | 🟧 50% | yes (CMS API) | 30 Sep 2026 | 31 Oct 2026 (loaded 17 Nov) | nothing new | none |
+| qsif / quant | SIF-3, 7, 25, 93, 117 | 31 Oct 2026 (factsheet) | 🟧 50% | yes | 30 Sep 2026 | 31 Oct 2026 (loaded earlier) | nothing new | none |
+| Infinity / Kotak | SIF-146 | 31 Oct 2026 (factsheet) | 🟧 50% | yes | not read (loader error) | 31 Oct 2026 | skipped: loader error | none |
+| Altiva, HSBC, Mirae, Invesco, Prism, ITI, SBI, iSIF, Apex, Eminence/Sundaram | rest | 31 Oct 2026 (Excel) | 🟩 100% | not re-opened, already at target month | - | - | not re-opened | none |
+
+Industry AUM (AMFI): not checked in this firing
+Strategy-split check (Step 3g): not run in this firing
+Key-details check (Step 3h): written for SIF-55, SIF-87, SIF-143; other funds still without scheme_details were not backfilled in this firing (SIF-136, 105, 111, 150, 96, 21, 13, 157, 40, 62, 114, 177)
+
+### Funds changed
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band | Unhedged long/short | Other fields changed |
+|---|---|---|---|---|---|---|
+| SIF-55 | DynaSIF factsheet | 2026-09-30 -> 2026-10-31 | 403.87 -> 401.25 | 5 -> 5 | frozen (pending) | top 10, key details, performance, stale_sections, factsheet_only |
+| SIF-87 | DynaSIF factsheet | 2026-09-30 -> 2026-10-31 | 377.21 -> 428.22 | 2 -> 2 | frozen (pending) | top positions, key details, performance, debt quants, stale_sections, factsheet_only |
+| SIF-143 | DynaSIF factsheet | 2026-09-30 -> 2026-10-31 | 343.17 -> 401.07 | 5 -> 5 | frozen (pending) | top 10, key details, stale_sections, factsheet_only |
+
 ## 2026-11-17 19:55 Lisbon time (catch-up)
 Result: 3 funds updated (SIF-29, SIF-102 loaded from the Tata October factsheet; SIF-169 added as a new fund). facts.json committed and verified (37 funds, none lost).
 
@@ -2738,5 +2797,6 @@ Note: for Tata SIF-102 the top positions come from the factsheet table "Top 10 N
 | Titanium Hybrid Long-Short (SIF-29) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 587.04 -> 540.57 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | split_source, factsheet_only (top positions not changed) |
 | Titanium Equity Long-Short (SIF-102) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 275.64 -> 343.9 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
 | Sapphire Equity Long-Short (SIF-96) | Factsheet | 31 Jul 2026 -> 31 Aug 2026 | 204.5 -> 216.02 | 5 -> 5 (read; benchmark 3) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
+
 
 
