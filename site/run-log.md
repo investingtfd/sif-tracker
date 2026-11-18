@@ -13,6 +13,8 @@ Result: 3 funds updated (SIF-55, SIF-87, SIF-143 from the DynaSIF October factsh
 - Infinity SIF-146: Kotak workbook loader stopped on a factsheet check ("reit rows add to 12.66 but the heading says 5.26"); entry left as it is (already on 31 Oct).
 - Step 3h factsheet pass for the other AMCs (Mirae, Invesco, ITI, SBI, Arudha SIF-62, Wealth Co, Franklin, Apex, iSIF, RedHex, quant) and the Step 3g/3e/3c sweeps were NOT run in this firing, only the AMCs below the target month and factsheet-only AMCs were checked.
 
+**Follow-up, same day (later commits):** "How this fund works" (strategy_overview) written for SIF-55, 87, 143 (DynaSIF) and then SIF-136, 105, 111, 150, 29, 102, 169, 96, 21, 13, 157, 40, 62 from each AMC's latest factsheet or fund page (Mirae, Invesco, Franklin, ITI, Arudha are on their September factsheet because October is not out, so as_on is 30 Sep; SBI 30 Oct; Tata 31 Oct; Wealth Co has no factsheet, fund page used). Still without one: SIF-114 (Arthaya, site blocked), SIF-177 (Summit Active Asset Allocator, no factsheet yet), SIF-174 (Mahindra Manulife MSIF, AMC not in the tracked list, not yet read). Strategy buckets without a split line (short exposure, commodities, tactical trades) carry an empty match.
+
 ### Data completeness
 Up to date: 32 of 39 SIF funds (82%) have data as on 31 Oct 2026
 of which 20 from the full Excel portfolio and 12 from the factsheet only (full portfolio still to come)
