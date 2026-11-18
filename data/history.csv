@@ -18780,3 +18780,35 @@ date,scheme_code,scheme_name,provider,category,plan,option,nav,isin_growth,isin_
 2026-11-17,SIF-97,Sapphire Equity Long-Short SIF,Sapphire SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW,1021.6315,INF090I30030,INF090I30022
 2026-11-17,SIF-98,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Payout Option,10.7363,INF277K30096,
 2026-11-17,SIF-99,Titanium Equity Long-Short Fund,Titanium SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,10.841,INF277K30104,
+2026-11-18,SIF-104,WSIF Equity Ex-Top 100 Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW,10.6639,INF2F0030056,INF2F0030064
+2026-11-18,SIF-105,WSIF Equity Ex-Top 100 Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,Growth,10.5481,INF2F0030015,
+2026-11-18,SIF-106,WSIF Equity Ex-Top 100 Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW,10.5488,INF2F0030023,INF2F0030031
+2026-11-18,SIF-107,WSIF Equity Ex-Top 100 Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,Growth,10.6874,INF2F0030049,
+2026-11-18,SIF-108,WSIF Equity Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth,10.6993,INF2F0030106,
+2026-11-18,SIF-110,WSIF Equity Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW,10.583,INF2F0030080,INF2F0030098
+2026-11-18,SIF-111,WSIF Equity Long-Short Fund,WSIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Growth,10.5824,INF2F0030072,
+2026-11-18,SIF-138,Prism Hybrid Long - Short Fund,Prism SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Growth Option,10.2901,INF22M030019,
+2026-11-18,SIF-139,Prism Hybrid Long - Short Fund,Prism SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Growth Option,10.3309,INF22M030027,
+2026-11-18,SIF-140,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,GROWTH OPTION,11.2832,INF579M30166,
+2026-11-18,SIF-141,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Direct,IDCW Option,11.2832,INF579M30174,INF579M30182
+2026-11-18,SIF-143,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,GROWTH OPTION,11.1947,INF579M30133,
+2026-11-18,SIF-144,DynaSIF Equity Ex-Top 100 Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund),Regular,IDCW Option,11.1947,INF579M30141,INF579M30158
+2026-11-18,SIF-19,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth Option,924.1722,INF00XX30043,
+2026-11-18,SIF-20,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,924.1722,INF00XX30050,INF00XX30068
+2026-11-18,SIF-21,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Growth Option,910.9679,INF00XX30019,
+2026-11-18,SIF-22,Diviniti Equity Long Short Fund,Diviniti SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Option,910.9679,INF00XX30027,INF00XX30035
+2026-11-18,SIF-40,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Growth,10.445,INF194K30010,
+2026-11-18,SIF-43,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Fortnightly IDCW,10.001,INF194K30044,INF194K30127
+2026-11-18,SIF-44,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Regular,Monthly IDCW,10.445,INF194K30051,INF194K30135
+2026-11-18,SIF-48,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Half Yearly IDCW,10.48,INF194K30242,INF194K30325
+2026-11-18,SIF-51,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Annual IDCW,10.386,INF194K30259,INF194K30333
+2026-11-18,SIF-54,Arudha Hybrid Long-Short Fund,Arudha SIF,Interval Fund Schemes(Hybrid Investment Strategies - Hybrid Long-Short Fund),Direct,Growth,10.484,INF194K30184,
+2026-11-18,SIF-55,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,GROWTH OPTION,10.4674,INF579M30018,
+2026-11-18,SIF-57,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,GROWTH OPTION,10.5829,INF579M30042,
+2026-11-18,SIF-59,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,IDCW Option,10.4674,INF579M30026,INF579M30034
+2026-11-18,SIF-60,DynaSIF Equity Long - Short Fund,DynaSIF SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,IDCW Option,10.5829,INF579M30059,INF579M30067
+2026-11-18,SIF-61,Arudha Equity Long-Short Fund,Arudha SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Direct,Growth,10.647,INF194K30523,
+2026-11-18,SIF-62,Arudha Equity Long-Short Fund,Arudha SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Growth,10.542,INF194K30358,
+2026-11-18,SIF-69,Arudha Equity Long-Short Fund,Arudha SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Monthly IDCW,10.409,INF194K30390,INF194K30473
+2026-11-18,SIF-71,Arudha Equity Long-Short Fund,Arudha SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Quarterly IDCW,10.542,INF194K30408,INF194K30481
+2026-11-18,SIF-75,Arudha Equity Long-Short Fund,Arudha SIF,Open Ended Schemes(Equity Oriented Investment Strategies - Equity Long-Short Fund),Regular,Annual IDCW,10.247,INF194K30424,INF194K30507
