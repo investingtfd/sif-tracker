@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T08:07:24.091Z",
+ "updated_at": "2026-11-18T08:15:48.886Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -933,7 +933,48 @@
    "as_of": "2026-10-31",
    "source": "Mirae Asset Mutual Fund monthly portfolio disclosure",
    "source_url": "https://platinumsif.miraeassetmf.co.in/forms-downloads/regulatory/portfolio",
-   "split_source": "Platinum SIF monthly portfolio as on 31 Oct 2026. Equity strategies is all equity not netted by futures (collar, special situations and other strategies); the AMC strategy split is not carried forward from an earlier month until the October factsheet is read."
+   "split_source": "Platinum SIF monthly portfolio as on 31 Oct 2026. Equity strategies is all equity not netted by futures (collar, special situations and other strategies); the AMC strategy split is not carried forward from an earlier month until the October factsheet is read.",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Platinum SIF factsheet, September 2026 data (fund manager commentary)",
+    "tagline": "Downside protection and participation in market opportunities, balanced through a collar strategy, arbitrage, tactical trades and special situations, and fixed income.",
+    "buckets": [
+     {
+      "name": "Collar strategy",
+      "group": "Equity-linked strategies",
+      "match": [
+       "Equity strategies"
+      ],
+      "text": "Stock held with options protection, aiming to keep participation in the upside while limiting the downside.",
+      "note": "Averaged about 44% of the portfolio in September; about 36% at month-end."
+     },
+     {
+      "name": "Arbitrage",
+      "group": "Equity-linked strategies",
+      "match": [
+       "Arbitrage (hedged equity)"
+      ],
+      "text": "Arbitrage opportunities in the market.",
+      "note": "Averaged about 20% in September; about 25% at month-end."
+     },
+     {
+      "name": "Tactical trades and special situations",
+      "group": "Equity-linked strategies",
+      "match": [],
+      "text": "Tactical trades and special situations; the manager stays selective because spreads have compressed.",
+      "note": "Averaged about 6% in September; about 7% at month-end."
+     },
+     {
+      "name": "Debt",
+      "group": "Fixed income",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Government securities, treasury bills and high-quality corporate bonds for stability, liquidity and yield.",
+      "note": "Averaged about 29% in September; about 30% at month-end. Yield 6.52%, modified duration 1.57 years."
+     }
+    ]
+   }
   },
   "SIF-128": {
    "allocation": [
@@ -1373,7 +1414,30 @@
    "name": "WSIF Equity Ex-Top 100 Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/"
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "WSIF fund page (The Wealth Company)",
+    "tagline": "Long-term capital appreciation from stocks outside the top 100 by market capitalisation, with limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity beyond the top 100",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Predominantly equity and equity-related instruments of companies beyond the top 100 by full market capitalisation, using an active and dynamic approach.",
+      "note": "The AMC states no monthly commentary on its fund page."
+     },
+     {
+      "name": "Limited short exposure",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure through derivative instruments (up to 25%) as permitted by regulations.",
+      "note": ""
+     }
+    ]
+   }
   },
   "SIF-111": {
    "allocation": [
@@ -1508,7 +1572,30 @@
    "name": "WSIF Equity Long-Short Fund",
    "as_of": "2026-09-30",
    "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/"
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "WSIF fund page (The Wealth Company)",
+    "tagline": "Long-term capital appreciation from a diversified portfolio of equity and equity-related instruments, with limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Predominantly equity and equity-related instruments, based on fundamental analysis, valuation and portfolio discipline.",
+      "note": "The AMC states no monthly commentary on its fund page."
+     },
+     {
+      "name": "Limited short exposure",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure through derivative instruments as part of the overall approach.",
+      "note": ""
+     }
+    ]
+   }
   },
   "SIF-150": {
    "allocation": [
@@ -1629,7 +1716,30 @@
    "source": "Invesco Mutual Fund monthly portfolio disclosure",
    "source_url": "https://summitsif.invescomutualfund.com/literature-forms/monthly-holdings/monthly-holdings",
    "unhedged_note": "No derivatives used: as on 31 Oct 2026 the fund holds no futures or options, so there are no unhedged derivative positions. Summit Equity has not used unhedged derivatives since Sep 2026 (2 months running).",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_zero_since": "2026-09-30",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Summit SIF factsheet, September 2026",
+    "tagline": "Long-term capital appreciation from equity, combining directional equity investments with tactical short positions.",
+    "buckets": [
+     {
+      "name": "Directional equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Investment primarily in equity and equity-related instruments.",
+      "note": "Equity and equity-related instruments were 93.5% of net assets in the September factsheet."
+     },
+     {
+      "name": "Tactical short positions",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Tactical short positions through derivative instruments, aiming for risk-adjusted returns above long-only strategies.",
+      "note": ""
+     }
+    ]
+   }
   },
   "SIF-29": {
    "allocation": [
@@ -1930,6 +2040,49 @@
       "AA+ and below",
       65.59
      ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Tata Titanium SIF monthly factsheet, 31 Oct 2026",
+    "tagline": "Medium to long term capital appreciation from equity and debt, including limited short exposure in equity and debt through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity (unhedged)"
+      ],
+      "text": "Equity and equity-related instruments, including REITs.",
+      "note": "Cash equity including REITs was 57.5% of net assets at October month-end; net equity exposure 58.8%."
+     },
+     {
+      "name": "Debt and money market",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and money market instruments.",
+      "note": "Government securities 3.8%, bonds and debentures 20.9%, money market 9.5%, repo 4.9% at October month-end."
+     },
+     {
+      "name": "Derivatives, long and short",
+      "group": "Investment strategy",
+      "match": [
+       "Arbitrage (hedged equity)"
+      ],
+      "text": "Long and short derivative positions in equity and debt.",
+      "note": "Long derivatives 8.4% and short derivatives -7.1% of net assets; gross equity exposure 73.0%."
+     },
+     {
+      "name": "REITs",
+      "group": "Investment strategy",
+      "match": [
+       "REITs"
+      ],
+      "text": "Real estate investment trusts held alongside the equity book.",
+      "note": ""
+     }
     ]
    }
   },
@@ -2685,7 +2838,30 @@
    "as_of": "2026-09-30",
    "source": "Franklin Templeton Mutual Fund monthly portfolio disclosure",
    "name": "Sapphire Equity Long-Short Fund",
-   "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports"
+   "source_url": "https://www.franklintempletonindia.com/sapphiresif/reports",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Sapphire SIF factsheet, September 2026",
+    "tagline": "Alpha over the long term by investing across large, mid and small cap companies using long/short equity strategies.",
+    "buckets": [
+     {
+      "name": "Long equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Equity and equity-related instruments across large, mid and small cap companies.",
+      "note": ""
+     },
+     {
+      "name": "Short exposure",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure in equity through derivative instruments.",
+      "note": "Outstanding derivative exposure was 2.41% of net assets in September."
+     }
+    ]
+   }
   },
   "SIF-102": {
    "allocation": [
@@ -2924,6 +3100,40 @@
       "role": "Fund manager",
       "experience_years": 7,
       "since": "2026-05-20"
+     }
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Tata Titanium SIF monthly factsheet, 31 Oct 2026",
+    "tagline": "Medium to long term capital appreciation from listed equity, including limited short exposure in equity through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity (unhedged)"
+      ],
+      "text": "Listed equity and equity-related instruments.",
+      "note": "Cash equity including REITs was 84.3% of net assets at October month-end; net equity exposure 88.1%."
+     },
+     {
+      "name": "Debt and money market",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and money market instruments, including cash.",
+      "note": "Money market instruments 11.7% at October month-end."
+     },
+     {
+      "name": "Derivatives, long and short",
+      "group": "Investment strategy",
+      "match": [
+       "Arbitrage (hedged equity)"
+      ],
+      "text": "Long and short equity derivatives.",
+      "note": "Long derivatives 9.2% and short derivatives -5.4%; gross equity exposure 98.9%."
      }
     ]
    }
@@ -5164,7 +5374,39 @@
    "name": "Diviniti Equity Long-Short Fund",
    "as_of": "2026-10-31",
    "source": "ITI Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://sif.itiamc.com/Disclosure?category=PORTFOLIO%20DISCLOSURES"
+   "source_url": "https://sif.itiamc.com/Disclosure?category=PORTFOLIO%20DISCLOSURES",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Diviniti SIF factsheet, September 2026",
+    "tagline": "Long-term capital appreciation from a diversified equity portfolio across market capitalisations, with limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Long strategy",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "A diversified portfolio of equity and equity-related securities across market capitalisation.",
+      "note": "Net equity allocation 71.09% in September; no. of scrips 58."
+     },
+     {
+      "name": "Short strategy",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure in equity through derivative instruments.",
+      "note": ""
+     },
+     {
+      "name": "Debt and cash",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and cash equivalents.",
+      "note": "Government securities 4.01%, TREPS and cash 24.90% in September."
+     }
+    ]
+   }
   },
   "SIF-13": {
    "allocation": [
@@ -5347,7 +5589,51 @@
    "source_url": "https://www.sbimf.com/magnumsif-portfolios",
    "split_source": "Magnum Hybrid invests mainly in covered calls, arbitrage and debt (SBI factsheet objective), so the hedged-equity bucket is shown as Arbitrage and covered calls. Equity (unhedged) is the unhedged equity part. Portfolio workbook, 31 Oct 2026",
    "unhedged_note": "No unhedged derivative positions as on 31 Oct 2026. The futures the fund holds are hedges against matching holdings (arbitrage), not directional bets.",
-   "unhedged_zero_since": "2026-09-30"
+   "unhedged_zero_since": "2026-09-30",
+   "strategy_overview": {
+    "as_on": "2026-10-30",
+    "source": "SBI Magnum SIF factsheet, October 2026",
+    "tagline": "Long term capital appreciation from an interval strategy investing predominantly in equity and debt, including limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity (unhedged)"
+      ],
+      "text": "Equity shares, held predominantly alongside debt.",
+      "note": "Equity shares were 66.98% of net assets at 30 Oct, before derivative hedges."
+     },
+     {
+      "name": "Arbitrage and covered calls",
+      "group": "Investment strategy",
+      "match": [
+       "Arbitrage and covered calls"
+      ],
+      "text": "Limited short exposure in equity and debt through derivatives.",
+      "note": ""
+     },
+     {
+      "name": "Debt",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt securities.",
+      "note": "NCDs 15.75%, T-bills 6.34%, government securities 2.53%, cash and others 3.86%."
+     },
+     {
+      "name": "REITs and InvITs",
+      "group": "Investment strategy",
+      "match": [
+       "REITs",
+       "InvITs"
+      ],
+      "text": "Real estate and infrastructure investment trusts.",
+      "note": "REITs 0.79% and InvITs 3.75%."
+     }
+    ]
+   }
   },
   "SIF-157": {
    "allocation": [
@@ -5527,7 +5813,39 @@
    "as_of": "2026-10-31",
    "source": "SBI Mutual Fund monthly portfolio disclosure",
    "source_url": "https://www.sbimf.com/magnumsif-portfolios",
-   "unhedged_source": "SBI Magnum SIF portfolio workbook, 31 Oct 2026"
+   "unhedged_source": "SBI Magnum SIF portfolio workbook, 31 Oct 2026",
+   "strategy_overview": {
+    "as_on": "2026-10-30",
+    "source": "SBI Magnum SIF factsheet, October 2026",
+    "tagline": "Long term capital appreciation from equity of stocks other than large caps, including limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity beyond large caps",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Equity and equity-related instruments of stocks other than large cap stocks.",
+      "note": "Added in October: HDFC Bank, ASM Technologies (preferential allotment), Bank of India. Reduced: Navin Fluorine, Kotak Mahindra Bank."
+     },
+     {
+      "name": "Limited short exposure",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure in equity through derivative instruments.",
+      "note": ""
+     },
+     {
+      "name": "Debt and T-bills",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Short-term T-bills and debt.",
+      "note": "91-day T-bills were among the top 10 holdings in October."
+     }
+    ]
+   }
   },
   "SIF-34": {
    "allocation": [
@@ -7870,7 +8188,33 @@
    "source": "Arudha Mutual Fund monthly portfolio disclosure",
    "source_url": "https://arudhasif.com/downloads/",
    "unhedged_note": "No unhedged derivative positions in August or September 2026. The futures the fund holds are short hedges against matching shares (arbitrage), not directional bets.",
-   "unhedged_zero_since": "2026-08-31"
+   "unhedged_zero_since": "2026-08-31",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Arudha SIF factsheet, September 2026",
+    "tagline": "An interval strategy investing in equity and debt securities, including limited short exposure in equity and debt through derivatives.",
+    "buckets": [
+     {
+      "name": "Debt",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt securities.",
+      "note": ""
+     },
+     {
+      "name": "Equity with derivative hedges",
+      "group": "Investment strategy",
+      "match": [
+       "Arbitrage (hedged equity)",
+       "Equity (unhedged)"
+      ],
+      "text": "Equity securities, with limited short exposure in equity and debt through derivatives.",
+      "note": ""
+     }
+    ]
+   }
   },
   "SIF-62": {
    "allocation": [
@@ -8078,7 +8422,48 @@
    "source_url": "https://arudhasif.com/downloads/",
    "benchmark": "NIFTY 500 TRI",
    "nav_regular_growth": 10.51,
-   "unhedged_source": "Arudha portfolio workbook, 31 Oct 2026 (as supplied by Bandhan Mutual Fund; futures classed as non-hedging by the AMC)"
+   "unhedged_source": "Arudha portfolio workbook, 31 Oct 2026 (as supplied by Bandhan Mutual Fund; futures classed as non-hedging by the AMC)",
+   "strategy_overview": {
+    "as_on": "2026-09-30",
+    "source": "Arudha SIF factsheet, September 2026",
+    "tagline": "Long-term capital appreciation from a diversified portfolio of equity and equity-related instruments, including limited short exposure through derivatives.",
+    "buckets": [
+     {
+      "name": "Equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "A diversified portfolio of equity and equity-related instruments.",
+      "note": ""
+     },
+     {
+      "name": "Limited short exposure",
+      "group": "Investment strategy",
+      "match": [],
+      "text": "Limited short exposure through derivatives.",
+      "note": ""
+     },
+     {
+      "name": "Debt",
+      "group": "Investment strategy",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and money market holdings.",
+      "note": ""
+     },
+     {
+      "name": "REITs",
+      "group": "Investment strategy",
+      "match": [
+       "REITs"
+      ],
+      "text": "Real estate investment trusts.",
+      "note": ""
+     }
+    ]
+   }
   },
   "SIF-146": {
    "name": "Infinity Hybrid Long-Short Fund",
@@ -9191,6 +9576,49 @@
       "AA+ and below",
       90.34
      ]
+    ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Tata Titanium SIF monthly factsheet, 31 Oct 2026",
+    "tagline": "Medium to long term capital appreciation from equity and debt, including limited short exposure in equity and debt through derivatives.",
+    "buckets": [
+     {
+      "name": "Fixed income",
+      "group": "Portfolio summary",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt and money market instruments, repo and cash, as grouped in Tata’s portfolio summary.",
+      "note": "52.5% of net assets. Yield to maturity 7.20%, modified duration 0.43 years."
+     },
+     {
+      "name": "Covered calls",
+      "group": "Portfolio summary",
+      "match": [
+       "Covered calls"
+      ],
+      "text": "Call options written against shares the fund already holds, to earn premium.",
+      "note": "25% of net assets in Tata’s portfolio summary."
+     },
+     {
+      "name": "Cash-future arbitrage",
+      "group": "Portfolio summary",
+      "match": [
+       "Cash future arbitrage"
+      ],
+      "text": "Shares bought in the cash market with the matching future sold.",
+      "note": "11.5% of net assets. A small commodities arbitrage position (-0.3%) is also listed."
+     },
+     {
+      "name": "InvITs",
+      "group": "Portfolio summary",
+      "match": [
+       "InvITs"
+      ],
+      "text": "Infrastructure investment trusts.",
+      "note": "About 10% of net assets."
+     }
     ]
    }
   }
