@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T07:55:41.900Z",
+ "updated_at": "2026-11-18T08:07:24.091Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -2175,6 +2175,32 @@
       "benchmark_pct": -5.98
      }
     ]
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Dyna SIF monthly factsheet, 31 Oct 2026 (objective and strategy description)",
+    "tagline": "Long-term capital appreciation from structural, cyclical and tactical opportunities in listed equities, with the option of hedging and limited shorting through derivatives.",
+    "buckets": [
+     {
+      "name": "Listed equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity (unhedged)"
+      ],
+      "text": "Investment in listed equity and equity-related instruments, using structural, cyclical and tactical opportunities.",
+      "note": "Largest October additions: Kotak Mahindra Bank (+0.75 points) and Bharti Airtel (+0.50). Largest reductions: IIFL Finance (-0.85) and Jyoti CNC Automation (-0.63)."
+     },
+     {
+      "name": "Hedging and shorting",
+      "group": "Investment strategy",
+      "match": [
+       "Arbitrage (hedged equity)",
+       "Futures (net)"
+      ],
+      "text": "Limited short exposure in equity through derivative instruments, and the option to hedge the equity book.",
+      "note": "Split percentages are as on 30 Sep 2026; the October split follows when the full portfolio is published."
+     }
+    ]
    }
   },
   "SIF-87": {
@@ -2434,6 +2460,50 @@
     "modified_duration_yr": 1.3,
     "avg_maturity_yr": 1.72,
     "macaulay_duration_yr": 1.38
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Dyna SIF monthly factsheet, 31 Oct 2026 (objective and strategy description)",
+    "tagline": "Capital appreciation and income from dynamic allocation across equity, debt, InvITs and commodities, layered with long-short derivative strategies.",
+    "buckets": [
+     {
+      "name": "Debt",
+      "group": "Asset classes",
+      "match": [
+       "Fixed income"
+      ],
+      "text": "Debt instruments for income generation.",
+      "note": "Portfolio yield to maturity 7.99%, average maturity 1.72 years, modified duration 1.30 years in October."
+     },
+     {
+      "name": "InvITs and REITs",
+      "group": "Asset classes",
+      "match": [
+       "REITs",
+       "InvITs"
+      ],
+      "text": "Investment in InvITs (and REIT units) as one of the asset classes the fund allocates across.",
+      "note": "Capital Infra Trust was the largest October addition (+1.01 points); Knowledge Realty Trust was reduced (-0.55)."
+     },
+     {
+      "name": "Equity and derivative strategies",
+      "group": "Asset classes",
+      "match": [
+       "Arbitrage (hedged equity)",
+       "Futures (net)",
+       "Equity (unhedged)"
+      ],
+      "text": "Equity, and equity and debt derivatives, including limited short exposure on permitted instruments.",
+      "note": "Split percentages are as on 30 Sep 2026; the October split follows when the full portfolio is published."
+     },
+     {
+      "name": "Commodity derivatives",
+      "group": "Asset classes",
+      "match": [],
+      "text": "Commodity derivatives, including limited short exposure.",
+      "note": "A silver futures position was reduced by 0.89 points in October."
+     }
+    ]
    }
   },
   "SIF-96": {
@@ -3040,6 +3110,31 @@
      }
     ],
     "ter_regular_pct": 2.47
+   },
+   "strategy_overview": {
+    "as_on": "2026-10-31",
+    "source": "Dyna SIF monthly factsheet, 31 Oct 2026 (objective and strategy description)",
+    "tagline": "Long-term capital appreciation from mid and small cap equities (stocks other than large caps), with the option of hedging and limited shorting through derivatives.",
+    "buckets": [
+     {
+      "name": "Mid and small cap equity",
+      "group": "Investment strategy",
+      "match": [
+       "Equity"
+      ],
+      "text": "Equity and equity-related instruments, primarily in mid and small cap stocks, using structural, cyclical and tactical opportunities.",
+      "note": "Largest October addition: Kotak Mahindra Bank (+2.60 points). Largest reductions: Ujjivan Small Finance Bank (-1.07) and Behari Lal Engineering (-0.82)."
+     },
+     {
+      "name": "Hedging and shorting",
+      "group": "Investment strategy",
+      "match": [
+       "Futures (net)"
+      ],
+      "text": "Limited short exposure in equity through derivatives, on stocks other than large caps.",
+      "note": "Split percentages are as on 30 Sep 2026; the October split follows when the full portfolio is published."
+     }
+    ]
    }
   },
   "SIF-3": {
