@@ -1,5 +1,49 @@
 # SIF Tracker daily run log
 
+## 2026-11-19 07:20 Lisbon time
+Result: nothing changed. facts.json not touched (no AMC had a newer file than already loaded).
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+None
+
+### Data completeness
+Up to date: 32 of 39 SIF funds (82%) have data as on 31 Oct 2026
+of which 20 from the full Excel portfolio and 12 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-105, SIF-111 | WSIF / Wealth Co | 30 Sep 2026 | Excel published every two months, newest still 30 Sep; no factsheet exists |
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Newest Excel and factsheet still 30 Sep; October not out |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Newest monthly Excel and factsheet still September |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com would not open in the browser pane |
+| SIF-183 | Eminence SIF | not in tracker yet | New fund, first NAV 9 Nov 2026, first portfolio not out yet |
+| SIF-190 | Sundaram (Select Equity Ex-Top 100) | not in tracker yet | New fund, first NAV 11 Nov 2026, first portfolio not out yet |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | Navigation to unionmf.com was refused in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Not run in this firing | Kotak SIF-146, other full-run sweeps (Steps 3c, 3e, 3g, 3h backfill) | Shortened run: only AMCs below the target month and new-fund codes were checked | Will retry automatically next run |
+| 3 | Two funds missing from tracker | SIF-183 Eminence Hybrid, SIF-190 Sundaram Select Equity Ex-Top 100 | New in the NAV feed (Nov 2026); first monthly portfolio due for 30 Nov | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| WSIF / Wealth Co | 105, 111 | 30 Sep | 🟥 0% | yes | 30 Sep | none exists | nothing new | none |
+| Sapphire / Franklin | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Arudha / Bandhan | 40, 62 | 30 Sep / 31 Oct | 🟧 mixed | yes | 30 Sep | Sep | nothing new | none |
+| Arthaya / Union MF | 114 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped: site refused | none |
+| Tata / Titanium | 29, 102, 169 | 31 Oct (factsheet) | 🟧 50% | yes (API) | 30 Sep | not re-checked | nothing new | none |
+| qsif | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | yes | 30 Sep (Nov file not out) | not re-checked | nothing new | none |
+| Other AMCs | all others | 31 Oct | see earlier run | not re-opened, already at target month | | | other AMCs: unchanged since the earlier run | none |
+
+Industry AUM (AMFI): as on 2026-10-31
+Strategy-split check (Step 3g): not run in this firing
+Key-details check (Step 3h): not run in this firing
+
 ## 2026-11-18 07:58 Lisbon time
 Result: 3 funds updated (SIF-55, SIF-87, SIF-143 from the DynaSIF October factsheet). facts.json committed and verified (37 funds, none lost, no risk band lost).
 
@@ -161,7 +205,6 @@ of which 24 from the full Excel portfolio and 5 from the factsheet only (SIF-117
 | other AMCs | | 31 Oct | not re-opened, already at target month | none |
 
 Industry AUM (AMFI): not checked in this run.
-
 
 ## 2026-11-16 (deep dive) Lisbon time (catch-up: L24-L30 applied fund by fund)
 Result: facts.json committed three times (Prism SIF-138 full package; RedHex SIF-128 full package; Altiva commentary for SIF-11, 122, 161). Earlier today: Apex (80, 154, 156) and iSIF (34, 35, 124, 126) written in full; rules L24-L30 added; glossary entries for Fixed income and Special situations rewritten.
@@ -680,7 +723,6 @@ Industry AUM (AMFI): not checked this run.
 Strategy-split check (Step 3g): not done this run.
 Key-details check (Step 3h): not done this run.
 
-
 ## 2026-11-11 16:30 Lisbon time (full sweep, partial; refreshed)
 Result: 8 funds updated to 31 Oct 2026 and 1 new fund added. facts.json committed and verified (35 entries, no risk band lost, no "Mutual fund units" line).
 
@@ -811,7 +853,6 @@ other AMCs: unchanged since the earlier run today
 
 Hedge review (Step 3d) agreed with the loader on all four (long within 0.5, short not above loader).
 
-
 ## 2026-11-09 10:30 Lisbon time (full sweep)
 Result: 4 funds updated (Apex SIF-80, SBI SIF-13 and SIF-157, Prism SIF-138). facts.json committed together with this log (34 entries, no risk band lost, no "Mutual fund units" or "REITs and InvITs" line).
 
@@ -895,8 +936,6 @@ Factsheet display check (Step 3i): not run today.
 | SIF-13 Magnum Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 3981.67 -> 3994.80 | 1 -> 1 | 0/0 -> 0/0 | AMC strategy split (Arbitrage and covered calls) kept |
 | SIF-157 Magnum Ex-Top 100 | Excel | 2026-09-30 -> 2026-10-31 | 1598.35 -> 1689.62 | 5 -> 5 | 19.44/0 -> 11.18/0 (six long futures, hand-read) | Gold ETF 2.81% shown as its own line; new "Gold ETF" definition |
 | SIF-138 Prism Hybrid | Excel | 2026-09-30 -> 2026-10-31 | 458.54 -> 616.59 | 1 -> 1 | 0/9.98 -> 0/9.18 | split carried at Sep proportions, REITs and InvITs separate |
-
-
 
 ## 2026-11-08 09:30 Lisbon time
 Result: 2 funds updated (Apex SIF-154, SIF-156). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
@@ -1192,7 +1231,6 @@ Result: quant SIF (SIF-3, 7, 25, 93, 117) now carry risk bands, key details, per
 |---|---|---|---|---|
 | 1 | Page would not open | Arthaya SIF-114 | unionmf.com refused in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
 
-
 ## 2026-11-05 Lisbon time (catch-up, asked by Ashish)
 Result: 5 funds updated (quant SIF, from the factsheet). facts.json committed and verified (34 entries, no risk band lost, no "Mutual fund units" line).
 
@@ -1237,7 +1275,6 @@ Not yet up to date: the other 31 funds (28 on 30 Sep 2026; SIF-169, SIF-174, SIF
 | Kotak | Sep 2026 | nothing new |
 | Arthaya | blocked | skipped |
 Industry AUM and Step 3g/3h checks: not run in this pass.
-
 
 ## 2026-11-05 08:02 Lisbon time
 Result: nothing changed. facts.json was not touched (SIF-11 was already on 31 Oct 2026 from the Altiva October factsheet, loaded by an earlier session; the other 33 tracked funds stay on 30 Sep 2026). Target month is 31 Oct 2026.
@@ -1915,7 +1952,6 @@ Result: 6 funds' splits improved (strategy split work, Step 3g). facts.json comm
 |---|---|---|---|---|
 | 1 | Union MF site would not open | Arthaya SIF-114 | Browser pane navigation to unionmf.com is denied | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
 
-
 ## 2026-10-22 11:05 Lisbon time
 Result: 3 funds updated (AMC-style split applied). facts.json committed and verified (34 funds, no risk band lost, no "Mutual fund units" line).
 
@@ -2096,7 +2132,6 @@ Industry AUM (AMFI): as on 30 Sep 2026
 
 Sweep (Step 3c): no "Mutual fund units" lines, no missing risk bands, all zero-unhedged notes in place; no fixes needed.
 
-
 ## 2026-10-18 10:40 Lisbon time (hedge re-check of every AMC)
 Result: 2 funds corrected (Prism SIF-138, Altiva Equity SIF-161) and the shared loader fixed. facts.json and adapters.js committed and verified (33 funds, no band lost, no "Mutual fund units" line).
 
@@ -2147,7 +2182,6 @@ Industry AUM (AMFI): not checked in this pass.
 | Prism Hybrid SIF-138 | Excel | 2026-09-30 (same) | same | same | 4.69/11.39 -> 4.69/10.02 | items cut from 14 to 4; note explains AMC's hedging sections |
 | Altiva Equity SIF-161 | Excel | 2026-09-30 (same) | same | same | "Updating" -> 6.66/0 | unhedged_pending removed |
 
-
 ## 2026-10-18 08:35 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had newer data).
 
@@ -2191,7 +2225,6 @@ Not yet up to date: none.
 Industry AUM (AMFI): as on 30 Sep 2026
 
 Classification sweep (no Mutual fund units lines, no-unhedged notes and streaks): all 33 entries already comply, no fixes needed.
-
 
 ## 2026-10-16 17:10 Lisbon time
 Result: 1 fund updated, plus 2 risk bands filled in. facts.json was committed and verified (33 funds, no risk band missing).
@@ -2244,7 +2277,6 @@ Industry AUM (AMFI): as on 30 Sep 2026
 | Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band before -> after | Unhedged long/short before -> after | Other fields changed |
 |---|---|---|---|---|---|---|
 | RedHex Hybrid Long-Short (SIF-128) | HSBC monthly Excel | 2026-08-31 -> 2026-09-30 | 1,072.84 -> 1,504.00 | 2 -> 2 | 0/0 -> 0/0 | holdings 80 -> 90; asset split, top holdings, sectors, derivatives exposure |
-
 
 ## 2026-10-15 11:58 Lisbon time
 Result: 2 funds updated. facts.json was committed and verified (33 funds, no risk band lost).
@@ -2305,7 +2337,6 @@ Industry AUM (AMFI): as on 30 Sep 2026
 | SIF-62 Arudha Equity | Arudha monthly factsheet (Sep 2026) | 31 Aug 2026 -> 30 Sep 2026 | 127.87 -> 133.38 | 5 -> 5 | frozen (as on 31 Aug) | top_equity, factsheet_only = true, split_source |
 | SIF-157 Magnum Equity Ex-Top 100 | SBI monthly factsheet (Sep 2026) | 30 Sep 2026 -> 30 Sep 2026 | 1598.35 -> 1598.35 | none -> 5 | unchanged | benchmark_risk_band none -> 3 |
 
-
 ## 2026-10-14 08:30 Lisbon time
 Result: nothing changed. facts.json was not committed (33 funds, no fund had anything newer to load).
 
@@ -2350,7 +2381,6 @@ No fails today. Note: this run only re-checked the AMCs that were not at 30 Sep 
 | Arudha / Bandhan | yes | 30 Sep 2026 | - | 31 Aug 2026 | new file waiting for a manual load |
 
 Schedule note: Ashish changed the schedule on 14 Oct to 4 runs a day (07:52, 11:52, 15:52, 19:52 Lisbon); once a day's entry is logged, later firings stop. The model change to Sonnet 5.5 could not be applied from inside the run (needs the routine's own settings).
-
 
 ## 2026-10-12 09:00 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had anything newer to load; it still holds 33 funds).
@@ -2429,7 +2459,6 @@ Not yet up to date
 | Apex / Aditya Birla (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 30 Sep 2026 | nothing new |
 | Arudha / Bandhan (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 31 Aug 2026 | new file waiting for a manual load |
 
-
 ## 2026-10-11 14:41 Lisbon time
 Result: nothing changed. facts.json was not committed (no fund had anything newer to load; it still holds 33 funds).
 
@@ -2505,7 +2534,6 @@ Not yet up to date
 | Infinity / Kotak | yes | listed but refused until recently (September 2026; now opens, no reader) | 30 Sep 2026 | 30 Sep 2026 (factsheet) | nothing new |
 | Apex / Aditya Birla (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 30 Sep 2026 | nothing new |
 | Arudha / Bandhan (watch-only) | yes | 30 Sep 2026 | not checked (watch-only) | 31 Aug 2026 | new file waiting for a manual load |
-
 
 ## 2026-10-10 12:35 Lisbon time
 Result: 16 funds updated (15 refreshed from the Excel portfolio, 1 new fund added). facts.json was committed and verified (33 funds).
@@ -2621,7 +2649,6 @@ Not yet up to date
 | Diviniti Equity Long-Short (SIF-21) | Excel | 31 Aug 2026 -> 30 Sep 2026 | 291.47 -> 246.02 | 5 -> 5 (kept) | 14.74 / 0 -> 12.35 / 0 | Full holdings and asset split; holdings 58 -> 72 |
 | Platinum Hybrid Long-Short (SIF-136) | Excel | 31 Aug 2026 -> 30 Sep 2026 | 369.66 -> 385.37 | 1 -> 1 (kept) | 3.91 / 0.75 -> 3.11 / 0 | Full holdings, asset split and fixed income; holdings 120 -> 114 |
 
-
 ## 2026-10-09 08:30 Lisbon time
 Result: 6 funds updated (5 refreshed from the Excel portfolio, 1 new fund added). facts.json was committed and verified (31 funds).
 
@@ -2708,7 +2735,6 @@ Not yet up to date
 | Prism Hybrid Long-Short (SIF-138) | Excel | 31 Aug 2026 -> 30 Sep 2026 | 297.05 -> 458.54 | 1 -> 1 | 9.24 / 4.97 -> 4.69 / 11.39 | Full holdings, asset split, fixed income and shorts; holdings 131 -> 150 |
 | Magnum Hybrid Long-Short (SIF-13) | Excel | 31 Aug 2026 -> 30 Sep 2026 | 4001.17 -> 3981.67 | 1 -> 1 | 0 / 0 -> 0 / 0 | Full holdings, asset split and fixed income; holdings 136 -> 135 |
 | Magnum Equity Ex-Top 100 Long Short Fund (NEW-SBI-Equity-Ex-Top-100) | Excel | new fund -> 30 Sep 2026 | new -> 1598.35 | none -> not read | none (card marked "Updating") | New entry: 40 holdings, equity 70.45%, fixed income 29.55% |
-
 
 ## 2026-10-08 08:40 Lisbon time
 Result: 5 funds updated (all from monthly factsheets). facts.json was committed and verified.
@@ -2799,6 +2825,4 @@ Note: for Tata SIF-102 the top positions come from the factsheet table "Top 10 N
 | Titanium Hybrid Long-Short (SIF-29) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 587.04 -> 540.57 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | split_source, factsheet_only (top positions not changed) |
 | Titanium Equity Long-Short (SIF-102) | Factsheet | 31 Jul 2026 -> 30 Sep 2026 | 275.64 -> 343.9 | 5 -> 5 (not read) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
 | Sapphire Equity Long-Short (SIF-96) | Factsheet | 31 Jul 2026 -> 31 Aug 2026 | 204.5 -> 216.02 | 5 -> 5 (read; benchmark 3) | frozen (as on 31 Jul 2026) | top positions, split_source, factsheet_only |
-
-
 
