@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T08:15:48.886Z",
+ "updated_at": "2026-11-19T08:01:47.269Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -1296,57 +1296,57 @@
      2.47
     ]
    ],
-   "net_assets_cr": 75.94,
+   "net_assets_cr": 78.81,
    "top_equity": [
     [
-     "Life Insurance Corporation Of India",
-     "Insurance",
-     5.2
+     "Zetwerk Manufacturing Business Ltd",
+     "",
+     7.54
     ],
     [
-     "HDFC Bank Limited",
+     "HDFC Bank",
      "Banks",
-     5.04
+     4.75
     ],
     [
-     "Syngene International Limited",
+     "Dixon Technologies (India)",
+     "",
+     4.19
+    ],
+    [
+     "ITC Hotels",
+     "",
+     3.18
+    ],
+    [
+     "Syngene International",
      "Healthcare Services",
-     2.84
+     3.01
     ],
     [
-     "Niva Bupa Health Insurance Company Ltd.",
-     "Insurance",
-     2.83
-    ],
-    [
-     "Balkrishna Industries Limited",
-     "Auto Components",
-     2.79
-    ],
-    [
-     "Clean Science and Technology Limited",
-     "Chemicals & Petrochemicals",
-     2.79
-    ],
-    [
-     "The Indian Hotels Company Limited",
-     "Leisure Services",
-     2.66
-    ],
-    [
-     "Amber Enterprises India Limited",
+     "Amber Enterprises India",
      "Consumer Durables",
-     2.64
+     2.98
     ],
     [
-     "SWIGGY LIMITED",
-     "Retailing",
-     2.62
+     "Lemon Tree Hotels",
+     "",
+     2.65
     ],
     [
-     "Asset Reconstruction Company (India)Ltd",
-     "Finance",
-     2.55
+     "Niva Bupa Health Insurance Company",
+     "Insurance",
+     2.65
+    ],
+    [
+     "Balkrishna Industries",
+     "Auto Components",
+     2.63
+    ],
+    [
+     "Crompton Greaves Consumer Electricals",
+     "",
+     2.54
     ]
    ],
    "top_debt": [],
@@ -1412,9 +1412,9 @@
    "unhedged_count": 2,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "WSIF Equity Ex-Top 100 Long-Short Fund",
-   "as_of": "2026-09-30",
-   "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "as_of": "2026-10-31",
+   "source": "The Wealth Company Mutual Fund monthly factsheet",
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/scheme-information-document/factsheets/",
    "strategy_overview": {
     "as_on": "2026-09-30",
     "source": "WSIF fund page (The Wealth Company)",
@@ -1437,6 +1437,35 @@
       "note": ""
      }
     ]
+   },
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026",
+    "inception_date": "2026-05-06",
+    "benchmark": "NIFTY 500 Index TRI",
+    "benchmark_short": "NIFTY 500 TRI",
+    "plans": "Regular and Direct; Growth and IDCW options",
+    "nav_regular": 9.8103,
+    "ber_regular_pct": 2.1,
+    "exit_load": "Nil",
+    "exit_load_short": "Nil",
+    "min_application": "₹10,00,000 and multiples of ₹100 thereafter; for accredited investors ₹1,00,000 and multiples of ₹100 thereafter",
+    "min_application_short": "₹10,00,000 (accredited ₹1,00,000)",
+    "min_additional": "₹10,000 and multiples of ₹100 thereafter",
+    "fund_managers": [
+     {
+      "name": "Chinmay Sathe",
+      "role": "Fund manager",
+      "experience_years": 21,
+      "since": "May 2026"
+     }
+    ]
    }
   },
   "SIF-111": {
@@ -1454,57 +1483,57 @@
      2.73
     ]
    ],
-   "net_assets_cr": 42.21,
+   "net_assets_cr": 42.39,
    "top_equity": [
     [
-     "HDFC Bank Limited",
+     "Zetwerk Manufacturing Business Ltd",
+     "",
+     7.64
+    ],
+    [
+     "HDFC Bank",
      "Banks",
-     5.88
+     5.72
+    ],
+    [
+     "Dixon Technologies (India)",
+     "",
+     5.19
     ],
     [
      "Life Insurance Corporation Of India",
      "Insurance",
-     4.68
+     4.52
     ],
     [
-     "Tata Consultancy Services Limited",
-     "IT - Software",
-     3.4
-    ],
-    [
-     "Larsen & Toubro Limited",
+     "Larsen & Toubro",
      "Construction",
-     3.38
+     3.47
     ],
     [
-     "Bharat Electronics Limited",
-     "Aerospace & Defense",
-     2.76
+     "ITC Hotels",
+     "",
+     3.16
     ],
     [
-     "Niva Bupa Health Insurance Company Ltd.",
-     "Insurance",
-     2.6
-    ],
-    [
-     "Reliance Industries Limited",
-     "Petroleum Products",
-     2.59
-    ],
-    [
-     "Balkrishna Industries Limited",
-     "Auto Components",
-     2.51
-    ],
-    [
-     "Amber Enterprises India Limited",
+     "Amber Enterprises India",
      "Consumer Durables",
-     2.37
+     3.11
     ],
     [
-     "Infosys Limited",
-     "IT - Software",
-     2.36
+     "Bharat Electronics",
+     "Aerospace & Defense",
+     2.62
+    ],
+    [
+     "Reliance Industries",
+     "Petroleum Products",
+     2.53
+    ],
+    [
+     "Niva Bupa Health Insurance Company",
+     "Insurance",
+     2.51
     ]
    ],
    "top_debt": [],
@@ -1570,9 +1599,9 @@
    "unhedged_count": 2,
    "unhedged_note": "Futures the fund is not using to hedge a holding (long futures, or shorts on stocks it does not hold), as % of net assets.",
    "name": "WSIF Equity Long-Short Fund",
-   "as_of": "2026-09-30",
-   "source": "The Wealth Company Mutual Fund monthly portfolio disclosure",
-   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/portfolio-holdings/monthly/",
+   "as_of": "2026-10-31",
+   "source": "The Wealth Company Mutual Fund monthly factsheet",
+   "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/scheme-information-document/factsheets/",
    "strategy_overview": {
     "as_on": "2026-09-30",
     "source": "WSIF fund page (The Wealth Company)",
@@ -1593,6 +1622,35 @@
       "match": [],
       "text": "Limited short exposure through derivative instruments as part of the overall approach.",
       "note": ""
+     }
+    ]
+   },
+   "factsheet_only": true,
+   "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
+   "stale_sections": {
+    "unhedged": "30 Sep 2026",
+    "sectors": "30 Sep 2026"
+   },
+   "scheme_details": {
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026",
+    "inception_date": "2026-05-06",
+    "benchmark": "NIFTY 500 Index TRI",
+    "benchmark_short": "NIFTY 500 TRI",
+    "plans": "Regular and Direct; Growth and IDCW options",
+    "nav_regular": 9.841,
+    "ber_regular_pct": 2.1,
+    "exit_load": "Nil",
+    "exit_load_short": "Nil",
+    "min_application": "₹10,00,000 and multiples of ₹100 thereafter; for accredited investors ₹1,00,000 and multiples of ₹100 thereafter",
+    "min_application_short": "₹10,00,000 (accredited ₹1,00,000)",
+    "min_additional": "₹10,000 and multiples of ₹100 thereafter",
+    "fund_managers": [
+     {
+      "name": "Chinmay Sathe",
+      "role": "Fund manager",
+      "experience_years": 21,
+      "since": "May 2026"
      }
     ]
    }
