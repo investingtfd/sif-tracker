@@ -1,5 +1,53 @@
 # SIF Tracker daily run log
 
+## 2026-11-19 (later) Lisbon time (catch-up)
+Result: 2 funds updated. facts.json committed and verified (37 funds, no risk band lost).
+
+**Updates found and made**
+- SIF-111 WSIF Equity Long-Short: monthly factsheet, 31 Oct 2026, size 42.39 cr (was 42.21); top 10 holdings, key details (TER 2.10%, minimum investment, manager, benchmark) written
+- SIF-105 WSIF Equity Ex-Top 100 Long-Short: monthly factsheet, 31 Oct 2026, size 78.81 cr (was 75.94); same package
+
+**Updates available but not made, or only partly made**
+- WSIF risk band, performance and strategy text: the factsheet shows the riskometer only as an image/website link and no returns yet (first monthly factsheet); risk band stays 5 and will be re-read from the factsheet page image next run
+- Arthaya SIF-114: sifprime.com (competitor) shows only the 30 Sep 2026 portfolio (Arthaya reports every two months, next 30 Nov), so it adds nothing newer; Union MF site still refuses the browser pane. Note: sifprime labels the NAV scheme SIF-112 while our feed has SIF-114, worth a check
+
+### Data completeness
+Up to date: 34 of 39 SIF funds (87%) have data as on 31 Oct 2026
+of which 20 from the full Excel portfolio and 14 from the factsheet only (full portfolio still to come)
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Newest Excel and factsheet still 30 Sep |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | No October monthly Excel or factsheet yet (only fortnightly) |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com refused in browser pane; competitor site has nothing newer |
+| SIF-183 | Eminence SIF | not in tracker yet | New fund, first portfolio not out yet |
+| SIF-190 | Sundaram Select Equity Ex-Top 100 | not in tracker yet | New fund, first portfolio not out yet |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Wealth Co factsheet was missed in earlier runs | WSIF SIF-105, SIF-111 | The factsheet list is at wealthcompanyamc.in/wsif/downloads/scheme-information-document/factsheets/ (not under Downloads or Portfolio Holdings); earlier runs wrongly noted "no factsheet exists" | Fixed in this run: loaded; page URL recorded for every run |
+| 2 | Site would not open | Arthaya SIF-114 | unionmf.com navigation refused | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| WSIF / Wealth Co | 105, 111 | 31 Oct | 🟧 50% | yes | 30 Sep | 31 Oct | loaded from factsheet | 0% -> 50% |
+| Sapphire / Franklin | 96 | 30 Sep | 🟥 0% | yes | 30 Sep | 30 Sep | nothing new | none |
+| Arudha / Bandhan | 40, 62 | 30 Sep / 31 Oct | 🟧 mixed | yes | 30 Sep | Sep | nothing new | none |
+| Arthaya / Union MF | 114 | 30 Sep | 🟥 0% | blocked (sifprime opened) | unknown | unknown | skipped | none |
+other AMCs: unchanged since the earlier run today
+
+Industry AUM (AMFI): as on 2026-10-31
+Strategy-split check (Step 3g): not run in this catch-up
+Key-details check (Step 3h): WSIF SIF-105 and SIF-111 written from the October factsheet
+
+### Funds changed
+| Fund | Source | as_of before -> after | Size before -> after (Rs cr) | Risk band | Unhedged | Other fields |
+|---|---|---|---|---|---|---|
+| SIF-111 | Factsheet | 2026-09-30 -> 2026-10-31 | 42.21 -> 42.39 | 5 -> 5 | frozen | top 10, key details, stale_sections |
+| SIF-105 | Factsheet | 2026-09-30 -> 2026-10-31 | 75.94 -> 78.81 | 5 -> 5 | frozen | top 10, key details, stale_sections |
+
 ## 2026-11-19 07:20 Lisbon time
 Result: nothing changed. facts.json not touched (no AMC had a newer file than already loaded).
 
