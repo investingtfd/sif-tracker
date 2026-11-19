@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T08:01:47.269Z",
+ "updated_at": "2026-11-19T08:05:44.073Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -1361,28 +1361,28 @@
    "benchmark_risk_band": 5,
    "sectors": [
     [
-     "Insurance",
-     10.42
+     "Consumer Durables",
+     12.44
+    ],
+    [
+     "Industrial Manufacturing",
+     9.2
     ],
     [
      "Auto Components",
-     9
+     8.96
     ],
     [
      "Leisure Services",
-     8.59
+     8.36
     ],
     [
-     "Consumer Durables",
-     7.17
-    ],
-    [
-     "Pharmaceuticals & Biotechnology",
-     6.71
+     "Insurance",
+     7.21
     ],
     [
      "Other sectors",
-     50.76
+     47.59
     ]
    ],
    "split": [
@@ -1416,8 +1416,8 @@
    "source": "The Wealth Company Mutual Fund monthly factsheet",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/scheme-information-document/factsheets/",
    "strategy_overview": {
-    "as_on": "2026-09-30",
-    "source": "WSIF fund page (The Wealth Company)",
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026 (CIO message)",
     "tagline": "Long-term capital appreciation from stocks outside the top 100 by market capitalisation, with limited short exposure through derivatives.",
     "buckets": [
      {
@@ -1427,22 +1427,21 @@
        "Equity"
       ],
       "text": "Predominantly equity and equity-related instruments of companies beyond the top 100 by full market capitalisation, using an active and dynamic approach.",
-      "note": "The AMC states no monthly commentary on its fund page."
+      "note": "Long book: megatrend-led stock selection under the QUBOID framework, each position backed by an investment hypothesis."
      },
      {
       "name": "Limited short exposure",
       "group": "Investment strategy",
       "match": [],
       "text": "Limited short exposure through derivative instruments (up to 25%) as permitted by regulations.",
-      "note": ""
+      "note": "Short book is tactical and doubles as a natural hedge to the long book (AMC, Oct 2026 factsheet)."
      }
     ]
    },
    "factsheet_only": true,
    "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
    "stale_sections": {
-    "unhedged": "30 Sep 2026",
-    "sectors": "30 Sep 2026"
+    "unhedged": "30 Sep 2026"
    },
    "scheme_details": {
     "as_on": "2026-10-31",
@@ -1465,6 +1464,18 @@
       "experience_years": 21,
       "since": "May 2026"
      }
+    ]
+   },
+   "sector_note": "Sector split as on 31 Oct 2026 (factsheet), % of net assets",
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026 (CIO message)",
+    "points": [
+     "The CIO frames the fund on the QUBOID framework: quantitative validation, underlying growth vectors (megatrends), behavioural and probabilistic investing, orthogonal factors, investment hypothesis and drawdown control.",
+     "On the long side the aim is to find megatrends early, in companies that can later grow into sector leaders, without letting any single style factor dominate.",
+     "On the short side the approach is tactical: stocks where returns can come from price declines, which also act as a natural hedge to the long book.",
+     "Every position is backed by a written investment hypothesis, and returns are broken down by attribution analysis each month.",
+     "This is the first monthly factsheet, so it carries no fund returns yet."
     ]
    }
   },
@@ -1548,28 +1559,28 @@
    "benchmark_risk_band": 5,
    "sectors": [
     [
-     "Insurance",
-     10.11
+     "Consumer Durables",
+     12.35
     ],
     [
-     "IT - Software",
+     "Insurance",
+     9.82
+    ],
+    [
+     "Industrial Manufacturing",
+     7.64
+    ],
+    [
+     "Leisure Services",
      6.88
     ],
     [
-     "Banks",
-     5.88
-    ],
-    [
-     "Chemicals & Petrochemicals",
-     5.39
-    ],
-    [
      "Auto Components",
-     5.14
+     6.33
     ],
     [
      "Other sectors",
-     53.85
+     52.58
     ]
    ],
    "split": [
@@ -1603,8 +1614,8 @@
    "source": "The Wealth Company Mutual Fund monthly factsheet",
    "source_url": "https://www.wealthcompanyamc.in/wsif/downloads/scheme-information-document/factsheets/",
    "strategy_overview": {
-    "as_on": "2026-09-30",
-    "source": "WSIF fund page (The Wealth Company)",
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026 (CIO message)",
     "tagline": "Long-term capital appreciation from a diversified portfolio of equity and equity-related instruments, with limited short exposure through derivatives.",
     "buckets": [
      {
@@ -1614,22 +1625,21 @@
        "Equity"
       ],
       "text": "Predominantly equity and equity-related instruments, based on fundamental analysis, valuation and portfolio discipline.",
-      "note": "The AMC states no monthly commentary on its fund page."
+      "note": "Long book: megatrend-led stock selection under the QUBOID framework, each position backed by an investment hypothesis."
      },
      {
       "name": "Limited short exposure",
       "group": "Investment strategy",
       "match": [],
       "text": "Limited short exposure through derivative instruments as part of the overall approach.",
-      "note": ""
+      "note": "Short book is tactical and doubles as a natural hedge to the long book (AMC, Oct 2026 factsheet)."
      }
     ]
    },
    "factsheet_only": true,
    "split_source": "Fund size and top positions as on 31 Oct 2026 (monthly factsheet). Asset split, fixed income and derivatives as on 30 Sep 2026, pending the full portfolio",
    "stale_sections": {
-    "unhedged": "30 Sep 2026",
-    "sectors": "30 Sep 2026"
+    "unhedged": "30 Sep 2026"
    },
    "scheme_details": {
     "as_on": "2026-10-31",
@@ -1652,6 +1662,18 @@
       "experience_years": 21,
       "since": "May 2026"
      }
+    ]
+   },
+   "sector_note": "Sector split as on 31 Oct 2026 (factsheet), % of net assets",
+   "commentary": {
+    "as_on": "2026-10-31",
+    "source": "WSIF factsheet as on 31 Oct 2026 (CIO message)",
+    "points": [
+     "The CIO frames the fund on the QUBOID framework: quantitative validation, underlying growth vectors (megatrends), behavioural and probabilistic investing, orthogonal factors, investment hypothesis and drawdown control.",
+     "On the long side the aim is to find megatrends early, in companies that can later grow into sector leaders, without letting any single style factor dominate.",
+     "On the short side the approach is tactical: stocks where returns can come from price declines, which also act as a natural hedge to the long book.",
+     "Every position is backed by a written investment hypothesis, and returns are broken down by attribution analysis each month.",
+     "This is the first monthly factsheet, so it carries no fund returns yet."
     ]
    }
   },
