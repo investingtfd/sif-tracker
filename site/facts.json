@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T08:05:44.073Z",
+ "updated_at": "2026-11-20T07:57:27.122Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -5713,6 +5713,69 @@
       "note": "REITs 0.79% and InvITs 3.75%."
      }
     ]
+   },
+   "scheme_details": {
+    "as_on": "2026-10-30",
+    "source": "SBI Magnum SIF factsheet, October 2026",
+    "inception_date": "2025-10-20",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index TRI",
+    "benchmark_short": "NIFTY 50 Hybrid Composite Debt 50:50",
+    "strategy_type": "Interval",
+    "plans": "Regular and Direct | Growth, IDCW",
+    "nav_regular": 10.2449,
+    "ber_regular_pct": 0.92,
+    "exit_load": "0.50% if redeemed on or before 15 days from allotment; 0.25% if after 15 days but on or before 1 month; nil after 1 month (for redemptions above the free limit)",
+    "exit_load_short": "0.50% within 15 days, 0.25% to 1 month, nil after",
+    "min_application": "Rs 10,00,000 and in multiples of Re 1",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "SIP Rs 10,000 and in multiples of Re 1",
+    "min_sip_short": "₹10,000",
+    "fund_managers": [
+     {
+      "name": "Gaurav Mehta",
+      "role": "Fund manager",
+      "experience_years": 20,
+      "since": "Oct-2025"
+     }
+    ],
+    "benchmark_risk_band": 2
+   },
+   "performance": {
+    "as_on": "2026-10-30",
+    "benchmark": "NIFTY 50 Hybrid Composite Debt 50:50 Index TRI",
+    "periods": [
+     {
+      "period": "1Y",
+      "fund_pct": 2.46,
+      "benchmark_pct": -4.67
+     },
+     {
+      "period": "Since inception",
+      "fund_pct": 3.08,
+      "benchmark_pct": -4.96
+     }
+    ]
+   },
+   "debt_quants": {
+    "as_on": "2026-10-30",
+    "ytm_pct": 7.78,
+    "modified_duration_yr": 1.58,
+    "avg_maturity_yr": 2.05,
+    "macaulay_duration_yr": 1.72
+   },
+   "credit_quality": {
+    "as_on": "2026-10-30",
+    "basis": "Rated debt holdings (about 24.6% of the fund; excludes cash and margin), rebased to 100%",
+    "items": [
+     [
+      "Sovereign and AAA",
+      92
+     ],
+     [
+      "AA",
+      8
+     ]
+    ]
    }
   },
   "SIF-157": {
@@ -5923,6 +5986,43 @@
       ],
       "text": "Short-term T-bills and debt.",
       "note": "91-day T-bills were among the top 10 holdings in October."
+     }
+    ]
+   },
+   "scheme_details": {
+    "as_on": "2026-10-30",
+    "source": "SBI Magnum SIF factsheet, October 2026",
+    "inception_date": "2026-08-27",
+    "benchmark": "BSE 500 TRI",
+    "benchmark_short": "BSE 500 TRI",
+    "strategy_type": "Open-ended",
+    "plans": "Regular and Direct | Growth, IDCW",
+    "nav_regular": 9.3556,
+    "ber_regular_pct": 1.77,
+    "exit_load": "1% of the applicable NAV if redeemed or switched out on or before 3 months from allotment; nil after 3 months",
+    "exit_load_short": "1% within 3 months, nil after",
+    "min_application": "Rs 10,00,000 and in multiples of Re 1",
+    "min_application_short": "₹10 lakh",
+    "min_sip_stp_swp": "SIP Rs 10,000 and in multiples of Re 1",
+    "min_sip_short": "₹10,000",
+    "fund_managers": [
+     {
+      "name": "Gaurav Mehta",
+      "role": "Fund manager",
+      "experience_years": 20,
+      "since": "Aug-2026"
+     }
+    ],
+    "benchmark_risk_band": 3
+   },
+   "performance": {
+    "as_on": "2026-10-30",
+    "benchmark": "BSE 500 TRI",
+    "periods": [
+     {
+      "period": "Since inception",
+      "fund_pct": -1.88,
+      "benchmark_pct": -6.61
      }
     ]
    }
