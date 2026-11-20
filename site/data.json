@@ -1,5 +1,5 @@
 {
-  "generated_at_data_date": "2026-11-19",
+  "generated_at_data_date": "2026-11-20",
   "categories": [
     "Interval Fund Schemes ( Hybrid Investment Strategies - Active Asset Allocator Long-Short Fund )",
     "Interval Fund Schemes ( Hybrid Investment Strategies - Hybrid Long-Short Fund )",
@@ -6382,15 +6382,19 @@
         {
           "date": "2026-11-19",
           "nav": 919.3422
+        },
+        {
+          "date": "2026-11-20",
+          "nav": 926.2235
         }
       ],
-      "latest_date": "2026-11-19",
-      "latest_nav": 919.3422,
-      "change_since_first_pct": -8.14,
-      "change_1d_pct": 0.92,
-      "return_1m_pct": 6.15,
-      "return_3m_pct": -1.65,
-      "return_annualised_pct": -8.45
+      "latest_date": "2026-11-20",
+      "latest_nav": 926.2235,
+      "change_since_first_pct": -7.45,
+      "change_1d_pct": 0.75,
+      "return_1m_pct": 7.61,
+      "return_3m_pct": -1.22,
+      "return_annualised_pct": -7.72
     },
     {
       "scheme_code": "SIF-29",
@@ -14117,15 +14121,19 @@
         {
           "date": "2026-11-19",
           "nav": 10.6646
+        },
+        {
+          "date": "2026-11-20",
+          "nav": 10.7084
         }
       ],
-      "latest_date": "2026-11-19",
-      "latest_nav": 10.6646,
-      "change_since_first_pct": 6.72,
-      "change_1d_pct": 1.1,
-      "return_1m_pct": 4.13,
-      "return_3m_pct": -0.57,
-      "return_annualised_pct": 13.16
+      "latest_date": "2026-11-20",
+      "latest_nav": 10.7084,
+      "change_since_first_pct": 7.16,
+      "change_1d_pct": 0.41,
+      "return_1m_pct": 6.59,
+      "return_3m_pct": -0.72,
+      "return_annualised_pct": 13.97
     },
     {
       "scheme_code": "SIF-111",
@@ -14666,15 +14674,19 @@
         {
           "date": "2026-11-19",
           "nav": 10.7061
+        },
+        {
+          "date": "2026-11-20",
+          "nav": 10.7846
         }
       ],
-      "latest_date": "2026-11-19",
-      "latest_nav": 10.7061,
-      "change_since_first_pct": 7.09,
-      "change_1d_pct": 1.17,
-      "return_1m_pct": 6.23,
-      "return_3m_pct": 0.62,
-      "return_annualised_pct": 13.9
+      "latest_date": "2026-11-20",
+      "latest_nav": 10.7846,
+      "change_since_first_pct": 7.87,
+      "change_1d_pct": 0.73,
+      "return_1m_pct": 8.57,
+      "return_3m_pct": 1.03,
+      "return_annualised_pct": 15.41
     },
     {
       "scheme_code": "SIF-117",
