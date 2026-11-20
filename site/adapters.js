@@ -310,15 +310,37 @@ TU.kotakParse=(pages)=>{
  if(nm0)f.nav_regular_growth=parseFloat(nm0[1]);if(tm)f.turnover_ratio=r2(parseFloat(tm[1])/100);if(bm)f.benchmark=bm[1].replace(/\bdebt\b/,'Debt').trim();
  if(rb.length===2){f.risk_band=rb[0][1];f.benchmark_risk_band=rb[1][1]}
  return{f,diag:{H,tot,rows:Object.keys(S).map(k=>k+':'+S[k].length).join(' ')}}};
+/* Kotak moved to infinitysif.kotakmf.com on 2026-11: same API, same origin path (2026-11-20) */
+TU.kotakApiBase=function(){return /(^|\.)infinitysif\.kotakmf\.com$/.test(location.hostname)?'/sif/kotakapi/sif-forms/user/':'https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/'};
+TU.kotakOnePager=function(pages){
+  var num=function(s){return parseFloat(String(s).replace(/,/g,''))};
+  var lines=function(p){var m={};p.forEach(function(c){(m[c[1]]=m[c[1]]||[]).push([c[0],c[2]])});return Object.keys(m).map(Number).sort(function(a,b){return b-a}).map(function(y){return m[y].sort(function(a,b){return a[0]-b[0]}).map(function(z){return z[1]}).join(' ')})};
+  var L=pages.map(lines),all=L.map(function(l){return l.join('\n')}).join('\n');
+  var MN=['january','february','march','april','may','june','july','august','september','october','november','december'];
+  var dm=all.match(/as on\s+(\d{1,2})(?:st|nd|rd|th)?\s+([A-Za-z]+),?\s+(\d{4})/i);if(!dm)return{error:'one-pager: data date not found'};
+  var mi=MN.indexOf(dm[2].toLowerCase());if(mi<0)return{error:'one-pager: data date not understood'};
+  var o={as_of:dm[3]+'-'+String(mi+1).padStart(2,'0')+'-'+String(dm[1]).padStart(2,'0')};
+  var am=all.match(/Monthly AUM[\s\S]{0,120}?([\d,]+\.\d{2})/);if(!am)return{error:'one-pager: monthly AUM not found'};o.net_assets_cr=num(am[1]);
+  var aa=all.match(/Monthly AAUM[\s\S]{0,120}?([\d,]+\.\d{2})/);if(aa)o.aaum_cr=num(aa[1]);
+  var rl=[];L.forEach(function(l){l.forEach(function(s){var m=s.match(/Risk Level\s*(\d)/);if(m)rl.push(+m[1])})});if(rl.length>=2){o.risk_band=rl[0];o.benchmark_risk_band=rl[1]}
+  var g=all.match(/(?:^|\n)\s*Growth\s+(\d+\.\d+)\s+(\d+\.\d+)/);if(g){o.nav_regular=+g[1];o.nav_direct=+g[2]}
+  var be=all.match(/Regular Plan\s*:\s*([\d.]+)/);if(be)o.ber_regular_pct=+be[1];var bd=all.match(/Direct Plan\s*:\s*([\d.]+)/);if(bd)o.ber_direct_pct=+bd[1];
+  var ey=all.match(/Equity Turnover\s*:\s*([\d.]+)/);if(ey)o.equity_turnover=+ey[1];var gt=all.match(/Turnover \(Equity \+\s*:\s*([\d.]+)/);if(gt)o.gross_exposure_turnover=+gt[1];
+  var yt=all.match(/Yield to Maturity \(%\)\s*:\s*([\d.]+)/);if(yt)o.ytm_pct=+yt[1];
+  var q=[];(L[2]||[]).forEach(function(s){var m=s.match(/^:\s*(\d+(?:\.\d+)?)$/);if(m)q.push(parseFloat(m[1]))});if(q.length>=4){o.avg_maturity_yr=q[0];o.macaulay_duration_yr=q[1];o.modified_duration_yr=q[2]}
+  var mg=[],cur=null;L.forEach(function(pl){pl.forEach(function(s){var m=s.match(/^M[rs]\.\s*([A-Za-z .]+?)\s*$/);if(m){cur={name:m[1],experience_years:null,since:null};mg.push(cur);return}if(!cur)return;var e=s.match(/^Total Experience:\s*(\d+)\s*years/);if(e&&cur.experience_years==null)cur.experience_years=+e[1];var t=s.match(/^Managing Since:\s*([A-Z][a-z]+ \d{1,2}, \d{4})/);if(t&&cur.since==null)cur.since=t[1]})});if(mg.length)o.managers=mg;
+  return o};
 TU.loadKotak=async()=>{try{
- const API='https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/',BASE='https://vatseelabs-s3.kotakmf.com/';
+ const API=TU.kotakApiBase()+'getsubheaderList/',BASE='https://vatseelabs-s3.kotakmf.com/';
  const lst=async id=>{const j=await (await fetch(API+id+'?year=&month=&type=month')).json();return (j.subHeaderList||[]).slice().sort((a,b)=>b.date-a.date)};
  const F=await lst(7);if(!F.length)return{error:'Kotak: no factsheet listed'};
  const res=await fetch(BASE+F[0].content);if(!res.ok)return{error:'Kotak: factsheet file refused ('+res.status+')'};
  const lib=await import('https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs');lib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.mjs';
  const doc=await lib.getDocument({data:await res.arrayBuffer()}).promise;const pages=[];
  for(let i=1;i<=doc.numPages;i++){const tc=await (await doc.getPage(i)).getTextContent();pages.push(tc.items.filter(t=>t.str.trim()).map(t=>[Math.round(t.transform[4]),Math.round(t.transform[5]),t.str.trim()]))}
- const r=TU.kotakParse(pages);if(r.error)return r;
+ let r=TU.kotakParse(pages);
+ if(r.error&&/fund size not found|section not found|rows add to|buckets add/.test(r.error)){const op=TU.kotakOnePager(pages);if(op&&!op.error)return{error:'Kotak factsheet is the new one-pager layout (no holding detail): '+r.error,layout:'one-pager',onePager:op,file:F[0].content,factsheet:F[0].subHeaderTitle}}
+ if(r.error)return r;
  let wb={listed:null};try{const P=await lst(15);if(P.length){const h=await fetch(BASE+P[0].content);wb={listed:P[0].subHeaderTitle,status:h.status}}}catch(e){}
  return{'SIF-146':{f:r.f,diag:r.diag,file:F[0].content,factsheet:F[0].subHeaderTitle,workbook:wb}}
 }catch(e){return{error:'Kotak: '+String(e)}}};
@@ -363,7 +385,7 @@ TU.kotakXls=function(R,prev){
   if(pending.length)out.pending=pending.join('; ');
   return out};
 TU.loadKotakXls=async function(){
-  var l=await fetch('https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
+  var l=await fetch(TU.kotakApiBase()+'getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
   var best=(l.subHeaderList||[]).filter(function(x){return /\.xlsx?$/i.test(x.fileName||'')}).sort(function(a,b){return b.date-a.date})[0];
   if(!best)return {error:'no portfolio file listed'};
   var u='https://vatseelabs-s3.kotakmf.com/'+best.content;
@@ -383,12 +405,12 @@ TU.loadKotakFull = async function(){
   var r2 = function(v){ return Math.round(v*100)/100; };
   var fsr = await TU.loadKotak();
   var fv = fsr && fsr['SIF-146'];
-  if(!fv || !fv.f) return {error:'factsheet: '+((fsr && fsr.error) || 'missing')};
+  if(!fv || !fv.f) return {error:'factsheet: '+((fsr && fsr.error) || 'missing'), layout:fsr && fsr.layout, onePager:fsr && fsr.onePager, factsheet:fsr && fsr.factsheet};
   var fs = fv.f;
   var x = await TU.loadKotakXls();
   if(x.error || x.blocked || x.pending) return {error:'workbook: '+(x.error || (x.blocked ? 'blocked '+x.blocked : x.pending)), fallback:'factsheet'};
   if(x.as_of !== fs.as_of) return {error:'workbook ('+x.as_of+') and factsheet ('+fs.as_of+') are for different months', fallback:'factsheet', workbook_as_of:x.as_of};
-  var l = await fetch('https://java17vlbapi.kotakmf.com/kotakapi/sif-forms/user/getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
+  var l = await fetch(TU.kotakApiBase()+'getsubheaderList/15?year=&month=&type=month').then(function(r){return r.json()});
   var best = (l.subHeaderList||[]).filter(function(z){return /\.xlsx?$/i.test(z.fileName||'')}).sort(function(a,b){return b.date-a.date})[0];
   if(!best || best.fileName !== x.file) return {error:'workbook listing changed during the run', fallback:'factsheet'};
   var sheets = await T.readXlsx('https://vatseelabs-s3.kotakmf.com/'+best.content);
