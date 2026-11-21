@@ -1,6 +1,54 @@
 # SIF Tracker daily run log
 
 
+## 2026-11-21 13:25 Lisbon time
+Checklist: PARTIAL sweep. facts.json NOT changed (no AMC had a newer file for any fund). This run was started by hand from a Claude chat on Ashish's computer because the scheduled task could not start (computer not registered with the scheduler, bound_device_absent); it was not a full sweep of all AMCs.
+Result: nothing changed. facts.json not committed (37 funds, unchanged).
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+None found. Newer files were not out for the AMCs below.
+
+### Data completeness
+Up to date: 34 of 39 SIF funds (87%) have data as on 31 Oct 2026 (unchanged from the 20 Nov run).
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Excel only every two months (newest 30 Sep); newest factsheet 30 Sep (checked 21 Nov) |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Newest monthly Excel and factsheet are September (checked 21 Nov) |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com would not open in the browser pane |
+| SIF-183 | Eminence SIF (AlphaGrep) | not in tracker yet | New fund, first month-end portfolio not out yet |
+| SIF-190 | Select SIF (Sundaram) | not in tracker yet | New fund (inception 11 Nov 2026), first month-end portfolio not out yet |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (unionmf.com) | Navigation refused in the browser pane | Will retry automatically next run |
+| 2 | Site would not open | qsif SIF-3, 7, 25, 93, 117 (qsif.com) | Navigation refused in the browser pane | Will retry automatically next run |
+| 3 | Cloudflare 403 | DynaSIF / 360 ONE SIF-55, 87, 143 | Attention Required page; not worked around | Will retry automatically next run |
+| 4 | Full sweep not completed | Altiva, RedHex, Prism, Diviniti, iSIF, Apex, Mahindra, Kotak and others | Not re-opened in this manual run | Will retry automatically next run |
+| 5 | Scheduled task could not start | all | Computer not registered with the scheduler (bound_device_absent) | Needs Ashish: sign out of Claude desktop, close it from the tray, reopen and sign in again |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Done | Page opened | Newest Excel | Newest factsheet | Action | Movement today |
+|---|---|---|---|---|---|---|---|---|
+| Sapphire / Franklin | 96 | 30 Sep | 🟥 0% | yes | 30 Sep (May, Jul, Sep only) | 30 Sep | nothing new | none |
+| Arudha / Bandhan | 40, 62 | 30 Sep / 31 Oct | 🟧 mixed | yes | 30 Sep | Sep | nothing new | none |
+| Titanium / Tata | 29, 102, 169 | 31 Oct (factsheet) | 🟧 50% | yes (API) | 30 Sep | 31 Oct (already loaded) | nothing new | none |
+| The Wealth Company | 105, 111 | 31 Oct (factsheet) | 🟧 50% | yes | 30 Sep | none | nothing new | none |
+| Summit / Invesco | 150 | 31 Oct | 🟩 100% | yes | 31 Oct | Sep | waiting for October factsheet | none |
+| Platinum / Mirae | 136 | 31 Oct | 🟩 100% | yes | 31 Oct | Oct file = 30 Sep data | waiting for October factsheet | none |
+| Arthaya / Union MF | 114 | 30 Sep | 🟥 0% | blocked | unknown | unknown | skipped | none |
+| qsif | 3, 7, 25, 93, 117 | 31 Oct (factsheet) | 🟧 50% | blocked | unknown | unknown | skipped | none |
+| DynaSIF / 360 ONE | 55, 87, 143 | 31 Oct (factsheet) | 🟧 50% | blocked (Cloudflare) | unknown | unknown | skipped | none |
+other AMCs (Altiva, RedHex, Prism, Diviniti, iSIF, Apex, Mahindra, SBI, Kotak, Eminence, Sundaram): not re-opened in this run; unchanged since the 20 Nov entry.
+
+Industry AUM (AMFI): not re-checked in this run
+Strategy-split check (Step 3g): not run
+Key-details check (Step 3h): not run
+
 ## 2026-11-20 08:10 Lisbon time
 Checklist: 10 of 37 funds complete (6 of 6 parts). Missing parts are listed under Fails and fixes. This run was NOT a full sweep of all 20 AMCs (see the AMC table for what was and was not re-opened).
 Result: 2 funds updated (key details written). facts.json committed and verified (37 funds, no risk band lost).
