@@ -25,7 +25,7 @@
     "SEBI filings (Mutual Funds draft)",
     "SIFPrime"
    ],
-   "note": "NFO dates 17 Nov - 1 Dec 2026 per SIFscan; verify on Kotak SIF page. SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed. Risk band 3 (AMC ISID / reports, 22 Nov 2026).",
+   "note": "NFO dates 17 Nov - 1 Dec 2026 per SIFscan; verify on Kotak SIF page. SEBI draft filed 24 Jun 2026 by Kotak Mutual Fund (Infinity SIF). No NFO dates announced yet; launch not confirmed.",
    "url": "https://www.sebi.gov.in/filings/mutual-funds/jun-2026/infinity-equity-long-short-fund-sif-_102341.html",
    "amfi": true,
    "first_seen": "2026-11-08"
@@ -41,7 +41,7 @@
     "SIFscan"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/aug-2026/msif-hybrid-long-short-fund_104069.html",
-   "note": "NFO dates 27 Nov - 11 Dec 2026 per SIFscan; verify on Mahindra Manulife MSIF page. SEBI draft filed 28 Aug 2026 by Mahindra Manulife Mutual Fund (MSIF). Risk band 2 (AMC ISID / reports, 22 Nov 2026).",
+   "note": "NFO dates 27 Nov - 11 Dec 2026 per SIFscan; verify on Mahindra Manulife MSIF page. SEBI draft filed 28 Aug 2026 by Mahindra Manulife Mutual Fund (MSIF).",
    "amfi": false,
    "first_seen": "2026-11-08"
   },
@@ -175,7 +175,7 @@
     "SEBI filings (Mutual Funds draft)"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/jul-2026/platinum-sectoral-debt-long-short-fund_103027.html",
-   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed. Risk band 3 (AMC ISID / reports, 22 Nov 2026).",
+   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed.",
    "amfi": false,
    "first_seen": "2026-11-08"
   },
