@@ -21385,12 +21385,16 @@
         {
           "date": "2026-11-20",
           "nav": 10.0893
+        },
+        {
+          "date": "2026-11-23",
+          "nav": 10.0685
         }
       ],
-      "latest_date": "2026-11-20",
-      "latest_nav": 10.0893,
-      "change_since_first_pct": 0.79,
-      "change_1d_pct": 0.19,
+      "latest_date": "2026-11-23",
+      "latest_nav": 10.0685,
+      "change_since_first_pct": 0.58,
+      "change_1d_pct": -0.21,
       "return_1m_pct": null,
       "return_3m_pct": null,
       "return_annualised_pct": null
