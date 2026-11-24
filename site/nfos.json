@@ -77,6 +77,21 @@
    "first_seen": "2026-10-30"
   },
   {
+   "name": "Arthaya Hybrid Long-Short Fund",
+   "amc": "Union Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": null,
+   "close": null,
+   "sources": [
+    "SEBI filings (Mutual Funds draft)",
+    "Arthaya SIF ISID"
+   ],
+   "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/arthaya-hybrid-long-short-fund-isid_105869.html",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 20 Nov 2026 by Union Asset Management Company (Arthaya SIF by Union Mutual Fund; website unionmf.com/arthayasif). Interval strategy investing in equity and debt with limited short exposure. Risk band 3; benchmark NIFTY 50 Hybrid Composite Debt 50:50 Index (band 2); Rs 10 per unit. NFO dates not yet announced.",
+   "amfi": false,
+   "first_seen": "2026-11-24"
+  },
+  {
    "name": "Classif Hybrid Long-Short Fund",
    "amc": "UTI Mutual Fund",
    "strategy": "Hybrid Long-Short",
@@ -132,7 +147,7 @@
     "H-SIF ISID"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
-   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced.",
+   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced. Risk band 3 (per SEBI draft SID, 6 Nov 2026); benchmark NIFTY 500 TRI.",
    "amfi": false,
    "first_seen": "2026-11-06"
   },
@@ -204,7 +219,7 @@
     "iSIF ISID"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/oct-2026/isif-sector-rotation-long-short-fund_105476.html",
-   "note": "Upcoming soon: draft ISID filed with SEBI on 29 Oct 2026 by ICICI Prudential AMC (iSIF). Risk band 5 (Very High); benchmark Nifty 500 TRI; Rs 10 per unit. NFO dates not yet announced. SIFscan lists 7-21 Dec 2026 but its own description says dates not announced; unconfirmed, verify on ICICI Prudential iSIF page. Risk band not yet published.",
+   "note": "Upcoming soon: draft ISID filed with SEBI on 29 Oct 2026 by ICICI Prudential AMC (iSIF). Risk band 5 (Very High); benchmark Nifty 500 TRI; Rs 10 per unit. NFO dates not yet announced. SIFscan lists 7-21 Dec 2026 but its own description says dates not announced; unconfirmed, verify on ICICI Prudential iSIF page.",
    "amfi": false,
    "first_seen": "2026-11-04"
   }
