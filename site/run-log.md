@@ -1,5 +1,47 @@
 # SIF Tracker daily run log
 
+## 2026-11-25 08:45 Lisbon time
+Checklist: PARTIAL sweep (computer reachable, but only the AMCs below were opened). facts.json NOT changed: no newer file found for any fund I could open.
+Result: nothing changed. facts.json not committed (37 funds, unchanged).
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+None found.
+
+### Data completeness
+Up to date: 34 of 39 SIF funds (87%) have data as on 31 Oct 2026.
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Sapphire / Franklin | 30 Sep 2026 | Newest Excel and factsheet are 30 Sep (checked 25 Nov) |
+| SIF-40 | Arudha / Bandhan | 30 Sep 2026 | Newest monthly Excel and factsheet are September (checked 25 Nov) |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com refused in the browser pane |
+| SIF-183 | Eminence SIF | not in tracker yet | No portfolio found yet (not re-checked this run) |
+| SIF-190 | Select SIF (Sundaram) | not in tracker yet | No portfolio found yet (not re-checked this run) |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 | Navigation refused | Will retry automatically next run |
+| 2 | Full sweep not completed | qsif, DynaSIF, Altiva, RedHex, Prism, Diviniti, iSIF, Apex, Mahindra, SBI, Invesco, Mirae, Kotak | Not re-opened this run (already on 31 Oct or factsheet-only awaiting Excel) | Will retry automatically next run |
+
+### AMC by AMC
+| AMC | Funds | Data as on | Page opened | Newest Excel | Newest factsheet | Action | Movement |
+|---|---|---|---|---|---|---|---|
+| Sapphire / Franklin | 96 | 30 Sep | yes | 30 Sep | 30 Sep | nothing new | none |
+| Arudha / Bandhan | 40, 62 | 30 Sep / 31 Oct | yes | 30 Sep | Sep | nothing new | none |
+| Titanium / Tata | 29, 102, 169 | 31 Oct (factsheet) | yes (API) | 30 Sep | not checked | nothing new | none |
+| The Wealth Company | 105, 111 | 31 Oct (factsheet) | yes | file names unchanged, date not read | none | nothing new | none |
+| Arthaya / Union MF | 114 | 30 Sep | blocked | unknown | unknown | skipped | none |
+other AMCs: not re-opened in this run; unchanged since earlier entries.
+
+Industry AUM (AMFI): not re-checked this run
+Strategy-split check (Step 3g): not run
+Key-details check (Step 3h): not run
+
+
 ## 2026-11-24 09:45 Lisbon time
 Checklist: PARTIAL sweep (not all AMCs re-opened; sites blocked or unchanged). facts.json NOT changed: no AMC had a newer file for any fund I could open.
 Result: nothing changed. facts.json not committed (37 funds, unchanged).
