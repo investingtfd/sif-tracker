@@ -190,7 +190,7 @@
     "SEBI filings (Mutual Funds draft)"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/jul-2026/platinum-sectoral-debt-long-short-fund_103027.html",
-   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed.",
+   "note": "Upcoming soon: SEBI draft filed 23 Jul 2026 by Mirae Asset Mutual Fund (Platinum SIF). No NFO dates announced yet; launch not confirmed. Risk band 3 (moderate interest rate risk, relatively high credit risk; per Cafemutual on the SEBI draft, 23 Jul 2026); benchmark CRISIL Composite Credit Risk Index; interval fund, redemption once a year; ISID filed 23 Jul 2026.",
    "amfi": false,
    "first_seen": "2026-11-08"
   },
@@ -204,7 +204,7 @@
     "SIFscan"
    ],
    "url": "https://sifscan.com/nfo",
-   "note": "Upcoming soon: listed as pending approval on SIFscan (13 Nov 2026); NFO dates not yet published.",
+   "note": "Upcoming soon: listed as pending approval on SIFscan (13 Nov 2026); NFO dates not yet published. Draft offer document benchmark Nifty 50 Hybrid Composite Debt 50:50 Index TRI; Rs 10 per unit; Rs 10 lakh minimum. Risk band not yet read.",
    "amfi": false,
    "first_seen": "2026-11-13"
   },
