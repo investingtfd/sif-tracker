@@ -1,5 +1,15 @@
 # SIF Tracker daily run log
 
+## 2026-11-25 09:30 Lisbon time (manual update from files supplied by Ashish)
+Result: 1 fund updated, facts.json committed.
+
+**Updates found and made**
+- SIF-40 Arudha Hybrid: loaded from the fortnightly portfolio statement as on 15 Oct 2026 (size Rs 157.8 cr -> 180.21 cr, 157 holdings). The loader listed a Sun Pharma future (0.58%) as unhedged only because the name is written differently in the futures row ("Sun Pharma Ind Ltd" against "Sun Pharmaceutical Industries"); the share is held in the same quantity (5,950), so it is a hedge and the card shows no unhedged positions. Split: Fixed income 62.25, Arbitrage (hedged equity) 37.75. Monthly 31 Oct file still to come.
+- SIF-62 Arudha Equity: the 31 Oct 2026 file supplied matches what is already loaded (size 139.37 cr, 66 holdings, non-hedging futures classed as unhedged: long 0.72, short 6.98), so nothing to change.
+
+**Updates available but not made**
+None.
+
 ## 2026-11-25 08:45 Lisbon time
 Checklist: PARTIAL sweep (computer reachable, but only the AMCs below were opened). facts.json NOT changed: no newer file found for any fund I could open.
 Result: nothing changed. facts.json not committed (37 funds, unchanged).

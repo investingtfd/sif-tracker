@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T07:57:27.122Z",
+ "updated_at": "2026-11-25T08:04:14.815Z",
  "funds": {
   "SIF-11": {
    "allocation": [
@@ -8192,182 +8192,178 @@
    "allocation": [
     [
      "eq",
-     38.66
+     37.75
     ],
     [
      "fut",
-     -38.84
+     -37.85
     ],
     [
      "fi",
-     61.34
+     62.25
     ]
    ],
-   "net_assets_cr": 157.8,
+   "net_assets_cr": 180.21,
    "top_equity": [
     [
-     "Icici Bank Ltd",
+     "ICICI Bank Ltd",
      "Banks",
-     2.87
-    ],
-    [
-     "Hdfc Bank Ltd.",
-     "Banks",
-     1.84
-    ],
-    [
-     "State Bank Of India",
-     "Banks",
-     1.55
-    ],
-    [
-     "Bharti Airtel Ltd.",
-     "Telecom - Services",
-     1.38
-    ],
-    [
-     "Bajaj Finance Ltd.",
-     "Finance",
-     1.28
+     2.64
     ],
     [
      "Reliance Industries Ltd",
      "Petroleum Products",
-     1.17
+     2.29
     ],
     [
-     "Adani Green Energy Ltd",
-     "Power",
-     1.12
+     "HDFC Bank Ltd.",
+     "Banks",
+     1.65
+    ],
+    [
+     "Bajaj Finance Ltd.",
+     "Finance",
+     1.61
+    ],
+    [
+     "State Bank of India",
+     "Banks",
+     1.36
+    ],
+    [
+     "Bharti Airtel Ltd.",
+     "Telecom - Services",
+     1.27
     ],
     [
      "Axis Bank Ltd",
      "Banks",
-     1.02
+     1.25
     ],
     [
-     "Larsen And Toubro Ltd",
+     "Mahindra and Mahindra Ltd",
+     "Automobiles",
+     1.05
+    ],
+    [
+     "Adani Green Energy Ltd",
+     "Power",
+     1
+    ],
+    [
+     "Larsen and Toubro Ltd",
      "Construction",
-     0.96
-    ],
-    [
-     "Vodafone Idea Ltd.",
-     "Telecom - Services",
-     0.94
+     0.88
     ]
    ],
    "top_debt": [
     [
-     "7.44% UNSNCD NABARD - 17/07/2029",
-     "CRISIL AAA",
-     6.27
+     "CD - ICICI Bank Limited -12/02/2027",
+     "[ICRA]A1+",
+     10.85
     ],
     [
      "7.42% SIDBI 2029(SR- VII) 12/03/2029",
      "CRISIL AAA",
-     6.27
+     5.47
+    ],
+    [
+     "7.44% UNSNCD NABARD - 17/07/2029",
+     "CRISIL AAA",
+     5.46
     ],
     [
      "7.7% Bajaj Finance Ltd - 20/9/2029",
      "CRISIL AAA",
-     6.23
+     5.43
     ],
     [
      "(3MTBILL+3.15%):MUTHFIN 53A I:MAT:4.9.29",
      "CRISIL AA+",
-     3.17
-    ],
-    [
-     "7.85% Bajaj Housing Finance (01/09/2028)",
-     "CRISIL AAA",
-     3.15
+     2.77
     ]
    ],
    "top_shorts": [
     [
      "ICICI Bank Ltd 27/10/2026",
      "",
-     -2.89
+     -2.64
     ],
     [
      "HDFC Bank Ltd. 27/10/2026",
      "",
-     -1.86
+     -1.65
     ],
     [
      "State Bank of India 27/10/2026",
      "",
-     -1.56
+     -1.36
     ],
     [
      "Bharti Airtel Ltd. 27/10/2026",
      "",
-     -1.38
+     -1.27
     ],
     [
-     "Bajaj Finance Ltd. 27/10/2026",
+     "Reliance Industries Ltd 23/11/2026",
      "",
-     -1.29
+     -1.25
     ]
    ],
-   "equity_gross_pct": 38.66,
-   "equity_net_pct": -0.18,
-   "holdings_count": 146,
+   "equity_gross_pct": 37.75,
+   "equity_net_pct": -0.1,
+   "holdings_count": 157,
    "turnover_ratio": null,
-   "derivative_gross_exposure_cr": 61.28,
+   "derivative_gross_exposure_cr": 68.2,
    "derivative_basis": "futures",
    "risk_band": 1,
    "benchmark_risk_band": 3,
    "sectors": [
     [
      "Banks",
-     12.07
+     10.94
     ],
     [
      "Finance",
-     3.13
+     3.24
     ],
     [
-     "Telecom - Services",
-     2.76
+     "Petroleum Products",
+     3.08
     ],
     [
      "Automobiles",
-     2.68
+     2.58
     ],
     [
-     "Pharmaceuticals & Biotechnology",
-     2.11
+     "Telecom - Services",
+     2.46
     ],
     [
      "Other sectors",
-     15.92
+     15.45
     ]
    ],
    "split": [
     [
      "Fixed income",
-     61.34
+     62.25
     ],
     [
      "Arbitrage (hedged equity)",
-     38.64
-    ],
-    [
-     "Equity (unhedged)",
-     0.02
+     37.75
     ]
    ],
    "unhedged": [],
    "unhedged_count": 0,
    "unhedged_long": 0,
    "unhedged_short": 0,
-   "sector_note": "Share of the fund held in stocks (38.7%), before futures and options hedges",
+   "sector_note": "Share of the fund held in stocks (37.8%), before futures and options hedges",
    "name": "Arudha Hybrid Long-Short Fund",
-   "as_of": "2026-09-30",
-   "source": "Arudha Mutual Fund monthly portfolio disclosure",
+   "as_of": "2026-10-15",
+   "source": "Arudha SIF fortnightly portfolio statement (15 Oct 2026)",
    "source_url": "https://arudhasif.com/downloads/",
-   "unhedged_note": "No unhedged derivative positions in August or September 2026. The futures the fund holds are short hedges against matching shares (arbitrage), not directional bets.",
+   "unhedged_note": "Arudha Hybrid has not used unhedged derivatives since August 2026 (3 months running). As on 15 Oct 2026 every future the fund holds is a short hedge against a matching share (arbitrage), not a directional bet.",
    "unhedged_zero_since": "2026-08-31",
    "strategy_overview": {
     "as_on": "2026-09-30",
@@ -8394,7 +8390,8 @@
       "note": ""
      }
     ]
-   }
+   },
+   "split_source": "Fortnightly portfolio statement as on 15 Oct 2026; the monthly 31 Oct 2026 file is not out yet"
   },
   "SIF-62": {
    "allocation": [
