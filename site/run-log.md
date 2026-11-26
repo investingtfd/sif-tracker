@@ -1,5 +1,39 @@
 # SIF Tracker daily run log
 
+## 2026-11-26 07:10 Lisbon time (partial sweep)
+Result: nothing changed, facts.json not committed.
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+- Full sweep of all AMCs and the factsheet pass were NOT completed in this run (only the AMCs below were opened). Next firing will continue.
+
+### Data completeness
+Target date 31 Oct 2026. 34 of 37 funds in facts.json are on 31 Oct 2026 (SIF-96 on 30 Sep, SIF-114 on 30 Sep, SIF-40 on 15 Oct); of these, 11 are factsheet-only.
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Franklin Sapphire | 30 Sep 2026 | Excel published bi-monthly; newest is 30 Sep (ISIN as on 30 September 2026). Factsheet not checked this run |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com refused in the browser pane |
+| SIF-40 | Arudha | 15 Oct 2026 | Newest monthly file is still 30 Sep (older than the loaded fortnightly 15 Oct); no 31 Oct file yet |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 (Union MF) | Navigation to unionmf.com denied/failed in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Sweep incomplete | All other AMCs | Only Franklin, Arudha, Tata and Arthaya were opened | Will retry automatically next run |
+
+### AMC by AMC (AMCs opened this run only)
+| AMC | Page opened | Newest Excel | Action |
+|---|---|---|---|
+| Franklin (SIF-96) | yes | 30 Sep 2026 | nothing new |
+| Arudha (SIF-40, SIF-62) | yes | monthly 30 Sep 2026 | nothing new |
+| Tata/Titanium (SIF-102, 29, 169) | yes (API) | 30 Sep 2026 | nothing new |
+| Arthaya | blocked | n/a | skipped |
+| other AMCs | not opened | n/a | not checked this run |
+
+
 ## 2026-11-25 09:30 Lisbon time (manual update from files supplied by Ashish)
 Result: 1 fund updated, facts.json committed.
 
