@@ -1,5 +1,43 @@
 # SIF Tracker daily run log
 
+## 2026-11-27 08:10 Lisbon time (partial sweep)
+Result: nothing changed, facts.json not committed.
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+- No newer file found for any AMC opened. Full sweep of the remaining AMCs, the new funds SIF-183 and SIF-190, the strategy-split check and the key-details backfill were not run in this firing. Next firing will continue.
+
+### Data completeness
+Target date 31 Oct 2026. 34 of 39 SIF funds (87%) have data as on 31 Oct 2026 (37 in facts.json; SIF-183 and SIF-190 are in the NAV feed only). 11 of the 34 are factsheet-only.
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Franklin Sapphire | 30 Sep 2026 | Excel is bi-monthly, newest 30 Sep; no October factsheet listed |
+| SIF-40 | Arudha | 15 Oct 2026 | Newest monthly file is 30 Sep; no 31 Oct file yet |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com refused in the browser pane |
+| SIF-183 | Eminence | not in tracker yet | Not re-checked this run |
+| SIF-190 | Select SIF | not in tracker yet | Not re-checked this run |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 | Navigation to unionmf.com denied | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Sweep incomplete | AMCs not opened | Time budget of this firing | Will retry automatically next run |
+
+### AMC by AMC (AMCs opened this run only)
+| AMC | Page opened | Newest Excel | Newest factsheet | Action |
+|---|---|---|---|---|
+| Arudha (40, 62) | yes | 30 Sep 2026 | Sep 2026 | nothing new |
+| Franklin (96) | yes | 30 Sep 2026 | none listed | nothing new |
+| Tata / Titanium (29, 102, 169) | yes (API) | 30 Sep 2026 | 31 Oct 2026 (loaded) | nothing new |
+| Wealth Co (105, 111) | yes | 30 Sep 2026 | none | nothing new |
+| Kotak (146) | yes | one-pager factsheet 31 Oct (loaded); workbook not out | 31 Oct 2026 | nothing new |
+| Arthaya (114) | blocked | n/a | n/a | skipped |
+| other AMCs | not opened | n/a | n/a | not checked this run |
+
+
 ## 2026-11-26 07:10 Lisbon time (partial sweep)
 Result: nothing changed, facts.json not committed.
 
