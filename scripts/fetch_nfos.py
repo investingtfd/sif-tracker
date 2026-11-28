@@ -101,7 +101,8 @@ def nav_started(it, schemes):
     t = toks(it["name"])
     if not t:
         return False
-    return any(all(w in sc for w in t) for sc in schemes)
+    # whole-word match: substring matching let the token "h" (from H-SIF) match any scheme containing the letter h
+    return any(all(w in set(re.findall(r"[a-z0-9]+", sc)) for w in t) for sc in schemes)
 
 
 def main():
