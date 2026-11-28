@@ -1,20 +1,6 @@
 {
- "checked_at": "2026-11-27",
+ "checked_at": "2026-11-28",
  "items": [
-  {
-   "name": "H-SIF Hybrid Long-Short Fund",
-   "amc": "HDFC Mutual Fund",
-   "strategy": "Hybrid Long-Short",
-   "open": "2026-11-13",
-   "close": "2026-11-27",
-   "sources": [
-    "HDFC Mutual Fund H-SIF site",
-    "SIFPrime"
-   ],
-   "note": "NFO dates from H-SIF by HDFC Mutual Fund offerings page. Risk band 2 (riskometer, per Ashish 13 Nov 2026).",
-   "amfi": false,
-   "first_seen": "2026-10-30"
-  },
   {
    "name": "Infinity Equity Long-Short Fund",
    "amc": "Kotak Mahindra Mutual Fund",
