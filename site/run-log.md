@@ -1,5 +1,42 @@
 # SIF Tracker daily run log
 
+## 2026-11-28 12:20 Lisbon time (partial sweep)
+Checklist: 10 of 37 funds complete (6 of 6 parts). Result: nothing changed, facts.json not committed.
+
+**Updates found and made**
+None
+
+**Updates available but not made, or only partly made**
+- No newer portfolio file or factsheet found for the AMCs opened (Arudha, Franklin, Arthaya, Eminence, Sundaram). The factsheet pass (Step 3h, L14, L20) for the other AMCs was not done in this run, so 27 funds still lack one or more checklist parts (listed in Fails and fixes #3).
+
+### Data completeness
+Target date 31 Oct 2026. 34 of 39 SIF funds (87%) have data as on 31 Oct 2026; 11 of those 34 are factsheet-only. Industry AUM (AMFI) is as on 31 Oct 2026.
+
+| Fund | AMC | Data as on | Why |
+|---|---|---|---|
+| SIF-96 | Franklin Sapphire | 30 Sep 2026 | Franklin lists only Sep and Jun 2026 portfolios today |
+| SIF-40 | Arudha | 15 Oct 2026 | Newest monthly file is 30 Sep 2026; no 31 Oct file or factsheet yet |
+| SIF-114 | Arthaya / Union MF | 30 Sep 2026 | unionmf.com refused in the browser pane |
+| SIF-183 | Eminence (AlphaGrep) | not in tracker yet | No portfolio or factsheet yet (only the scheme summary document) |
+| SIF-190 | Select SIF (Sundaram) | not in tracker yet | No portfolio or factsheet yet (only valuation policy and charter) |
+
+### Fails and fixes
+| # | What failed | AMC / fund | Why | Resolution (proposed) |
+|---|---|---|---|---|
+| 1 | Site would not open | Arthaya SIF-114 | Navigation to unionmf.com denied in the browser pane | Needs Ashish: open https://www.unionmf.com/arthayasif once in the Claude browser pane; if it loads there, the next run reads it |
+| 2 | Sweep incomplete | All AMCs except Arudha, Franklin, Arthaya, Eminence, Sundaram | Not opened in this firing | Will retry automatically next run |
+| 3 | Checklist gaps (details / commentary / strategy / risk / exposure) | SIF-122, 136, 105, 111, 150, 29, 55, 87, 96, 102, 143, 3, 7, 25, 93, 117, 21, 13, 157, 40, 62, 146, 161, 114, 177, 174, 169 | Factsheet pass not run in this firing | Will retry automatically next run |
+
+### AMC by AMC (AMCs opened this run only)
+| AMC | Page opened | Newest Excel | Newest factsheet | Action |
+|---|---|---|---|---|
+| Arudha (40, 62) | yes | 30 Sep 2026 | Sep 2026 | nothing new |
+| Franklin (96) | yes | Sep 2026 | none listed | nothing new |
+| Arthaya (114) | blocked | n/a | n/a | skipped |
+| Eminence (183) | yes | none | none | nothing new |
+| Sundaram (190) | yes | none | none | nothing new |
+| other AMCs | not opened | n/a | n/a | not checked this run |
+
 ## 2026-11-27 08:10 Lisbon time (partial sweep)
 Result: nothing changed, facts.json not committed.
 
