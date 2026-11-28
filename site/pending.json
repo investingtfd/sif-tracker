@@ -1,4 +1,17 @@
 {
  "checked_at": "2026-11-28",
- "items": []
+ "items": [
+  {
+   "name": "H-SIF Hybrid Long-Short Fund",
+   "amc": "HDFC Mutual Fund",
+   "strategy": "Hybrid Long-Short",
+   "open": "2026-11-13",
+   "close": "2026-11-27",
+   "sources": [
+    "HDFC Mutual Fund H-SIF site"
+   ],
+   "status": "NFO closed, awaiting first NAV",
+   "first_seen": "2026-11-08"
+  }
+ ]
 }
