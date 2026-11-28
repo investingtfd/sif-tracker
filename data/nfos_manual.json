@@ -159,14 +159,14 @@
    "name": "H-SIF Equity Ex-Top 100 Long-Short Fund",
    "amc": "HDFC Mutual Fund",
    "strategy": "Equity Ex-Top 100 Long-Short",
-   "open": null,
-   "close": null,
+   "open": "2026-12-04",
+   "close": "2026-12-18",
    "sources": [
     "SEBI filings (Mutual Funds draft)",
     "H-SIF ISID"
    ],
    "url": "https://www.sebi.gov.in/filings/mutual-funds/nov-2026/h-sif-equity-ex-top-100-long-short-fund_105645.html",
-   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates not yet announced. Risk band 3 (per SEBI draft SID, 6 Nov 2026); benchmark NIFTY 500 TRI."
+   "note": "Upcoming soon: SEBI draft filed 6 Nov 2026 by HDFC Asset Management (H-SIF by HDFC Mutual Fund). NFO dates 4 - 18 Dec 2026 per SIFscan (28 Nov 2026); verify on HDFC H-SIF page. Risk band 3 (per SEBI draft SID, 6 Nov 2026); benchmark NIFTY 500 TRI."
   },
   {
    "name": "MSIF Hybrid Long-Short Fund",
